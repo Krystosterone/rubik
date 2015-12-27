@@ -1,0 +1,772 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                  Baccalauréat en génie MÉCANIQUE
+
+
+                                                 HORAIRE AUTOMNE 2013
+                                                  Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                  Locaux B: bâtiment nord, 1111, Notre-Dame O.
+Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la deuxième
+                                     semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS       GR    JOUR         HEURE         ACTIVITÉ    LOCAL                    ENSEIGNANT                                  PRÉALABLES
+
+
+ANG010      ANGLAIS POUR INGÉNIEURS I
+            01    Lun        18:00 - 21:30   C           B-1516                   R. Hailpern
+                  Ven        18:00 - 20:00   TP          B-1514
+
+
+ATE050      RÉUSSIR EN GÉNIE
+            01    Mar        08:30 - 10:30   Atelier     B-1508                   L. Massicotte
+
+
+CHM131      CHIMIE ET MATÉRIAUX
+            01    Mer        13:30 - 17:00   C           B-1516                   M. Clisson
+                  Ven        09:00 - 12:00   TP          B-1514
+            02    Lun        13:30 - 17:00   C           B-1518                   D. Piotte
+                  Jeu        13:30 - 16:30   TP          B-3416
+            03    Mer        09:00 - 12:30   C           B-1518                   P. Baril
+                  Lun        09:00 - 12:00   TP          B-1504
+            04    Jeu        09:00 - 12:30   C           A-2448                   A. Benmassaoud
+                  Mar        09:00 - 12:00   TP          B-1708
+            05    Mar        13:30 - 17:00   C           B-1518                   T. Rivard
+                  Ven        13:30 - 16:30   TP          B-1516
+            06    Jeu        13:30 - 17:00   C           B-1514                   P. Baril
+                  Lun        13:30 - 16:30   TP          B-1706
+            07    Mer        18:00 - 21:30   C           B-1514                   P. Baril
+                  Lun        18:00 - 21:00   TP          B-1506
+            08    Jeu        18:00 - 21:30   C           B-1504                   T. Rivard
+                  Mar        18:00 - 21:00   TP          B-1514
+            09    Ven        09:00 - 12:30   C           B-0908                   T. Rivard
+                  Mer        13:30 - 16:30   TP          B-3402
+            10    Mar        09:00 - 12:30   C           B-1706                   D. Piotte
+                  Jeu        09:00 - 12:00   TP          B-3402
+
+
+COM115      COMMUNICATION INTERCULTURELLE
+            01    Lun        13:30 - 17:00   C           B-3402                   J. Richard
+                  Jeu        13:30 - 17:30   TP A+B      B-3408
+
+
+COM129      MÉTHODES DE COMMUNICATION EN GÉNIE MÉCANIQUE
+            01    Ven        09:00 - 12:30   C           B-3416
+                  Mer        13:30 - 17:30   TP A+B      B-3404
+            02    Ven        13:30 - 17:00   C           B-1706                   J. Milette
+                  Mar        13:30 - 17:30   TP A+B      B-3404
+            03    Mer        13:30 - 17:00   C           B-1706                   G. Nasr
+                  Ven        08:30 - 12:30   TP A+B      B-3404
+            04    Mar        13:30 - 17:00   C           B-3402                   G. Nasr
+                  Ven        13:30 - 17:30   TP A+B      B-3404
+            05    Mar        13:30 - 17:00   C           B-1708
+                  Ven        13:30 - 17:30   TP A+B      B-3408
+            06    Lun        13:30 - 17:00   C           B-1718                   G. Nasr
+                  Jeu        13:30 - 17:30   TP A+B      B-3404
+            07    Lun        09:00 - 12:30   C           A-4522
+                  Mer        08:30 - 12:30   TP A+B      B-3404
+
+
+FRA150      FRANÇAIS ÉCRIT
+            01    Jeu        18:00 - 21:30   C           B-1706                   A.M. Fortin
+                  Mar        18:00 - 20:00   TP          B-1404
+
+
+FRA151      FRANÇAIS ÉCRIT
+            01    Jeu        18:00 - 21:30   C           B-3402                   G. Mireault
+                  Mar        18:00 - 22:00   TP          B-3416
+
+
+GIA400      ANALYSE DE RENTABILITÉ DE PROJETS
+            01    Mer        09:00 - 12:30   C           B-3406                   P. Coutou
+                  Lun        08:30 - 12:30   TP A+B      B-3406
+            02    Jeu        09:00 - 12:30   C           A-2332                   Y. Wagner
+                  Mar        08:30 - 12:30   TP A+B      B-1404
+            03    Ven        13:30 - 17:00   C           B-3416                   K. Lagacé
+                  Mar        13:30 - 17:30   TP A+B      B-3416
+            04    Lun        09:00 - 12:30   C           B-3402                   L. Parent
+                  Mer        08:30 - 12:30   TP A+B      B-3416
+
+
+
+         Date : 2013-09-24                                                                                                             Page : 1/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                  Baccalauréat en génie MÉCANIQUE
+
+
+                                                  HORAIRE AUTOMNE 2013
+                                                   Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                   Locaux B: bâtiment nord, 1111, Notre-Dame O.
+ Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la deuxième
+                                      semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR    JOUR         HEURE         ACTIVITÉ    LOCAL                    ENSEIGNANT                                       PRÉALABLES
+GIA400       ANALYSE DE RENTABILITÉ DE PROJETS
+             05    Ven        09:00 - 12:30   C           B-1404                   K. Lagacé
+                   Mer        13:30 - 17:30   TP A+B      A-2448
+             06    Mar        09:00 - 12:30   C           B-3402                   K. Lagacé
+                   Jeu        08:30 - 12:30   TP A+B      B-3406
+             07    Mar        18:00 - 21:30   C           B-4408                   L. Parent
+                   Jeu        18:00 - 20:00   TP          B-4408
+             08    Lun        18:00 - 21:30   C           B-1514                   R. Jeannotte
+                   Ven        18:00 - 20:00   TP          B-1502
+             09    Jeu        13:30 - 17:00   C           B-1706                   P. Coutou
+                   Lun        13:30 - 17:30   TP A+B      B-1708
+             10    Mer        18:00 - 21:30   C           B-1504                   Y. Wagner
+                   Ven        18:00 - 20:00   TP          B-3428
+
+
+GIA601       ERGONOMIE ET SÉCURITÉ EN MILIEU DE TRAVAIL
+             01    Jeu        18:00 - 21:30   C           B-1518                   J. Bassal
+                   Mar        18:00 - 20:00   TP-Labo A   A-1238, A-1220
+                   Mar        20:00 - 22:00   TP-Labo B   A-1238
+
+
+GPE450       GESTION DU PERSONNEL ET RELATIONS INDUSTRIELLES
+             01    Ven        13:30 - 17:00   C           A-2332                   S. Tétreault
+                   Mer        15:30 - 17:30   TP          B-3422
+             02    Mer        18:00 - 21:30   C           B-1708                   S. Tétreault
+                   Ven        18:00 - 20:00   TP          B-1504
+
+
+GPO605       ENTREPRENEURIAT ET INNOVATION
+             01    Mar        13:30 - 17:00   C           A-1150                   M. Devost
+                   Ven        13:30 - 17:30   TP A+B      B-3428
+             02    Jeu        18:00 - 21:30   C           B-0904                   M. Devost
+                   Mar        18:00 - 20:00   TP          B-0904
+
+
+GTS501       INGÉNIERIE DES SYSTÈMES HUMAINS
+             01    Mar        13:30 - 17:00   C           A-4522                   N. Hagemeister
+                   Jeu        13:30 - 15:30   TP A        A-3728
+                   Jeu        15:30 - 17:30   TP B        A-3728
+
+
+GTS502       RISQUES SECTEUR SANTÉ: SOURCES ET TECHN D'ÉVALUATION
+             01    Jeu        18:00 - 21:30   C           B-4416                   T. Venditti
+                   Ven        18:00 - 20:00   Labo        A-1242, A-1222
+
+
+GTS504       INTRODUCTION À L'INGÉNIERIE DE LA RÉADAPTATION
+             01    Mer        13:30 - 17:00   C           B-3420                   R. Aissaoui
+                   Ven        13:30 - 15:30   Labo        A-3612
+
+
+GTS601       PRINCIPES DE L'IMAGERIE MÉDICALE
+             01    Mer        08:30 - 12:00   C           B-1512                   C. Laporte
+                   Lun        13:30 - 17:30   Labo/2      A-3330
+
+
+GTS792       PROJET DE FIN D'ÉTUDES EN TECHNOLOGIES DE LA SANTÉ                                                PCS310 et 6 cr. obtenus en Conc. Technologie de la santé
+
+                                              Projet
+
+
+INF135       INTRODUCTION À LA PROGRAMMATION EN GÉNIE MÉCANIQUE
+             01    Jeu        13:30 - 17:00   C           B-2408                   H. Leblanc / H. Saulnier
+                   Lun        13:30 - 16:30   Labo        B-2408
+             02    Lun        09:00 - 12:30   C           B-2408                   H. Saulnier / F. Cardinal
+                   Mer        09:00 - 12:00   Labo        B-2406
+             03    Jeu        18:00 - 21:30   C           B-2406                   S. Adam
+                   Mar        18:00 - 21:00   Labo        B-2406
+             04    Ven        13:30 - 17:00   C           B-2408                   F. Bourdeau / H. Saulnier
+                   Mar        13:30 - 16:30   Labo        B-2408
+
+
+MAT144       INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE (HORS PROG.)
+             01    Mer        09:00 - 12:30   C           A-2448                   A. Lacasse
+                   Lun        09:00 - 12:00   TP          A-1562
+             02    Mar        09:00 - 12:30   C           B-1716                   K. Pineau
+                   Jeu        09:00 - 12:00   TP          B-1716
+             03    Mer        13:30 - 17:00   C           A-1260                   M. Morel
+                   Ven        09:00 - 12:00   TP          B-1718
+
+
+          Date : 2013-09-24                                                                                                                      Page : 2/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                 Baccalauréat en génie MÉCANIQUE
+
+
+                                                 HORAIRE AUTOMNE 2013
+                                                  Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                  Locaux B: bâtiment nord, 1111, Notre-Dame O.
+Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la deuxième
+                                     semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS       GR    JOUR         HEURE         ACTIVITÉ    LOCAL                    ENSEIGNANT                                  PRÉALABLES
+MAT144      INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE (HORS PROG.)
+            04    Lun        13:30 - 17:00   C           B-1716                   K. Pineau
+                  Jeu        13:30 - 16:30   TP          B-1716
+            05    Mar        13:30 - 17:00   C           A-1302                   M. Morel
+                  Ven        13:30 - 16:30   TP          B-1718
+            06    Mer        18:00 - 21:30   C           B-1518                   A. Régnier
+                  Lun        18:00 - 21:00   TP          B-4408
+            07    Mar        18:00 - 21:30   C           B-1706                   M. Morel
+                  Jeu        18:00 - 21:00   TP          B-1516
+            08    Mer        09:00 - 12:30   C           A-4408                   F.M. Fares
+                  Lun        09:00 - 12:00   TP          B-1718
+            09    Mar        09:00 - 12:30   C           B-1718                   A. Lacasse
+                  Jeu        09:00 - 12:00   TP          B-1718
+            10    Mer        13:30 - 17:00   C           A-1238                   F.M. Fares
+                  Ven        09:00 - 12:00   TP          A-4404
+            11    Lun        13:30 - 17:00   C           A-2448                   S. Lafrance
+                  Jeu        13:30 - 16:30   TP          B-1718
+
+
+MAT145      CALCUL DIFFÉRENTIEL ET INTÉGRAL
+            01    Mer        09:00 - 12:30   C           A-1260                   S. Lafrance
+                  Lun        09:00 - 12:00   TP          B-1518
+            02    Mer        09:00 - 12:30   C           A-1238                   F. Kacher
+                  Lun        09:00 - 12:00   TP          B-1708
+            03    Mar        09:00 - 12:30   C           B-3406                   S. Lafrance
+                  Jeu        09:00 - 12:00   TP          B-1404
+            04    Mar        09:00 - 12:30   C           B-3416                   C. Trottier
+                  Jeu        09:00 - 12:00   TP          B-3416
+            05    Mer        13:30 - 17:00   C           B-3416                   F. Kacher
+                  Ven        09:00 - 12:00   TP          B-1706
+            06    Mer        13:30 - 17:00   C           B-1404                   S. Hilal
+                  Ven        09:00 - 12:00   TP          B-3402
+            07    Lun        13:30 - 17:00   C           B-3406                   R. Michaud
+                  Jeu        13:30 - 16:30   TP          B-1516
+            08    Lun        13:30 - 17:00   C           B-3416                   R. Persechino / M. Beaudin
+                  Jeu        13:30 - 16:30   TP          B-1518
+            09    Mar        13:30 - 17:00   C           B-4408                   R. Michaud
+                  Ven        13:30 - 16:30   TP          B-1518
+            10    Mar        13:30 - 17:00   C           B-1514                   F.M. Fares
+                  Ven        13:30 - 16:30   TP          B-1506
+            11    Mer        18:00 - 21:30   C           B-1506                   S. Hilal
+                  Lun        18:00 - 21:00   TP          B-4410
+            12    Mer        18:00 - 21:30   C           B-4408                   P. Mbaraga
+                  Lun        18:00 - 21:00   TP          B-1502
+            13    Mar        18:00 - 21:30   C           B-1708                   A. Régnier
+                  Jeu        18:00 - 21:00   TP          B-1502
+            14    Mar        18:00 - 21:30   C           B-1504                   C. Lamathe
+                  Jeu        18:00 - 21:00   TP          B-4410
+            15    Mer        09:00 - 12:30   C           A-4404                   R. Persechino
+                  Lun        09:00 - 12:00   TP          B-1706
+            16    Mar        09:00 - 12:30   C           A-1260                   S. Ayad
+                  Jeu        09:00 - 12:00   TP          A-4404
+            17    Mer        13:30 - 17:00   C           A-4670                   P. Choquette
+                  Ven        09:00 - 12:00   TP          B-4410
+            18    Lun        13:30 - 17:00   C           B-3428                   G. Picard
+                  Jeu        13:30 - 16:30   TP          B-1708
+
+
+MAT165      ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                            MAT145
+            01    Jeu        09:00 - 12:30   C           B-0904                   M. Beaudin
+                  Mar        09:00 - 12:00   TP          B-0904
+            02    Lun        09:00 - 12:30   C           B-0904                   S. Hilal
+                  Mer        09:00 - 12:00   TP          B-0908
+            03    Jeu        13:30 - 17:00   C           B-0904                   G. Savard
+                  Lun        13:30 - 16:30   TP          B-0904
+            04    Ven        09:00 - 12:30   C           B-0904                   G. Savard
+                  Mer        13:30 - 16:30   TP          B-0904
+            05    Jeu        18:00 - 21:30   C           B-0908                   H. Lahoussine
+                  Mar        18:00 - 21:00   TP          B-0908
+
+
+
+         Date : 2013-09-24                                                                                                             Page : 3/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                  Baccalauréat en génie MÉCANIQUE
+
+
+                                                 HORAIRE AUTOMNE 2013
+                                                  Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                  Locaux B: bâtiment nord, 1111, Notre-Dame O.
+Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la deuxième
+                                     semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS       GR    JOUR         HEURE         ACTIVITÉ    LOCAL                    ENSEIGNANT                                  PRÉALABLES
+MAT165      ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                           MAT145
+            06    Mar        13:30 - 17:00   C           B-0904                   F. Kacher
+                  Ven        13:30 - 16:30   TP          B-0904
+
+
+MAT265      ÉQUATIONS DIFFÉRENTIELLES                                                                         MAT145
+            01    Lun        09:00 - 12:30   C           A-4408                   C. Trottier
+                  Mer        09:00 - 12:00   TP          B-4408
+            02    Jeu        09:00 - 12:30   C           B-4408                   H. Lahoussine
+                  Mar        09:00 - 12:00   TP          B-1506
+            03    Ven        09:00 - 12:30   C           B-1516                   C. Trottier
+                  Mer        13:30 - 16:30   TP          B-1708
+            04    Jeu        13:30 - 17:00   C           B-4410                   H. Lahoussine
+                  Lun        13:30 - 16:30   TP          B-1502
+            05    Ven        13:30 - 17:00   C           B-1514                   S. Ayad
+                  Mar        13:30 - 16:30   TP          B-1506
+            06    Mar        09:00 - 12:30   C           A-1302                   L. Soucy
+                  Jeu        09:00 - 12:00   TP          B-4416
+            07    Lun        13:30 - 17:00   C           B-1504                   L. Soucy
+                  Jeu        13:30 - 16:30   TP          B-1506
+            08    Lun        18:00 - 21:30   C           B-0906                   J.B. Lévesque
+                  Mer        18:00 - 21:00   TP          B-0904
+            09    Mer        13:30 - 17:00   C           A-1242                   M. Beaudin
+                  Ven        09:00 - 12:00   TP          B-1504
+            10    Mer        09:00 - 12:30   C           B-1506                   S. Ayad
+                  Lun        09:00 - 12:00   TP          B-4410
+
+
+MAT350      PROBABILITÉS ET STATISTIQUES                                                                      MAT145
+            01    Lun        09:00 - 12:30   C           B-3428                   D. Laferrière
+                  Mer        09:00 - 12:00   TP          B-1502
+            02    Jeu        09:00 - 12:30   C           B-4410                   E.M. Frih
+                  Mar        09:00 - 12:00   TP          B-4408
+            03    Ven        09:00 - 12:30   C           B-1506                   E.M. Frih
+                  Mer        13:30 - 16:30   TP          B-1502
+            04    Mar        13:30 - 17:00   C           B-3428                   C. Blais
+                  Ven        13:30 - 16:30   TP          B-0906
+            05    Mer        18:00 - 21:30   C           B-1502                   D. Laferrière
+                  Ven        18:00 - 21:00   TP          B-0904
+            06    Jeu        18:00 - 21:30   C           B-0906                   D. Laferrière
+                  Mar        18:00 - 21:00   TP          B-0906
+            07    Ven        13:30 - 17:00   C           B-1502                   S. Gervais
+                  Mar        13:30 - 16:30   TP          B-0908
+            08    Jeu        13:30 - 17:00   C           B-1502                   S. Gervais
+                  Lun        13:30 - 16:30   TP          B-1506
+            09    Mar        09:00 - 12:30   C           B-1504                   C. Blais
+                  Jeu        09:00 - 12:00   TP          B-1502
+
+
+MEC111      STATIQUE DE L'INGÉNIEUR
+            01    Lun        08:30 - 12:00   C           A-3336                   A. Lajmi
+                  Mer        08:45 - 11:45   TP/Labo     A-3336, A-2304
+            02    Mer        08:45 - 12:15   C           B-4416                   A. Lajmi
+                  Lun        08:30 - 11:30   TP/Labo     A-1240, A-2304
+            03    Lun        13:30 - 17:00   C           A-4660                   F. Marchand
+                  Jeu        13:30 - 16:30   TP/Labo     A-1242, A-2304
+            04    Jeu        13:30 - 17:00   C           B-3418                   V.N. Lê
+                  Lun        13:30 - 16:30   TP/Labo     A-4408, A-2304
+            05    Mar        18:00 - 21:30   C           A-1242                   A. Lajmi
+                  Jeu        18:00 - 21:00   TP/Labo     A-1242, A-2304
+            06    Jeu        18:00 - 21:30   C           B-3418                   V.N. Lê
+                  Mar        18:00 - 21:00   TP/Labo     A-4404, A-2304
+            07    Mer        08:45 - 12:15   C           A-2332                   N.S. Hô
+                  Lun        08:30 - 11:30   TP/Labo     A-4670, A-2304
+
+
+MEC129      DÉVELOPPEMENT DE PRODUITS ASSISTÉS PAR ORDINATEUR
+            01    Jeu        13:30 - 17:00   C           A-4404                   É. Wagnac
+                  Lun        13:30 - 16:30   Labo        A-1222, A-1226
+            02    Jeu        08:30 - 12:00   C           A-4408                   É. Wagnac
+                  Mar        08:45 - 11:45   Labo        A-1222, A-1226
+
+
+
+         Date : 2013-09-24                                                                                                             Page : 4/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                   Baccalauréat en génie MÉCANIQUE
+
+
+                                                  HORAIRE AUTOMNE 2013
+                                                  Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                  Locaux B: bâtiment nord, 1111, Notre-Dame O.
+Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la deuxième
+                                     semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS       GR    JOUR          HEURE         ACTIVITÉ    LOCAL                    ENSEIGNANT                                 PRÉALABLES
+MEC129      DÉVELOPPEMENT DE PRODUITS ASSISTÉS PAR ORDINATEUR
+            03    Ven         13:30 - 17:00   C           A-4404                   F. Canet
+                  Mar         13:30 - 16:30   Labo        A-1222, A-1226
+            04    Lun         08:30 - 12:00   C           A-1300                   F. Canet
+                  Mer         08:30 - 11:30   Labo        A-1222, A-1226
+            05    Ven         08:45 - 12:15   C           A-4670                   S. Doré
+                  Mer         13:30 - 16:30   Labo        A-1222, A-1226
+            06    Mer         18:00 - 21:30   C           A-1260                   L. Audet
+                  Lun         18:00 - 21:00   Labo        A-1222, A-1226
+            07    Lun         13:30 - 17:00   C           A-4406                   F. Canet
+                  Jeu         13:30 - 16:30   Labo        A-1214, A-1226
+
+
+MEC200      TECHNOLOGIE DES MATÉRIAUX                                                                         CHM131
+            01    Jeu         08:30 - 12:00   C           A-2330                   V. Songmene
+                  Horaire à déterminer        Labo        A-2150
+            02    Mar         18:00 - 21:30   C           A-1340                   V. Songmene
+                  Horaire à déterminer        Labo        A-2150
+
+
+MEC222      DYNAMIQUE                                                                                         MEC111
+            01    Mar         13:30 - 17:00   C           A-1160                   P. Bélanger
+                  Ven         13:30 - 15:30   TP-Labo A   A-2330, A-1220, A-2200
+                  Ven         15:30 - 17:30   TP-Labo B   A-2330, A-1220, A-2200
+            02    Mer         18:00 - 21:30   C           A-2332                   P. Bélanger
+                  Lun         18:00 - 20:00   TP-Labo A   A-1260, A-1220, A-2200
+                  Lun         20:00 - 22:00   TP-Labo B   A-1260, A-1220, A-2200
+
+
+MEC235      THERMODYNAMIQUE
+            01    Mer         08:45 - 12:15   C           A-1160                   J. Weiss
+                  Lun         08:30 - 10:30   TP/Labo     CTT, A-1160
+            02    Jeu         18:00 - 21:30   C           B-3406                   J. Weiss
+                  Mar         18:00 - 20:00   TP/Labo     CTT, A-1350
+
+
+MEC329      RÉSISTANCE DES MATÉRIAUX                                                                          MEC111
+            01    Mar         13:30 - 17:00   C           B-0906                   H. Bouzid
+                  Ven         13:30 - 16:30   TP/Labo     A-4670, A-2304
+            02    Lun         18:00 - 21:30   C           A-4670                   N.S. Hô
+                  Mer         18:00 - 21:00   TP/Labo     A-4670, A-2304
+
+
+MEC335      MÉCANIQUE DES FLUIDES                                                                             MEC222
+            01    Jeu         08:45 - 12:15   C           A-1170                   F. Morency
+                  Mar         08:30 - 11:30   TP/Labo     A-1150, A-1214, A-2220
+            02    Mar         18:00 - 21:30   C           A-4670                   F. Morency
+                  Jeu         18:00 - 21:00   TP/Labo     A-1300, A-1214, A-2220
+
+
+MEC402      PRODUCTION ET FABRICATION INDUSTRIELLES                                                           MAT350*
+            01    Jeu         08:30 - 12:00   C           A-1150                   Y. Beauregard
+                  Mar         08:45 - 10:45   TP-Labo A   A-1170, A-1220
+                  Mar         10:45 - 12:45   TP-Labo B   A-1170
+            02    Lun         18:00 - 21:30   C           A-2332                   D. Désilets
+                  Mer         18:00 - 20:00   TP-Labo A   A-1300, A-1220
+                  Mer         20:00 - 22:00   TP-Labo B   A-1300
+
+
+MEC423      MÉTHODE DES ÉLÉMENTS FINIS DES CORPS DÉFORMABLES                                                  INF135 et MEC329*
+            01    Lun         08:30 - 12:00   C           A-1260                   P. Terriault
+                  Mar         13:30 - 16:30   TP/Labo     A-1260
+            02    Lun         13:30 - 17:00   C           A-3336                   P. Terriault
+                  Ven         18:00 - 21:00   TP/Labo     A-1260
+
+
+MEC523      CONCEPTION VIBRATOIRE ET DYNAMIQUE DES STRUCTURES                                                 MAT265 et MEC222 et MEC423
+            01    Jeu         13:30 - 17:00   C           B-3428                   Z. Liu
+                  Lun         13:30 - 15:30   TP/Labo     A-1150, A-1220, A-2200
+            02    Lun         18:00 - 21:30   C           A-1238                   Z. Liu
+                  Ven         18:00 - 20:00   TP/Labo     A-3336, A-1220, A-2200
+
+
+MEC529      ÉLÉMENTS DE MACHINES                                                                              MEC423
+            01    Mer         13:30 - 17:00   C           A-4408                   V. Brailovski
+                  Ven         08:45 - 11:45   TP/Labo     A-1340, A-1222
+
+
+
+         Date : 2013-09-24                                                                                                             Page : 5/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                  Baccalauréat en génie MÉCANIQUE
+
+
+                                                 HORAIRE AUTOMNE 2013
+                                                 Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                 Locaux B: bâtiment nord, 1111, Notre-Dame O.
+Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la deuxième
+                                     semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS       GR    JOUR         HEURE         ACTIVITÉ    LOCAL                    ENSEIGNANT                                  PRÉALABLES
+MEC529      ÉLÉMENTS DE MACHINES                                                                              MEC423
+            02    Jeu        18:00 - 21:30   C           B-3428                   V. Brailovski
+                  Mar        18:00 - 21:00   TP/Labo     A-1302, A-1222
+
+
+MEC532      TRANSFERT DE CHALEUR                                                                              MEC235
+            01    Mar        08:45 - 12:15   C           A-1240                   L. Lamarche
+                  Jeu        08:30 - 10:30   TP/Labo     CTT, A-1240
+MEC532      TRANSFERT DE CHALEUR                                                                              MEC235
+            02    Lun        18:00 - 21:30   C           B-1404                   S. Benneceur
+                  Ven        18:00 - 20:00   TP/Labo     CTT, A-1240
+
+
+MEC545      CIRCUITS ÉLECTRIQUES ET ÉLECTROTECHNIQUES                                                         PHY332
+            01    Mer        13:30 - 17:00   C           B-0908                   É. David
+                  Ven        08:45 - 11:45   TP/Labo     A-1260, A-2170
+            02    Mar        18:00 - 21:30   C           B-3428                   M. Rafaf
+                  Jeu        18:00 - 21:00   TP/Labo     A-2330, A-2170
+
+
+MEC624      TECHNOLOGIE DE LA MISE EN FORME                                                                   MEC200
+            01    Lun        13:30 - 17:00   C           B-3408                   A. Szymanski
+                  Jeu        13:30 - 15:30   TP/Labo     A-1350, A-1222
+
+
+MEC625      TECHNOLOGIE DU SOUDAGE                                                                            MEC200
+            01    Mar        08:30 - 12:00   C           A-1340                   T. Pham
+                  Jeu        08:45 - 10:45   TP/Labo     A-0550, A-1220, A-2150
+
+
+MEC628      CONCEPTION DE SYSTÈMES À FLUIDE SOUS PRESSION                                                     MEC335
+            01    Mar        08:45 - 12:15   C           B-3418                   C. Kaddissi
+                  Jeu        08:30 - 10:30   TP/Labo     B-3418, A-1226, A-2170
+
+
+MEC630      VENTILATION ET CHAUFFAGE                                                                          MEC335
+            01    Mar        18:00 - 21:30   C           B-4418                   B. Beauchamp
+                  Jeu        18:00 - 20:00   TP/Labo     A-1240, A-1226
+
+
+MEC636      ACOUSTIQUE INDUSTRIELLE                                                                           MEC222
+            01    Mer        13:30 - 17:00   C           B-1508                   F. Laville
+                  Ven        08:45 - 10:45   TP-Labo A   B-1510, A-1214, A-2210
+                  Ven        10:45 - 12:45   TP-Labo B   B-1510
+
+
+MEC645      AUTOMATIQUE ET MÉCATRONIQUE                                                                       MEC222 et MEC545*
+            01    Jeu        13:30 - 17:00   C           A-4408                   A. Tahan
+                  Lun        13:30 - 16:30   TP/Labo     A-1424, A-1214, A-2170
+            02    Mer        18:00 - 21:30   C           A-4660                   C. Belleau
+                  Lun        18:00 - 21:00   TP/Labo     A-4404, A-1214, A-2170
+
+
+MEC652      CONCEPTION DES SYSTÈMES MANUFACTURIERS                                                            BACC.: MAT350 OU Cert.: MAT321
+            01    Lun        18:00 - 21:30   C           B-3422                   T.M. Dao
+                  Mer        18:00 - 20:00   TP/Labo     A-1242, A-1226
+
+
+MEC664      OPTIMISATION DES PROCÉDÉS INDUSTRIELS                                                             MAT350
+            01    Lun        08:30 - 12:00   C           B-1508                   B. Larregain
+                  Mer        08:45 - 10:45   TP/Labo     B-1402, A-1220
+
+
+MEC722      ANALYSE DE FABRICATION
+            01    Jeu        18:00 - 21:30   C           A-1340                   E. Migan
+                  Mar        18:00 - 20:00   TP/Labo     A-4660, A-0634, A-1226
+
+
+MEC730      CLIMATISATION ET RÉFRIGÉRATION INDUSTRIELLE                                                       MEC335
+            01    Lun        13:30 - 17:00   C           B-3422                   S. Kajl
+                  Jeu        13:30 - 15:30   TP/Labo     A-1240, A-1220
+
+
+MEC737      MOTEURS ALTERNATIFS À COMBUSTION INTERNE                                                          MEC335
+            01    Mer        08:30 - 12:00   C           B-3432                   E. Plamondon
+                  Lun        08:30 - 10:30   TP/Labo     A-4406, A-0697
+
+
+MEC743      INSTRUMENTATION ET CONTRÔLE DES PROCÉDÉS INDUSTRIELS                                              PHY332
+            01    Lun        18:00 - 21:30   C           B-1508                   M. Viens
+                  Mer        18:00 - 20:00   TP/Labo     A-1240, A-1214, A-2170
+
+
+
+
+         Date : 2013-09-24                                                                                                              Page : 6/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                  Baccalauréat en génie MÉCANIQUE
+
+
+                                                 HORAIRE AUTOMNE 2013
+                                                  Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                  Locaux B: bâtiment nord, 1111, Notre-Dame O.
+Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la deuxième
+                                     semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS       GR    JOUR         HEURE         ACTIVITÉ    LOCAL                    ENSEIGNANT                                      PRÉALABLES
+
+
+MEC761      ESSAIS MÉCANIQUES ET CONTRÔLE NON DESTRUCTIF                                                       MEC200
+            01    Mer        13:30 - 17:00   C           B-3414                   M. Viens
+                  Ven        08:45 - 10:45   TP/Labo     B-1508, A-1226
+
+
+MEC763      TECHNIQUES DE MAINTENANCE INDUSTRIELLE                                                             MAT350 et MEC523
+            01    Ven        13:30 - 17:00   C           B-3420                   F. Provost
+                  Mar        13:30 - 15:30   TP/Labo     A-4406, A-1220, A-2200
+
+
+MEC770      CONCEPTION AÉRODYNAMIQUE                                                                           MEC335
+            01    Mar        13:30 - 17:00   C           B-1718                   L. Dufresne
+                  Ven        13:30 - 15:30   TP/Labo     A-1340, A-1222
+
+
+MEC775      SYSTÈMES DE PROPULSION                                                                             MEC335
+            01    Mer        13:30 - 17:00   C           G-S058                   S.H. Moustapha / J.F. Viau
+                  Ven        08:45 - 10:45   TP/Labo     A-2332
+
+
+MEC791      PROJETS SPÉCIAUX                                                                                   Autorisation du directeur de département
+                                             Projet
+
+
+MEC795      PROJET DE FIN D'ÉTUDES EN GÉNIE MÉCANIQUE                                                          Minimum 99 Cr
+            01    Lun        08:30 - 12:00   Projet      A-1424
+
+
+PHY144      INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS PROGRAMME)
+            01    Lun        09:00 - 12:30   C           A-2330                   D. Benhachmi
+                  Mer        09:00 - 12:00   TP          A-4670
+            02    Ven        09:00 - 12:30   C           B-1716                   D. Benhachmi
+                  Mer        13:30 - 16:30   TP          A-4660
+            03    Lun        13:30 - 17:00   C           A-1238                   A. Benmassaoud
+                  Jeu        13:30 - 16:30   TP          B-1404
+            04    Mar        18:00 - 21:30   C           B-1516                   S. Baune
+                  Jeu        18:00 - 21:00   TP          B-1514
+
+
+PHY332      ÉLECTRICITÉ ET MAGNÉTISME
+            01    Mar        09:00 - 12:30   C           B-0908                   A. Hénault
+                  Jeu        09:00 - 12:00   TP          B-0906
+            02    Lun        09:00 - 12:30   C           B-0906                   M. Boulé
+                  Mer        09:00 - 12:00   TP          B-0906
+            03    Jeu        13:30 - 17:00   C           B-0906                   M. Boulé
+                  Lun        13:30 - 16:30   TP          B-0906
+            04    Mer        13:30 - 17:00   C           B-0906                   T. Ait Ahcene
+                  Ven        09:00 - 12:00   TP          B-0906
+            05    Ven        13:30 - 17:00   C           B-1504                   M. Clisson
+                  Mar        13:30 - 16:30   TP          B-4410
+            06    Lun        18:00 - 21:30   C           B-0904                   M. Clisson
+                  Mer        18:00 - 21:00   TP          B-0906
+            07    Jeu        09:00 - 12:30   C           B-0908                   M. Perrault
+                  Mar        09:00 - 12:00   TP          B-3428
+
+
+PHY335      PHYSIQUE DES ONDES
+            01    Mer        09:00 - 12:30   C           B-3402                   G. Paquin
+                  Lun        09:00 - 12:00   TP          B-1404
+            02    Jeu        09:00 - 12:30   C           B-1506                   X. Daxhelet
+                  Mar        09:00 - 12:00   TP          B-1502
+            03    Mer        13:30 - 17:00   C           B-3428                   X. Daxhelet
+                  Ven        09:00 - 12:00   TP          B-3428
+            04    Ven        13:30 - 17:00   C           B-4410                   X. Lavocat-Dubuis
+                  Mar        13:30 - 16:30   TP          B-1502
+            05    Lun        13:30 - 17:00   C           B-0908                   A. Bordeleau
+                  Jeu        13:30 - 16:30   TP          B-0908
+            06    Lun        09:00 - 12:30   C           A-1242                   M. Perrault
+                  Mer        09:00 - 12:00   TP          B-1404
+            07    Ven        09:00 - 12:30   C           B-3406                   G. Paquin
+                  Mer        13:30 - 16:30   TP          B-4410
+            08    Mer        18:00 - 21:30   C           B-3428                   G. Paquin
+                  Lun        18:00 - 21:00   TP          B-3428
+
+
+
+
+         Date : 2013-09-24                                                                                                                   Page : 7/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                  Baccalauréat en génie MÉCANIQUE
+
+
+                                                    HORAIRE AUTOMNE 2013
+                                                     Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                     Locaux B: bâtiment nord, 1111, Notre-Dame O.
+ Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la deuxième
+                                      semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR    JOUR           HEURE         ACTIVITÉ    LOCAL                  ENSEIGNANT                                  PRÉALABLES
+
+
+PRE010       INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 23, 24 et 25 septembre 2013
+             01    Lun          18:00 - 21:00   Atelier     A-1150                 G. Mercier
+                   Mar          18:00 - 21:00   Atelier     A-1150
+                   Mer          18:00 - 21:00   Atelier     A-1150
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 23, 24 et 25 septembre 2013
+             02    Lun          18:00 - 21:00   Atelier     A-1170                 D. Leclerc
+                   Mar          18:00 - 21:00   Atelier     A-1170
+                   Mer          18:00 - 21:00   Atelier     A-1170
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 4 et 5 octobre 2013
+             03    Ven          18:00 - 21:00   Atelier     A-1150                 C. Pelletier
+                   Sam          09:00 - 16:00   Atelier     A-1150
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 4 et 5 octobre 2013
+             04    Ven          18:00 - 21:00   Atelier     A-1170                 G. Mercier
+                   Sam          09:00 - 16:00   Atelier     A-1170
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 18 et 19 octobre 2013
+             05    Ven          18:00 - 21:00   Atelier     A-1150                 C. Pelletier
+                   Sam          09:00 - 16:00   Atelier     A-1150
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 18 et 19 octobre 2013
+             06    Ven          18:00 - 21:00   Atelier     A-1170                 G. Mercier
+                   Sam          09:00 - 16:00   Atelier     A-1170
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 28, 29 et 30 octobre 2013
+             07    Lun          18:00 - 21:00   Atelier     A-1150                 G. Mercier
+                   Mar          18:00 - 21:00   Atelier     A-1150
+                   Mer          18:00 - 21:00   Atelier     A-1150
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 28, 29 et 30 octobre 2013
+             08    Lun          18:00 - 21:00   Atelier     A-1170                 D. Leclerc
+                   Mar          18:00 - 21:00   Atelier     A-1170
+                   Mer          18:00 - 21:00   Atelier     A-1170
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 1 er et 2 novembre 2013
+             09    Ven          18:00 - 21:00   Atelier     A-1150                 C. Pelletier
+                   Sam          09:00 - 16:00   Atelier     A-1150
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 1 er et 2 novembre 2013
+             10    Ven          18:00 - 21:00   Atelier     A-1170                 D. Leclerc
+                   Sam          09:00 - 16:00   Atelier     A-1170
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 8 et 9 novembre 2013
+             11    Ven          18:00 - 21:00   Atelier     A-1150                 C. Pelletier
+                   Sam          09:00 - 16:00   Atelier     A-1150
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 8 et 9 novembre 2013
+             12    Ven          18:00 - 21:00   Atelier     A-1170                 D. Leclerc
+                   Sam          09:00 - 16:00   Atelier     A-1170
+             Volet stages - activité à compléter en ligne
+             13    Ativité en ligne             Atelier
+
+
+TIN501       ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ                                                             Minimum 70 Cr
+             01    Mer          09:00 - 12:30   C           A-1300                 É. Francoeur
+                   Lun          08:30 - 12:30   TP A+B      B-3416
+             02    Jeu          09:00 - 12:30   C           B-3422                 É. Francoeur
+                   Mar          08:30 - 12:30   TP A+B      B-1512
+             03    Mer          13:30 - 17:00   C           B-3406                 L. Arel
+                   Ven          08:30 - 12:30   TP A+B      A-1300
+             04    Mer          18:00 - 21:30   C           B-3432                 M. Monette
+                   Ven          18:00 - 20:00   TP          B-1516
+             05    Lun          18:00 - 21:30   C           B-1706                 L. Arel
+                   Ven          18:00 - 20:00   TP          B-1404
+
+
+          Date : 2013-09-24                                                                                                             Page : 8/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                   Baccalauréat en génie MÉCANIQUE
+
+
+                                                  HORAIRE AUTOMNE 2013
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+ Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la deuxième
+                                      semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR    JOUR         HEURE         ACTIVITÉ      LOCAL                      ENSEIGNANT                                    PRÉALABLES
+TIN501       ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ                                                                  Minimum 70 Cr
+             06    Ven        13:30 - 17:00   C             B-3402                     J. Rivera
+                   Mar        13:30 - 17:30   TP A+B        B-1402
+
+NOTES
+a)           Activités
+             C : cours     TP : travaux pratiques                                      LABO : laboratoires
+                           TP/2 : travaux pratiques aux deux (2) semaines              LABO/2 : laboratoires aux deux (2) semaines
+                           * : préalable ou concomitant
+             TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants
+             devront se présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous
+             sera confirmé au début du trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est
+             indiqué (A+B) à côté de chacun des travaux pratiques (TP).
+
+b)           À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+             Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+             Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+Vous pouvez aussi voir l’horaire et le local des cours auxquels vous êtes inscrit dans SIGNETS. L’information y est
+mise à jour en temps réel (exception : l’horaire détaillé des cours intensifs se retrouve uniquement sur les horaires
+                                               publiés sur cette page).
+
+
+
+
+          Date : 2013-09-24                                                                                                                       Page : 9/9
+

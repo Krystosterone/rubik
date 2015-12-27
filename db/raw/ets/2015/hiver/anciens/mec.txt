@@ -1,0 +1,801 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                         Baccalauréat en génie MÉCANIQUE
+
+
+                                             HORAIRE D'INSCRIPTION
+                                                    HIVER 2015
+                       Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                 la date d'application de la pénalité pour inscription tardive.
+                                                   www.etsmtl.ca/calendrier_ETS
+
+COURS    GR   JOUR          HEURE       ACTIVITÉ      LOCAL                   PRÉALABLES
+
+
+ANG010 ANGLAIS POUR INGÉNIEURS I
+         01   Lun       18:00 - 21:30   C
+              Ven       18:00 - 20:00   TP
+
+
+ATE050   RÉUSSIR EN GÉNIE
+         01   Mar       18:00 - 20:00   Atelier
+
+
+CHM131 CHIMIE ET MATÉRIAUX
+         01   Lun       09:00 - 12:30   C
+              Mer       09:00 - 12:00   TP
+         02   Mar       09:00 - 12:30   C
+              Jeu       09:00 - 12:00   TP
+         03   Jeu       09:00 - 12:30   C
+              Mar       09:00 - 12:00   TP
+         04   Lun       13:30 - 17:00   C
+              Jeu       13:30 - 16:30   TP
+         05   Mar       13:30 - 17:00   C
+              Ven       13:30 - 16:30   TP
+         06   Mer       13:30 - 17:00   C
+              Ven       09:00 - 12:00   TP
+         07   Mer       18:00 - 21:30   C
+              Ven       18:00 - 21:00   TP
+         08   Jeu       18:00 - 21:30   C
+              Mar       18:00 - 21:00   TP
+         09   Ven       09:00 - 12:30   C
+              Mer       13:30 - 16:30   TP
+         10   Jeu       13:30 - 17:00   C
+              Lun       13:30 - 16:30   TP
+         11   Ven       13:30 - 17:00   C
+              Mar       13:30 - 16:30   TP
+         12   Mer       09:00 - 12:30   C
+              Lun       09:00 - 12:00   TP
+         13   Mar       13:30 - 17:00   C
+              Ven       13:30 - 16:30   TP
+         14   Lun       09:00 - 12:30   C
+              Mer       09:00 - 12:00   TP
+         15   Mar       09:00 - 12:30   C
+              Jeu       09:00 - 12:00   TP
+
+
+COM115 COMMUNICATION INTERCULTURELLE
+         01   Jeu       13:30 - 17:00   C
+              Lun       13:30 - 17:30   TP A+B          , B-2624
+
+
+COM129 MÉTHODES DE COMMUNICATION EN GÉNIE MÉCANIQUE
+         01   Lun       13:30 - 17:00   C
+              Jeu       13:30 - 17:30   TP A+B
+         02   Mar       18:00 - 21:30   C
+              Jeu       18:00 - 22:00   TP A+B
+
+
+ENT201   GESTION FINANCIÈRE D'ENTREPRISE                                      GIA400 ou GIA410
+         01   Lun       18:00 - 21:30   C
+              Mer       18:00 - 20:00   TP
+         02   Mer       09:00 - 12:30   C
+              Lun       09:00 - 11:00   TP
+
+
+ENT202   INTRODUCTION À L'ENTREPRENEURSHIP
+         01   Mar       18:00 - 21:30   C
+              Jeu       18:00 - 20:00   TP
+         02   Mar       18:00 - 21:30   C
+              Jeu       18:00 - 20:00   TP
+
+
+
+
+     01 octobre 2014                                                                                        Page : 1/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                 Baccalauréat en génie MÉCANIQUE
+
+
+                                                 HORAIRE D'INSCRIPTION
+                                                         HIVER 2015
+                           Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                     la date d'application de la pénalité pour inscription tardive.
+                                                        www.etsmtl.ca/calendrier_ETS
+
+COURS      GR     JOUR        HEURE         ACTIVITÉ       LOCAL                   PRÉALABLES
+
+
+FRA150     FRANÇAIS ÉCRIT
+           01     Lun       18:00 - 21:30   C
+                  Mer       18:00 - 20:00   TP
+
+
+FRA151     FRANÇAIS ÉCRIT
+           01     Lun       18:00 - 21:30   C
+                  Mer       18:00 - 22:00   TP
+
+
+GIA410     GESTION ET ÉCONOMIE DES PROJETS D’INGÉNIERIE
+           01     Mer       09:00 - 12:30   C
+                  Lun       08:30 - 12:30   TP A+B
+           02     Lun       13:30 - 17:00   C
+                  Jeu       13:30 - 17:30   TP A+B
+           03     Jeu       18:00 - 21:30   C
+                  Mar       18:00 - 20:00   TP
+
+
+GIA601     ERGONOMIE ET SÉCURITÉ EN MILIEU DE TRAVAIL
+           01     Lun       13:30 - 17:00   C
+                  Jeu       13:30 - 15:30   TP-Labo A         , A-1222, A-2230
+                  Jeu       15:30 - 17:30   TP-Labo B         , A-1222, A-2230
+           02     Jeu       13:30 - 17:00   C
+                  Lun       13:30 - 15:30   TP-Labo A         , A-1222, A-2230
+                  Lun       15:30 - 17:30   TP-Labo B         , A-1222, A-2230
+
+
+GPE450 GESTION DU PERSONNEL ET RELATIONS INDUSTRIELLES
+           01     Mar       08:45 - 12:15   C
+                  Jeu       08:30 - 10:30   TP
+           02     Lun       18:00 - 21:30   C
+                  Jeu       18:00 - 20:00   TP
+
+
+GPO602 ÉVALUATION ET CONTRÔLE DE L'ENVIRONNEMENT INDUSTRIEL
+           01     Ven       08:45 - 12:15   C
+                  Mer       13:30 - 15:30   TP/Labo           , A-1222
+
+
+GPO661 GESTION ET ASSURANCE DE LA QUALITÉ
+           01     Mer       18:00 - 21:30   C
+                  Ven       18:00 - 20:00   TP/Labo           , A-1222
+
+
+GTS503 TECHNOLOGIES DE LA SANTÉ, NORMES ET HOMOLOGATION
+           01     Mer       13:30 - 17:00   C
+                  Lun       08:30 - 10:30   Labo           A-1220
+
+
+GTS602 CONCEPTION D'ORTHÈSES ET DE PROTHÈSES
+           01     Lun       13:30 - 17:00   C
+                  Jeu       13:30 - 15:30   Labo           A-1220
+
+
+GTS615 INSTRUMENTATION BIOMÉDICALE
+           01     Jeu       08:45 - 12:15   C
+                  Mar       08:30 - 12:30   Labo/2         A-3332
+
+
+GTS620 BIOMATÉRIAUX POUR DISPOSITIFS MÉDICAUX
+           01     Mar       13:30 - 17:00   C
+                  Ven       13:30 - 15:30   TP/Labo           , A-1220
+
+
+GTS792 PROJET DE FIN D'ÉTUDES EN TECHNOLOGIES DE LA SANTÉ                          STA351 et 6 cr. obtenus en Conc. Technologie de la santé
+                                            Projet
+
+
+INF135     INTRODUCTION À LA PROGRAMMATION EN GÉNIE MÉCANIQUE
+           01     Lun       09:00 - 12:30   C                 , B-2624
+                  Mer       09:00 - 12:00   Labo           B-2406
+           02     Jeu       18:00 - 21:30   C                 , B-2624
+                  Mar       18:00 - 21:00   Labo           B-2406
+
+
+
+
+         01 octobre 2014                                                                                                        Page : 2/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                             Baccalauréat en génie MÉCANIQUE
+
+
+                                                 HORAIRE D'INSCRIPTION
+                                                        HIVER 2015
+                           Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                     la date d'application de la pénalité pour inscription tardive.
+                                                       www.etsmtl.ca/calendrier_ETS
+
+COURS      GR     JOUR        HEURE         ACTIVITÉ      LOCAL                   PRÉALABLES
+
+
+INF135     INTRODUCTION À LA PROGRAMMATION EN GÉNIE MÉCANIQUE
+           03     Ven       13:30 - 17:00   C                , B-2408
+                  Mar       13:30 - 16:30   Labo          B-2406
+           04     Mer       09:00 - 12:30   C                , B-2624
+                  Lun       09:00 - 12:00   Labo          B-2408
+           05     Lun       13:30 - 17:00   C                , B-2408
+                  Jeu       13:30 - 16:30   Labo          B-2624
+
+
+MAT144 INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE (HORS PROG.)
+           01     Mar       09:00 - 12:30   C
+                  Jeu       09:00 - 12:00   TP
+           02     Lun       13:30 - 17:00   C
+                  Jeu       13:30 - 16:30   TP
+           03     Lun       18:00 - 21:30   C
+                  Mer       18:00 - 21:00   TP
+
+
+MAT145 CALCUL DIFFÉRENTIEL ET INTÉGRAL
+           01     Mar       09:00 - 12:30   C
+                  Jeu       09:00 - 12:00   TP
+           02     Mar       09:00 - 12:30   C
+                  Jeu       09:00 - 12:00   TP
+           03     Lun       13:30 - 17:00   C
+                  Jeu       13:30 - 16:30   TP
+           04     Lun       13:30 - 17:00   C
+                  Jeu       13:30 - 16:30   TP
+           05     Mer       09:00 - 12:30   C
+                  Lun       09:00 - 12:00   TP
+           06     Ven       09:00 - 12:30   C
+                  Mer       13:30 - 16:30   TP
+           07     Mar       18:00 - 21:30   C
+                  Jeu       18:00 - 21:00   TP
+           08     Lun       18:00 - 21:30   C
+                  Mer       18:00 - 21:00   TP
+           09     Jeu       09:00 - 12:30   C
+                  Mar       09:00 - 12:00   TP
+           10     Mar       13:30 - 17:00   C
+                  Ven       13:30 - 16:30   TP
+           11     Lun       09:00 - 12:30   C
+                  Mer       09:00 - 12:00   TP
+           12     Mer       13:30 - 17:00   C
+                  Ven       09:00 - 12:00   TP
+           13     Jeu       13:30 - 17:00   C
+                  Lun       13:30 - 16:30   TP
+
+
+MAT165 ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                    MAT145
+           01     Lun       09:00 - 12:30   C
+                  Mer       09:00 - 12:00   TP
+           02     Jeu       09:00 - 12:30   C
+                  Mar       09:00 - 12:00   TP
+           03     Mer       09:00 - 12:30   C
+                  Lun       09:00 - 12:00   TP
+           04     Mar       13:30 - 17:00   C
+                  Ven       13:30 - 16:30   TP
+           05     Jeu       13:30 - 17:00   C
+                  Lun       13:30 - 16:30   TP
+           06     Jeu       18:00 - 21:30   C
+                  Mar       18:00 - 21:00   TP
+           07     Mer       13:30 - 17:00   C
+                  Ven       09:00 - 12:00   TP
+           08     Mar       09:00 - 12:30   C
+                  Jeu       09:00 - 12:00   TP
+           09     Ven       09:00 - 12:30   C
+                  Mer       13:30 - 16:30   TP
+
+
+
+         01 octobre 2014                                                                                        Page : 3/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                         Baccalauréat en génie MÉCANIQUE
+
+
+                                             HORAIRE D'INSCRIPTION
+                                                    HIVER 2015
+                       Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                 la date d'application de la pénalité pour inscription tardive.
+                                                   www.etsmtl.ca/calendrier_ETS
+
+COURS   GR    JOUR        HEURE         ACTIVITÉ      LOCAL                   PRÉALABLES
+
+
+MAT165 ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                MAT145
+        10    Mer       18:00 - 21:30   C
+              Lun       18:00 - 21:00   TP
+        11    Jeu       13:30 - 17:00   C
+              Lun       13:30 - 16:30   TP
+        12    Mer       09:00 - 12:30   C
+              Lun       09:00 - 12:00   TP
+
+
+MAT265 ÉQUATIONS DIFFÉRENTIELLES                                              MAT145
+        01    Mer       09:00 - 12:30   C
+              Lun       09:00 - 12:00   TP
+        02    Jeu       09:00 - 12:30   C
+              Mar       09:00 - 12:00   TP
+        03    Mer       13:30 - 17:00   C
+              Ven       09:00 - 12:00   TP
+        04    Ven       13:30 - 17:00   C
+              Mar       13:30 - 16:30   TP
+        05    Lun       13:30 - 17:00   C
+              Jeu       13:30 - 16:30   TP
+        06    Mer       18:00 - 21:30   C
+              Ven       18:00 - 21:00   TP
+        07    Lun       09:00 - 12:30   C
+              Mer       09:00 - 12:00   TP
+        08    Jeu       13:30 - 17:00   C
+              Lun       13:30 - 16:30   TP
+        09    Jeu       09:00 - 12:30   C
+              Mar       09:00 - 12:00   TP
+        10    Ven       09:00 - 12:30   C
+              Mer       13:30 - 16:30   TP
+
+
+MAT350 PROBABILITÉS ET STATISTIQUES                                           MAT145
+        01    Lun       09:00 - 12:30   C
+              Mer       09:00 - 12:00   TP
+        02    Mar       09:00 - 12:30   C
+              Jeu       09:00 - 12:00   TP
+        03    Ven       09:00 - 12:30   C
+              Mer       13:30 - 16:30   TP
+        04    Mer       09:00 - 12:30   C
+              Lun       09:00 - 12:00   TP
+        05    Jeu       13:30 - 17:00   C
+              Lun       13:30 - 16:30   TP
+        06    Ven       13:30 - 17:00   C
+              Mar       13:30 - 16:30   TP
+        07    Jeu       18:00 - 21:30   C
+              Mar       18:00 - 21:00   TP
+        08    Mer       18:00 - 21:30   C
+              Ven       18:00 - 21:00   TP
+        09    Mar       13:30 - 17:00   C
+              Ven       13:30 - 16:30   TP
+        10    Mer       13:30 - 17:00   C
+              Ven       09:00 - 12:00   TP
+
+
+MATEST ACCUEIL EN MATHÉMATIQUES
+        01    Mar       09:00 - 12:30   C
+              Jeu       09:00 - 12:00   TP
+        02    Lun       13:30 - 17:00   C
+              Jeu       13:30 - 16:30   TP
+
+
+
+
+     01 octobre 2014                                                                                        Page : 4/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                Baccalauréat en génie MÉCANIQUE
+
+
+                                                HORAIRE D'INSCRIPTION
+                                                        HIVER 2015
+                         Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                   la date d'application de la pénalité pour inscription tardive.
+                                                       www.etsmtl.ca/calendrier_ETS
+
+COURS   GR    JOUR           HEURE         ACTIVITÉ       LOCAL                   PRÉALABLES
+
+
+MATEST ACCUEIL EN MATHÉMATIQUES
+        03    Lun          18:00 - 21:30   C
+              Mer          18:00 - 21:00   TP
+
+
+MEC111 STATIQUE DE L'INGÉNIEUR
+        01    Mer          08:45 - 12:15   C
+              Lun          08:30 - 11:30   TP/Labo           , A-2304
+        02    Jeu          18:00 - 21:30   C
+              Mar          18:00 - 21:00   TP/Labo           , A-2304
+
+
+MEC129 DÉVELOPPEMENT DE PRODUITS ASSISTÉS PAR ORDINATEUR
+        01    Mer          13:30 - 17:00   C
+              Ven          08:45 - 11:45   Labo           A-1222, A-1226
+        02    Lun          18:00 - 21:30   C
+              Mer          18:00 - 21:00   Labo           A-1222, A-1226
+
+
+MEC200 TECHNOLOGIE DES MATÉRIAUX                                                  CHM131
+        01    Mar          08:45 - 12:15   C
+              Horaire à déterminer         Labo              , A-2150
+        02    Jeu          13:30 - 17:00   C
+              Horaire à déterminer         Labo              , A-2150
+        03    Mer          18:00 - 21:30   C
+              Horaire à déterminer         Labo              , A-2150
+
+
+MEC222 DYNAMIQUE                                                                  MEC111 et MAT145
+        01    Mer          08:45 - 12:15   C
+              Lun          08:30 - 10:30   TP-Labo A         , A-1214, A-2200
+              Lun          10:30 - 12:30   TP-Labo B         , A-1214, A-2200
+        02    Lun          08:30 - 12:00   C
+              Mer          08:45 - 10:45   TP-Labo A         , A-1214, A-2200
+              Mer          10:45 - 12:45   TP-Labo B         , A-1214, A-2200
+        03    Mer          18:00 - 21:30   C
+              Lun          18:00 - 20:00   TP-Labo A         , A-1214, A-2200
+              Lun          20:00 - 22:00   TP-Labo B         , A-1214, A-2200
+
+
+MEC240 THERMODYNAMIQUE
+        01    Jeu          08:30 - 12:00   C
+              Mar          08:45 - 10:45   TP/Labo           , CTT
+        02    Mer          13:30 - 17:00   C
+              Ven          08:45 - 10:45   TP/Labo           , CTT
+        03    Lun          13:30 - 17:00   C
+              Jeu          13:30 - 15:30   TP/Labo           , CTT
+        04    Mar          18:00 - 21:30   C
+              Ven          18:00 - 20:00   TP/Labo           , CTT
+
+
+MEC329 RÉSISTANCE DES MATÉRIAUX                                                   MEC111
+        01    Mer          13:30 - 17:00   C
+              Ven          08:45 - 11:45   TP/Labo           , A-2304
+        02    Mar          18:00 - 21:30   C
+              Jeu          18:00 - 21:00   TP/Labo           , A-2304
+
+
+MEC335 MÉCANIQUE DES FLUIDES                                                      MEC222
+        01    Lun          08:30 - 12:00   C
+              Mer          08:45 - 11:45   TP/Labo           , A-1226, A-2220
+        02    Mer          13:30 - 17:00   C
+              Ven          08:45 - 11:45   TP/Labo           , A-1220, A-2220
+        03    Lun          18:00 - 21:30   C
+              Ven          18:00 - 21:00   TP/Labo           , A-1220, A-2220
+
+
+
+
+     01 octobre 2014                                                                                          Page : 5/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                Baccalauréat en génie MÉCANIQUE
+
+
+                                             HORAIRE D'INSCRIPTION
+                                                     HIVER 2015
+                       Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                 la date d'application de la pénalité pour inscription tardive.
+                                                    www.etsmtl.ca/calendrier_ETS
+
+COURS   GR    JOUR        HEURE         ACTIVITÉ       LOCAL                      PRÉALABLES
+
+
+MEC402 PRODUCTION ET FABRICATION INDUSTRIELLES
+        01    Mer       08:45 - 12:15   C
+              Lun       08:30 - 10:30   TP-Labo A      A-1226
+              Lun       10:30 - 12:30   TP-Labo B      A-1226
+
+
+MEC423 MÉTHODE DES ÉLÉMENTS FINIS DES CORPS DÉFORMABLES                           INF135 et MEC329*
+        01    Jeu       13:30 - 17:00   C
+              Lun       13:30 - 16:30   TP/Labo        A-1214
+        02    Mar       13:30 - 17:00   C
+              Ven       13:30 - 16:30   TP/Labo        A-1222
+        03    Jeu       18:00 - 21:30   C
+              Mar       18:00 - 21:00   TP/Labo        A-1222
+
+
+MEC525 CONCEPTION VIBRATOIRE ET DYNAMIQUE DES STRUCTURES                          MAT265 et MEC222 et MEC423
+        01    Jeu       08:30 - 12:00   C
+              Mar       08:45 - 10:45   TP/Labo           , A-1220, A-2200
+        02    Lun       18:00 - 21:30   C
+              Mer       18:00 - 20:00   TP/Labo           , A-1214, A-2200
+
+
+MEC529 ÉLÉMENTS DE MACHINES                                                       MEC423
+        01    Ven       08:45 - 12:15   C
+              Mer       13:30 - 16:30   TP/Labo           , A-1226
+        02    Mar       18:00 - 21:30   C
+              Jeu       18:00 - 21:00   TP/Labo           , A-1214
+
+
+MEC532 TRANSFERT DE CHALEUR                                                       MEC235
+        01    Jeu       08:30 - 12:00   C
+              Mar       08:45 - 10:45   TP
+        02    Ven       13:30 - 17:00   C
+              Mar       13:30 - 15:30   TP
+        03    Lun       18:00 - 21:30   C
+              Ven       18:00 - 20:00   TP
+
+
+MEC546 CIRCUITS ÉLECTRIQUES ET ÉLECTROTECHNIQUE                                   PHY332
+        01    Lun       13:30 - 17:00   C
+              Jeu       13:30 - 16:30   TP/Labo           , A-2170
+        02    Jeu       18:00 - 21:30   C
+              Mar       18:00 - 21:00   TP/Labo           , A-2170
+
+
+MEC602 TOLÉRANCEMENT ET MÉTROLOGIE TRIDIMENSIONNELLE                              MAT350
+        01    Jeu       13:30 - 17:00   C
+              Lun       13:30 - 15:30   TP/Labo           , A-1220
+
+
+MEC624 TECHNOLOGIE DE LA MISE EN FORME                                            MEC200
+        01    Mer       18:00 - 21:30   C
+              Lun       18:00 - 20:00   TP/Labo           , A-1226
+
+
+MEC625 TECHNOLOGIE DU SOUDAGE                                                     MEC200
+        01    Jeu       18:00 - 21:30   C
+              Mar       18:00 - 20:00   Labo           A-0550, A-1220, A-2150
+
+
+MEC628 CONCEPTION DE SYSTÈMES À FLUIDE SOUS PRESSION                              MEC335
+        01    Mar       18:00 - 21:30   C
+              Jeu       18:00 - 20:00   TP/Labo           , A-2170
+
+
+MEC630 VENTILATION ET CHAUFFAGE                                                   MEC335
+        01    Mer       18:00 - 21:30   C
+              Ven       18:00 - 20:00   TP/Labo           , A-1214
+
+
+
+
+     01 octobre 2014                                                                                           Page : 6/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                             Baccalauréat en génie MÉCANIQUE
+
+
+                                             HORAIRE D'INSCRIPTION
+                                                     HIVER 2015
+                       Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                 la date d'application de la pénalité pour inscription tardive.
+                                                    www.etsmtl.ca/calendrier_ETS
+
+COURS   GR    JOUR        HEURE         ACTIVITÉ       LOCAL                   PRÉALABLES
+
+
+MEC636 ACOUSTIQUE INDUSTRIELLE                                                 MEC222
+        01    Lun       08:30 - 12:00   C
+              Mer       08:30 - 10:30   TP-Labo A      A-1220, A-2210
+              Mer       10:30 - 12:30   TP-Labo B      A-1220, A-2210
+
+
+MEC652 CONCEPTION DES SYSTÈMES MANUFACTURIERS                                  BACC.: MAT350 OU Cert.: MAT321
+        01    Mar       08:30 - 12:00   C
+              Jeu       08:45 - 10:45   Labo           A-1220
+
+
+MEC702 TECHNIQUES DE MAINTENANCE PRÉDICTIVE ET FIABILITÉ                       MAT350 - MEC523
+        01    Jeu       18:00 - 21:30   C
+              Mar       18:00 - 20:00   TP/Labo           , A-1226
+
+
+MEC733 GESTION D'ÉNERGIE DANS LES BÂTIMENTS                                    MEC335
+        01    Mer       08:45 - 12:15   C
+              Lun       08:30 - 11:30   TP/Labo           , A-1222
+
+
+MEC737 MOTEURS ALTERNATIFS À COMBUSTION INTERNE                                MEC335
+        01    Mer       13:30 - 17:00   C
+              Ven       08:45 - 10:45   TP/Labo           , A-0697
+
+
+MEC743 INSTRUMENTATION ET CONTRÔLE DES PROCÉDÉS INDUSTRIELS                    PHY332
+        01    Mar       13:30 - 17:00   C
+              Ven       13:30 - 15:30   TP/Labo           , A-1222, A-2170
+
+
+MEC754 OPTIMISATION EN PRODUCTION MANUFACTURIÈRE
+        01    Mar       18:00 - 21:30   C
+              Jeu       18:00 - 20:00   TP/Labo           , A-1222
+
+
+MEC757 INTRODUCTION À L’AÉRODYNAMIQUE                                          MEC335
+        01    Lun       13:30 - 17:00   C
+              Jeu       13:30 - 15:30   TP/Labo           , A-1226
+
+
+MEC758 SYSTÈME DE PROPULSION ET TURBOMACHINES                                  MEC335
+        01    Mar       13:30 - 17:00   C
+              Ven       13:30 - 15:30   TP
+
+
+MEC761 ESSAIS MÉCANIQUES ET CONTRÔLE NON DESTRUCTIF                            MEC200
+        01    Jeu       08:30 - 12:00   C
+              Mar       08:45 - 10:45   TP/Labo           , A-1222
+
+
+MEC788 MÉCATRONIQUE                                                            MEC222 et MEC546*
+        01    Lun       08:30 - 12:00   C
+              Mer       08:45 - 11:45   TP/Labo           , A-1222, A-2170
+        02    Mer       13:30 - 17:00   C
+              Ven       08:45 - 11:45   TP/Labo           , A-1214, A-2170
+        03    Mer       18:00 - 21:30   C
+              Lun       18:00 - 21:00   TP/Labo           , A-1220, A-2170
+
+
+MEC791 PROJETS SPÉCIAUX                                                        Autorisation du directeur de département
+                                        Projet
+
+
+MEC795 PROJET DE FIN D'ÉTUDES EN GÉNIE MÉCANIQUE                               Minimum 99 Cr
+        01    Ven       13:30 - 17:00   Projet
+
+
+PHY144 INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS PROGRAMME)
+        01    Lun       09:00 - 12:30   C
+              Mer       09:00 - 12:00   TP
+        02    Mar       18:00 - 21:30   C
+              Jeu       18:00 - 21:00   TP
+        03    Mer       09:00 - 12:30   C
+              Lun       09:00 - 12:00   TP
+
+
+
+
+     01 octobre 2014                                                                                                      Page : 7/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                             Baccalauréat en génie MÉCANIQUE
+
+
+                                                 HORAIRE D'INSCRIPTION
+                                                         HIVER 2015
+                          Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                    la date d'application de la pénalité pour inscription tardive.
+                                                       www.etsmtl.ca/calendrier_ETS
+
+COURS   GR     JOUR           HEURE         ACTIVITÉ        LOCAL                PRÉALABLES
+
+
+PHY144 INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS PROGRAMME)
+        04     Ven          13:30 - 17:00   C
+               Mar          13:30 - 16:30   TP
+        05     Ven          09:00 - 12:30   C
+               Mer          13:30 - 16:30   TP
+
+
+PHY332 ÉLECTRICITÉ ET MAGNÉTISME
+        01     Lun          09:00 - 12:30   C
+               Mer          09:00 - 12:00   TP
+        02     Mar          09:00 - 12:30   C
+               Jeu          09:00 - 12:00   TP
+        03     Mer          13:30 - 17:00   C
+               Ven          09:00 - 12:00   TP
+        04     Jeu          13:30 - 17:00   C
+               Lun          13:30 - 16:30   TP
+        05     Lun          18:00 - 21:30   C
+               Ven          18:00 - 21:00   TP
+        06     Ven          13:30 - 17:00   C
+               Mar          13:30 - 16:30   TP
+        07     Jeu          09:00 - 12:30   C
+               Mar          09:00 - 12:00   TP
+
+
+PHY335 PHYSIQUE DES ONDES
+        01     Mer          13:30 - 17:00   C
+               Ven          09:00 - 12:00   TP
+        02     Jeu          09:00 - 12:30   C
+               Mar          09:00 - 12:00   TP
+        03     Ven          09:00 - 12:30   C
+               Mer          13:30 - 16:30   TP
+        04     Lun          13:30 - 17:00   C
+               Jeu          13:30 - 16:30   TP
+        05     Mar          13:30 - 17:00   C
+               Ven          13:30 - 16:30   TP
+        06     Lun          18:00 - 21:30   C
+               Ven          18:00 - 21:00   TP
+        07     Lun          09:00 - 12:30   C
+               Mer          09:00 - 12:00   TP
+        08     Mer          09:00 - 12:30   C
+               Lun          09:00 - 12:00   TP
+
+
+PHYEST ACCUEIL EN PHYSIQUE
+        01     Lun          09:00 - 12:30   C
+               Mer          09:00 - 12:00   TP
+        02     Mar          18:00 - 21:30   C
+               Jeu          18:00 - 21:00   TP
+
+
+PRE010 INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+        Volet stages - activité à compléter en ligne
+        Volet intensif santé sécurité 9 h - 6 et 7 février 2015
+        01     Ven          18:00 - 21:00   Atelier
+               Sam          09:00 - 16:00   Atelier
+
+        Volet stages - activité à compléter en ligne
+        Volet intensif santé sécurité 9 h - 16, 17 et 18 février 2015
+        02     Lun          18:00 - 21:00   Atelier
+               Mar          18:00 - 21:00   Atelier
+               Mer          18:00 - 21:00   Atelier
+
+        Volet stages - activité à compléter en ligne
+        Volet intensif santé sécurité 9 h - 6 et 7 février 2015
+        03     Ven          18:00 - 21:00   Atelier
+               Sam          09:00 - 16:00   Atelier
+
+
+
+
+      01 octobre 2014                                                                                          Page : 8/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                       Baccalauréat en génie MÉCANIQUE
+
+
+                                                     HORAIRE D'INSCRIPTION
+                                                            HIVER 2015
+                              Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                        la date d'application de la pénalité pour inscription tardive.
+                                                           www.etsmtl.ca/calendrier_ETS
+
+COURS      GR     JOUR            HEURE         ACTIVITÉ       LOCAL                        PRÉALABLES
+
+
+PRE010 INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 16, 17 et 18 février 2015
+           04     Lun           18:00 - 21:00   Atelier
+                  Mar           18:00 - 21:00   Atelier
+                  Mer           18:00 - 21:00   Atelier
+
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 6 et 7 mars 2015
+           05     Ven           18:00 - 21:00   Atelier
+                  Sam           09:00 - 16:00   Atelier
+
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 6 et 7 mars 2015
+           06     Ven           18:00 - 21:00   Atelier
+                  Sam           09:00 - 16:00   Atelier
+
+           Volet stages - activité à compléter en ligne
+           07     Activité en ligne             Atelier
+
+
+TIN501     ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ                                            Minimum 70 Cr
+           01     Jeu           09:00 - 12:30   C
+                  Mar           08:30 - 12:30   TP A+B
+           02     Mer           13:30 - 17:00   C
+                  Ven           08:30 - 12:30   TP A+B
+           03     Ven           13:30 - 17:00   C
+                  Mar           13:30 - 17:30   TP A+B
+           04     Jeu           18:00 - 21:30   C
+                  Mar           18:00 - 22:00   TP A+B
+           05     Mer           18:00 - 21:30   C
+                  Ven           18:00 - 22:00   TP A+B
+           06     Lun           09:00 - 12:30   C
+                  Mer           08:30 - 12:30   TP A+B
+           07     Mar           09:00 - 12:30   C
+                  Jeu           08:30 - 12:30   TP A+B
+
+NOTES
+a)         Activités
+           C : cours        TP : travaux pratiques                                          LABO : laboratoires
+                            TP/2 : travaux pratiques aux deux (2) semaines                  LABO/2 : laboratoires aux deux (2) semaines
+
+                           * : préalable ou concomitant
+           TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des
+           étudiants devront se présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2)
+           heures. Ceci vous sera confirmé au début du trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont
+           lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux pratiques (TP).
+
+
+b)         À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+           Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+
+
+           Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+
+  Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux
+pratiques et les laboratoires commencent la deuxième semaine de la session à condition qu'une séance
+                                   de cours ait préalablement eu lieu.
+
+
+
+
+         01 octobre 2014                                                                                                               Page : 9/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                         Baccalauréat en génie MÉCANIQUE
+
+
+                                        HORAIRE D'INSCRIPTION
+                                                  HIVER 2015
+                       Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                 la date d'application de la pénalité pour inscription tardive.
+                                                 www.etsmtl.ca/calendrier_ETS
+
+COURS   GR    JOUR        HEURE       ACTIVITÉ      LOCAL                     PRÉALABLES
+
+
+
+
+Modalités des ateliers PRE010 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants
+sauf ceux détenant une carte ASP. Pour les étudiants du programme 7622 en génie de la construction ou
+    tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité sur
+      présentation de votre carte ASP au Service de l'enseignement coopératif). - VOLET STAGES
+   (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être
+complétée en ligne, le Service de l'enseignement coopératif vous informera de la procédure à suivre par
+            courriel. Les étudiants du programme 7622 doivent s'inscrire dans le groupe 07.
+
+
+
+
+     01 octobre 2014                                                                                        Page : 10/10
+

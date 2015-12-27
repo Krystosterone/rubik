@@ -1,0 +1,8 @@
+.jumbotron
+  .container
+    %h1 Générateur d'horaires
+    %p Faites votre choix de cours avec aisance
+
+.container
+  - terms.each_slice(2) do |terms_slice|
+    .row= render partial: 'term', collection: terms_slice

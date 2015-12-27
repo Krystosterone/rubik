@@ -1,0 +1,28 @@
+fr:
+  activemodel:
+    attributes:
+      leave:
+        starts_at: Début
+        ends_at: Fin
+    errors:
+      models:
+        weekday_time_range:
+          attributes:
+            ends_at:
+              greater_than_or_equal_to_starts_at: Veuillez spécifier un temps de fin plus grand que le temps de début
+  activerecord:
+    errors:
+      models:
+        agenda:
+          attributes:
+            courses:
+              blank: Veuillez sélectionner au moins un cours
+              greater_than_or_equal_to_courses_per_schedule: Veuillez sélectionner une quantité de cours supérieur ou égal au nombre de cours par horaire
+            courses_per_schedule:
+              inclusion: Le nombre de cours par horaire "%{value}" est interdit
+            leaves:
+              invalid: Veuillez corriger les congés spécifiés
+  schedules:
+    index:
+      agenda:
+        blank: Veuillez choisir une nouvelle combinaison de cours; aucune combinaisons n'a pu être trouvée.

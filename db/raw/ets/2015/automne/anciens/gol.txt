@@ -1,0 +1,818 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                              Baccalauréat en génie
+                                                                               des OPÉRATIONS ET DE LA LOGISTIQUE
+
+                                                         HORAIRE D'INSCRIPTION
+                                                          AUTOMNE 2015
+                                Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                          la date d'application de la pénalité pour inscription tardive.
+                                                            www.etsmtl.ca/calendrier_ETS
+COURS       GR     JOUR          HEURE         ACTIVITÉ     LOCAL                   ENSEIGNANT               PRÉALABLES
+
+ANG010      ANGLAIS POUR INGÉNIEURS I
+            01     Lun         18:00 - 21:30   C
+                   Ven         18:00 - 20:00   TP
+
+ATE050      RÉUSSIR EN GÉNIE
+            01     Mar         08:30 - 10:30   Atelier
+
+CHM131      CHIMIE ET MATÉRIAUX
+            01     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+            02     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            03     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            04     Jeu         09:00 - 12:30   C
+                   Mar         09:00 - 12:00   TP
+            05     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            06     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 16:30   TP
+            07     Mer         18:00 - 21:30   C
+                   Lun         18:00 - 21:00   TP
+            08     Jeu         18:00 - 21:30   C
+                   Mar         18:00 - 21:00   TP
+            09     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+            10     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            11     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            12     Ven         13:30 - 17:00   C
+                   Mar         13:30 - 16:30   TP
+            13     Sam         13:00 - 16:00   C
+                   Sam         09:00 - 12:00   TP
+
+
+
+COM110      MÉTHODES DE COMMUNICATION                                                                        TEST DE FRANCAIS OU FRA150 OU FRA151
+            01     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 17:30   TP A+B
+            02     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 17:30   TP A+B
+            03     Mar         09:00 - 12:30   C
+                   Jeu         08:30 - 12:30   TP A+B
+            04     Jeu         09:00 - 12:30   C
+                   Mar         08:30 - 12:30   TP A+B
+            05     Mer         13:30 - 17:00   C
+                   Ven         08:30 - 12:30   TP A+B
+            06     Lun         09:00 - 12:30   C
+                   Mer         08:30 - 12:30   TP A+B
+            07     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 17:30   TP A+B
+            08     Mer         18:00 - 21:30   C
+                   Ven         18:00 - 22:00   TP A+B
+            09     Mer         09:00 - 12:30   C
+                   Lun         08:30 - 12:30   TP A+B
+            10     Lun         18:00 - 21:30   C
+                   Ven         18:00 - 22:00   TP A+B
+            11     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 22:00   TP A+B
+            12     Jeu         09:00 - 12:30   C
+                   Mar         08:30 - 12:30   TP A+B
+
+
+
+
+         Date : 2015-05-14 14:15:15                                                                                           Page : 1/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                              Baccalauréat en génie
+                                                                               des OPÉRATIONS ET DE LA LOGISTIQUE
+
+                                                    HORAIRE D'INSCRIPTION
+                                                         AUTOMNE 2015
+                                Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                          la date d'application de la pénalité pour inscription tardive.
+                                                          www.etsmtl.ca/calendrier_ETS
+COURS       GR     JOUR          HEURE         ACTIVITÉ   LOCAL                     ENSEIGNANT               PRÉALABLES
+
+COM110      MÉTHODES DE COMMUNICATION                                                                        TEST DE FRANCAIS OU FRA150 OU FRA151
+            13     Mer         09:00 - 12:30   C
+                   Lun         08:30 - 12:30   TP A+B
+            14     Sam         13:00 - 16:00   C
+                   Sam         10:00 - 12:00   TP
+
+
+
+COM115      COMMUNICATION INTERCULTURELLE
+            01     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 17:30   TP A+B        , B-2624
+
+
+
+ENT201      GESTION FINANCIÈRE D'ENTREPRISE                                                                  GIA400 ou GIA410
+            01     Lun         18:00 - 21:30   C
+                   Mer         18:00 - 20:00   TP
+            02     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 15:30   TP
+
+
+
+ENT202      INTRODUCTION À L'ENTREPRENEURSHIP
+            01     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 20:00   TP
+            02     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 20:00   TP
+
+
+
+FRA150      FRANÇAIS ÉCRIT
+            01     Jeu         18:00 - 21:30   C
+                   Mar         18:00 - 20:00   TP
+
+
+
+FRA151      FRANÇAIS ÉCRIT
+            01     Jeu         18:00 - 21:30   C
+                   Mar         18:00 - 22:00   TP
+
+
+
+GIA400      ANALYSE DE RENTABILITÉ DE PROJETS
+            01     Mer         09:00 - 12:30   C
+                   Lun         08:30 - 12:30   TP A+B
+            02     Jeu         09:00 - 12:30   C
+                   Mar         08:30 - 12:30   TP A+B
+            03     Ven         13:30 - 17:00   C
+                   Mar         13:30 - 17:30   TP A+B
+            04     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 17:30   TP A+B
+            05     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 17:30   TP A+B
+            06     Mer         18:00 - 21:30   C
+                   Ven         18:00 - 20:00   TP
+            07     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 20:00   TP
+            08     Sam         13:00 - 16:00   C
+                   Sam         10:00 - 12:00   TP
+
+
+
+GIA500      INITIATION AUX PROJETS INTERNATIONAUX D'INGÉNIERIE
+            01     Mar         18:00 - 21:30   C                                    S. Melki
+                   Jeu         18:00 - 21:00   TP/Labo
+
+
+
+
+         Date : 2015-05-14 14:15:15                                                                                             Page : 2/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                 Baccalauréat en génie
+                                                                                  des OPÉRATIONS ET DE LA LOGISTIQUE
+
+                                                      HORAIRE D'INSCRIPTION
+                                                           AUTOMNE 2015
+                                Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                          la date d'application de la pénalité pour inscription tardive.
+                                                            www.etsmtl.ca/calendrier_ETS
+COURS       GR     JOUR          HEURE         ACTIVITÉ     LOCAL                   ENSEIGNANT                 PRÉALABLES
+
+
+GIA601      ERGONOMIE ET SÉCURITÉ EN MILIEU DE TRAVAIL
+            01     Mer         13:30 - 17:00   C
+                   Ven         08:45 - 10:45   TP-Labo A       , A-1214, A-2230
+                   Ven         10:45 - 12:45   TP-Labo B       , A-1214, A-2230
+            02     Ven         18:00 - 21:30   C                                    T. Venditti
+                   Mer         18:00 - 20:00   TP-Labo A       , A-1212, A-2230
+                   Mer         20:00 - 22:00   TP-Labo B       , A-1212, A-2230
+
+
+
+GOL102      ORGANISATION SCIENTIFIQUE DU TRAVAIL
+            01     Mer         08:30 - 12:00   C                                    D. Désilets
+                   Lun         08:45 - 10:45   TP           A-3726
+            02     Mar         08:30 - 12:00   C            A-3612                  D. Désilets
+                   Lun         13:30 - 15:30   TP           A-3728
+
+
+
+GOL110      COMPORTEMENT ORGANISATIONNEL ET MANAGEMENT
+            01     Mar         18:00 - 21:30   C                                    P.G. Mbassegué
+                   Jeu         18:00 - 20:00   TP           A-3602
+
+
+
+GOL203      OUTILS DE CONCEPTION ET D'ANALYSE DE PROD. ET SERV.
+            01     Mar         13:30 - 17:00   C                                    J. Daigneault
+                   Jeu         13:30 - 16:30   Labo         A-3608
+
+
+
+GOL302      AMÉNAG., MANUT. ET CIRCUL. DES BIENS & DES PERSONNES                                               Pr. AD: GOL102 et GOL203,Pr. G: GOL203
+                                                                                                               Pr. I, R: GOL102 et GOL203
+            01     Mer         18:00 - 21:30   C            A-3608                  J. Daigneault
+                   Lun         18:00 - 21:00   TP           A-3608
+            02     Lun         18:00 - 21:30   C            A-3612                  J. Daigneault
+                   Mer         18:00 - 21:00   TP           A-4516
+
+
+
+GOL405      MÉTHODES QUANTITATIVES EN LOGISTIQUE                                                               MAT165
+            01     Jeu         08:45 - 12:15   C                                    M. Paquet
+                   Mar         08:30 - 11:30   TP           A-3608, A-4516
+
+
+
+GOL450      MAÎTRISE STATISTIQUE DES PROCÉDÉS                                                                  MAT350
+            01     Lun         18:00 - 21:30   C            A-3728                  S. Assal
+                   Mer         18:00 - 21:00   TP           A-3612
+
+
+
+GOL455      GESTION DES OPÉRATIONS, DES FLUX ET DES STOCKS                                                     GOL405 et MAT350
+            01     Jeu         13:30 - 17:00   C            A-3602                  D. Désilets
+                   Lun         13:30 - 16:30   TP           A-4516
+
+
+
+GOL460      CHAÎNES LOGISTIQUES ET D'APPROVISIONNEMENT                                                         GOL405
+            01     Mer         08:30 - 12:00   C                                    A. Chaabane
+                   Lun         08:45 - 11:45   TP           A-3602
+
+
+
+GOL465      SIMULATION DES OPÉRATIONS ET DES ACTIVITÉS DE SERVICES                                             Pr. AD: GOL102 et MAT350,Pr. G: MAT350
+                                                                                                               Pr. I, R: GOL102 et MAT350
+            01     Mar         18:00 - 21:30   C            A-3728
+                   Jeu         18:00 - 21:00   TP           A-3728                  J.F. Boulet / A. Ouellet
+
+
+
+GOL501      SYSTÈMES INFORMATIONNELS
+            01     Mar         13:30 - 17:00   C            A-3612                  M. Rioux / M. Ouhimmou
+                   Jeu         13:30 - 16:30   Labo         A-3726, A-4516
+
+
+
+GOL502      INDUSTRIES SERVICES: ORGANISATION & FONCTIONNEMENT
+            01     Mer         13:30 - 17:00   C                                    T. Wong
+                   Ven         13:30 - 16:30   TP           A-3612
+
+         Date : 2015-05-14 14:15:15                                                                                               Page : 3/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                              Baccalauréat en génie
+                                                                               des OPÉRATIONS ET DE LA LOGISTIQUE
+
+                                                        HORAIRE D'INSCRIPTION
+                                                         AUTOMNE 2015
+                                Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                          la date d'application de la pénalité pour inscription tardive.
+                                                           www.etsmtl.ca/calendrier_ETS
+COURS       GR     JOUR          HEURE         ACTIVITÉ    LOCAL                    ENSEIGNANT               PRÉALABLES
+
+GOL510      ORGANISATION FLEXIBLE DE LA                                                                      GOL455
+            PRODUCTION
+            01  Mar            18:00 - 21:30   C           A-3612                   L. Trottier
+                   Jeu         18:00 - 21:00   Labo        A-3608
+
+
+
+GOL511      PROCÉDÉS DE FABRICATION                                                                          Minimum 60 Cr
+            01     Lun         13:30 - 17:00   C           A-3608                   I. Zaghbani
+                   Ven         08:30 - 11:30   Labo        A-0650, A-3612
+
+
+
+GOL512      INGÉNIERIE SIMULTANÉE DANS LE DÉVELOP. DE PRODUITS                                               Conc. PR: GOL102
+            01     Jeu         08:30 - 12:00   C                                    A. Cherifi
+                   Mar         08:45 - 10:45   TP          A-3602
+
+
+
+GOL605      ANALYSE DE LA PERFORMANCE FINANCIÈRE                                                             GIA400
+            01     Jeu         18:00 - 21:30   C           A-3726                   S. Assal
+                   Lun         18:00 - 20:00   TP          A-4516
+
+
+
+GOL670      MAINTENANCE ET FIABILITÉ                                                                         MAT350
+            01     Mer         08:30 - 12:00   C           A-3602                   M. Rioux
+                   Lun         08:45 - 10:45   TP          A-3728
+
+
+
+GOL791      PROJETS SPÉCIAUX                                                                                 Autorisation du directeur de département
+            01                                 Projet
+
+
+
+GOL792      PROJET DE FIN D'ÉTUDES EN GÉNIE DES OPÉ & LOGISTIQUE                                             STA303
+            01                                 Projet
+
+
+
+GOL796      PROJET INTERNAT FIN D'ÉTUDES EN GÉNIE OPÉ &LOGIST                                                STA323
+            01                                 Projet
+
+
+
+GPE450      GESTION DU PERSONNEL ET RELATIONS INDUSTRIELLES
+            01     Ven         13:30 - 17:00   C                                    S. Tétreault
+                   Mer         15:30 - 17:30   TP
+            02     Mer         18:00 - 21:30   C                                    S. Tétreault
+                   Ven         18:00 - 20:00   TP
+
+
+
+INF130      ORDINATEURS ET PROGRAMMATION
+            01     Ven         09:00 - 12:30   C           B-2408
+                   Mer         13:30 - 16:30   Labo        B-2408
+            02     Lun         18:00 - 21:30   C           B-2406
+                   Mer         18:00 - 21:00   Labo        B-2406
+            03     Lun         13:30 - 17:00   C           B-2406
+                   Jeu         13:30 - 16:30   Labo        B-2406
+            04     Jeu         09:00 - 12:30   C           B-2408
+                   Mar         09:00 - 12:00   Labo        B-2408
+            05     Mer         09:00 - 12:30   C           B-2406
+                   Lun         09:00 - 12:00   Labo        B-2406
+
+
+
+ING150      STATIQUE ET DYNAMIQUE
+            01     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            02     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+            03     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            04     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 21:00   TP
+
+
+
+         Date : 2015-05-14 14:15:15                                                                                                Page : 4/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                              Baccalauréat en génie
+                                                                               des OPÉRATIONS ET DE LA LOGISTIQUE
+
+                                                    HORAIRE D'INSCRIPTION
+                                                      AUTOMNE 2015
+                                Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                          la date d'application de la pénalité pour inscription tardive.
+                                                          www.etsmtl.ca/calendrier_ETS
+COURS       GR     JOUR          HEURE         ACTIVITÉ   LOCAL                     ENSEIGNANT               PRÉALABLES
+
+ING150      STATIQUE ET DYNAMIQUE
+            05     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            06     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            07     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            08     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+            09     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+
+
+
+ING160      THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                                                         ING150
+            01     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            02     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 16:30   TP
+            03     Lun         18:00 - 21:30   C
+                   Mer         18:00 - 21:00   TP
+            04     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+
+
+
+ING500      OUTILS DE DÉVELOPPEMENT DURABLE POUR L'INGÉNIEUR
+            01     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 15:30   TP         B-2624
+            02     Lun         18:00 - 21:30   C
+                   Mer         18:00 - 20:00   TP         B-2408
+
+
+
+MAT144      INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE (HORS PROG.)
+            01     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            02     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            03     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+            04     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            05     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            06     Mer         18:00 - 21:30   C
+                   Lun         18:00 - 21:00   TP
+            07     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 21:00   TP
+            08     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            09     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            10     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+            11     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            12     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            13     Mer         18:00 - 21:30   C
+                   Lun         18:00 - 21:00   TP
+            14     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 21:00   TP
+
+
+
+
+         Date : 2015-05-14 14:15:15                                                                                       Page : 5/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                              Baccalauréat en génie
+                                                                               des OPÉRATIONS ET DE LA LOGISTIQUE
+
+                                                    HORAIRE D'INSCRIPTION
+                                                      AUTOMNE 2015
+                                Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                          la date d'application de la pénalité pour inscription tardive.
+                                                          www.etsmtl.ca/calendrier_ETS
+COURS       GR     JOUR          HEURE         ACTIVITÉ   LOCAL                     ENSEIGNANT               PRÉALABLES
+
+
+MAT145      CALCUL DIFFÉRENTIEL ET INTÉGRAL
+            01     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            02     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            03     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            04     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            05     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+            06     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+            07     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            08     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            09     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            10     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            11     Mer         18:00 - 21:30   C
+                   Lun         18:00 - 21:00   TP
+            12     Mer         18:00 - 21:30   C
+                   Lun         18:00 - 21:00   TP
+            13     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 21:00   TP
+            14     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 21:00   TP
+            15     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            16     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            17     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+            18     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            19     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+
+            22     Sam         13:00 - 16:00   C
+                   Sam         09:00 - 12:00   TP
+
+
+
+MAT165      ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                          MAT145
+            01     Jeu         09:00 - 12:30   C
+                   Mar         09:00 - 12:00   TP
+            02     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            03     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 16:30   TP
+            04     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+            05     Jeu         18:00 - 21:30   C
+                   Mar         18:00 - 21:00   TP
+            06     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            07     Mar         09:00 - 12:00   C
+                   Jeu         09:00 - 12:00   TP
+            08     Sam         13:00 - 16:00   C
+                   Sam         09:00 - 12:00   TP
+
+
+         Date : 2015-05-14 14:15:15                                                                                       Page : 6/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                              Baccalauréat en génie
+                                                                               des OPÉRATIONS ET DE LA LOGISTIQUE
+
+                                                    HORAIRE D'INSCRIPTION
+                                                      AUTOMNE 2015
+                                Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                          la date d'application de la pénalité pour inscription tardive.
+                                                          www.etsmtl.ca/calendrier_ETS
+COURS       GR     JOUR          HEURE         ACTIVITÉ   LOCAL                     ENSEIGNANT               PRÉALABLES
+
+
+MAT265      ÉQUATIONS DIFFÉRENTIELLES                                                                        MAT145
+            01     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            02     Jeu         09:00 - 12:30   C
+                   Mar         09:00 - 12:00   TP
+            03     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+            04     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 16:30   TP
+            05     Ven         13:30 - 17:00   C
+                   Mar         13:30 - 16:30   TP
+            06     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            07     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            08     Lun         18:00 - 21:30   C
+                   Mer         18:00 - 21:00   TP
+            09     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+            10     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            11     Sam         13:00 - 16:00   C
+                   Sam         09:00 - 12:00   TP
+            12     Jeu         18:00 - 21:30   C
+                   Mar         18:00 - 21:00   TP
+
+
+
+MAT350      PROBABILITÉS ET STATISTIQUES                                                                     MAT145
+            01     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            02     Jeu         09:00 - 12:30   C
+                   Mar         09:00 - 12:00   TP
+            03     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+            04     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            05     Mer         18:00 - 21:30   C
+                   Ven         18:00 - 21:00   TP
+            06     Jeu         18:00 - 21:30   C
+                   Mar         18:00 - 21:00   TP
+            07     Ven         13:30 - 17:00   C
+                   Mar         13:30 - 16:30   TP
+            08     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 16:30   TP
+            09     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            10     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            11     Sam         13:00 - 16:00   C
+                   Sam         09:00 - 12:00   TP
+
+
+
+MATEST      ACCUEIL EN MATHÉMATIQUES
+            01     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            02     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            03     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+            04     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+
+
+         Date : 2015-05-14 14:15:15                                                                                       Page : 7/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                              Baccalauréat en génie
+                                                                               des OPÉRATIONS ET DE LA LOGISTIQUE
+
+                                                    HORAIRE D'INSCRIPTION
+                                                      AUTOMNE 2015
+                                Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                          la date d'application de la pénalité pour inscription tardive.
+                                                          www.etsmtl.ca/calendrier_ETS
+COURS       GR     JOUR          HEURE         ACTIVITÉ   LOCAL                     ENSEIGNANT               PRÉALABLES
+MATEST      ACCUEIL EN MATHÉMATIQUES
+            05     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            06     Mer         18:00 - 21:30   C
+                   Lun         18:00 - 21:00   TP
+            07     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 21:00   TP
+
+PHY144      INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS PROGRAMME)
+            01     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            02     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+            03     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            04     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 21:00   TP
+            05     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            06     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+            07     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+
+PHY335      PHYSIQUE DES ONDES                                                                               CTN258 / ING150
+            01     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            02     Jeu         09:00 - 12:30   C
+                   Mar         09:00 - 12:00   TP
+            03     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+            04     Ven         13:30 - 17:00   C
+                   Mar         13:30 - 16:30   TP
+            05     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            06     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            07     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+            08     Mer         18:00 - 21:30   C
+                   Lun         18:00 - 21:00   TP
+            09     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            10     Sam         13:00 - 16:00   C
+                   Sam         09:00 - 12:00   TP
+
+PHYEST      ACCUEIL EN PHYSIQUE
+            01     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            02     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+            03     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            04     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 21:00   TP
+            05     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            06     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+
+
+
+
+         Date : 2015-05-14 14:15:15                                                                                            Page : 8/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                Baccalauréat en génie
+                                                                                 des OPÉRATIONS ET DE LA LOGISTIQUE
+
+                                                           HORAIRE D'INSCRIPTION
+                                                            AUTOMNE 2015
+                                  Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                            la date d'application de la pénalité pour inscription tardive.
+                                                              www.etsmtl.ca/calendrier_ETS
+COURS       GR     JOUR            HEURE         ACTIVITÉ     LOCAL                   ENSEIGNANT               PRÉALABLES
+
+PHYEST      ACCUEIL EN PHYSIQUE
+            07     Mar           18:00 - 21:30   C
+                   Jeu           18:00 - 21:00   TP
+            08     Ven           09:00 - 12:30   C
+                   Mer           13:30 - 16:30   TP
+
+
+
+PRE010      INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 21, 22 et 23 septembre 2015
+            01     Lun           18:00 - 21:00   Atelier
+                   Mar           18:00 - 21:00   TP A
+                   Mer           18:00 - 21:00   TP B
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 21, 22 et 23 septembre 2015
+            02     Lun           18:00 - 21:00   Atelier
+                   Mar           18:00 - 21:00   TP A
+                   Mer           18:00 - 21:00   TP B
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 2 et 3 octobre 2015
+            03     Ven           18:00 - 21:00   Atelier
+                   Sam           09:00 - 16:00   TP
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 2 et 3 octobre 2015
+            04     Ven           18:00 - 21:00   Atelier
+                   Sam           09:00 - 16:00   TP
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 16 et 17 octobre 2015
+            05     Ven           18:00 - 21:00   Atelier
+                   Sam           09:00 - 16:00   TP
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 16 et 17 octobre 2015
+            06     Ven           18:00 - 21:00   Atelier
+                   Sam           09:00 - 16:00   TP
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 26, 27 et 28 octobre 2015
+            07     Lun           18:00 - 21:00   Atelier
+                   Mar           18:00 - 21:00   TP A
+                   Mer           18:00 - 21:00   TP B
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 26, 27 et 28 octobre 2015
+            08     Lun           18:00 - 21:00   Atelier
+                   Mar           18:00 - 21:00   TP A
+                   Mer           18:00 - 21:00   TP B
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 6 et 7 novembre 2015
+            09     Ven           18:00 - 21:00   Atelier
+                   Sam           09:00 - 16:00   TP
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 6 et 7 novembre 2015
+            10     Ven           18:00 - 21:00   Atelier
+                   Sam           09:00 - 16:00   TP
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 13 et 14 novembre 2015
+            11     Ven           18:00 - 21:00   Atelier
+                   Sam           09:00 - 16:00   TP
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 13 et 14 novembre 2015
+            12     Ven           18:00 - 21:00   Atelier
+                   Sam           09:00 - 16:00   TP
+
+            Volet stages - activité à compléter en ligne
+                   Activité en ligne             Atelier
+
+
+
+
+         Date : 2015-05-14 14:15:15                                                                                         Page : 9/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                         Baccalauréat en génie
+                                                                                          des OPÉRATIONS ET DE LA LOGISTIQUE
+
+                                                        HORAIRE D'INSCRIPTION
+                                                            AUTOMNE 2015
+                                   Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                             la date d'application de la pénalité pour inscription tardive.
+                                                                www.etsmtl.ca/calendrier_ETS
+COURS          GR     JOUR          HEURE         ACTIVITÉ       LOCAL                          ENSEIGNANT                    PRÉALABLES
+
+TIN501         ENVIRONNEMENT, TECHNOLOGIE ET                                                                                  Minimum 70 Cr
+               SOCIÉTÉ
+               01   Mer           09:00 - 12:30   C
+                      Lun         08:30 - 12:30   TP A+B
+               02     Jeu         09:00 - 12:30   C
+                      Mar         08:30 - 12:30   TP A+B
+               03     Mer         13:30 - 17:00   C
+                      Ven         08:30 - 12:30   TP A+B
+               04     Mer         18:00 - 21:30   C
+                      Ven         18:00 - 20:00   TP
+               05     Lun         18:00 - 21:30   C
+                      Ven         18:00 - 20:00   TP
+               06     Ven         13:30 - 17:00   C
+                      Mar         13:30 - 17:30   TP A+B
+               07     Sam         13:00 - 16:00   C
+                      Sam         10:00 - 12:00   TP A+B
+
+
+NOTES
+a)             Activités
+               C : cours       TP : travaux pratiques                                           LABO : laboratoires
+                               TP/2 : travaux pratiques aux deux (2) semaines                   LABO/2 : laboratoires aux deux (2) semaines
+                               * : préalable ou concomitant
+               TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants
+               devront se présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous
+               sera confirmé au début du trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est
+               indiqué (A+B) à côté de chacun des travaux pratiques (TP).
+
+b)             À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+               Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+               Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+     Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et
+         les laboratoires commencent la deuxième semaine de la session à condition qu'une séance de cours ait
+                                                    préalablement eu lieu.
+
+
+
+Modalités des ateliers PRE010 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux
+détenant une carte ASP. Pour les étudiants du programme 7622 en génie de la construction ou tout autre étudiant
+ ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité sur présentation de votre carte ASP au
+ Service de l'enseignement coopératif). - VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour
+    tous les étudiants, cette activité doit être complétée en ligne, le Service de l'enseignement coopératif vous
+   informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
+                                                       groupe 13.
+
+
+
+
+            Date : 2015-05-14 14:15:15                                                                                                          Page : 10/10
+

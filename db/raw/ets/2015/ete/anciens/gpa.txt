@@ -1,0 +1,512 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                           Baccalauréat en génie
+                                                                                de la PRODUCTION AUTOMATISÉE
+                                                 HORAIRE D'INSCRIPTION
+                                                           ÉTÉ 2015
+                           Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                     la date d'application de la pénalité pour inscription tardive.
+                                                        www.etsmtl.ca/calendrier_ETS
+
+COURS      GR     JOUR        HEURE          ACTIVITÉ      LOCAL                       PRÉALABLES
+
+
+CHM131     CHIMIE ET MATÉRIAUX
+           01     Lun        09:00 - 12:30   C
+                  Mer        09:00 - 12:00   TP
+           02     Mar        13:30 - 17:00   C
+                  Ven        13:30 - 16:30   TP
+           03     Mer        13:30 - 17:00   C
+                  Ven        09:00 - 12:00   TP
+           04     Jeu        09:00 - 12:30   C
+                  Mar        09:00 - 12:00   TP
+           05     Jeu        13:30 - 17:00   C
+                  Lun        13:30 - 16:30   TP
+           06     Lun        18:00 - 21:30   C
+                  Mer        18:00 - 21:00   TP
+           07     Mer        09:00 - 12:30   C
+                  Lun        09:00 - 12:00   TP
+           08     Jeu        18:00 - 21:30   C
+                  Mar        18:00 - 21:00   TP
+           09     Mar        09:00 - 12:30   C
+                  Jeu        09:00 - 12:00   TP
+           10     Lun        13:30 - 17:00   C
+                  Jeu        13:30 - 16:30   TP
+
+
+COM110     MÉTHODES DE COMMUNICATION
+           01     Jeu        09:00 - 12:30   C
+                  Mar        08:30 - 12:30   TP A+B
+           02     Mer        13:30 - 17:00   C
+                  Ven        08:30 - 12:30   TP A+B
+           03     Lun        09:00 - 12:30   C
+                  Mer        08:30 - 12:30   TP A+B
+           04     Mar        18:00 - 21:30   C
+                  Jeu        18:00 - 22:00   TP A+B
+           05     Lun        18:00 - 21:30   C
+                  Mer        18:00 - 22:00   TP A+B
+
+
+FRA150     FRANÇAIS ÉCRIT
+           01     Mar        13:30 - 17:00   C
+                  Ven        13:30 - 15:30   TP
+
+
+FRA151     FRANÇAIS ÉCRIT
+           01     Mar        13:30 - 17:00   C
+                  Ven        13:30 - 17:30   TP
+
+
+GIA400     ANALYSE DE RENTABILITÉ DE PROJETS
+           01     Mer        09:00 - 12:30   C
+                  Lun        08:30 - 12:30   TP A+B
+           02     Jeu        13:30 - 17:00   C
+                  Lun        13:30 - 17:30   TP A+B
+           03     Mar        09:00 - 12:30   C
+                  Jeu        08:30 - 12:30   TP A+B
+           04     Mer        13:30 - 17:00   C
+                  Ven        08:30 - 12:30   TP A+B
+           05     Jeu        09:00 - 12:30   C
+                  Mar        08:30 - 12:30   TP A+B
+           06     Jeu        18:00 - 21:30   C
+                  Mar        18:00 - 20:00   TP
+           07     Mar        18:00 - 21:30   C
+                  Jeu        18:00 - 20:00   TP
+
+
+
+
+         13 février 2015
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                           Baccalauréat en génie
+                                                                                de la PRODUCTION AUTOMATISÉE
+                                                 HORAIRE D'INSCRIPTION
+                                                           ÉTÉ 2015
+                           Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                     la date d'application de la pénalité pour inscription tardive.
+                                                        www.etsmtl.ca/calendrier_ETS
+
+COURS      GR     JOUR        HEURE          ACTIVITÉ      LOCAL                       PRÉALABLES
+
+
+GIA400     ANALYSE DE RENTABILITÉ DE PROJETS
+           08     Lun        18:00 - 21:30   C
+                  Mer        18:00 - 20:00   TP
+
+
+GPA205     CONCEPTION DE SYSTÈMES DE PRODUCTION
+           01     Mar        18:00 - 21:30   C
+                  Jeu        18:00 - 20:00   Labo          A-3602
+
+
+GPA210     ÉLÉMENTS DE FABRICATION MÉCANIQUE
+           01     Lun        13:30 - 17:00   C
+                  Mer        13:30 - 16:30   Labo          A-0650, A-4516
+
+
+GPA430     TECHNIQUES D'OPTIMISATION EN PRODUCTION AUTOMATISÉE                         MAT165
+           01     Mar        13:30 - 17:00   C
+                  Ven        13:30 - 15:30   TP            A-3612
+
+
+GPA435     SYSTÈMES D'EXPLOITATION ET PROGRAMMATION DE SYSTÈMES                        INF155
+           01     Mer        18:00 - 21:30   C
+                  Lun        18:00 - 21:00   Labo          A-3612
+
+
+GPA445     CONCEPTION ASSISTÉE PAR ORDINATEUR                                          INF155
+           01     Jeu        13:30 - 17:00   C
+                  Lun        13:30 - 16:30   TP            A-3612
+
+
+GPA535     SYSTÈMES ASSERVIS                                                           MAT165 et MAT265
+           01     Mar        18:00 - 21:30   C
+                  Jeu        18:00 - 21:00   Labo          A-3336, A-3612
+
+
+GPA546     ROBOTS INDUSTRIELS                                                          MAT165 et MAT265
+           01     Mar        08:30 - 12:00   C             A-3336
+                  Jeu        08:30 - 11:30   Labo          A-0610, A-3608
+
+
+GPA548     GESTION DE LA PRODUCTION                                                    GPA205, GPA430,Pr. P: GPA430
+           01     Mer        08:30 - 12:00   C
+                  Lun        08:30 - 10:30   TP            A-3728
+
+
+GPA659     VISION ARTIFICIELLE
+           01     Lun        18:00 - 21:30   C
+                  Mer        18:00 - 21:00   Labo          A-3612
+
+
+GPA664     FABRICATION ASSISTÉE PAR ORDINATEUR                                         GPA445
+           01     Mar        13:30 - 17:00   C             A-3726
+                  Ven        13:30 - 16:30   Labo          A-0634, A-3726
+
+
+GPA667     CONCEPTION ET SIMULATION DE CIRCUITS ÉLECTRONIQUES                          GPA325,Conc. II: GPA325 - E
+           01     Lun        13:30 - 17:00   C
+                  Mer        13:30 - 16:30   Labo          A-3612
+
+
+GPA668     CAPTEURS ET ACTIONNEURS                                                     GPA535
+           01     Jeu        08:30 - 12:00   C
+                  Mar        08:30 - 11:30   Labo          A-3612
+
+
+GPA754     CELLULES DE PRODUCTION ROBOTISÉE                                            GPA546
+           01     Mer        08:30 - 12:00   C
+                  Lun        08:30 - 10:30   Labo A        A-0610, A-3602
+
+
+GPA770     MICROÉLECTRONIQUE APPLIQUÉE                                                 GPA325
+           01     Mar        18:00 - 21:30   C
+                  Jeu        18:00 - 21:00   Labo          A-3564
+
+
+         13 février 2015
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                           Baccalauréat en génie
+                                                                                de la PRODUCTION AUTOMATISÉE
+                                                 HORAIRE D'INSCRIPTION
+                                                           ÉTÉ 2015
+                           Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                     la date d'application de la pénalité pour inscription tardive.
+                                                        www.etsmtl.ca/calendrier_ETS
+
+COURS      GR     JOUR        HEURE          ACTIVITÉ      LOCAL                       PRÉALABLES
+
+
+GPA775     BASE DE DONNÉES                                                             INF155
+           01     Jeu        08:30 - 12:00   C
+                  Mar        08:30 - 11:30   Labo          A-3726
+
+
+GPA783     ASSERVISSEMENT NUMÉRIQUE EN TEMPS RÉEL                                      GPA535
+           01     Mer        18:00 - 21:30   C
+                  Lun        18:00 - 21:00   Labo          A-3602
+
+
+GPA786     RENTABILITÉ DE PROJETS D'AUTOMATISATION                                     GIA400
+           01     Jeu        18:00 - 21:30   C
+                  Mar        18:00 - 20:00   TP            A-3612
+
+
+GPA791     PROJETS SPÉCIAUX                                                            Autorisation du directeur de département
+                                             Projet
+
+
+GPA792     PROJET DE FIN D'ÉTUDES EN GÉNIE DE LA PRODUCTION AUTOMATISÉE                STA302
+                                             Projet
+
+
+GTS792     PROJET DE FIN D'ÉTUDES EN TECHNOLOGIES DE LA SANTÉ                          STA351 et 6 cr. obtenus en Conc. Technologie de la santé
+                                             Projet
+
+
+INF155     INTRODUCTION À LA PROGRAMMATION
+           01     Lun        18:00 - 21:30   C
+                  Mer        18:00 - 21:00   Labo          B-2408
+
+
+ING150     STATIQUE ET DYNAMIQUE
+           01     Lun        09:00 - 12:30   C
+                  Mer        09:00 - 12:00   TP
+           02     Jeu        13:30 - 17:00   C
+                  Lun        13:30 - 16:30   TP
+           03     Mar        18:00 - 21:30   C
+                  Jeu        18:00 - 21:00   TP
+           04     Ven        09:00 - 12:30   C
+                  Mer        13:30 - 16:30   TP
+           05     Jeu        09:00 - 12:30   C
+                  Mar        09:00 - 12:00   TP
+
+
+ING160     THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                                    ING150
+           01     Lun        13:30 - 17:00   C
+                  Jeu        13:30 - 16:30   TP
+           02     Mer        09:00 - 12:30   C
+                  Lun        09:00 - 12:00   TP
+           03     Mer        18:00 - 21:30   C
+                  Lun        18:00 - 21:00   TP
+           04     Ven        09:00 - 12:30   C
+                  Mer        13:30 - 16:30   TP
+
+
+MAT144     INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE (HORS PROG.)
+           80     Lun        13:30 - 17:00   C                                         DÉBUT : 25 MAI FIN : 12 AOÛT
+                  Mer        13:30 - 16:30   TP
+           81     Mar        18:00 - 21:30   C                                         DÉBUT : 26 MAI FIN : 13 AOÛT
+                  Jeu        18:00 - 21:00   TP
+
+
+MAT145     CALCUL DIFFÉRENTIEL ET INTÉGRAL
+           01     Mar        09:00 - 12:30   C
+                  Jeu        09:00 - 12:00   TP
+           02     Mar        13:30 - 17:00   C
+                  Ven        13:30 - 16:30   TP
+
+
+
+
+         13 février 2015
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                           Baccalauréat en génie
+                                                                                de la PRODUCTION AUTOMATISÉE
+                                                 HORAIRE D'INSCRIPTION
+                                                           ÉTÉ 2015
+                           Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                     la date d'application de la pénalité pour inscription tardive.
+                                                        www.etsmtl.ca/calendrier_ETS
+
+COURS      GR     JOUR        HEURE          ACTIVITÉ      LOCAL                       PRÉALABLES
+
+
+MAT145     CALCUL DIFFÉRENTIEL ET INTÉGRAL
+           03     Ven        09:00 - 12:30   C
+                  Mer        13:30 - 16:30   TP
+           04     Mer        18:00 - 21:30   C
+                  Lun        18:00 - 21:00   TP
+           05     Lun        13:30 - 17:00   C
+                  Jeu        13:30 - 16:30   TP
+           06     Lun        09:00 - 12:30   C
+                  Mer        09:00 - 12:00   TP
+
+
+MAT165     ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                     MAT145
+           01     Jeu        09:00 - 12:30   C
+                  Mar        09:00 - 12:00   TP
+           02     Mer        13:30 - 17:00   C
+                  Ven        09:00 - 12:00   TP
+           03     Mar        13:30 - 17:00   C
+                  Ven        13:30 - 16:30   TP
+           04     Lun        09:00 - 12:30   C
+                  Mer        09:00 - 12:00   TP
+           05     Jeu        13:30 - 17:00   C
+                  Lun        13:30 - 16:30   TP
+           06     Mar        18:00 - 21:30   C
+                  Jeu        18:00 - 21:00   TP
+           07     Mar        09:00 - 12:30   C
+                  Jeu        09:00 - 12:00   TP
+           08     Mer        09:00 - 12:30   C
+                  Lun        09:00 - 12:00   TP
+           09     Ven        09:00 - 12:30   C
+                  Mer        13:30 - 16:30   TP
+
+
+MAT265     ÉQUATIONS DIFFÉRENTIELLES                                                   MAT145
+           01     Mer        09:00 - 12:30   C
+                  Lun        09:00 - 12:00   TP
+           02     Ven        09:00 - 12:30   C
+                  Mer        13:30 - 16:30   TP
+           03     Mar        13:30 - 17:00   C
+                  Ven        13:30 - 16:30   TP
+           04     Lun        13:30 - 17:00   C
+                  Jeu        13:30 - 16:30   TP
+           05     Mar        09:00 - 12:30   C
+                  Jeu        09:00 - 12:00   TP
+           06     Lun        09:00 - 12:30   C
+                  Mer        09:00 - 12:00   TP
+           07     Jeu        18:00 - 21:30   C
+                  Mar        18:00 - 21:00   TP
+           08     Jeu        13:30 - 17:00   C
+                  Lun        13:30 - 16:30   TP
+           09     Mer        13:30 - 17:00   C
+                  Ven        09:00 - 12:00   TP
+           10     Jeu        09:00 - 12:30   C
+                  Mar        09:00 - 12:00   TP
+
+
+MAT350     PROBABILITÉS ET STATISTIQUES                                                MAT145
+           01     Lun        09:00 - 12:30   C
+                  Mer        09:00 - 12:00   TP
+           02     Jeu        09:00 - 12:30   C
+                  Mar        09:00 - 12:00   TP
+           03     Jeu        13:30 - 17:00   C
+                  Lun        13:30 - 16:30   TP
+
+
+         13 février 2015
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                           Baccalauréat en génie
+                                                                                de la PRODUCTION AUTOMATISÉE
+                                                 HORAIRE D'INSCRIPTION
+                                                           ÉTÉ 2015
+                           Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                     la date d'application de la pénalité pour inscription tardive.
+                                                        www.etsmtl.ca/calendrier_ETS
+
+COURS      GR     JOUR        HEURE          ACTIVITÉ      LOCAL                       PRÉALABLES
+
+
+MAT350     PROBABILITÉS ET STATISTIQUES                                                MAT145
+           04     Mer        13:30 - 17:00   C
+                  Ven        09:00 - 12:00   TP
+           05     Mar        18:00 - 21:30   C
+                  Jeu        18:00 - 21:00   TP
+           06     Lun        18:00 - 21:30   C
+                  Mer        18:00 - 21:00   TP
+           07     Lun        13:30 - 17:00   C
+                  Jeu        13:30 - 16:30   TP
+           08     Mer        09:00 - 12:30   C
+                  Lun        09:00 - 12:00   TP
+           09     Mar        09:00 - 12:30   C
+                  Jeu        09:00 - 12:00   TP
+           10     Mar        13:30 - 17:00   C
+                  Ven        13:30 - 16:30   TP
+           11     Ven        09:00 - 12:30   C
+                  Mer        13:30 - 16:30   TP
+
+
+PHY144     INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS PROGRAMME)
+           80     Lun        18:00 - 21:30   C                                         DÉBUT : 25 MAI FIN : 12 AOÛT
+                  Mer        18:00 - 21:00   TP
+           81     Mar        13:30 - 17:00   C                                         DÉBUT : 26 MAI FIN : 13 AOÛT
+                  Jeu        13:30 - 16:30   TP
+
+
+PHY332     ÉLECTRICITÉ ET MAGNÉTISME                                                   ING150
+           01     Lun        13:30 - 17:00   C
+                  Jeu        13:30 - 16:30   TP
+           02     Ven        09:00 - 12:30   C
+                  Mer        13:30 - 16:30   TP
+           03     Mar        09:00 - 12:30   C
+                  Jeu        09:00 - 12:00   TP
+           04     Mer        18:00 - 21:30   C
+                  Lun        18:00 - 21:00   TP
+           05     Mer        09:00 - 12:30   C
+                  Lun        09:00 - 12:00   TP
+           06     Lun        09:00 - 12:30   C
+                  Mer        09:00 - 12:00   TP
+           07     Mar        13:30 - 17:00   C
+                  Ven        13:30 - 16:30   TP
+
+
+PHY335     PHYSIQUE DES ONDES                                                          ING150
+           01     Mer        09:00 - 12:30   C
+                  Lun        09:00 - 12:00   TP
+           02     Jeu        09:00 - 12:30   C
+                  Mar        09:00 - 12:00   TP
+           03     Mer        13:30 - 17:00   C
+                  Ven        09:00 - 12:00   TP
+           04     Mar        13:30 - 17:00   C
+                  Ven        13:30 - 16:30   TP
+           05     Jeu        18:00 - 21:30   C
+                  Mar        18:00 - 21:00   TP
+           06     Lun        13:30 - 17:00   C
+                  Jeu        13:30 - 16:30   TP
+           07     Mar        09:00 - 12:30   C
+                  Jeu        09:00 - 12:00   TP
+           08     Lun        09:00 - 12:30   C
+                  Mer        09:00 - 12:00   TP
+           09     Jeu        13:30 - 17:00   C
+                  Lun        13:30 - 16:30   TP
+
+
+         13 février 2015
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                      Baccalauréat en génie
+                                                                                           de la PRODUCTION AUTOMATISÉE
+                                                     HORAIRE D'INSCRIPTION
+                                                               ÉTÉ 2015
+                              Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                        la date d'application de la pénalité pour inscription tardive.
+                                                           www.etsmtl.ca/calendrier_ETS
+
+COURS      GR     JOUR            HEURE         ACTIVITÉ      LOCAL                             PRÉALABLES
+
+
+PRE010     INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 22 et 23 mai 2015
+           01     Ven           18:00 - 21:00   Atelier
+                  Sam           09:00 - 16:00   Atelier
+
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 22 et 23 mai 2015
+           02     Ven       18:00 - 21:00       Atelier
+                  Sam       09:00 - 16:00       Atelier
+
+           Volet stages - activité à compléter en ligne
+           03     Activité en ligne             Atelier
+
+
+TIN501     ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ                                                Minimum 70 Cr
+           01     Jeu           09:00 - 12:30   C
+                  Mar           08:30 - 12:30   TP A+B
+           02     Mer           09:00 - 12:30   C
+                  Lun           08:30 - 12:30   TP A+B
+           03     Ven           09:00 - 12:30   C
+                  Mer           13:30 - 17:30   TP A+B
+           04     Mar           13:30 - 17:00   C
+                  Ven           13:30 - 17:30   TP A+B
+           05     Mer           18:00 - 21:30   C
+                  Lun           18:00 - 20:00   TP
+           06     Mar           18:00 - 21:30   C
+                  Jeu           18:00 - 20:00   TP
+           07     Lun           13:30 - 17:00   C
+                  Jeu           13:30 - 17:30   TP A+B
+
+
+TIN502     SANTÉ, TECHNOLOGIE ET SOCIÉTÉ                                                        Minimum 70 Cr
+           01     Lun           18:00 - 21:30   C
+                  Mer           18:00 - 20:00   TP
+
+
+NOTES
+a)         Activités
+           C : cours        TP : travaux pratiques                                              LABO : laboratoires
+                            TP/2 : travaux pratiques aux deux (2) semaines                      LABO/2 : laboratoires aux deux (2) semaines
+                            * : préalable ou concomitant                                        LABO B*** : Labo B aura lieu si le nombre d'étudiants le
+
+           TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des
+           étudiants devront se présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2)
+           heures. Ceci vous sera confirmé au début du trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu
+           en même temps, s'il est indiqué (A+B) à côté de chacun des travaux pratiques (TP).
+
+b)         À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+           Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+           Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+   Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux
+pratiques et les laboratoires commencent la deuxième semaine de la session à condition qu'une séance de
+                                      cours ait préalablement eu lieu.
+
+
+
+
+         13 février 2015
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                          Baccalauréat en génie
+                                                                               de la PRODUCTION AUTOMATISÉE
+                                           HORAIRE D'INSCRIPTION
+                                                       ÉTÉ 2015
+                          Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                    la date d'application de la pénalité pour inscription tardive.
+                                                    www.etsmtl.ca/calendrier_ETS
+
+COURS     GR     JOUR        HEURE       ACTIVITÉ      LOCAL                       PRÉALABLES
+
+
+
+ Modalités des ateliers PRE010 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants
+ sauf ceux détenant une carte ASP. Pour les étudiants du programme 7622 en génie de la construction ou
+     tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité sur
+       présentation de votre carte ASP au Service de l'enseignement coopératif). - VOLET STAGES
+    (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être
+ complétée en ligne, le Service de l'enseignement coopératif vous informera de la procédure à suivre par
+              courriel. Les étudiants du programme 7622 doivent s'inscrire dans le groupe 03.
+
+
+
+
+        13 février 2015
+

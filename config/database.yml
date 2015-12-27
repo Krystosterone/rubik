@@ -1,0 +1,27 @@
+default: &default
+  adapter: mysql2
+  encoding: utf8
+  pool: 10
+
+development:
+  <<: *default
+  username: root
+  password:
+  host: localhost
+  database: rubik_development
+
+test: &test
+  <<: *default
+  username: root
+  password:
+  host: localhost
+  database: rubik_test
+
+<% if ENV['DATABASE_URL'] %>
+production:
+  <<: *default
+  url: <%= ENV.fetch('DATABASE_URL') %>
+<% end %>
+
+cucumber:
+  <<: *test

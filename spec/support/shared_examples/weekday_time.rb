@@ -1,0 +1,33 @@
+shared_examples 'WeekdayTime' do
+  context 'for 200 minutes' do
+    subject { described_class.new(200) }
+
+    its(:total_minutes) { is_expected.to eq(200) }
+    it { is_expected.to delegate_method(:to_s).to(:total_minutes) }
+
+    describe '#to_i' do
+      it 'returns #total_minutes' do
+        expect(subject.to_i).to eq(200)
+      end
+    end
+
+    its(:hour) { is_expected.to eq(3) }
+    its(:minutes) { is_expected.to eq(20) }
+  end
+
+  describe '#==' do
+    context 'when both do not match' do
+      it 'returns false' do
+        expect(described_class.new(10))
+          .not_to eq(described_class.new(20))
+      end
+    end
+
+    context 'when both match' do
+      it 'is true' do
+        expect(described_class.new(550))
+          .to eq(described_class.new(550))
+      end
+    end
+  end
+end

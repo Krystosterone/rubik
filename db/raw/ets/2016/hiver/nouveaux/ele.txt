@@ -1,0 +1,221 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                    7483 : Baccalauréat en génie électrique
+
+                           HORAIRE D'INSCRIPTION DES NOUVEAUX ÉTUDIANTS
+                                                         HIVER 2016
+                         DU 30 OCTOBRE AU 18 DÉCEMBRE 2015 À L'AIDE DE CHEMINOT
+                                              Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                             Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                             Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS       GR    JOUR         HEURE          ACTIVITÉ   LOCAL        ENSEIGNANT              PRÉALABLES
+
+
+ATE050      RÉUSSIR EN GÉNIE
+            01    Mar        18:00 - 20:00    Atelier
+
+
+COM110      MÉTHODES DE COMMUNICATION                                                         TEST DE FRANCAIS OU FRA150 OU FRA151
+
+            01    Jeu        09:00 - 12:30    C
+                  Mar        08:30 - 12:30    TP A+B
+            02    Mer        09:00 - 12:30    C
+                  Lun        08:30 - 12:30    TP A+B
+            03    Mar        13:30 - 17:00    C
+                  Ven        13:30 - 17:30    TP A+B
+            04    Mar        18:00 - 21:30    C
+                  Jeu        18:00 - 22:00    TP A+B
+            05    Lun        18:00 - 21:30    C
+                  Ven        18:00 - 22:00    TP A+B
+            06    Mer        13:30 - 17:00    C
+                  Ven        08:30 - 12:30    TP A+B
+            07    Sam        13:00 - 16:30    C
+                  Sam        08:00 - 12:00    TP A+B
+            08    Lun        13:30 - 17:00    C
+                  Jeu        13:30 - 17:30    TP A+B
+
+
+ELE116      ENVIRONNEMENT DE DÉVELOPPEMENT DE LOGICIELS
+            01    Mar        18:00 - 21:30    C
+                  Mer        18:00 - 20:00    Labo       A-3334
+
+
+ELE140      CONCEPTION DES SYSTÈMES NUMÉRIQUES
+            01    Mar        08:30 - 12:00    C
+                  Mar        13:30 - 15:30    TP/2
+                  Jeu        08:30 - 12:30    Labo/2     A-2509, A-
+                                                         3334
+
+
+FRA150      FRANÇAIS ÉCRIT
+            01    Lun        18:00 - 21:30    C
+                  Mer        18:00 - 20:00    TP
+
+
+FRA151      FRANÇAIS ÉCRIT
+            01    Lun        18:00 - 21:30    C
+                  Mer        18:00 - 22:00    TP
+
+
+INF145      PROGRAMMATION AVANCÉE ET LANGAGE C
+            01    Lun        13:30 - 17:00    C
+                  Jeu        13:30 - 16:30    Labo       E-4022
+            02    Jeu        18:00 - 21:30    C
+                  Mar        18:00 - 21:00    Labo       E-4021
+            03    Mer        18:00 - 21:30    C
+                  Lun        18:00 - 21:00    Labo       E-4023
+
+
+ING150      STATIQUE ET DYNAMIQUE
+            01    Lun        09:00 - 12:30    C
+                  Mer        09:00 - 12:00    TP
+            04    Mar        18:00 - 21:30    C
+                  Jeu        18:00 - 21:00    TP
+
+
+MAT144      INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE (HORS
+            PROG )
+            02    Lun        13:30 - 17:00    C
+                  Jeu        13:30 - 16:30    TP
+            03    Lun        18:00 - 21:30    C
+                  Mer        18:00 - 21:00    TP
+
+
+
+
+         08 octobre 2015                                                                                     Page : 1/3
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                         7483 : Baccalauréat en génie électrique
+
+                            HORAIRE D'INSCRIPTION DES NOUVEAUX ÉTUDIANTS
+                                                                   HIVER 2016
+                           DU 30 OCTOBRE AU 18 DÉCEMBRE 2015 À L'AIDE DE CHEMINOT
+                                                  Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                 Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                 Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS       GR     JOUR            HEURE          ACTIVITÉ      LOCAL       ENSEIGNANT             PRÉALABLES
+
+
+MAT145      CALCUL DIFFÉRENTIEL ET INTÉGRAL
+            03     Lun           13:30 - 17:00    C
+                   Jeu           13:30 - 16:30    TP
+            08     Lun           18:00 - 21:30    C
+                   Mer           18:00 - 21:00    TP
+
+
+MATEST      ACCUEIL EN MATHÉMATIQUES
+            02     Lun           13:30 - 17:00    C
+                   Jeu           13:30 - 16:30    TP
+            03     Lun           18:00 - 21:30    C
+                   Mer           18:00 - 21:00    TP
+
+
+PHY144      INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
+            PROGRAMME)
+            01     Lun           09:00 - 12:30    C
+                   Mer           09:00 - 12:00    TP
+            02     Mar           18:00 - 21:30    C
+                   Jeu           18:00 - 21:00    TP
+
+
+PHYEST      ACCUEIL EN PHYSIQUE
+            01     Lun           09:00 - 12:30    C
+                   Mer           09:00 - 12:00    TP
+            02     Mar           18:00 - 21:30    C
+                   Jeu           18:00 - 21:00    TP
+
+
+PRE010      INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 5 et 6 février 2016
+            01     Ven           18:00 - 21:00    Atelier
+                   Sam           09:00 - 16:00    TP
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 15, 16 et 17 février 2016
+            02     Lun           18:00 - 21:00    Atelier
+                   Mar           18:00 - 21:00    TP A
+                   Mer           18:00 - 21:00    TP B
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 5 et 6 février 2016
+            03     Ven           18:00 - 21:00    Atelier
+                   Sam           09:00 - 16:00    TP
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 15, 16 et 17 février 2016
+            04     Lun           18:00 - 21:00    Atelier
+                   Mar           18:00 - 21:00    TP A
+                   Mer           18:00 - 21:00    TP B
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 4 et 5 mars 2016
+            05     Ven           18:00 - 21:00    Atelier
+                   Sam           09:00 - 16:00    TP
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 4 et 5 mars 2016
+            06     Ven           18:00 - 21:00    Atelier
+                   Sam           09:00 - 16:00    TP
+
+            Volet stages - activité à compléter en ligne
+            07     Activité en ligne              Atelier
+
+
+
+
+         08 octobre 2015                                                                                        Page : 2/3
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                                      7483 : Baccalauréat en génie électrique
+
+                               HORAIRE D'INSCRIPTION DES NOUVEAUX ÉTUDIANTS
+                                                                          HIVER 2016
+                               DU 30 OCTOBRE AU 18 DÉCEMBRE 2015 À L'AIDE DE CHEMINOT
+                                                     Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS       GR          JOUR          HEURE             ACTIVITÉ          LOCAL             ENSEIGNANT                                  PRÉALABLES
+
+
+NOTES
+a)          Programmes d'études
+            B:                 baccalauréat
+            GAQ :              certificat en gestion et assurance de la qualité
+            GC :               certificat en gestion de la construction
+            GE :               certificat et programme court de 1er cycle en gestion des établissements
+            PI :               certificat en production industrielle
+            CT :               certificat en télécommunication
+            TS :               certificat spécialisé en génie des technologie de la santé
+b)          Activités
+            C : cours          TP : travaux pratiques                                       LABO : laboratoires
+                               TP/2 : travaux pratiques aux deux (2) semaines               LABO/2 : laboratoires aux deux (2) semaines
+            TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+            présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+            trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+            pratiques (TP).
+
+c)          À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+            Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+            Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+  Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 9 h - aux dates spécifiques indiquées
+pour chaque groupe. Modalités des ateliers PRE010 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous
+       les étudiants sauf ceux détenant une carte ASP. Pour les étudiants du programme 7622 en génie de la
+ construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité en
+  suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). -
+  VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit
+   être complétée en ligne, le Service de l'enseignement coopératif vous informera de la procédure à suivre par
+                  courriel. Les étudiants du programme 7622 doivent s'inscrire dans le groupe 07.
+
+
+
+
+         08 octobre 2015                                                                                                                                     Page : 3/3
+

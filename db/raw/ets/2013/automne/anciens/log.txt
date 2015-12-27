@@ -1,0 +1,684 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                               Baccalauréat en génie LOGICIEL
+
+
+                                             HORAIRE AUTOMNE 2013
+                                                 Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                 Locaux B: bâtiment nord, 1111, Notre-Dame O.
+   Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                             deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR    JOUR        HEURE         ACTIVITÉ    LOCAL                ENSEIGNANT                                  PRÉALABLES
+
+
+ANG010       ANGLAIS POUR INGÉNIEURS I
+             01    Lun       18:00 - 21:30   C           B-1516               R. Hailpern
+                   Ven       18:00 - 20:00   TP          B-1514
+
+
+ATE050       RÉUSSIR EN GÉNIE
+             01    Mar       08:30 - 10:30   Atelier     B-1508               L. Massicotte
+
+
+CHM131       CHIMIE ET MATÉRIAUX
+             01    Mer       13:30 - 17:00   C           B-1516               M. Clisson
+                   Ven       09:00 - 12:00   TP          B-1514
+             02    Lun       13:30 - 17:00   C           B-1518               D. Piotte
+                   Jeu       13:30 - 16:30   TP          B-3416
+             03    Mer       09:00 - 12:30   C           B-1518               P. Baril
+                   Lun       09:00 - 12:00   TP          B-1504
+             04    Jeu       09:00 - 12:30   C           A-2448               A. Benmassaoud
+                   Mar       09:00 - 12:00   TP          B-1708
+             05    Mar       13:30 - 17:00   C           B-1518               T. Rivard
+                   Ven       13:30 - 16:30   TP          B-1516
+             06    Jeu       13:30 - 17:00   C           B-1514               P. Baril
+                   Lun       13:30 - 16:30   TP          B-1706
+             07    Mer       18:00 - 21:30   C           B-1514               P. Baril
+                   Lun       18:00 - 21:00   TP          B-1506
+             08    Jeu       18:00 - 21:30   C           B-1504               T. Rivard
+                   Mar       18:00 - 21:00   TP          B-1514
+             09    Ven       09:00 - 12:30   C           B-0908               T. Rivard
+                   Mer       13:30 - 16:30   TP          B-3402
+             10    Mar       09:00 - 12:30   C           B-1706               D. Piotte
+                   Jeu       09:00 - 12:00   TP          B-3402
+
+
+COM110       MÉTHODES DE COMMUNICATION
+             01    Jeu       13:30 - 17:00   C           B-4408               G. Mireault
+                   Lun       13:30 - 17:30   TP A+B      B-3404
+             02    Ven       09:00 - 12:30   C           B-1502
+                   Mer       13:30 - 17:30   TP A+B      B-3408
+             03    Mar       09:00 - 12:30   C           B-4410               L. Arel
+                   Jeu       08:30 - 12:30   TP A+B      B-3404
+             04    Jeu       09:00 - 12:30   C           B-1518               Y. Rouillard
+                   Mar       08:30 - 12:30   TP A+B      B-3404
+             05    Mer       13:30 - 17:00   C           B-1504               J. Richard
+                   Ven       08:30 - 12:30   TP A+B      B-3408
+             06    Lun       09:00 - 12:30   C           B-1502               Y. Rouillard
+                   Mer       08:30 - 12:30   TP A+B      B-3408
+             07    Lun       13:30 - 17:00   C           B-4408               C. Bachaalani
+                   Jeu       13:30 - 17:30   TP A+B      B-3410
+             08    Mer       18:00 - 21:30   C           B-1516               D. Déry
+                   Ven       18:00 - 22:00   TP A+B      B-3408
+             09    Mer       09:00 - 12:30   C           B-1516               L. Massicotte
+                   Lun       08:30 - 12:30   TP A+B      B-3408
+             10    Lun       18:00 - 21:30   C           B-1504               D. Déry
+                   Ven       18:00 - 22:00   TP A+B      B-3404
+             11    Mar       18:00 - 21:30   C           B-1502               R. Gélinas
+                   Jeu       18:00 - 22:00   TP A+B      B-3404
+             12    Jeu       09:00 - 12:30   C           B-1504
+                   Mar       08:30 - 12:30   TP A+B      B-3408
+             13    Mer       09:00 - 12:30   C           B-1504               C. Bachaalani
+                   Lun       08:30 - 12:30   TP A+B      B-3404
+
+
+COM115       COMMUNICATION INTERCULTURELLE
+             01    Lun       13:30 - 17:00   C           B-3402               J. Richard
+                   Jeu       13:30 - 17:30   TP A+B      B-3408
+
+
+ELE747       ANALYSE ET TRAITEMENT D'IMAGES
+             01    Mer       18:00 - 21:30   C           B-1510               R. Noumeir
+                   Lun       18:00 - 20:00   Labo        A-3334
+
+
+
+
+         Date : 2013-09-19                                                                                                           Page : 1/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                Baccalauréat en génie LOGICIEL
+
+
+                                             HORAIRE AUTOMNE 2013
+                                                 Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                 Locaux B: bâtiment nord, 1111, Notre-Dame O.
+   Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                             deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR    JOUR        HEURE         ACTIVITÉ    LOCAL                ENSEIGNANT                                  PRÉALABLES
+
+FRA150       FRANÇAIS ÉCRIT
+             01    Jeu       18:00 - 21:30   C           B-1706               A.M. Fortin
+                   Mar       18:00 - 20:00   TP          B-1404
+
+
+FRA151       FRANÇAIS ÉCRIT
+             01    Jeu       18:00 - 21:30   C           B-3402               G. Mireault
+                   Mar       18:00 - 22:00   TP          B-3416
+
+
+GIA400       ANALYSE DE RENTABILITÉ DE PROJETS
+             01    Mer       09:00 - 12:30   C           B-3406               P. Coutou
+                   Lun       08:30 - 12:30   TP A+B      B-3406
+             02    Jeu       09:00 - 12:30   C           A-2332               Y. Wagner
+                   Mar       08:30 - 12:30   TP A+B      B-1404
+             03    Ven       13:30 - 17:00   C           B-3416               K. Lagacé
+                   Mar       13:30 - 17:30   TP A+B      B-3416
+             04    Lun       09:00 - 12:30   C           B-3402               L. Parent
+                   Mer       08:30 - 12:30   TP A+B      B-3416
+             05    Ven       09:00 - 12:30   C           B-1404               K. Lagacé
+                   Mer       13:30 - 17:30   TP A+B      A-2448
+             06    Mar       09:00 - 12:30   C           B-3402               K. Lagacé
+                   Jeu       08:30 - 12:30   TP A+B      B-3406
+             07    Mar       18:00 - 21:30   C           B-4408               L. Parent
+                   Jeu       18:00 - 20:00   TP          B-4408
+             08    Lun       18:00 - 21:30   C           B-1514               R. Jeannotte
+                   Ven       18:00 - 20:00   TP          B-1502
+             09    Jeu       13:30 - 17:00   C           B-1706               P. Coutou
+                   Lun       13:30 - 17:30   TP A+B      B-1708
+             10    Mer       18:00 - 21:30   C           B-1504               Y. Wagner
+                   Ven       18:00 - 20:00   TP          B-3428
+
+
+GIA601       ERGONOMIE ET SÉCURITÉ EN MILIEU DE TRAVAIL
+             01    Jeu       18:00 - 21:30   C           B-1518               J. Bassal
+                   Mar       18:00 - 20:00   TP-Labo A   A-1238, A-1220
+                   Mar       20:00 - 22:00   TP-Labo B   A-1238
+
+
+GPE450       GESTION DU PERSONNEL ET RELATIONS INDUSTRIELLES
+             01    Ven       13:30 - 17:00   C           A-2332               S. Tétreault
+                   Mer       15:30 - 17:30   TP          B-3422
+             02    Mer       18:00 - 21:30   C           B-1708               S. Tétreault
+                   Ven       18:00 - 20:00   TP          B-1504
+
+
+GPO605       ENTREPRENEURIAT ET INNOVATION
+             01    Mar       13:30 - 17:00   C           A-1150               M. Devost
+                   Ven       13:30 - 17:30   TP A+B      B-3428
+             02    Jeu       18:00 - 21:30   C           B-0904               M. Devost
+                   Mar       18:00 - 20:00   TP          B-0904
+
+
+GTI350       CONCEPTION ET ÉVALUATION DES INTERFACES UTILISATEURS                                         LOG210
+             01    Mar       18:00 - 21:30   C           A-4522               M.J. McGuffin
+                   Jeu       18:00 - 21:00   Labo        A-3412
+             02    Jeu       18:00 - 21:30   C           A-1302               F. Cardinal
+                   Mar       18:00 - 21:00   Labo        A-3412
+
+
+GTI610       RÉSEAUX DE TÉLÉCOMMUNICATION                                                                 LOG121
+             01    Jeu       13:30 - 17:00   C           A-2330               M. Houde
+                   Lun       13:30 - 16:30   Labo        A-3322
+             02    Lun       13:30 - 17:00   C           A-1350               M. Houde
+                   Jeu       13:30 - 16:30   Labo        A-3322
+
+
+GTI619       SÉCURITÉ DES SYSTÈMES                                                                        LOG610 ou GTI610
+             01    Jeu       13:30 - 17:00   C           B-3402               C. Talhi
+                   Lun       13:30 - 15:30   TP-Labo A   A-3412
+                   Lun       15:30 - 17:30   TP-Labo B   A-3412
+             02    Lun       18:00 - 21:30   C           A-4522               M.A. Drapeau
+                   Mer       18:00 - 20:00   TP/Labo     A-3412
+
+
+GTI785       SYSTÈMES D'APPLICATIONS MOBILES
+             01    Lun       18:00 - 21:30   C           B-3402               L. Trudeau / M. Houde
+
+
+         Date : 2013-09-19                                                                                                           Page : 2/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                               Baccalauréat en génie LOGICIEL
+
+
+                                            HORAIRE AUTOMNE 2013
+                                             Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                             Locaux B: bâtiment nord, 1111, Notre-Dame O.
+   Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                             deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS       GR    JOUR        HEURE         ACTIVITÉ     LOCAL                ENSEIGNANT                                  PRÉALABLES
+                  Ven       18:00 - 20:00   Labo         A-3326
+
+
+
+
+        Date : 2013-09-19                                                                                                            Page : 3/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                     Baccalauréat en génie LOGICIEL
+
+
+                                             HORAIRE AUTOMNE 2013
+                                                 Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                 Locaux B: bâtiment nord, 1111, Notre-Dame O.
+   Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                             deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR    JOUR        HEURE         ACTIVITÉ    LOCAL                ENSEIGNANT                                  PRÉALABLES
+
+
+INF111       PROGRAMMATION ORIENTÉE-OBJET (HORS PROGRAMME)
+             01    Ven       13:30 - 17:00   C           B-1510               P. Bélisle
+                   Mar       13:30 - 16:30   Labo        B-2624
+             02    Mar       13:30 - 17:00   C           B-1512
+                   Ven       13:30 - 16:30   Labo        B-2624
+
+
+ING150       STATIQUE ET DYNAMIQUE
+             01    Lun       09:00 - 12:30   C           B-1516               A. Benmassaoud
+                   Mer       09:00 - 12:00   TP          B-1514
+             02    Ven       09:00 - 12:30   C           A-1562               A. Hénault
+                   Mer       13:30 - 16:30   TP          B-4408
+             03    Lun       13:30 - 17:00   C           A-1260               M. Perrault
+                   Jeu       13:30 - 16:30   TP          A-4670
+             04    Mar       18:00 - 21:30   C           B-1518               D. Lévesque
+                   Jeu       18:00 - 21:00   TP          B-1506
+             05    Mar       09:00 - 12:30   C           A-1238               C. Alinot
+                   Jeu       09:00 - 12:00   TP          A-4660
+             06    Mar       13:30 - 17:00   C           B-1404               A. Bordeleau
+                   Ven       13:30 - 16:30   TP          B-1404
+             07    Ven       09:00 - 12:30   C           B-2622
+                   Mer       13:30 - 16:30   TP          B-2622
+
+
+ING160       THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                                                     ING150
+             01    Mar       09:00 - 12:30   C           B-1514               D. Benhachmi
+                   Jeu       09:00 - 12:00   TP          B-1516
+             02    Jeu       13:30 - 17:00   C           B-1504               A. Hénault
+                   Lun       13:30 - 16:30   TP          B-4410
+             03    Lun       18:00 - 21:30   C           B-0908               X. Daxhelet
+                   Mer       18:00 - 21:00   TP          B-0908
+             04    Mer       13:30 - 17:00   C           B-1514               X. Lavocat-Dubuis
+                   Ven       09:00 - 12:00   TP          B-4408
+
+
+LOG121       CONCEPTION ORIENTÉE OBJET
+             01    Mar       13:30 - 17:00   C           A-1170               G. El boussaidi
+                   Ven       13:30 - 16:30   Labo        A-3412
+             02    Ven       13:30 - 17:00   C           A-1150               F. Cardinal
+                   Mar       13:30 - 16:30   Labo        A-3322
+             03    Ven       13:30 - 17:00   C           A-1350               D. St-Jacques
+                   Mar       13:30 - 16:30   Labo        A-3324
+             04    Mar       13:30 - 17:00   C           A-4408               F. Cardinal
+                   Ven       13:30 - 16:30   Labo        A-3324
+             05    Mar       13:30 - 17:00   C           B-1706               B. Galarneau
+                   Ven       13:30 - 16:30   Labo        A-3322
+
+
+LOG210       ANALYSE ET CONCEPTION DE LOGICIELS                                                           LOG121
+             01    Mar       08:45 - 12:15   C           B-3414               Y. Ross
+                   Jeu       08:30 - 11:30   Labo        A-3412
+             02    Jeu       08:30 - 12:00   C           B-3420               Y. Ross
+                   Mar       08:45 - 11:45   Labo        A-3412
+
+
+LOG240       TESTS ET MAINTENANCE                                                                         LOG121
+             01    Jeu       13:30 - 17:00   C           B-3406               F. Cardinal
+                   Lun       13:30 - 15:30   Labo A      A-3324
+                   Lun       15:30 - 17:30   Labo B      A-3324
+
+
+LOG320       STRUCTURES DE DONNÉES ET ALGORITHMES                                                         MAT210
+             01    Mar       08:45 - 12:15   C           A-1424               P. Dumouchel
+                   Jeu       08:30 - 11:30   TP/Labo     A-3336, A-3322
+
+
+LOG330       ASSURANCE DE LA QUALITÉ DES LOGICIELS                                                        LOG121 et LOG240
+             01    Mer       13:30 - 17:00   C           A-1160               A. April / P. Tardif
+                   Ven       08:45 - 10:45   TP-Labo A   A-3326
+                   Ven       10:45 - 12:45   TP-Labo B   A-3326
+             02    Ven       08:45 - 12:15   C           A-1302               P. Tardif
+                   Mer       13:30 - 15:30   TP-Labo A   A-3326
+                   Mer       15:30 - 17:30   TP-Labo B   A-3326
+
+
+
+         Date : 2013-09-19                                                                                                           Page : 4/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                               Baccalauréat en génie LOGICIEL
+
+
+                                             HORAIRE AUTOMNE 2013
+                                                 Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                 Locaux B: bâtiment nord, 1111, Notre-Dame O.
+   Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                             deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR    JOUR        HEURE         ACTIVITÉ    LOCAL                ENSEIGNANT                                     PRÉALABLES
+
+
+LOG410       ANALYSE DE BESOINS ET SPÉCIFICATIONS                                                         LOG240
+             01    Mer       18:00 - 21:30   C           B-3416               F. Robert
+                   Lun       18:00 - 20:00   TP/Labo     A-3412
+             02    Lun       18:00 - 21:30   C           A-3336               M. Brouillette
+                   Mer       18:00 - 20:00   TP/Labo     A-3322
+
+
+LOG430       ARCHITECTURE LOGICIELLE                                                                      LOG210
+             01    Mer       08:45 - 12:15   C           B-4410               R. Champagne
+                   Lun       08:30 - 11:30   Labo A      A-3322
+                   Lun       08:30 - 11:30   Labo B      A-3326
+
+
+LOG540       ANALYSE & CONCEP. DE LOGICIELS DE TÉLÉCOMMUNICATIONS                                         LOG610 ou GTI610
+             01    Jeu       18:00 - 21:30   C           A-1350               L.Trudeau
+                   Mar       18:00 - 20:00   Labo A      A-3324
+                   Mar       20:00 - 22:00   Labo B      A-3324
+
+
+LOG645       ARCHITECTURES DE CALCULS PARALLÈLES
+             01    Ven       08:45 - 12:15   C           A-4522               L. Thériault
+                   Mer       13:30 - 15:30   TP-Labo A   A-3322
+                   Mer       15:30 - 17:30   TP-Labo B   A-3322
+
+
+LOG720       ARCHITECTURE DISTRIBUÉE ORIENTÉE OBJET                                                       LOG430
+             01    Mer       08:45 - 12:15   C           A-1170               J. Boivin
+                   Lun       08:30 - 10:30   Labo A      A-3324
+                   Lun       10:30 - 12:30   Labo B      A-3324
+
+
+LOG750       INFOGRAPHIE                                                                                  MAT472
+             01    Mar       18:00 - 21:30   C           A-2448               L. Thériault
+                   Jeu       18:00 - 20:00   Labo        A-3322
+
+
+LOG791       PROJETS SPÉCIAUX                                                                             Autorisation du directeur de département
+                                             Projet
+
+
+LOG792       PROJET DE FIN D'ÉTUDES EN GÉNIE LOGICIEL                                                     PCL310
+                                             Projet
+
+
+MAT144       INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE (HORS PROG.)
+             01    Mer       09:00 - 12:30   C           A-2448               A. Lacasse
+                   Lun       09:00 - 12:00   TP          A-1562
+             02    Mar       09:00 - 12:30   C           B-1716               K. Pineau
+                   Jeu       09:00 - 12:00   TP          B-1716
+             03    Mer       13:30 - 17:00   C           A-1260               M. Morel
+                   Ven       09:00 - 12:00   TP          B-1718
+             04    Lun       13:30 - 17:00   C           B-1716               K. Pineau
+                   Jeu       13:30 - 16:30   TP          B-1716
+             05    Mar       13:30 - 17:00   C           A-1302               M. Morel
+                   Ven       13:30 - 16:30   TP          B-1718
+             06    Mer       18:00 - 21:30   C           B-1518               A. Régnier
+                   Lun       18:00 - 21:00   TP          B-4408
+             07    Mar       18:00 - 21:30   C           B-1706               M. Morel
+                   Jeu       18:00 - 21:00   TP          B-1516
+             08    Mer       09:00 - 12:30   C           A-4408               F.M. Fares
+                   Lun       09:00 - 12:00   TP          B-1718
+             09    Mar       09:00 - 12:30   C           B-1718               A. Lacasse
+                   Jeu       09:00 - 12:00   TP          B-1718
+             10    Mer       13:30 - 17:00   C           A-1238               F.M. Fares
+                   Ven       09:00 - 12:00   TP          A-4404
+             11    Lun       13:30 - 17:00   C           A-2448               S. Lafrance
+                   Jeu       13:30 - 16:30   TP          B-1718
+
+
+MAT145       CALCUL DIFFÉRENTIEL ET INTÉGRAL
+             01    Mer       09:00 - 12:30   C           A-1260               S. Lafrance
+                   Lun       09:00 - 12:00   TP          B-1518
+             02    Mer       09:00 - 12:30   C           A-1238               F. Kacher
+                   Lun       09:00 - 12:00   TP          B-1708
+             03    Mar       09:00 - 12:30   C           B-3406               S. Lafrance
+                   Jeu       09:00 - 12:00   TP          B-1404
+
+
+         Date : 2013-09-19                                                                                                                Page : 5/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                 Baccalauréat en génie LOGICIEL
+
+
+                                             HORAIRE AUTOMNE 2013
+                                                 Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                 Locaux B: bâtiment nord, 1111, Notre-Dame O.
+   Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                             deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR    JOUR        HEURE         ACTIVITÉ    LOCAL                ENSEIGNANT                                  PRÉALABLES
+MAT145       CALCUL DIFFÉRENTIEL ET INTÉGRAL
+             04    Mar       09:00 - 12:30   C           B-3416               C. Trottier
+                   Jeu       09:00 - 12:00   TP          B-3416
+             05    Mer       13:30 - 17:00   C           B-3416               F. Kacher
+                   Ven       09:00 - 12:00   TP          B-1706
+             06    Mer       13:30 - 17:00   C           B-1404               S. Hilal
+                   Ven       09:00 - 12:00   TP          B-3402
+             07    Lun       13:30 - 17:00   C           B-3406               R. Michaud
+                   Jeu       13:30 - 16:30   TP          B-1516
+             08    Lun       13:30 - 17:00   C           B-3416               R. Persechino / M. Beaudin
+                   Jeu       13:30 - 16:30   TP          B-1518
+             09    Mar       13:30 - 17:00   C           B-4408               R. Michaud
+                   Ven       13:30 - 16:30   TP          B-1518
+             10    Mar       13:30 - 17:00   C           B-1514               F.M. Fares
+                   Ven       13:30 - 16:30   TP          B-1506
+             11    Mer       18:00 - 21:30   C           B-1506               S. Hilal
+                   Lun       18:00 - 21:00   TP          B-4410
+             12    Mer       18:00 - 21:30   C           B-4408               P. Mbaraga
+                   Lun       18:00 - 21:00   TP          B-1502
+             13    Mar       18:00 - 21:30   C           B-1708               A. Régnier
+                   Jeu       18:00 - 21:00   TP          B-1502
+             14    Mar       18:00 - 21:30   C           B-1504               C. Lamathe
+                   Jeu       18:00 - 21:00   TP          B-4410
+             15    Mer       09:00 - 12:30   C           A-4404               R. Persechino
+                   Lun       09:00 - 12:00   TP          B-1706
+             16    Mar       09:00 - 12:30   C           A-1260               S. Ayad
+                   Jeu       09:00 - 12:00   TP          A-4404
+             17    Mer       13:30 - 17:00   C           A-4670               P. Choquette
+                   Ven       09:00 - 12:00   TP          B-4410
+             18    Lun       13:30 - 17:00   C           B-3428               G. Picard
+                   Jeu       13:30 - 16:30   TP          B-1708
+
+
+MAT210       LOGIQUE ET MATHÉMATIQUES DISCRÈTES                                                            MAT145
+             01    Lun       09:00 - 12:30   C           B-0908               P. Choquette
+                   Mer       09:00 - 12:00   TP          B-3428
+
+
+MAT265       ÉQUATIONS DIFFÉRENTIELLES                                                                     MAT145
+             01    Lun       09:00 - 12:30   C           A-4408               C. Trottier
+                   Mer       09:00 - 12:00   TP          B-4408
+             02    Jeu       09:00 - 12:30   C           B-4408               H. Lahoussine
+                   Mar       09:00 - 12:00   TP          B-1506
+             03    Ven       09:00 - 12:30   C           B-1516               C. Trottier
+                   Mer       13:30 - 16:30   TP          B-1708
+             04    Jeu       13:30 - 17:00   C           B-4410               H. Lahoussine
+                   Lun       13:30 - 16:30   TP          B-1502
+             05    Ven       13:30 - 17:00   C           B-1514               S. Ayad
+                   Mar       13:30 - 16:30   TP          B-1506
+             06    Mar       09:00 - 12:30   C           A-1302               L. Soucy
+                   Jeu       09:00 - 12:00   TP          A-1242
+             07    Lun       13:30 - 17:00   C           B-1504               L. Soucy
+                   Jeu       13:30 - 16:30   TP          B-1506
+             08    Lun       18:00 - 21:30   C           B-0906               J.B. Lévesque
+                   Mer       18:00 - 21:00   TP          B-0904
+             09    Mer       13:30 - 17:00   C           A-1242               M. Beaudin
+                   Ven       09:00 - 12:00   TP          B-1504
+             10    Mer       09:00 - 12:30   C           B-1506               S. Ayad
+                   Lun       09:00 - 12:00   TP          B-4410
+
+
+MAT350       PROBABILITÉS ET STATISTIQUES                                                                  MAT145
+             01    Lun       09:00 - 12:30   C           B-3428               D. Laferrière
+                   Mer       09:00 - 12:00   TP          B-1502
+             02    Jeu       09:00 - 12:30   C           B-4410               E.M. Frih
+                   Mar       09:00 - 12:00   TP          B-4408
+             03    Ven       09:00 - 12:30   C           B-1506               E.M. Frih
+                   Mer       13:30 - 16:30   TP          B-1502
+             04    Mar       13:30 - 17:00   C           B-3428               C. Blais
+                   Ven       13:30 - 16:30   TP          B-0906
+
+
+
+         Date : 2013-09-19                                                                                                           Page : 6/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                  Baccalauréat en génie LOGICIEL
+
+
+                                             HORAIRE AUTOMNE 2013
+                                                 Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                 Locaux B: bâtiment nord, 1111, Notre-Dame O.
+   Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                             deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR    JOUR        HEURE         ACTIVITÉ    LOCAL                ENSEIGNANT                                  PRÉALABLES
+MAT350       PROBABILITÉS ET STATISTIQUES                                                                 MAT145
+             05    Mer       18:00 - 21:30   C           B-1502               D. Laferrière
+                   Ven       18:00 - 21:00   TP          B-0904
+             06    Jeu       18:00 - 21:30   C           B-0906               D. Laferrière
+                   Mar       18:00 - 21:00   TP          B-0906
+             07    Ven       13:30 - 17:00   C           B-1502               S. Gervais
+                   Mar       13:30 - 16:30   TP          B-0908
+             08    Jeu       13:30 - 17:00   C           B-1502               S. Gervais
+                   Lun       13:30 - 16:30   TP          B-1506
+             09    Mar       09:00 - 12:30   C           B-1504               C. Blais
+                   Jeu       09:00 - 12:00   TP          B-1502
+
+
+MAT472       ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE L'ESPACE                                                    MAT145
+             01    Ven       13:30 - 17:00   C           B-1708               P. Choquette
+                   Mar       13:30 - 16:30   TP          B-1516
+             02    Mer       09:00 - 12:30   C           B-1716               E.M. Frih
+                   Lun       09:00 - 12:00   TP          B-1506
+
+
+PHY144       INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS PROGRAMME)
+             01    Lun       09:00 - 12:30   C           A-2330               D. Benhachmi
+                   Mer       09:00 - 12:00   TP          A-4670
+             02    Ven       09:00 - 12:30   C           B-1716               D. Benhachmi
+                   Mer       13:30 - 16:30   TP          A-4660
+             03    Lun       13:30 - 17:00   C           A-1238               A. Benmassaoud
+                   Jeu       13:30 - 16:30   TP          B-1404
+             04    Mar       18:00 - 21:30   C           B-1516               S. Baune
+                   Jeu       18:00 - 21:00   TP          B-1514
+
+
+PHY332       ÉLECTRICITÉ ET MAGNÉTISME                                                                    ING150
+             01    Mar       09:00 - 12:30   C           B-0908               A. Hénault
+                   Jeu       09:00 - 12:00   TP          B-0906
+             02    Lun       09:00 - 12:30   C           B-0906               M. Boulé
+                   Mer       09:00 - 12:00   TP          B-0906
+             03    Jeu       13:30 - 17:00   C           B-0906               M. Boulé
+                   Lun       13:30 - 16:30   TP          B-0906
+             04    Mer       13:30 - 17:00   C           B-0906               T. Ait Ahcene
+                   Ven       09:00 - 12:00   TP          B-0906
+             05    Ven       13:30 - 17:00   C           B-1504               M. Clisson
+                   Mar       13:30 - 16:30   TP          B-4410
+             06    Lun       18:00 - 21:30   C           B-0904               M. Clisson
+                   Mer       18:00 - 21:00   TP          B-0906
+             07    Jeu       09:00 - 12:30   C           B-0908               M. Perrault
+                   Mar       09:00 - 12:00   TP          B-3428
+
+
+PHY335       PHYSIQUE DES ONDES                                                                           ING150
+             01    Mer       09:00 - 12:30   C           B-3402               G. Paquin
+                   Lun       09:00 - 12:00   TP          B-1404
+             02    Jeu       09:00 - 12:30   C           B-1506               X. Daxhelet
+                   Mar       09:00 - 12:00   TP          B-1502
+             03    Mer       13:30 - 17:00   C           B-3428               X. Daxhelet
+                   Ven       09:00 - 12:00   TP          B-3428
+             04    Ven       13:30 - 17:00   C           B-4410               X. Lavocat-Dubuis
+                   Mar       13:30 - 16:30   TP          B-1502
+             05    Lun       13:30 - 17:00   C           B-0908               A. Bordeleau
+                   Jeu       13:30 - 16:30   TP          B-0908
+             06    Lun       09:00 - 12:30   C           A-1242               M. Perrault
+                   Mer       09:00 - 12:00   TP          B-1404
+             07    Ven       09:00 - 12:30   C           B-3406               G. Paquin
+                   Mer       13:30 - 16:30   TP          B-4410
+             08    Mer       18:00 - 21:30   C           B-3428               G. Paquin
+                   Lun       18:00 - 21:00   TP          B-3428
+
+
+
+
+         Date : 2013-09-19                                                                                                           Page : 7/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                               Baccalauréat en génie LOGICIEL
+
+
+                                                HORAIRE AUTOMNE 2013
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+   Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                             deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR    JOUR           HEURE         ACTIVITÉ    LOCAL              ENSEIGNANT                                 PRÉALABLES
+
+
+PRE010       INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 23, 24 et 25 septembre 2013
+             01    Lun          18:00 - 21:00   Atelier     A-1150             G. Mercier
+                   Mar          18:00 - 21:00   Atelier     A-1150
+                   Mer          18:00 - 21:00   Atelier     A-1150
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 23, 24 et 25 septembre 2013
+             02    Lun          18:00 - 21:00   Atelier     A-1170             D. Leclerc
+                   Mar          18:00 - 21:00   Atelier     A-1170
+                   Mer          18:00 - 21:00   Atelier     A-1170
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 4 et 5 octobre 2013
+             03    Ven          18:00 - 21:00   Atelier     A-1150             C. Pelletier
+                   Sam          09:00 - 16:00   Atelier     A-1150
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 4 et 5 octobre 2013
+             04    Ven          18:00 - 21:00   Atelier     A-1170             G. Mercier
+                   Sam          09:00 - 16:00   Atelier     A-1170
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 18 et 19 octobre 2013
+             05    Ven          18:00 - 21:00   Atelier     A-1150             C. Pelletier
+                   Sam          09:00 - 16:00   Atelier     A-1150
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 18 et 19 octobre 2013
+             06    Ven          18:00 - 21:00   Atelier     A-1170             G. Mercier
+                   Sam          09:00 - 16:00   Atelier     A-1170
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 28, 29 et 30 octobre 2013
+             07    Lun          18:00 - 21:00   Atelier     A-1150             G. Mercier
+                   Mar          18:00 - 21:00   Atelier     A-1150
+                   Mer          18:00 - 21:00   Atelier     A-1150
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 28, 29 et 30 octobre 2013
+             08    Lun          18:00 - 21:00   Atelier     A-1170             D. Leclerc
+                   Mar          18:00 - 21:00   Atelier     A-1170
+                   Mer          18:00 - 21:00   Atelier     A-1170
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 1er et 2 novembre 2013
+             09    Ven          18:00 - 21:00   Atelier     A-1150             C. Pelletier
+                   Sam          09:00 - 16:00   Atelier     A-1150
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 1er et 2 novembre 2013
+             10    Ven          18:00 - 21:00   Atelier     A-1170             D. Leclerc
+                   Sam          09:00 - 16:00   Atelier     A-1170
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 8 et 9 novembre 2013
+             11    Ven          18:00 - 21:00   Atelier     A-1150             C. Pelletier
+                   Sam          09:00 - 16:00   Atelier     A-1150
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 8 et 9 novembre 2013
+             12    Ven          18:00 - 21:00   Atelier     A-1170             D. Leclerc
+                   Sam          09:00 - 16:00   Atelier     A-1170
+             Volet stages - activité à compléter en ligne
+             13    Ativité en ligne             Atelier
+
+
+TIN501       ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ                                                        Minimum 70 Cr
+             01    Mer          09:00 - 12:30   C           A-1300             É. Francoeur
+                   Lun          08:30 - 12:30   TP A+B      B-3416
+             02    Jeu          09:00 - 12:30   C           B-3422             É. Francoeur
+                   Mar          08:30 - 12:30   TP A+B      B-1512
+             03    Mer          13:30 - 17:00   C           B-3406             L. Arel
+                   Ven          08:30 - 12:30   TP A+B      A-1300
+             04    Mer          18:00 - 21:30   C           B-3432             M. Monette
+                   Ven          18:00 - 20:00   TP          B-1516
+
+
+
+
+         Date : 2013-09-19                                                                                                           Page : 8/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                      Baccalauréat en génie LOGICIEL
+
+
+                                               HORAIRE AUTOMNE 2013
+                                                   Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                   Locaux B: bâtiment nord, 1111, Notre-Dame O.
+     Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                               deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS         GR    JOUR         HEURE         ACTIVITÉ       LOCAL                  ENSEIGNANT                                    PRÉALABLES
+TIN501        ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ                                                               Minimum 70 Cr
+              05    Lun        18:00 - 21:30   C             B-1706                  L. Arel
+                    Ven        18:00 - 20:00   TP            B-1404
+              06    Ven        13:30 - 17:00   C             B-3402                  J. Rivera
+                    Mar        13:30 - 17:30   TP A+B        B-1402
+
+NOTES
+a)            Activités
+              C : cours        TP : travaux pratiques                                  LABO : laboratoires
+                               TP/2 : travaux pratiques aux deux (2) semaines          LABO/2 : laboratoires aux deux (2) semaines
+              TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants
+              devront se présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci
+              vous sera confirmé au début du trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps,
+              s'il est indiqué (A+B) à côté de chacun des travaux pratiques (TP).
+b)            À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+              Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+              Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+Vous pouvez aussi voir l’horaire et le local des cours auxquels vous êtes inscrit dans SIGNETS. L’information y
+ est mise à jour en temps réel (exception : l’horaire détaillé des cours intensifs se retrouve uniquement sur les
+                                         horaires publiés sur cette page).
+
+
+
+
+         Date : 2013-09-19                                                                                                                      Page : 9/9
+

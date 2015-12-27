@@ -1,0 +1,15 @@
+.container
+  %ol.breadcrumb
+    %li= link_to 'Trimestres', terms_path
+    %li= link_to 'Choix de cours', new_academic_degree_term_agenda_path(agenda.academic_degree_term)
+    %li.active Horaires
+
+  %h1.page-header Horaires
+
+= form_for agenda do |f|
+  = render 'overview', f: f
+
+.container-fluid.schedules
+  - schedules.each_slice(2).with_index do |schedules_slice, index|
+    .row= render partial: 'schedule', collection: schedules_slice, locals: {slice_index: index * 2}
+= paginate @schedules

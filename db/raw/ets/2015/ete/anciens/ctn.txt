@@ -1,0 +1,597 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                   Baccalauréat en génie de la CONSTRUCTION
+
+
+                                                      HORAIRE D'INSCRIPTION
+                                                                     ÉTÉ 2015
+                                    Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                              la date d'application de la pénalité pour inscription tardive.
+                                                                www.etsmtl.ca/calendrier_ETS
+
+COURS     GR     JOUR        HEURE         ACTIVITÉ    LOCAL                        ENSEIGNANT                 PRÉALABLES
+
+
+CHM131    CHIMIE ET MATÉRIAUX
+          01     Lun       09:00 - 12:30   C
+                 Mer       09:00 - 12:00   TP
+          02     Mar       13:30 - 17:00   C
+                 Ven       13:30 - 16:30   TP
+          03     Mer       13:30 - 17:00   C
+                 Ven       09:00 - 12:00   TP
+          04     Jeu       09:00 - 12:30   C
+                 Mar       09:00 - 12:00   TP
+          05     Jeu       13:30 - 17:00   C
+                 Lun       13:30 - 16:30   TP
+          06     Lun       18:00 - 21:30   C
+                 Mer       18:00 - 21:00   TP
+          07     Mer       09:00 - 12:30   C
+                 Lun       09:00 - 12:00   TP
+          08     Jeu       18:00 - 21:30   C
+                 Mar       18:00 - 21:00   TP
+          09     Mar       09:00 - 12:30   C
+                 Jeu       09:00 - 12:00   TP
+          10     Lun       13:30 - 17:00   C
+                 Jeu       13:30 - 16:30   TP
+
+
+COM110    MÉTHODES DE COMMUNICATION
+          01     Jeu       09:00 - 12:30   C
+                 Mar       08:30 - 12:30   TP A+B
+          02     Mer       13:30 - 17:00   C
+                 Ven       08:30 - 12:30   TP A+B
+          03     Lun       09:00 - 12:30   C
+                 Mer       08:30 - 12:30   TP A+B
+          04     Mar       18:00 - 21:30   C
+                 Jeu       18:00 - 22:00   TP A+B
+          05     Lun       18:00 - 21:30   C
+                 Mer       18:00 - 22:00   TP A+B
+
+
+CTN200    PLANIFICATION ET CONTRÔLE DES PROJ. DE CONSTRUCTION                       Pr. AU: CTN100 et CTN103,Pr. B: CTN100,Pr. C: CTN100 et CTN103
+
+          01     Lun       18:00 - 21:30   C           A-1432
+                 Mar       18:00 - 21:00   TP/Labo     A-1432
+          02     Mer       18:00 - 21:30   C           A-1432
+                 Jeu       18:00 - 21:00   TP/Labo     A-1432
+
+
+CTN258    STATIQUE ET DYNAMIQUE                                                                                MAT145
+          01     Mer       13:30 - 17:00   C                                        G. Caron L'Écuyer
+                 Ven       08:30 - 11:30   TP/Labo     A-1430
+          02     Mar       13:30 - 17:00   C                                        B. Renaud
+                 Jeu       08:45 - 11:45   TP/Labo     A-1430
+          03     Lun       08:45 - 12:15   C                                        B. Renaud
+                 Ven       13:30 - 16:30   TP/Labo     A-1430
+
+
+CTN300    ESTIMATION                                                                Pr. AU: CTN100 et CTN103,Pr. B: CTN100,Pr. C: CTN100 et CTN103
+
+          01     Mer       08:30 - 12:00   C
+                 Jeu       13:30 - 16:30   TP/Labo     A-1502, A-1504
+          02     Lun       13:30 - 17:00   C
+                 Ven       08:30 - 11:30   TP/Labo     A-1502, A-1504
+          03     Jeu       18:00 - 21:30   C
+                 Lun       18:00 - 21:00   TP/Labo     A-1552, A-1560
+
+
+CTN308    RÉSISTANCE DES MATÉRIAUX                                                                             CTN258
+          01     Mar       08:30 - 12:00   C
+                 Ven       08:30 - 11:30   TP/Labo        , A-0476, A-1430
+          02     Mer       18:00 - 21:30   C
+                 Jeu       18:00 - 21:00   TP/Labo        , A-0476, A-1430
+          03     Lun       18:00 - 21:30   C
+                 Mar       18:00 - 21:00   TP/Labo        , A-0476, A-1430
+
+
+CTN326    MÉCANIQUE DES FLUIDES ET THERMODYNAMIQUE                                                             CTN258
+          01     Jeu       13:30 - 17:00   C                                        R. Arsenault / P.L. Huot
+
+                 Ven       08:30 - 11:30   TP/Labo        , A-1470
+
+
+
+
+         13 février 2015
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                     Baccalauréat en génie de la CONSTRUCTION
+
+
+                                                       HORAIRE D'INSCRIPTION
+                                                                     ÉTÉ 2015
+                                    Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                              la date d'application de la pénalité pour inscription tardive.
+                                                                www.etsmtl.ca/calendrier_ETS
+
+COURS     GR     JOUR        HEURE         ACTIVITÉ    LOCAL                         ENSEIGNANT                   PRÉALABLES
+
+
+CTN326    MÉCANIQUE DES FLUIDES ET THERMODYNAMIQUE                                                                CTN258
+          02     Lun       13:30 - 17:00   C                                         R. Arsenault
+                 Mar       13:30 - 16:30   TP/Labo        , A-1470
+          03     Mer       08:30 - 12:00   C                                         R. Arsenault / J.L. Martel
+
+                 Ven       13:30 - 16:30   TP/Labo        , A-1470
+
+
+CTN404    SCIENCE ET TECHNOLOGIE DES MATÉRIAUX                                       Pr. AU: CHM131 et CTN104,Pr. B: CHM131 et CTN104,Pr. C: CHM131
+
+
+          01     Jeu       13:30 - 17:00   C
+                 Ven       13:30 - 17:30   TP/Labo        , A-0450, A-0510
+          02     Lun       13:30 - 17:00   C
+                 Mer       13:30 - 17:30   TP/Labo        , A-0450, A-0510
+
+
+CTN408    ANALYSE DES STRUCTURES                                                                                  CTN308 et MAT165
+          01     Jeu       08:45 - 12:15   C
+                 Ven       08:30 - 11:30   TP/Labo        , A-1500, A-1552, A-1560
+          02     Mar       08:30 - 12:00   C
+                 Mer       13:30 - 16:30   TP/Labo        , A-1500, A-1502, A-1504
+          03     Mer       18:00 - 21:30   C
+                 Mar       18:00 - 21:00   TP/Labo        , A-1500, A-1502, A-1504
+
+
+CTN426    HYDRAULIQUE ET HYDROLOGIE                                                                               CTN326 et MAT350*
+          01     Lun       08:45 - 12:15   C                                         R. Arsenault
+                 Jeu       13:30 - 16:30   TP/Labo        , A-1472
+          02     Mar       13:30 - 17:00   C                                         R. Arsenault
+                 Mer       13:30 - 16:30   TP/Labo        , A-1472
+          03     Mar       18:00 - 21:30   C                                         B. Renaud
+                 Mer       18:00 - 21:00   TP/Labo        , A-1472
+          04     Lun       18:00 - 21:30   C                                         B. Renaud
+                 Jeu       18:00 - 21:00   TP/Labo        , A-1472
+
+
+CTN504    MÉCANIQUE DES SOLS                                                         Pr. AU: CTN104 et CTN308 et CTN426,Pr. B: CTN104 et CTN308 et CTN426,Pr. C: CTN308
+                                                                                     et CTN426
+
+          01     Mar       13:30 - 17:00   C
+                 Jeu       08:45 - 11:45   TP/Labo        , A-1400
+          02     Mar       08:30 - 12:00   C
+                 Ven       13:30 - 16:30   TP/Labo        , A-1400
+          03     Lun       08:45 - 12:15   C
+                 Ven       08:30 - 11:30   TP/Labo        , A-1400
+
+
+CTN508    STRUCTURES DE BÉTON                                                                                     CTN404 et CTN408
+          01     Mar       18:00 - 21:30   C
+                 Jeu       18:00 - 21:00   TP/Labo
+          02     Lun       18:00 - 21:30   C
+                 Mer       18:00 - 21:00   TP/Labo
+
+
+CTN600    GESTION DES CONTRATS DE CONSTRUCTION                                                                    Minimum 70 Cr
+          01     Lun       18:00 - 21:30   C                                         G. Morrone
+                 Sam       09:00 - 17:00   TP/Labo
+          02     Mar       18:00 - 21:30   C                                         G. Morrone
+                 Sam       09:00 - 17:00   TP-Labo/2
+
+
+CTN626    GÉNIE DE L'ENVIRONNEMENT                                                                                CTN504*
+          01     Lun       08:45 - 12:15   C                                         V. Chevalier
+                 Jeu       08:45 - 11:45   TP/Labo
+          02     Mar       18:00 - 21:30   C                                         V. Chevalier
+                 Mer       18:00 - 21:00   TP/Labo
+
+
+CTN701    RÉALISATION DES PROJETS DE CONSTRUCTION                                                                 CTN600
+          01     Lun       18:00 - 21:30   C                                         L. Martin
+                 Mer       18:00 - 22:00   TP-Labo/2      , A-1552, A-1560
+
+
+CTN705    PROJETS INTERNATIONAUX D'INGÉNIERIE DE CONSTRUCTION
+          01     Mar       08:30 - 12:00   C                                         A. Paré
+                 Mar       13:30 - 17:30   TP-Labo/2   A-1432
+
+
+CTN731    ENVELOPPE DU BÂTIMENT                                                                                   Pr. AU: CTN103,Pr. C: CTN103
+          01     Mar       13:30 - 17:00   C           A-4524
+                 Mer       08:30 - 12:30   TP-Labo/2   A-4524
+
+
+
+
+         13 février 2015
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                   Baccalauréat en génie de la CONSTRUCTION
+
+
+                                                       HORAIRE D'INSCRIPTION
+                                                                   ÉTÉ 2015
+                                    Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                              la date d'application de la pénalité pour inscription tardive.
+                                                                www.etsmtl.ca/calendrier_ETS
+
+COURS     GR     JOUR        HEURE         ACTIVITÉ    LOCAL                        ENSEIGNANT         PRÉALABLES
+
+
+CTN731    ENVELOPPE DU BÂTIMENT                                                                        Pr. AU: CTN103,Pr. C: CTN103
+          02     Lun       18:00 - 21:30   C           A-4524
+                 Mar       18:00 - 22:00   TP-Labo/2   A-4524
+
+
+CTN732    SYSTÈMES MÉCANIQUES DU BÂTIMENT                                                              CTN326
+          01     Mar       18:00 - 21:30   C
+                 Jeu       18:00 - 20:00   TP/Labo     A-1752
+
+
+CTN741    FONDATIONS                                                                                   CTN504
+          01     Mar       18:00 - 21:30   C
+                 Mer       18:00 - 22:00   TP-Labo/2      , A-1502, A-1504
+
+
+CTN761    HYDRAULIQUE URBAINE                                                                          CTN426
+          01     Lun       13:30 - 17:00   C
+                 Lun       08:45 - 12:45   TP/2           , A-1552, A-1560
+          02     Mer       13:30 - 17:00   C
+                 Mer       08:30 - 12:30   TP-Labo/2      , A-1552, A-1560
+
+
+CTN762    RESSOURCES HYDRIQUES                                                                         CTN426
+          01     Lun       13:30 - 17:00   C                                        J. Roy
+                 Mer       13:30 - 15:30   TP/Labo        , A-1552, A-1560
+
+
+CTN763    SERVICES MUNICIPAUX
+          01     Jeu       18:00 - 21:30   C                                        F. Boudreault
+                 Mar       18:00 - 22:00   TP-Labo/2
+          02     Mer       18:00 - 21:30   C                                        F. Boudreault
+                 Lun       18:00 - 22:00   TP-Labo/2
+          03     Mar       13:30 - 17:00   C                                        M.É. Desbiens
+                 Ven       13:30 - 17:30   TP-Labo/2
+
+
+CTN767    CONCEPTION EN GÉNIE DE L'ENVIRONNEMENT                                                       CTN764
+          01     Mer       18:00 - 21:30   C                                        F. Monette
+                 Jeu       18:00 - 22:00   TP-Labo/2
+
+
+CTN772    ENTRETIEN, RÉHABILITATION ET GESTION DES ROUTES                                              GIA400 et CTN200
+          01     Mar       08:30 - 12:00   C                                        S. Mokhbi
+                 Jeu       13:30 - 17:30   TP-Labo/2      , A-1552, A-1560
+
+
+CTN773    TRACÉS DE ROUTES                                                                             CTN426
+          01     Mar       18:00 - 21:30   C                                        T. Agal
+                 Jeu       18:00 - 22:00   TP-Labo/2      , A-1552, A-1560
+
+
+CTN785    ANALYSE ET CONCEPTION DES STRUCTURES                                                         CTN508,Pr. B: CTN508
+          01     Mer       18:00 - 21:30   C                                        O. Girard
+                 Lun       18:00 - 22:00   TP-Labo/2      , A-1502, A-1504
+
+
+CTN791    PROJETS SPÉCIAUX                                                                             Autorisation du directeur de département
+                                           Projet
+
+
+ENT601    MARKETING ET VENTES                                                                          ENT201 et ENT202
+          01     Mar       18:00 - 21:30   C
+                 Jeu       18:00 - 20:00   TP
+
+
+FRA150    FRANÇAIS ÉCRIT
+          01     Mar       13:30 - 17:00   C
+                 Ven       13:30 - 15:30   TP
+
+
+FRA151    FRANÇAIS ÉCRIT
+          01     Mar       13:30 - 17:00   C
+                 Ven       13:30 - 17:30   TP
+
+
+GIA400    ANALYSE DE RENTABILITÉ DE PROJETS
+          01     Mer       09:00 - 12:30   C
+                 Lun       08:30 - 12:30   TP A+B
+          02     Jeu       13:30 - 17:00   C
+                 Lun       13:30 - 17:30   TP A+B
+          03     Mar       09:00 - 12:30   C
+                 Jeu       08:30 - 12:30   TP A+B
+          04     Mer       13:30 - 17:00   C
+                 Ven       08:30 - 12:30   TP A+B
+
+
+         13 février 2015
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                   Baccalauréat en génie de la CONSTRUCTION
+
+
+                                                      HORAIRE D'INSCRIPTION
+                                                                   ÉTÉ 2015
+                                    Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                              la date d'application de la pénalité pour inscription tardive.
+                                                                www.etsmtl.ca/calendrier_ETS
+
+COURS     GR     JOUR        HEURE         ACTIVITÉ    LOCAL                        ENSEIGNANT         PRÉALABLES
+
+
+GIA400    ANALYSE DE RENTABILITÉ DE PROJETS
+          05     Jeu       09:00 - 12:30   C
+                 Mar       08:30 - 12:30   TP A+B
+          06     Jeu       18:00 - 21:30   C
+                 Mar       18:00 - 20:00   TP
+          07     Mar       18:00 - 21:30   C
+                 Jeu       18:00 - 20:00   TP
+          08     Lun       18:00 - 21:30   C
+                 Mer       18:00 - 20:00   TP
+
+
+INF130    ORDINATEURS ET PROGRAMMATION
+          01     Mar       09:00 - 12:30   C           B-2406
+                 Jeu       09:00 - 12:00   Labo        B-2406
+          02     Mer       18:00 - 21:30   C           B-2406
+                 Lun       18:00 - 21:00   Labo        B-2406
+          03     Jeu       13:30 - 17:00   C           B-2406
+                 Lun       13:30 - 16:30   Labo        B-2406
+          04     Lun       09:00 - 12:30   C           B-2406
+                 Mer       09:00 - 12:00   Labo        B-2406
+          05     Mar       13:30 - 17:00   C           B-2406
+                 Ven       13:30 - 16:30   Labo        B-2406
+
+
+MAT144    INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE (HORS PROG.)
+          80     Lun       13:30 - 17:00   C                                                           DÉBUT : 25 MAI FIN : 12 AOÛT
+                 Mer       13:30 - 16:30   TP
+          81     Mar       18:00 - 21:30   C                                                           DÉBUT : 26 MAI FIN : 13 AOÛT
+                 Jeu       18:00 - 21:00   TP
+
+
+MAT145    CALCUL DIFFÉRENTIEL ET INTÉGRAL
+          01     Mar       09:00 - 12:30   C
+                 Jeu       09:00 - 12:00   TP
+          02     Mar       13:30 - 17:00   C
+                 Ven       13:30 - 16:30   TP
+          03     Ven       09:00 - 12:30   C
+                 Mer       13:30 - 16:30   TP
+          04     Mer       18:00 - 21:30   C
+                 Lun       18:00 - 21:00   TP
+          05     Lun       13:30 - 17:00   C
+                 Jeu       13:30 - 16:30   TP
+          06     Lun       09:00 - 12:30   C
+                 Mer       09:00 - 12:00   TP
+
+
+MAT165    ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                      MAT145
+          01     Jeu       09:00 - 12:30   C
+                 Mar       09:00 - 12:00   TP
+          02     Mer       13:30 - 17:00   C
+                 Ven       09:00 - 12:00   TP
+          03     Mar       13:30 - 17:00   C
+                 Ven       13:30 - 16:30   TP
+          04     Lun       09:00 - 12:30   C
+                 Mer       09:00 - 12:00   TP
+          05     Jeu       13:30 - 17:00   C
+                 Lun       13:30 - 16:30   TP
+          06     Mar       18:00 - 21:30   C
+                 Jeu       18:00 - 21:00   TP
+          07     Mar       09:00 - 12:30   C
+                 Jeu       09:00 - 12:00   TP
+          08     Mer       09:00 - 12:30   C
+                 Lun       09:00 - 12:00   TP
+          09     Ven       09:00 - 12:30   C
+                 Mer       13:30 - 16:30   TP
+
+
+MAT265    ÉQUATIONS DIFFÉRENTIELLES                                                                    MAT145
+          01     Mer       09:00 - 12:30   C
+                 Lun       09:00 - 12:00   TP
+          02     Ven       09:00 - 12:30   C
+                 Mer       13:30 - 16:30   TP
+          03     Mar       13:30 - 17:00   C
+                 Ven       13:30 - 16:30   TP
+
+
+
+
+         13 février 2015
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                   Baccalauréat en génie de la CONSTRUCTION
+
+
+                                                      HORAIRE D'INSCRIPTION
+                                                                 ÉTÉ 2015
+                                    Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                              la date d'application de la pénalité pour inscription tardive.
+                                                            www.etsmtl.ca/calendrier_ETS
+
+COURS     GR     JOUR        HEURE         ACTIVITÉ    LOCAL                        ENSEIGNANT         PRÉALABLES
+
+
+MAT265    ÉQUATIONS DIFFÉRENTIELLES                                                                    MAT145
+          04     Lun       13:30 - 17:00   C
+                 Jeu       13:30 - 16:30   TP
+          05     Mar       09:00 - 12:30   C
+                 Jeu       09:00 - 12:00   TP
+          06     Lun       09:00 - 12:30   C
+                 Mer       09:00 - 12:00   TP
+          07     Jeu       18:00 - 21:30   C
+                 Mar       18:00 - 21:00   TP
+          08     Jeu       13:30 - 17:00   C
+                 Lun       13:30 - 16:30   TP
+          09     Mer       13:30 - 17:00   C
+                 Ven       09:00 - 12:00   TP
+          10     Jeu       09:00 - 12:30   C
+                 Mar       09:00 - 12:00   TP
+
+
+MAT350    PROBABILITÉS ET STATISTIQUES                                                                 MAT145
+          01     Lun       09:00 - 12:30   C
+                 Mer       09:00 - 12:00   TP
+          02     Jeu       09:00 - 12:30   C
+                 Mar       09:00 - 12:00   TP
+          03     Jeu       13:30 - 17:00   C
+                 Lun       13:30 - 16:30   TP
+          04     Mer       13:30 - 17:00   C
+                 Ven       09:00 - 12:00   TP
+          05     Mar       18:00 - 21:30   C
+                 Jeu       18:00 - 21:00   TP
+          06     Lun       18:00 - 21:30   C
+                 Mer       18:00 - 21:00   TP
+          07     Lun       13:30 - 17:00   C
+                 Jeu       13:30 - 16:30   TP
+          08     Mer       09:00 - 12:30   C
+                 Lun       09:00 - 12:00   TP
+          09     Mar       09:00 - 12:30   C
+                 Jeu       09:00 - 12:00   TP
+          10     Mar       13:30 - 17:00   C
+                 Ven       13:30 - 16:30   TP
+          11     Ven       09:00 - 12:30   C
+                 Mer       13:30 - 16:30   TP
+
+
+PHY144    INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS PROGRAMME)
+          80     Lun       18:00 - 21:30   C                                                           DÉBUT : 25 MAI FIN : 12 AOÛT
+                 Mer       18:00 - 21:00   TP
+          81     Mar       13:30 - 17:00   C                                                           DÉBUT : 26 MAI FIN : 13 AOÛT
+                 Jeu       13:30 - 16:30   TP
+
+
+PHY332    ÉLECTRICITÉ ET MAGNÉTISME                                                                    CTN258
+          01     Lun       13:30 - 17:00   C
+                 Jeu       13:30 - 16:30   TP
+          02     Ven       09:00 - 12:30   C
+                 Mer       13:30 - 16:30   TP
+          03     Mar       09:00 - 12:30   C
+                 Jeu       09:00 - 12:00   TP
+          04     Mer       18:00 - 21:30   C
+                 Lun       18:00 - 21:00   TP
+          05     Mer       09:00 - 12:30   C
+                 Lun       09:00 - 12:00   TP
+          06     Lun       09:00 - 12:30   C
+                 Mer       09:00 - 12:00   TP
+          07     Mar       13:30 - 17:00   C
+                 Ven       13:30 - 16:30   TP
+
+
+PHY335    PHYSIQUE DES ONDES                                                                           CTN258
+          01     Mer       09:00 - 12:30   C
+                 Lun       09:00 - 12:00   TP
+          02     Jeu       09:00 - 12:30   C
+                 Mar       09:00 - 12:00   TP
+          03     Mer       13:30 - 17:00   C
+                 Ven       09:00 - 12:00   TP
+
+
+
+
+         13 février 2015
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                   Baccalauréat en génie de la CONSTRUCTION
+
+
+                                                               HORAIRE D'INSCRIPTION
+                                                                               ÉTÉ 2015
+                                              Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                                        la date d'application de la pénalité pour inscription tardive.
+                                                                        www.etsmtl.ca/calendrier_ETS
+
+COURS        GR     JOUR                HEURE       ACTIVITÉ      LOCAL                             ENSEIGNANT            PRÉALABLES
+
+
+PHY335       PHYSIQUE DES ONDES                                                                                           CTN258
+            04      Mar            13:30 - 17:00    C
+                    Ven            13:30 - 16:30    TP
+            05      Jeu            18:00 - 21:30    C
+                    Mar            18:00 - 21:00    TP
+            06      Lun            13:30 - 17:00    C
+                    Jeu            13:30 - 16:30    TP
+            07      Mar            09:00 - 12:30    C
+                    Jeu            09:00 - 12:00    TP
+            08      Lun            09:00 - 12:30    C
+                    Mer            09:00 - 12:00    TP
+            09      Jeu            13:30 - 17:00    C
+                    Lun            13:30 - 16:30    TP
+
+
+PRE010       INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 22 et 23 mai 2015
+            01      Ven            18:00 - 21:00    Atelier
+                    Sam            09:00 - 16:00    Atelier
+
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 22 et 23 mai 2015
+            02      Ven       18:00 - 21:00         Atelier
+                    Sam       09:00 - 16:00         Atelier
+
+             Volet stages - activité à compléter en ligne
+            03      Activité en ligne               Atelier
+
+
+TIN501       ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ                                                                        Minimum 70 Cr
+            01      Jeu            09:00 - 12:30    C
+                    Mar            08:30 - 12:30    TP A+B
+            02      Mer            09:00 - 12:30    C
+                    Lun            08:30 - 12:30    TP A+B
+            03      Ven            09:00 - 12:30    C
+                    Mer            13:30 - 17:30    TP A+B
+            04      Mar            13:30 - 17:00    C
+                    Ven            13:30 - 17:30    TP A+B
+            05      Mer            18:00 - 21:30    C
+                    Lun            18:00 - 20:00    TP
+            06      Mar            18:00 - 21:30    C
+                    Jeu            18:00 - 20:00    TP
+            07      Lun            13:30 - 17:00    C
+                    Jeu            13:30 - 17:30    TP A+B
+
+
+NOTES
+a)           Activités
+             C : cours        TP : travaux pratiques                                                                      LABO : laboratoires
+                              TP/2 : travaux pratiques aux deux (2) semaines                                              LABO/2 : laboratoires aux deux (2) semaines
+                              * : préalable ou concomitant
+             TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se présenter
+             à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du trimestre. Un
+             étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux pratiques (TP).
+
+
+
+
+b)           À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+             Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+             Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+        Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les
+     laboratoires commencent la deuxième semaine de la session à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+
+
+            13 février 2015
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                 Baccalauréat en génie de la CONSTRUCTION
+
+
+                                                   HORAIRE D'INSCRIPTION
+                                                               ÉTÉ 2015
+                                  Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                            la date d'application de la pénalité pour inscription tardive.
+                                                          www.etsmtl.ca/calendrier_ETS
+
+COURS     GR     JOUR      HEURE        ACTIVITÉ     LOCAL                        ENSEIGNANT         PRÉALABLES
+
+
+
+
+Modalités des ateliers PRE010 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant
+   une carte ASP. Pour les étudiants du programme 7622 en génie de la construction ou tout autre étudiant ayant suivi la
+        formation ASP (vous serez exempté du volet santé-sécurité sur présentation de votre carte ASP au Service de
+ l'enseignement coopératif). - VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants,
+ cette activité doit être complétée en ligne, le Service de l'enseignement coopératif vous informera de la procédure à suivre
+                       par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le groupe 03.
+
+
+
+
+         13 février 2015
+

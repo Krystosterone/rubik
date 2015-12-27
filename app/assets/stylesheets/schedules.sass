@@ -1,0 +1,178 @@
+@import "compass"
+@import "paper/variables"
+
+$schedule-max-width: 480px
+$table-header-height: 30px
+$row-height: 15px
+$hours-width: 40px
+$from-hour: 0
+$to-hour: 24
+$column-width: percentage(1 / 7)
+$minimized-column-width: percentage(1 / 5)
+$period-colors: #ed8464, #f2b457, #6ddade, #8dd184, #b39ed9
+
+@mixin period($index-hour, $quarter-nb)
+  $minutes: $quarter-nb * 15
+  $duration: $index-hour * 60 + $minutes
+  $height: $index-hour * $row-height * 2 + $quarter-nb * $row-height / 2
+  $from: ($from-hour + $index-hour) * 60 + $minutes
+
+  &.duration-#{$duration}
+    height: $height
+
+  &.from-#{$from}
+    margin-top: $index-hour * $row-height * 2 + $quarter-nb * $row-height / 2
+
+@mixin schedule($index-hour, $quarter-nb)
+  $minutes: $quarter-nb * 15
+  $duration: $index-hour * 60 + $minutes
+  $height: ($index-hour + 1) * $row-height * 2 + $quarter-nb * $row-height / 2
+  $from: ($from-hour + $index-hour) * 60 + $minutes
+
+  &.duration-#{$duration}
+    height: $table-header-height + $height + 1
+
+    .week
+      height: $height
+
+  &.from-#{$from}
+    .period
+      top: -$index-hour * $row-height * 2 + $quarter-nb * $row-height / 2
+
+.schedules-controller.index-action
+  .schedules
+    line-height: 1
+    letter-spacing: inherit
+
+    fieldset
+      display: block
+      margin: 0 auto 35px auto
+      padding: 0 5px
+
+      legend
+        color: #737b80
+        font-size: 36px
+
+        @media screen and (max-width: $schedule-max-width)
+          font-size: 24px
+
+      .schedule
+        position: relative
+        width: 100%
+        overflow: hidden
+
+        @for $index-hour from $from-hour to $to-hour
+          @for $quarter-nb from 0 to 4
+            @include schedule($index-hour, $quarter-nb)
+        @include schedule($to-hour, 0)
+
+        @media screen and (max-width: $schedule-max-width)
+          &.collapsible
+            .week-container
+              .weekend
+                display: none
+
+              .week .weekday
+                width: $minimized-column-width
+
+        .hours
+          float: left
+          width: $hours-width
+
+          @media screen and (max-width: $schedule-max-width)
+            display: none
+
+          .weekday
+            height: $table-header-height
+
+          tbody tr td
+            height: $row-height
+            font-size: 12px
+
+        .week-container
+          position: absolute
+          top: 0
+          left: 0
+
+          @media screen and (min-width: $schedule-max-width + 1)
+            left: $hours-width
+
+          .backdrop
+            width: 100%
+            table-layout: fixed
+            border-bottom: 1px solid #9fa6ab
+
+            thead
+              tr
+                .weekday
+                  height: $table-header-height
+                  font-size: 0
+                  text-align: center
+                  vertical-align: middle
+
+                  span
+                    font-size: 16px
+
+                    @media screen and (max-width: $schedule-max-width)
+                      &.post
+                        display: none
+
+            tbody
+              tr
+                height: $row-height
+
+                td.weekend
+                  background-color: #e3e7e8
+
+              tr.hour
+                border-top: 1px solid #9fa6ab
+
+              tr.half-hour
+                border-top: 1px dashed #d3d3d3
+
+          .week
+            position: absolute
+            top: $table-header-height
+            right: 0
+            bottom: 0
+            left: 0
+            overflow: hidden
+
+            .weekday
+              position: relative
+              float: left
+              width: $column-width
+              height: 100%
+
+              .period
+                position: absolute
+                left: 0
+                right: 1px
+                padding: 3px
+                font-size: 12px
+                font-weight: 500
+                color: white
+                border-width: 1px 1px 4px 1px
+                border-style: solid
+                z-index: 1
+                @include border-radius(5px)
+
+                &.leave
+                  z-index: 0
+                  background-image: asset_url('leave-pattern.png')
+                  border-color: darken(#3E52B3, 10%)
+
+                @media screen and (max-width: $schedule-max-width)
+                  font-size: 9px
+
+                @for $index from 0 to length($period-colors)
+                  $period-color: nth($period-colors, $index + 1)
+
+                  &.course-#{$index + 1}
+                    background-color: $period-color
+                    border-color: darken($period-color, 10%)
+
+                @for $index-hour from $from-hour to $to-hour
+                  @for $quarter-nb from 0 to 4
+                    @include period($index-hour, $quarter-nb)
+                @include period($to-hour, 0)

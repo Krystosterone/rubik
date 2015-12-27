@@ -1,0 +1,61 @@
+.container
+  %ol.breadcrumb
+    %li= link_to 'Trimestres', terms_path
+    %li.active Choix de cours
+
+  - flash.each do |type, message|
+    .alert{class: alert_class(type), role: 'alert'}
+      %span.glyphicon.glyphicon-exclamation-sign{'aria-hidden' => true}
+      = message
+
+  - if agenda.errors.any?
+    .alert.alert-danger{role: 'alert'}
+      - agenda.errors.each do |_, error|
+        %span.glyphicon.glyphicon-exclamation-sign{'aria-hidden' => true}
+        = error
+        %br
+
+  %h1.page-header Choix de cours
+
+= form_for [@academic_degree_term, agenda] do |f|
+  = render 'shared/overview', f: f
+
+  .container
+    %fieldset
+      %legend Cours
+      = f.collection_check_boxes :course_ids, agenda.academic_degree_term_courses, :id, :code do |ff|
+        .course-checkbox-button
+          = ff.check_box
+          = ff.label(class: 'btn btn-default') { ff.text }
+
+    %fieldset
+      %legend Nombre de cours par horaire
+      .btn-group.courses-per-schedule-group.btn-group-justified
+        = f.collection_radio_buttons :courses_per_schedule, Agenda::COURSES_PER_SCHEDULE_RANGE, :to_i, :to_i do |ff|
+          = ff.radio_button
+          = ff.label(class: 'btn btn-default')
+
+    %a.schedules-anchor{name: 'leaves'}
+    %fieldset.form-horizontal
+      %legend Congés
+      = f.fields_for :leaves do |ff|
+        .leave.row{class: ('has-error' if ff.object.errors.any?)}
+          - if ff.object.errors.any?
+            .col-xs-12
+              - ff.object.errors.each do |_, error|
+                .help-block= error
+          .col-sm-5
+            .form-group
+              = ff.label :starts_at, class: 'col-sm-2 control-label'
+              .col-sm-10
+                = ff.collection_select :starts_at, leave_times, :total_minutes, :weekday_time, {}, class: 'form-control'
+          .col-sm-5
+            .form-group
+              = ff.label :ends_at, class: 'col-sm-2 control-label'
+              .col-sm-10
+                = ff.collection_select :ends_at, leave_times, :total_minutes, :weekday_time, {}, class: 'form-control'
+          .col-xs-4.col-sm-2.pull-right
+            = ff.button '-', name: "#{ff.object_name}[_destroy]", value: 1, formaction: "#{f.options[:url]}/#leaves", class: 'btn btn-default btn-block'
+      = f.button '+', name: "agenda[leaves_attributes][#{agenda.leaves.size}][_create]", value: 1, formaction: "#{f.options[:url]}/#leaves", class: 'col-xs-12 col-sm-4 pull-right btn btn-default'
+
+    = f.submit 'Soumettre', class: 'col-xs-12 col-sm-4 pull-right btn btn-primary'

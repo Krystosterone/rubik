@@ -1,0 +1,686 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Service de la gestion académique
+                                                      7885 : Baccalauréat en génie de la production automatisée
+
+
+                                                    HORAIRE HIVER 2014
+                                                Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                Locaux B: bâtiment nord, 1111, Notre-Dame O.
+   Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                             deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR     JOUR          HEURE         ACTIVITÉ     LOCAL             ENSEIGNANT                                      PRÉALABLES
+
+
+ANG010       ANGLAIS POUR INGÉNIEURS I
+             01     Lun         18:00 - 21:30   C            B-1716            R. Hailpern
+                    Ven         18:00 - 20:00   TP           B-3422            O. Fonseca
+
+
+ATE050       RÉUSSIR EN GÉNIE
+             01     Mar         18:00 - 20:00   Atelier      B-3410            L. Massicotte
+
+
+CHM131       CHIMIE ET MATÉRIAUX
+             01     Lun         09:00 - 12:30   C            B-1716            P. Baril
+                    Mer         09:00 - 12:00   TP           B-1716            P. Baril
+             02     Mar         09:00 - 12:30   C            B-2622            M. Clisson
+                    Jeu         09:00 - 12:00   TP           B-3406            M. Clisson
+             03     Jeu         09:00 - 12:30   C            B-3416            T. Rivard
+                    Mar         09:00 - 12:00   TP           B-3402            S. Helle
+             04     Lun         13:30 - 17:00   C            B-2622            P. Baril
+                    Jeu         13:30 - 16:30   TP           B-1706            P. Baril
+             05     Mar         13:30 - 17:00   C            B-3402            Z. Hamoudi
+                    Ven         13:30 - 16:30   TP           B-1706            Z. Hamoudi
+             06     Mer         13:30 - 17:00   C            B-1404            X. Lavocat-Dubuis
+                    Ven         09:00 - 12:00   TP           B-3416            X. Lavocat-Dubuis
+             07     Mer         18:00 - 21:30   C            B-4416            A. Paquet
+                    Ven         18:00 - 21:00   TP           B-3406            A. Paquet
+             08     Jeu         18:00 - 21:30   C            B-1708            P. Baril
+                    Mar         18:00 - 21:00   TP           B-1516            P. Baril
+             09     Ven         09:00 - 12:30   C            B-1518            A. Benmassaoud
+                    Mer         13:30 - 16:30   TP           B-3402            A. Benmassaoud
+             10     Jeu         13:30 - 17:00   C            B-1518            A. Benmassaoud
+                    Lun         13:30 - 16:30   TP           B-1708            A. Benmassaoud
+             11     Lun         13:30 - 17:00   C            B-1706            T. Rivard
+                    Jeu         13:30 - 16:30   TP           B-2622            T. Rivard
+             12     Mer         09:00 - 12:30   C            B-3406            M. Clisson
+                    Lun         09:00 - 12:00   TP           B-1404            M. Clisson
+             13     Mar         13:30 - 17:00   C            B-3416            A. Paquet
+                    Ven         13:30 - 16:30   TP           B-3402            A. Paquet
+             14     Lun         09:00 - 12:30   C            B-1718            T. Rivard
+                    Mer         09:00 - 12:00   TP           B-1404            S. Helle
+             15     Mar         09:00 - 12:30   C            B-3416            Z. Hamoudi
+                    Jeu         09:00 - 12:00   TP           A-2448            Z. Hamoudi
+
+
+COM110       MÉTHODES DE COMMUNICATION
+             01     Jeu         09:00 - 12:30   C            B-3402            J. Richard
+                    Mar         08:30 - 12:30   TP A+B       B-3404            C. Bachaalani
+             02     Mer         09:00 - 12:30   C            B-3402            L. Massicotte
+                    Lun         08:30 - 12:30   TP A+B       B-3404            L. Massicotte
+             03     Mar         13:30 - 17:00   C            B-2622            G. Nasr
+                    Ven         13:30 - 17:30   TP A+B       B-3404            G. Nasr
+             04     Mar         18:00 - 21:30   C            B-1708            D. Déry
+                    Jeu         18:00 - 22:00   TP A+B       B-3404            L.É. Gagnon
+             05     Lun         18:00 - 21:30   C            B-3418            Y. Rouillard
+                    Ven         18:00 - 22:00   TP A+B       B-3404            Y. Rouillard
+             06     Mer         13:30 - 17:00   C            B-2622            G. Mireault
+                    Ven         08:30 - 12:30   TP A+B       B-3404            G. Mireault
+             07     Jeu         18:00 - 21:30   C            B-3416            Y. Rouillard
+                    Mar         18:00 - 22:00   TP A+B       B-3404            Y. Rouillard
+
+
+COM115       COMMUNICATION INTERCULTURELLE
+             01     Jeu         13:30 - 17:00   C            B-1516            J. Richard
+                    Lun         13:30 - 17:30   TP A+B       B-3404            J. Richard
+
+
+ENT201       GESTION FINANCIÈRE D'ENTREPRISE
+             01     Lun         18:00 - 21:30   C            B-1506            L. Parent
+                    Mer         18:00 - 20:00   TP           B-1516            L. Parent
+
+
+ENT202       INTRODUCTION À L'ENTREPRENEURSHIP
+             01     Mar         18:00 - 21:30   C            A-4670            P. Laferrière
+                    Jeu         18:00 - 20:00   TP           B-0904            P. Laferrière
+
+
+
+         Date : 2014-01-27 14:59:20                                                                                                   Page : 1/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Service de la gestion académique
+                                                       7885 : Baccalauréat en génie de la production automatisée
+
+
+                                                    HORAIRE HIVER 2014
+                                                Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                Locaux B: bâtiment nord, 1111, Notre-Dame O.
+    Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                              deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR     JOUR          HEURE         ACTIVITÉ      LOCAL             ENSEIGNANT                                      PRÉALABLES
+
+
+FRA150       FRANÇAIS ÉCRIT
+             01     Lun         18:00 - 21:30   C             B-3432            M.H. Thibault
+                    Mer         18:00 - 20:00   TP            B-1708            M.L. Romano
+
+
+FRA151       FRANÇAIS ÉCRIT
+             01     Lun         18:00 - 21:30   C             B-3406            G. Mireault
+                    Mer         18:00 - 22:00   TP            B-1518            G. Mireault
+
+
+GIA400       ANALYSE DE RENTABILITÉ DE PROJETS
+             01     Lun         09:00 - 12:30   C             B-0904            K. Lagacé
+                    Mer         08:30 - 12:30   TP A+B        A-4670            K. Lagacé
+             02     Jeu         09:00 - 12:30   C             B-0904            L. Parent
+                    Mar         08:30 - 12:30   TP A+B        A-4406            L. Parent
+             03     Lun         13:30 - 17:00   C             B-0904            K. Lagacé
+                    Jeu         13:30 - 17:30   TP A+B        B-3422            K. Lagacé
+             04     Mar         13:30 - 17:00   C             B-0906            K. Lagacé
+                    Ven         13:30 - 17:30   TP A+B        A-1170            K. Lagacé
+             05     Jeu         13:30 - 17:00   C             B-0904            P. Coutou
+                    Lun         13:30 - 17:30   TP A+B        B-4416            P. Coutou
+             06     Jeu         18:00 - 21:30   C             B-0908            Y. Wagner
+                    Mar         18:00 - 20:00   TP            B-0906            Y. Wagner
+             07     Mer         09:00 - 12:30   C             B-0904            P. Coutou
+                    Lun         08:30 - 12:30   TP A+B        B-3420            P. Coutou
+             08     Ven         09:00 - 12:30   C             B-0904            Y. Wagner
+                    Mer         13:30 - 17:30   TP A+B        A-1160            Y. Wagner
+             09     Mar         18:00 - 21:30   C             B-0904            R. Jeannotte
+                    Jeu         18:00 - 20:00   TP            B-0906            C. Séguin
+             10     Lun         18:00 - 21:30   C             B-0904            Y. Wagner
+                    Ven         18:00 - 20:00   TP            B-1506            Y. Wagner
+
+
+GIA601       ERGONOMIE ET SÉCURITÉ EN MILIEU DE TRAVAIL
+             01     Lun         13:30 - 17:00   C             B-3418            S. Nadeau
+                    Jeu         13:30 - 15:30   TP-Labo A     A-1240, A-1220
+                    Jeu         15:30 - 17:30   TP-Labo B     A-1240, A-1220
+             02     Jeu         13:30 - 17:00   C             B-3414            J. Bassal
+                    Lun         13:30 - 15:30   TP-Labo A     A-4406, A-1220
+                    Lun         15:30 - 17:30   TP-Labo B     A-4406, A-1220
+
+
+GPA141       AUTOMATES PROGRAMMABLES: LANGAGES ET MISE EN
+             O
+             01     Lun         13:30 - 17:00   C             B-3414            J.A. Landry
+                    Jeu         13:30 - 15:30   TP A          A-3602
+                    Jeu         15:30 - 17:30   TP B          A-3602
+
+
+GPA205       CONCEPTION DE SYSTÈMES DE PRODUCTION
+             01     Ven         13:30 - 17:00   C             B-4416            S. Assal
+                    Mar         13:30 - 15:30   Labo A        A-3602
+                    Mar         15:30 - 17:30   Labo B        A-3602
+
+
+GPA210       ÉLÉMENTS DE FABRICATION MÉCANIQUE
+             01     Jeu         08:45 - 12:15   C             B-1512            R. Maranzana
+                    Mar         08:30 - 11:30   Labo          A-0650, A-3726
+
+
+GPA220       ANALYSE DES CIRCUITS ÉLECTRIQUES
+             01     Mar         18:00 - 21:30   C             B-4416            J.P. Roberge
+                    Jeu         18:00 - 21:00   Labo          A-3564
+
+
+GPA305       ÉLÉMENTS DE RÉSISTANCE DES MATÉRIAUX                                                                  ING150
+             01     Mer         08:30 - 12:00   C             B-1512            S. Joncas
+                    Lun         08:45 - 10:45   TP            A-4406
+
+
+GPA325       INTRODUCTION À L'ÉLECTRONIQUE                                                                         GPA220
+             01     Lun         18:00 - 21:30   C             B-3410            R. Macdonald
+                    Mer         18:00 - 21:00   Labo          B-1512, A-3564
+
+
+
+
+         Date : 2014-01-27 14:59:20                                                                                                    Page : 2/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Service de la gestion académique
+                                                       7885 : Baccalauréat en génie de la production automatisée
+
+
+                                                    HORAIRE HIVER 2014
+                                                Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                Locaux B: bâtiment nord, 1111, Notre-Dame O.
+   Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                             deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR     JOUR          HEURE         ACTIVITÉ     LOCAL             ENSEIGNANT                                       PRÉALABLES
+
+
+GPA430       TECHNIQUES D'OPTIMISATION EN PRODUCTION AUTOMATISÉE                                                  MAT165
+             01     Jeu         13:30 - 17:00   C            B-1708            M. Rioux
+                    Lun         13:30 - 15:30   TP A         A-3728
+                    Lun         15:30 - 16:30   TP B         A-3728
+
+
+GPA435       SYSTÈMES D'EXPLOITATION ET PROGRAMMATION DE                                                          INF155
+             01     Mar         13:30 - 17:00   C            A-1350            T. Wong
+                    Ven         13:30 - 16:30   Labo         A-3728
+
+
+GPA445       CONCEPTION ASSISTÉE PAR ORDINATEUR                                                                   INF155
+             01     Lun         18:00 - 21:30   C            A-1300            R. Maranzana
+                    Mer         18:00 - 21:00   Labo         A-3728
+
+
+GPA535       SYSTÈMES ASSERVIS                                                                                    MAT165 et MAT265
+             01     Ven         08:30 - 12:00   C            A-1424            R. Aissaoui
+                    Mer         13:30 - 16:30   Labo         A-3612
+
+
+GPA546       ROBOTS INDUSTRIELS                                                                                   MAT165 et MAT265
+             01     Mer         08:30 - 12:00   C            A-3336            I. Bonev
+                    Jeu         08:45 - 10:45   Labo A       A-0610, A-3726
+                    Jeu         10:45 - 12:45   Labo B       A-0610, A-3726
+
+
+GPA548       GESTION DE LA PRODUCTION                                                                             GPA205, GPA430,Pr. P: GPA430
+             01     Lun         08:45 - 12:15   C            B-3408            C. Olivier
+                    Mer         08:30 - 10:30   TP A         A-3726
+                    Mer         10:30 - 12:30   TP B         A-3726
+
+
+GPA659       VISION ARTIFICIELLE
+             01     Mer         13:30 - 17:00   C            A-3336            J.A. Landry
+                    Ven         08:30 - 11:30   Labo         A-3608
+
+
+GPA664       FABRICATION ASSISTÉE PAR ORDINATEUR                                                                  GPA445
+             01     Ven         13:30 - 17:00   C            A-3726            S. Bérubé
+                    Mar         13:30 - 16:30   Labo         A-0634, A-3726
+
+
+GPA665       STRUCTURES DE DONNÉES ET ALGORITHMES                                                                 INF155
+             01     Jeu         18:00 - 21:30   C            B-3410            J.C. Demers
+                    Mar         18:00 - 21:00   Labo         A-3728
+
+
+GPA668       CAPTEURS ET ACTIONNEURS                                                                              GPA535
+             01     Jeu         13:30 - 17:00   C            A-1300            G. Gauthier
+                    Lun         13:30 - 16:30   Labo         A-3612
+
+
+GPA725       CAO DE COMPOSANTS AÉRONAUTIQUES                                                                      GPA445
+             01     Mar         18:00 - 21:30   C            B-1508            M. Michaud
+                    Jeu         18:00 - 21:00   Labo         A-3728
+
+
+GPA754       CELLULES DE PRODUCTION ROBOTISÉE                                                                     GPA546
+             01     Mar         08:30 - 12:00   C            A-3602            Y. Noiseux
+                    Ven         08:30 - 10:30   Labo A       A-0610, A-3602
+                    Ven         10:30 - 12:30   Labo B       A-0610, A-3602
+
+
+GPA770       MICROÉLECTRONIQUE APPLIQUÉE                                                                          GPA325
+             01     Mer         13:30 - 17:00   C            A-4660            M. Tremblay
+                    Ven         08:30 - 11:30   Labo A       A-3564
+                    Ven         12:00 - 15:00   Labo B       A-3564
+
+
+GPA772       CONCEPTION DE MACHINES                                                                               Pr. E: GPA305, ING150,Pr. I, M, P: ING150
+             01     Mer         18:00 - 21:30   C            B-3418            A. Lajmi
+                    Lun         18:00 - 21:00   TP           A-1752
+
+
+GPA776       ASSURANCE DE LA QUALITÉ                                                                              MAT350
+             01     Jeu         18:00 - 21:30   C            A-4660            S. Assal
+                    Mar         18:00 - 20:00   Labo         A-3570
+
+
+
+
+         Date : 2014-01-27 14:59:20                                                                                                     Page : 3/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Service de la gestion académique
+                                                         7885 : Baccalauréat en génie de la production automatisée
+
+
+                                                    HORAIRE HIVER 2014
+                                                Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                Locaux B: bâtiment nord, 1111, Notre-Dame O.
+    Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                              deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR     JOUR          HEURE         ACTIVITÉ      LOCAL             ENSEIGNANT                                           PRÉALABLES
+
+
+GPA783       ASSERVISSEMENT NUMÉRIQUE EN TEMPS RÉEL                                                                    GPA535
+             01     Mer         08:30 - 12:00   C             A-4408            P. Bigras
+                    Lun         08:45 - 11:45   Labo          A-3608
+
+
+GPA791       PROJETS SPÉCIAUX                                                                                          Autorisation du directeur de département
+                                                Projet
+
+
+GPA792       PROJET DE FIN D'ÉTUDES EN GÉNIE DE LA PRODUCTION                                                          PCP310
+                O    SÉ                  Projet
+
+
+GTS503       TECHNOLOGIES DE LA SANTÉ, NORMES ET HOMOLOGATION
+             01     Jeu         08:45 - 12:15   C             B-1510            N. Hagemeister / J. Arteau
+                    Mar         08:30 - 10:30   TP            A-1214
+
+
+GTS602       CONCEPTION D'ORTHÈSES ET DE PROTHÈSES
+             01     Lun         13:30 - 17:00   C             A-4408            É. Wagnac
+                    Jeu         13:30 - 15:30   Labo          A-1222
+
+
+GTS792       PROJET DE FIN D'ÉTUDES EN TECHNOLOGIES DE LA SANTÉ                                              PCS310 et 6 cr. obtenus en Conc. Technologie de la santé
+                                                Projet
+
+
+INF155       INTRODUCTION À LA PROGRAMMATION
+             01     Mer         13:30 - 17:00   C             B-3420            É. Thé
+                    Ven         09:00 - 12:00   Labo          B-2406            G. Whittom / É. Thé
+
+
+ING150       STATIQUE ET DYNAMIQUE
+             01     Lun         09:00 - 12:30   C             B-3402            T. Ait Ahcene
+                    Mer         09:00 - 12:00   TP            B-1708            T. Ait Ahcene
+             02     Ven         13:30 - 17:00   C             B-1504            A. Benmassaoud
+                    Mar         13:30 - 16:30   TP            B-4410            A. Benmassaoud
+             03     Mer         13:30 - 17:00   C             B-0904            G. Paquin
+                    Ven         09:00 - 12:00   TP            B-0906            G. Paquin
+             04     Mar         18:00 - 21:30   C             B-4408            D. Lévesque
+                    Jeu         18:00 - 21:00   TP            B-1516            D. Lévesque
+             05     Jeu         13:30 - 17:00   C             B-0906            A. Hénault
+                    Lun         13:30 - 16:30   TP            B-0906            A. Hénault
+
+
+ING160       THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                                                                  ING150
+             01     Jeu         09:00 - 12:30   C             B-4410            C. Alinot
+                    Mar         09:00 - 12:00   TP            B-1504, A-1470    C. Alinot
+             02     Ven         09:00 - 12:30   C             B-1514            A. Hénault
+                    Mer         13:30 - 16:30   TP            B-1708, A-1470    A. Hénault
+             03     Mer         18:00 - 21:30   C             B-0908            X. Daxhelet
+                    Lun         18:00 - 21:00   TP            B-0906, A-1470    I. Desjardins-David
+             04     Mar         13:30 - 17:00   C             B-1514            C. Alinot
+                    Ven         13:30 - 16:30   TP            B-1518, A-1470    C. Alinot
+
+
+ING500       OUTILS DE DÉVELOPPEMENT DURABLE POUR L'INGÉNIEUR
+             01     Jeu         09:00 - 12:30   C             B-2622            P. Terrier
+                    Mar         09:00 - 11:00   TP            B-2624            H. Brunet / P. Terrier
+
+
+MAT144       INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE (HORS
+             01     Mar         09:00 - 12:30   C             B-1708            K. Pineau
+                    Jeu         09:00 - 12:00   TP            B-1404            K. Pineau
+             02     Lun         13:30 - 17:00   C             B-1404            K. Pineau
+                    Jeu         13:30 - 16:30   TP            B-3406            K. Pineau
+             03     Lun         18:00 - 21:30   C             B-4408            F.M. Fares
+                    Mer         18:00 - 21:00   TP            B-1404            F.M. Fares
+
+
+MAT145       CALCUL DIFFÉRENTIEL ET INTÉGRAL
+             01     Mar         09:00 - 12:30   C             B-3414            G. Savard
+                    Jeu         09:00 - 12:00   TP            B-3422            G. Savard
+             02     Mar         09:00 - 12:30   C             B-4416            F. Errico
+                    Jeu         09:00 - 12:00   TP            A-4660
+             03     Lun         13:30 - 17:00   C             B-3422            M. Morel
+                    Jeu         13:30 - 16:30   TP            B-1716            M. Morel
+
+
+
+         Date : 2014-01-27 14:59:20                                                                                                           Page : 4/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Service de la gestion académique
+                                                     7885 : Baccalauréat en génie de la production automatisée
+
+
+                                                    HORAIRE HIVER 2014
+                                                Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                Locaux B: bâtiment nord, 1111, Notre-Dame O.
+   Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                             deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR     JOUR          HEURE         ACTIVITÉ     LOCAL             ENSEIGNANT                                      PRÉALABLES
+
+
+MAT145       CALCUL DIFFÉRENTIEL ET INTÉGRAL
+             04     Lun         13:30 - 17:00   C            B-3432            G. Picard
+                    Jeu         13:30 - 16:30   TP           B-1404            C. Trottier
+             05     Mer         09:00 - 12:30   C            B-3416            A. Lacasse
+                    Lun         09:00 - 12:00   TP           B-3416            A. Lacasse
+             06     Ven         09:00 - 12:30   C            B-1404            F.M. Fares
+                    Mer         13:30 - 16:30   TP           B-3414            F.M. Fares
+             07     Mar         18:00 - 21:30   C            B-1706            K. Amoura
+                    Jeu         18:00 - 21:00   TP           B-1518            F. Amalega
+             08     Lun         18:00 - 21:30   C            B-1502            M. Morel
+                    Mer         18:00 - 21:00   TP           B-1514            M. Morel
+             09     Jeu         09:00 - 12:30   C            B-1716            A. Lacasse
+                    Mar         09:00 - 12:00   TP           B-3406            A. Lacasse
+             10     Mar         13:30 - 17:00   C            B-3406            F.M. Fares
+                    Ven         13:30 - 16:30   TP           B-2622            F.M. Fares
+             11     Lun         09:00 - 12:30   C            B-3422            I. Ndiaye
+                    Mer         09:00 - 12:00   TP           B-1718            K. Mahni
+             12     Mer         13:30 - 17:00   C            B-3416            G. Savard
+                    Ven         09:00 - 12:00   TP           B-3402            G. Savard
+             13     Jeu         13:30 - 17:00   C            B-3402            R. Persechino
+                    Lun         13:30 - 16:30   TP           B-3402            R. Persechino
+
+
+MAT165       ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                              MAT145
+             01     Lun         09:00 - 12:30   C            B-4408            P. Choquette
+                    Mer         09:00 - 12:00   TP           B-4410            P. Choquette
+             02     Jeu         09:00 - 12:30   C            B-4408            F. Kacher
+                    Mar         09:00 - 12:00   TP           B-4408            K. Mahni
+             03     Mer         09:00 - 12:30   C            B-1502            G. Heilporn
+                    Lun         09:00 - 12:00   TP           B-4410            G. Heilporn
+             04     Mar         13:30 - 17:00   C            B-1506            R. Michaud
+                    Ven         13:30 - 16:30   TP           B-1502            R. Michaud
+             05     Jeu         13:30 - 17:00   C            B-4410            R. Michaud
+                    Lun         13:30 - 16:30   TP           B-4408            R. Michaud
+             06     Jeu         18:00 - 21:30   C            B-4410            H. Lahoussine
+                    Mar         18:00 - 21:00   TP           B-4410            H. Lahoussine
+             07     Mer         13:30 - 17:00   C            B-3428            P. Choquette
+                    Ven         09:00 - 12:00   TP           B-1502            P. Choquette
+             08     Mar         09:00 - 12:30   C            B-3428            K. Amoura
+                    Jeu         09:00 - 12:00   TP           B-3428            F. Amalega
+             09     Ven         09:00 - 12:30   C            B-1516            F. Kacher
+                    Mer         13:30 - 16:30   TP           B-1706            F. Amalega
+             10     Mer         18:00 - 21:30   C            B-3428            I. Ndiaye
+                    Lun         18:00 - 21:00   TP           B-3428            M. Groiez
+             11     Jeu         13:30 - 17:00   C            B-1504            H. Lahoussine
+                    Lun         13:30 - 16:30   TP           B-1504            H. Lahoussine
+             12     Mer         09:00 - 12:30   C            B-1514            R. Persechino
+                    Lun         09:00 - 12:00   TP           B-1708            R. Persechino
+
+
+MAT265       ÉQUATIONS DIFFÉRENTIELLES                                                                            MAT145
+             01     Mer         09:00 - 12:30   C            B-1504            C. Trottier
+                    Lun         09:00 - 12:00   TP           B-1504            C. Trottier
+             02     Jeu         09:00 - 12:30   C            B-1518            C. Trottier
+                    Mar         09:00 - 12:00   TP           B-1514            C. Trottier
+             03     Mer         13:30 - 17:00   C            B-1502            K. Amoura
+                    Ven         09:00 - 12:00   TP           B-3428            K. Mahni
+             04     Ven         13:30 - 17:00   C            B-1506            H. Lahoussine
+                    Mar         13:30 - 16:30   TP           B-1708            H. Lahoussine
+             05     Lun         13:30 - 17:00   C            B-1506            F. Kacher
+                    Jeu         13:30 - 16:30   TP           B-3428            S. Soualah
+             06     Mer         18:00 - 21:30   C            B-1506            J.B. Lévesque
+                    Ven         18:00 - 21:00   TP           B-1514            J.B. Lévesque
+             07     Lun         09:00 - 12:30   C            B-1706            S. Lafrance
+                    Mer         09:00 - 12:00   TP           B-1516            S. Lafrance
+             08     Jeu         13:30 - 17:00   C            B-1502            S. Lafrance
+                    Lun         13:30 - 16:30   TP           B-3428            S. Lafrance
+             09     Jeu         09:00 - 12:30   C            B-1708            S. Lafrance
+                    Mar         09:00 - 12:00   TP           B-1516            S. Lafrance
+
+
+         Date : 2014-01-27 14:59:20                                                                                                   Page : 5/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Service de la gestion académique
+                                                     7885 : Baccalauréat en génie de la production automatisée
+
+
+                                                    HORAIRE HIVER 2014
+                                                Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                Locaux B: bâtiment nord, 1111, Notre-Dame O.
+   Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                             deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR     JOUR          HEURE         ACTIVITÉ     LOCAL             ENSEIGNANT                                      PRÉALABLES
+
+
+MAT265       ÉQUATIONS DIFFÉRENTIELLES                                                                            MAT145
+             10     Ven         09:00 - 12:30   C            B-3406            G. Heilporn
+                    Mer         13:30 - 16:30   TP           B-3406            G. Heilporn
+
+
+MAT350       PROBABILITÉS ET STATISTIQUES                                                                         MAT145
+             01     Lun         09:00 - 12:30   C            B-1502            C. Blais
+                    Mer         09:00 - 12:00   TP           B-1506            C. Blais
+             02     Mar         09:00 - 12:30   C            B-0904            C. Blais
+                    Jeu         09:00 - 12:00   TP           B-0906            C. Blais
+             03     Ven         09:00 - 12:30   C            B-1504            S. Gervais
+                    Mer         13:30 - 16:30   TP           B-1504            S. Gervais
+             04     Mer         09:00 - 12:30   C            B-0908            D. Laferrière
+                    Lun         09:00 - 12:00   TP           B-0906
+             05     Jeu         13:30 - 17:00   C            B-0908            D. Laferrière
+                    Lun         13:30 - 16:30   TP           B-0908
+             06     Ven         13:30 - 17:00   C            B-0906            S. Gervais
+                    Mar         13:30 - 16:30   TP           B-0904            S. Gervais
+             07     Jeu         18:00 - 21:30   C            B-1506            D. Laferrière
+                    Mar         18:00 - 21:00   TP           B-3428
+             08     Mer         18:00 - 21:30   C            B-3416            S. Ayad
+                    Ven         18:00 - 21:00   TP           B-1404            S. Ayad
+             09     Mar         13:30 - 17:00   C            B-3428            S. Ayad
+                    Ven         13:30 - 16:30   TP           B-0904            S. Ayad
+             10     Jeu         09:00 - 12:30   C            B-0908            S. Ayad
+                    Mar         09:00 - 12:00   TP           B-0906            S. Ayad
+
+
+PHY144       INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
+             01     Lun         09:00 - 12:30   C            B-3418            D. Benhachmi
+                    Mer         09:00 - 12:00   TP           B-3418            D. Benhachmi
+             02     Mar         18:00 - 21:30   C            B-3406            S. Baune
+                    Jeu         18:00 - 21:00   TP           B-3402            S. Baune
+             03     Mer         09:00 - 12:30   C            B-3432            Z. Hamoudi
+                    Lun         09:00 - 12:00   TP           B-4416            Z. Hamoudi
+             04     Ven         13:30 - 17:00   C            B-3406            D. Benhachmi
+                    Mar         13:30 - 16:30   TP           B-1404            D. Benhachmi
+             05     Ven         09:00 - 12:30   C            B-3410            D. Benhachmi
+                    Mer         13:30 - 16:30   TP           B-3432            D. Benhachmi
+
+
+PHY332       ÉLECTRICITÉ ET MAGNÉTISME                                                                            ING150
+             01     Lun         09:00 - 12:30   C            B-2622            M. Perrault
+                    Mer         09:00 - 12:00   TP           B-1518            M. Perrault
+             02     Mar         09:00 - 12:30   C            B-1506            A. Hénault
+                    Jeu         09:00 - 12:00   TP           B-1506            A. Hénault
+             03     Mer         13:30 - 17:00   C            B-1506            M. Perrault
+                    Ven         09:00 - 12:00   TP           B-4410            M. Perrault
+             04     Lun         13:30 - 17:00   C            B-1502            M. Clisson
+                    Jeu         13:30 - 16:30   TP           B-1506            M. Clisson
+             05     Lun         18:00 - 21:30   C            B-3422            G. Paquin
+                    Ven         18:00 - 21:00   TP           B-1716            G. Paquin
+             06     Ven         13:30 - 17:00   C            B-4408            M. Perrault
+                    Mar         13:30 - 16:30   TP           B-1504            M. Perrault
+             07     Jeu         09:00 - 12:30   C            B-1502            T. Ait Ahcene
+                    Mar         09:00 - 12:00   TP           B-0908            T. Ait Ahcene
+
+
+PHY335       PHYSIQUE DES ONDES                                                                                   ING150
+             01     Jeu         13:30 - 17:00   C            B-1514            A. St-Amand
+                    Lun         13:30 - 16:30   TP           B-1514
+             02     Jeu         09:00 - 12:30   C            B-1504            X. Lavocat-Dubuis
+                    Mar         09:00 - 12:00   TP           B-4410            X. Lavocat-Dubuis
+             03     Ven         09:00 - 12:30   C            B-0908            X. Daxhelet
+                    Mer         13:30 - 16:30   TP           B-0906            S. Helle
+             04     Lun         13:30 - 17:00   C            B-1516            A. Bordeleau
+                    Jeu         13:30 - 16:30   TP           B-4408            A. Bordeleau
+             05     Mar         13:30 - 17:00   C            B-1516            X. Lavocat-Dubuis
+                    Ven         13:30 - 16:30   TP           B-1708            X. Lavocat-Dubuis
+             06     Lun         18:00 - 21:30   C            B-1708            A. St-Amand
+                    Ven         18:00 - 21:00   TP           B-1518
+
+
+         Date : 2014-01-27 14:59:20                                                                                                   Page : 6/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Service de la gestion académique
+                                                        7885 : Baccalauréat en génie de la production automatisée
+
+
+                                                      HORAIRE HIVER 2014
+                                                  Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                  Locaux B: bâtiment nord, 1111, Notre-Dame O.
+    Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                              deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS        GR     JOUR            HEURE         ACTIVITÉ       LOCAL          ENSEIGNANT                                      PRÉALABLES
+
+
+PHY335       PHYSIQUE DES ONDES                                                                                    ING150
+             07     Lun           09:00 - 12:30   C              B-1506         A. St-Amand
+                    Mer           09:00 - 12:00   TP             B-0906         A. St-Amand
+             08     Mer           09:00 - 12:30   C              B-4408         G. Paquin
+                    Lun           09:00 - 12:00   TP             B-1514         G. Paquin
+
+
+PRE010       INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 7 et 8 février 2014
+             01     Ven           18:00 - 21:00   Atelier        A-4404
+                    Sam           09:00 - 16:00   Atelier        A-4404
+
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 17, 18 et 19 février 2014
+             02     Lun           18:00 - 21:00   Atelier        A-4404
+                    Mar           18:00 - 21:00   Atelier        A-4404
+                    Mer           18:00 - 21:00   Atelier        A-4404
+
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 7 et 8 février 2014
+             03     Ven           18:00 - 21:00   Atelier        A-4406
+                    Sam           09:00 - 16:00   Atelier        A-4406
+
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 17, 18 et 19 février 2014
+             04     Lun           18:00 - 21:00   Atelier        A-4406
+                    Mar           18:00 - 21:00   Atelier        A-4406
+                    Mer           18:00 - 21:00   Atelier        A-4406
+
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 7 et 8 mars2014
+             05     Ven           18:00 - 21:00   Atelier        A-4404
+                    Sam           09:00 - 16:00   Atelier        A-4404
+
+             Volet stages - activité à compléter en ligne
+             Volet intensif santé sécurité 9 h - 7 et 8 mars2014
+             06     Ven           18:00 - 21:00   Atelier        A-4406
+                    Sam           09:00 - 16:00   Atelier        A-4406
+
+             Volet stages - activité à compléter en ligne
+             07     Activité en ligne             Atelier
+
+
+TIN501       ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ                                                                 Minimum 70 Cr
+             01     Jeu           09:00 - 12:30   C              B-1514         É. Francoeur
+                    Mar           08:30 - 12:30   TP A+B         A-4660         É. Francoeur
+             02     Mer           13:30 - 17:00   C              B-0908         É. Francoeur
+                    Ven           08:30 - 12:30   TP A+B         B-1512         É. Francoeur
+             03     Ven           13:30 - 17:00   C              B-1516         D.T. Leblanc
+                    Mar           13:30 - 17:30   TP A+B         B-2624         D.T. Leblanc
+             04     Jeu           18:00 - 21:30   C              B-1502         C. Ebnoether
+                    Mar           18:00 - 22:00   TP A+B         B-1404         C. Ebnoether
+             05     Mer           18:00 - 21:30   C              B-4408         J. Rivera
+                    Ven           18:00 - 22:00   TP A+B         B-3414         J. Rivera
+             06     Lun           09:00 - 12:30   C              B-3428         L. Arel
+                    Mer           08:30 - 12:30   TP A+B         B-1508         C. Bachaalani
+             07     Mar           09:00 - 12:30   C              B-1502         L. Arel
+                    Jeu           08:30 - 12:30   TP A+B         B-3418         C. Bachaalani
+
+
+TIN502       SANTÉ, TECHNOLOGIE ET SOCIÉTÉ                                                                         Minimum 70 Cr
+             01     Lun           18:00 - 21:30   C              B-1510         L. Arel
+                    Mer           18:00 - 20:00   TP             B-3404         C. Bachaalani
+
+
+
+
+         Date : 2014-01-27 14:59:20                                                                                                    Page : 7/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Service de la gestion académique
+                                                         7885 : Baccalauréat en génie de la production automatisée
+
+
+                                                      HORAIRE HIVER 2014
+                                                   Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                   Locaux B: bâtiment nord, 1111, Notre-Dame O.
+       Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et les laboratoires commencent la
+                                 deuxième semaine du trimestre à condition qu'une séance de cours ait préalablement eu lieu.
+
+
+COURS           GR     JOUR           HEURE         ACTIVITÉ       LOCAL               ENSEIGNANT                                         PRÉALABLES
+NOTES
+a)              Activités
+                C : cours       TP : travaux pratiques                                 LABO : laboratoires
+                                TP/2 : travaux pratiques aux deux (2) semaines         LABO/2 : laboratoires aux deux (2) semaines
+                                   * : préalable ou concomitant
+                TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants
+                devront se présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci
+                vous sera confirmé au début de la session. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps,
+                s'il est indiqué (A+B) à côté de chacun des travaux pratiques (TP).
+
+b)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+                Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+                Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux pratiques et
+    les laboratoires commencent la deuxième semaine de la session à condition qu'une séance de cours ait
+                                               préalablement eu lieu.
+
+
+
+     Modalités des ateliers PRE010 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf
+     ceux détenant une carte ASP. Pour les étudiants du programme 7921 en génie de la construction ou tout autre
+      étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité sur présentation de votre
+     carte ASP au Service de l'enseignement coopératif). - VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL):
+      obligatoire pour tous les étudiants, cette activité doit être complétée en ligne , le Service de l'enseignement
+       coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7921 doivent
+                                               s'inscrire dans le groupe 07.
+
+
+
+
+           Date : 2014-01-27 14:59:20                                                                                                            Page : 8/8
+

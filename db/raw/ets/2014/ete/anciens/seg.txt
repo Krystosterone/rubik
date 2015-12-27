@@ -1,0 +1,430 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                              Service des enseignements généraux
+
+
+                                                   HORAIRE D'INSCRIPTION
+                                                             ÉTÉ 2014
+                             Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                       la date d'application de la pénalité pour inscription tardive.
+                                                          www.etsmtl.ca/calendrier_ETS
+
+COURS       GR     JOUR         HEURE          ACTIVITÉ      LOCAL                   PRÉALABLES
+
+
+CHM131      CHIMIE ET MATÉRIAUX
+            01     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            02     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            03     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+            04     Jeu         09:00 - 12:30   C
+                   Mar         09:00 - 12:00   TP
+            05     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 16:30   TP
+            06     Lun         18:00 - 21:30   C
+                   Mer         18:00 - 21:00   TP
+            07     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            08     Jeu         18:00 - 21:30   C
+                   Mar         18:00 - 21:00   TP
+            09     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+
+
+COM110      MÉTHODES DE COMMUNICATION                                               TEST DE FRANCAIS OU FRA150 OU FRA151
+            01     Jeu         09:00 - 12:30   C
+                   Mar         08:30 - 12:30   TP A+B
+            02     Mer         13:30 - 17:00   C
+                   Ven         08:30 - 12:30   TP A+B
+            03     Lun         09:00 - 12:30   C
+                   Mer         08:30 - 12:30   TP A+B
+            04     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 22:00   TP A+B
+            05     Lun         18:00 - 21:30   C
+                   Mer         18:00 - 22:00   TP A+B
+
+
+COM129      MÉTHODES DE COMMUNICATION EN GÉNIE MÉCANIQUE
+            01     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 17:30   TP A+B
+
+
+ENT601      MARKETING ET VENTES
+            01     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 20:00   TP
+
+
+FRA150      FRANÇAIS ÉCRIT
+            01     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 15:30   TP
+
+
+FRA151      FRANÇAIS ÉCRIT
+            01     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 17:30   TP
+
+
+GIA400      ANALYSE DE RENTABILITÉ DE PROJETS
+            01     Mer         09:00 - 12:30   C
+                   Lun         08:30 - 12:30   TP A+B
+            02     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 17:30   TP A+B
+            03     Mar         09:00 - 12:30   C
+                   Jeu         08:30 - 12:30   TP A+B
+            04     Mer         13:30 - 17:00   C
+                   Ven         08:30 - 12:30   TP A+B
+            05     Jeu         09:00 - 12:30   C
+                   Mar         08:30 - 12:30   TP A+B
+            06     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 17:30   TP A+B
+            07     Jeu         18:00 - 21:30   C
+                   Mar         18:00 - 20:00   TP
+
+
+         Date : 2014-02-17                                                                                                 Page : 1/5
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                              Service des enseignements généraux
+
+
+                                                   HORAIRE D'INSCRIPTION
+                                                             ÉTÉ 2014
+                             Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                       la date d'application de la pénalité pour inscription tardive.
+                                                          www.etsmtl.ca/calendrier_ETS
+
+COURS       GR     JOUR         HEURE          ACTIVITÉ      LOCAL                   PRÉALABLES
+
+
+GIA400      ANALYSE DE RENTABILITÉ DE PROJETS
+            08     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 17:30   TP A+B
+            09     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 20:00   TP
+            10     Lun         18:00 - 21:30   C
+                   Mer         18:00 - 20:00   TP
+
+
+INF111      PROGRAMMATION ORIENTÉE-OBJET (HORS PROGRAMME)
+            80     Lun         18:00 - 21:30   C                                    DÉBUT : 26 MAI FIN : 13 AOÛT
+                   Mer         18:00 - 21:00   Labo          B-2402
+
+
+INF130      ORDINATEURS ET PROGRAMMATION
+            01     Mar         09:00 - 12:30   C                , B-2406
+                   Jeu         09:00 - 12:00   Labo          B-2406
+            02     Mer         18:00 - 21:30   C                , B-2406
+                   Lun         18:00 - 21:00   Labo          B-2406
+            03     Jeu         13:30 - 17:00   C                , B-2406
+                   Lun         13:30 - 16:30   Labo          B-2406
+            04     Lun         09:00 - 12:30   C                , B-2406
+                   Mer         09:00 - 12:00   Labo          B-2406
+
+
+INF135      INTRODUCTION À LA PROGRAMMATION EN GÉNIE MÉCANIQUE
+            01     Lun         09:00 - 12:30   C                , B-2408
+                   Mer         09:00 - 12:00   Labo          B-2408
+            02     Jeu         18:00 - 21:30   C                , B-2406
+                   Mar         18:00 - 21:00   Labo          B-2406
+            03     Mer         13:30 - 17:00   C                , B-2406
+                   Ven         09:00 - 12:00   Labo          B-2406
+
+
+INF145      PROGRAMMATION AVANCÉE ET LANGAGE C
+            01     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   Labo          B-2408
+            02     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   Labo          B-2408
+
+
+INF155      INTRODUCTION À LA PROGRAMMATION
+            01     Lun         18:00 - 21:30   C
+                   Mer         18:00 - 21:00   Labo          B-2408
+
+
+ING150      STATIQUE ET DYNAMIQUE
+            01     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            02     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 16:30   TP
+            03     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 21:00   TP
+            04     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+
+
+ING160      THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                                ING150
+            01     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP               , A-1470
+            02     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP               , A-1470
+            03     Mer         18:00 - 21:30   C
+                   Lun         18:00 - 21:00   TP               , A-1470
+            04     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP               , A-1470
+
+
+MAT144      INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE (HORS PROG.)
+            80     Lun         13:30 - 17:00   C                                    DÉBUT : 26 MAI FIN : 13 AOÛT
+                   Mer         13:30 - 16:30   TP
+
+
+
+         Date : 2014-02-17                                                                                         Page : 2/5
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                              Service des enseignements généraux
+
+
+                                                   HORAIRE D'INSCRIPTION
+                                                             ÉTÉ 2014
+                             Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                       la date d'application de la pénalité pour inscription tardive.
+                                                          www.etsmtl.ca/calendrier_ETS
+
+COURS       GR     JOUR         HEURE          ACTIVITÉ      LOCAL                   PRÉALABLES
+
+
+MAT144      INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE (HORS PROG.)
+            81     Mar         18:00 - 21:30   C                                    DÉBUT : 27 MAI FIN : 14 AOÛT
+                   Jeu         18:00 - 21:00   TP
+
+
+MAT145      CALCUL DIFFÉRENTIEL ET INTÉGRAL
+            01     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            02     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            03     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+            04     Mer         18:00 - 21:30   C
+                   Lun         18:00 - 21:00   TP
+            05     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            06     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+
+
+MAT165      ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                 MAT145
+            01     Jeu         09:00 - 12:30   C
+                   Mar         09:00 - 12:00   TP
+            02     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+            03     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            04     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            05     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 16:30   TP
+            06     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 21:00   TP
+            07     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            08     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+
+
+MAT210      LOGIQUE ET MATHÉMATIQUES DISCRÈTES                                      MAT145
+            01     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+
+
+MAT265      ÉQUATIONS DIFFÉRENTIELLES                                               MAT145
+            01     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            02     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+            03     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            04     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            05     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            06     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+            07     Jeu         18:00 - 21:30   C
+                   Mar         18:00 - 21:00   TP
+            08     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 16:30   TP
+            09     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+
+
+MAT350      PROBABILITÉS ET STATISTIQUES                                            MAT145
+            01     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+
+
+
+         Date : 2014-02-17                                                                                         Page : 3/5
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                              Service des enseignements généraux
+
+
+                                                   HORAIRE D'INSCRIPTION
+                                                             ÉTÉ 2014
+                             Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                       la date d'application de la pénalité pour inscription tardive.
+                                                          www.etsmtl.ca/calendrier_ETS
+
+COURS       GR     JOUR         HEURE          ACTIVITÉ      LOCAL                   PRÉALABLES
+
+
+MAT350      PROBABILITÉS ET STATISTIQUES                                            MAT145
+            02     Jeu         09:00 - 12:30   C
+                   Mar         09:00 - 12:00   TP
+            03     Jeu         13:30 - 17:00   C
+                   Lun         13:30 - 16:30   TP
+            04     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+            05     Mar         18:00 - 21:30   C
+                   Jeu         18:00 - 21:00   TP
+            06     Lun         18:00 - 21:30   C
+                   Mer         18:00 - 21:00   TP
+            07     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            08     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            09     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            10     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+
+
+MAT415      MATHÉMATIQUES DU GÉNIE DES TI                                           MAT145
+            01     Mer         18:00 - 21:30   C
+                   Lun         18:00 - 21:00   TP
+
+
+MAT472      ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE L'ESPACE                               MAT145
+            01     Lun         18:00 - 21:30   C
+                   Mer         18:00 - 21:00   TP
+
+
+PHY144      INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS PROGRAMME)
+            80     Lun         18:00 - 21:30   C                                    DÉBUT : 26 MAI FIN : 13 AOÛT
+                   Mer         18:00 - 21:00   TP
+            81     Mar         13:30 - 17:00   C                                    DÉBUT : 27 MAI FIN : 14 AOÛT
+                   Jeu         13:30 - 16:30   TP
+
+
+PHY332      ÉLECTRICITÉ ET MAGNÉTISME                                               CTN258, ING150
+            01     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            02     Ven         09:00 - 12:30   C
+                   Mer         13:30 - 16:30   TP
+            03     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+            04     Mer         18:00 - 21:30   C
+                   Lun         18:00 - 21:00   TP
+            05     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            06     Lun         09:00 - 12:30   C
+                   Mer         09:00 - 12:00   TP
+
+
+PHY335      PHYSIQUE DES ONDES                                                      CTN258, ING150
+            01     Mer         09:00 - 12:30   C
+                   Lun         09:00 - 12:00   TP
+            02     Jeu         09:00 - 12:30   C
+                   Mar         09:00 - 12:00   TP
+            03     Mer         13:30 - 17:00   C
+                   Ven         09:00 - 12:00   TP
+            04     Mar         13:30 - 17:00   C
+                   Ven         13:30 - 16:30   TP
+            05     Jeu         18:00 - 21:30   C
+                   Mar         18:00 - 21:00   TP
+            06     Lun         13:30 - 17:00   C
+                   Jeu         13:30 - 16:30   TP
+            07     Mar         09:00 - 12:30   C
+                   Jeu         09:00 - 12:00   TP
+
+
+
+         Date : 2014-02-17                                                                                         Page : 4/5
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+                                                                                                  Service des enseignements généraux
+
+
+                                                               HORAIRE D'INSCRIPTION
+                                                                          ÉTÉ 2014
+                                   Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                             la date d'application de la pénalité pour inscription tardive.
+                                                                      www.etsmtl.ca/calendrier_ETS
+
+COURS       GR          JOUR            HEURE              ACTIVITÉ       LOCAL                              PRÉALABLES
+
+
+PHY335      PHYSIQUE DES ONDES                                                                               CTN258, ING150
+            08          Lun           09:00 - 12:30        C
+                        Mer           09:00 - 12:00        TP
+
+
+PRE010      INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 23 et 24 mai 2014
+            01          Ven           18:00 - 21:00        Atelier
+                        Sam           09:00 - 16:00        Atelier
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 23 et 24 mai 2014
+            02          Ven           18:00 - 21:00        Atelier
+                        Sam           09:00 - 16:00        Atelier
+
+            Volet stages - activité à compléter en ligne
+            03          Activité en ligne                  Atelier
+
+
+TIN501      ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ                                                            Minimum 70 Cr
+            01          Jeu           09:00 - 12:30        C
+                        Mar           08:30 - 12:30        TP A+B
+            02          Mer           09:00 - 12:30        C
+                        Lun           08:30 - 12:30        TP A+B
+            03          Ven           09:00 - 12:30        C
+                        Mer           13:30 - 17:30        TP A+B
+            04          Mar           13:30 - 17:00        C
+                        Ven           13:30 - 17:30        TP A+B
+            05          Mer           18:00 - 21:30        C
+                        Lun           18:00 - 20:00        TP
+            06          Mar           18:00 - 21:30        C
+                        Jeu           18:00 - 20:00        TP
+            07          Lun           13:30 - 17:00        C
+                        Jeu           13:30 - 17:30        TP A+B
+NOTES
+a)          Activités
+            C : cours             TP : travaux pratiques                                                     LABO : laboratoires
+                                  TP/2 : travaux pratiques aux deux (2) semaines                             LABO/2 : laboratoires aux deux (2) semaines
+            TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+            présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+            trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+            pratiques (TP).
+b)          À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+            Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+            Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+       Sauf mention particulière de la part de l'enseignant lors de sa première séance de cours, les travaux
+     pratiques et les laboratoires commencent la deuxième semaine de la session à condition qu'une séance
+                                        de cours ait préalablement eu lieu.
+
+
+
+
+ Modalités des ateliers PRE010 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants
+ sauf ceux détenant une carte ASP. Pour les étudiants du programme 7622 en génie de la construction ou
+     tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité sur
+       présentation de votre carte ASP au Service de l'enseignement coopératif). - VOLET STAGES
+    (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être
+ complétée en ligne , le Service de l'enseignement coopératif vous informera de la procédure à suivre par
+             courriel. Les étudiants du programme 7622 doivent s'inscrire dans le groupe 03.
+
+
+
+
+         Date : 2014-02-17                                                                                                                                   Page : 5/5
+

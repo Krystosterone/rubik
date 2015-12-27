@@ -1,0 +1,384 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+
+
+                                             Baccalauréat en génie ÉLECTRIQUE
+
+                           HORAIRE D'INSCRIPTION des NOUVEAUX ÉTUDIANTS
+
+                                                        AUTOMNE 2015
+                            Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                      la date d'application de la pénalité pour inscription tardive.
+                                                         www.etsmtl.ca/calendrier_ETS
+COURS      GR     JOUR         HEURE          ACTIVITÉ      LOCAL                                       PRÉALABLES
+
+
+ATE050     RÉUSSIR EN GÉNIE
+           01     Mar        08:30 - 10:30    Atelier
+
+
+COM110     MÉTHODES DE COMMUNICATION                                                                    TEST DE FRANCAIS OU FRA150 OU
+                                                                                                        FRA151
+           01     Jeu        13:30 - 17:00    C
+                  Lun        13:30 - 17:30    TP A+B
+           02     Ven        09:00 - 12:30    C
+                  Mer        13:30 - 17:30    TP A+B
+           03     Mar        09:00 - 12:30    C
+                  Jeu        08:30 - 12:30    TP A+B
+           04     Jeu        09:00 - 12:30    C
+                  Mar        08:30 - 12:30    TP A+B
+           05     Mer        13:30 - 17:00    C
+                  Ven        08:30 - 12:30    TP A+B
+           06     Lun        09:00 - 12:30    C
+                  Mer        08:30 - 12:30    TP A+B
+           07     Lun        13:30 - 17:00    C
+                  Jeu        13:30 - 17:30    TP A+B
+           08     Mer        18:00 - 21:30    C
+                  Ven        18:00 - 22:00    TP A+B
+           09     Mer        09:00 - 12:30    C
+                  Lun        08:30 - 12:30    TP A+B
+           10     Lun        18:00 - 21:30    C
+                  Ven        18:00 - 22:00    TP A+B
+           11     Mar        18:00 - 21:30    C
+                  Jeu        18:00 - 22:00    TP A+B
+           12     Jeu        09:00 - 12:30    C
+                  Mar        08:30 - 12:30    TP A+B
+           13     Mer        09:00 - 12:30    C
+                  Lun        08:30 - 12:30    TP A+B
+           14     Sam        13:00 - 16:00    C
+                  Sam        10:00 - 12:00    TP
+
+
+ELE104     PRINCIPES FONDAMENTAUX DES CIRCUITS ÉLECTRIQUES
+           01     Jeu        13:30 - 17:00    C             A-2402                      C. Tremblay
+                  Lun        13:30 - 15:30    TP/2
+                  Lun        13:30 - 17:30    Labo/2        A-2508
+
+
+ELE116     ENVIRONNEMENT DE DÉVELOPPEMENT DE LOGICIELS
+           01     Ven        08:30 - 12:00    C
+                  Mer        13:30 - 15:30    Labo             , A-3334
+
+
+ELE140     CONCEPTION DES SYSTÈMES NUMÉRIQUES
+           01     Jeu        08:45 - 12:15    C
+                  Mar        08:30 - 10:30    TP/2
+                  Mar        13:30 - 17:30    Labo/2        A-2509, A-3334
+           02     Mar        08:30 - 12:00    C                                         L. Woodward
+                  Jeu        10:00 - 12:00    TP/2
+                  Ven        08:30 - 12:30    Labo/2        A-2509, A-3334
+           03     Jeu        13:30 - 17:00    C                                         L. Woodward
+                  Mar        10:30 - 12:30    TP/2
+                  Lun        13:30 - 17:30    Labo/2        A-2509, A-3334
+           04     Lun        18:00 - 21:30    C
+                  Mer        18:00 - 20:00    TP/2
+                  Mer        18:00 - 22:00    Labo/2        A-2509, A-3334
+
+
+
+
+         05 février 2015                                                                                                Page : 1/5
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+
+
+                                             Baccalauréat en génie ÉLECTRIQUE
+
+                           HORAIRE D'INSCRIPTION des NOUVEAUX ÉTUDIANTS
+
+                                                     AUTOMNE 2015
+                            Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                      la date d'application de la pénalité pour inscription tardive.
+                                                         www.etsmtl.ca/calendrier_ETS
+COURS      GR     JOUR         HEURE          ACTIVITÉ      LOCAL                                       PRÉALABLES
+
+
+FRA150     FRANÇAIS ÉCRIT
+           01     Jeu        18:00 - 21:30    C
+                  Mar        18:00 - 20:00    TP
+
+
+FRA151     FRANÇAIS ÉCRIT
+           01     Jeu        18:00 - 21:30    C
+                  Mar        18:00 - 22:00    TP
+
+
+INF145     PROGRAMMATION AVANCÉE ET LANGAGE C
+           01     Mer        09:00 - 12:30    C
+                  Lun        09:00 - 12:00    Labo          B-2408
+           02     Jeu        09:00 - 12:30    C
+                  Mar        09:00 - 12:00    Labo          B-2406
+
+
+ING150     STATIQUE ET DYNAMIQUE
+           01     Lun        09:00 - 12:30    C
+                  Mer        09:00 - 12:00    TP
+           02     Ven        09:00 - 12:30    C
+                  Mer        13:30 - 16:30    TP
+           03     Lun        13:30 - 17:00    C
+                  Jeu        13:30 - 16:30    TP
+           04     Mar        18:00 - 21:30    C
+                  Jeu        18:00 - 21:00    TP
+           07     Lun        09:00 - 12:30    C
+                  Mer        09:00 - 12:00    TP
+           08     Ven        09:00 - 12:30    C
+                  Mer        13:30 - 16:30    TP
+           09     Lun        13:30 - 17:00    C
+                  Jeu        13:30 - 16:30    TP
+
+
+MAT144     INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE (HORS PROG.)
+           01     Mer        09:00 - 12:30    C
+                  Lun        09:00 - 12:00    TP
+           03     Mer        13:30 - 17:00    C
+                  Ven        09:00 - 12:00    TP
+           05     Mar        13:30 - 17:00    C
+                  Ven        13:30 - 16:30    TP
+           06     Mer        18:00 - 21:30    C
+                  Lun        18:00 - 21:00    TP
+           07     Mar        18:00 - 21:30    C
+                  Jeu        18:00 - 21:00    TP
+           08     Mer        09:00 - 12:30    C
+                  Lun        09:00 - 12:00    TP
+           10     Mer        13:30 - 17:00    C
+                  Ven        09:00 - 12:00    TP
+           12     Mar        13:30 - 17:00    C
+                  Ven        13:30 - 16:30    TP
+           13     Mer        18:00 - 21:30    C
+                  Lun        18:00 - 21:00    TP
+           14     Mar        18:00 - 21:30    C
+                  Jeu        18:00 - 21:00    TP
+
+
+MAT145     CALCUL DIFFÉRENTIEL ET INTÉGRAL
+           01     Mer        09:00 - 12:30    C
+                  Lun        09:00 - 12:00    TP
+           02     Mer        09:00 - 12:30    C
+                  Lun        09:00 - 12:00    TP
+           05     Mer        13:30 - 17:00    C
+
+
+
+         05 février 2015                                                                                             Page : 2/5
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+
+
+                                             Baccalauréat en génie ÉLECTRIQUE
+
+                           HORAIRE D'INSCRIPTION des NOUVEAUX ÉTUDIANTS
+
+                                                   AUTOMNE 2015
+                            Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                      la date d'application de la pénalité pour inscription tardive.
+                                                         www.etsmtl.ca/calendrier_ETS
+COURS      GR     JOUR         HEURE          ACTIVITÉ      LOCAL                                       PRÉALABLES
+                  Ven        09:00 - 12:00    TP
+           06     Mer        13:30 - 17:00    C
+                  Ven        09:00 - 12:00    TP
+           09     Mar        13:30 - 17:00    C
+                  Ven        13:30 - 16:30    TP
+           10     Mar        13:30 - 17:00    C
+                  Ven        13:30 - 16:30    TP
+           11     Mer        18:00 - 21:30    C
+                  Lun        18:00 - 21:00    TP
+           12     Mer        18:00 - 21:30    C
+                  Lun        18:00 - 21:00    TP
+           13     Mar        18:00 - 21:30    C
+                  Jeu        18:00 - 21:00    TP
+           14     Mar        18:00 - 21:30    C
+                  Jeu        18:00 - 21:00    TP
+           15     Mer        09:00 - 12:30    C
+                  Lun        09:00 - 12:00    TP
+           16     Mar        09:00 - 12:30    C
+                  Jeu        09:00 - 12:00    TP
+           17     Mer        13:30 - 17:00    C
+                  Ven        09:00 - 12:00    TP
+           18     Lun        13:30 - 17:00    C
+                  Jeu        13:30 - 16:30    TP
+           19     Mar        13:30 - 17:00    C
+                  Ven        13:30 - 16:30    TP
+
+
+MATEST     ACCUEIL EN MATHÉMATIQUES
+           01     Mer        09:00 - 12:30    C
+                  Lun        09:00 - 12:00    TP
+           03     Mer        13:30 - 17:00    C
+                  Ven        09:00 - 12:00    TP
+           05     Mar        13:30 - 17:00    C
+                  Ven        13:30 - 16:30    TP
+           06     Mer        18:00 - 21:30    C
+                  Lun        18:00 - 21:00    TP
+           07     Mar        18:00 - 21:30    C
+                  Jeu        18:00 - 21:00    TP
+
+
+PHY144     INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS PROGRAMME)
+           01     Lun        09:00 - 12:30    C
+                  Mer        09:00 - 12:00    TP
+           02     Ven        09:00 - 12:30    C
+                  Mer        13:30 - 16:30    TP
+           03     Lun        13:30 - 17:00    C
+                  Jeu        13:30 - 16:30    TP
+           04     Mar        18:00 - 21:30    C
+                  Jeu        18:00 - 21:00    TP
+           05     Lun        09:00 - 12:30    C
+                  Mer        09:00 - 12:00    TP
+           06     Ven        09:00 - 12:30    C
+                  Mer        13:30 - 16:30    TP
+           07     Lun        13:30 - 17:00    C
+                  Jeu        13:30 - 16:30    TP
+
+
+
+
+         05 février 2015                                                                                             Page : 3/5
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+
+
+                                               Baccalauréat en génie ÉLECTRIQUE
+
+                           HORAIRE D'INSCRIPTION des NOUVEAUX ÉTUDIANTS
+
+                                                          AUTOMNE 2015
+                            Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                      la date d'application de la pénalité pour inscription tardive.
+                                                           www.etsmtl.ca/calendrier_ETS
+COURS      GR     JOUR           HEURE          ACTIVITÉ      LOCAL                                     PRÉALABLES
+
+
+PHYEST     ACCUEIL EN PHYSIQUE
+           01     Lun          09:00 - 12:30    C
+                  Mer          09:00 - 12:00    TP
+           02     Ven          09:00 - 12:30    C
+                  Mer          13:30 - 16:30    TP
+           03     Lun          13:30 - 17:00    C
+                  Jeu          13:30 - 16:30    TP
+           04     Mar          18:00 - 21:30    C
+                  Jeu          18:00 - 21:00    TP
+
+
+PRE010     INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 21, 22 et 23 septembre 2015
+           01     Lun          18:00 - 21:00    Atelier
+                  Mar          18:00 - 21:00    TP A
+                  Mer          18:00 - 21:00    TP B
+
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 21, 22 et 23 septembre 2015
+           02     Lun          18:00 - 21:00    Atelier
+                  Mar          18:00 - 21:00    TP A
+                  Mer          18:00 - 21:00    TP B
+
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 2 et 3 octobre 2015
+           03     Ven          18:00 - 21:00    Atelier
+                  Sam          09:00 - 16:00    TP
+
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 2 et 3 octobre 2015
+           04     Ven          18:00 - 21:00    Atelier
+                  Sam          09:00 - 16:00    TP
+
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 16 et 17 octobre 2015
+           05     Ven          18:00 - 21:00    Atelier
+                  Sam          09:00 - 16:00    TP
+
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 16 et 17 octobre 2015
+           06     Ven          18:00 - 21:00    Atelier
+                  Sam          09:00 - 16:00    TP
+
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 26, 27 et 28 octobre 2015
+           07     Lun          18:00 - 21:00    Atelier
+                  Mar          18:00 - 21:00    TP A
+                  Mer          18:00 - 21:00    TP B
+
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 26, 27 et 28 octobre 2015
+           08     Lun          18:00 - 21:00    Atelier
+                  Mar          18:00 - 21:00    TP A
+                  Mer          18:00 - 21:00    TP B
+
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 6 et 7 novembre 2015
+           09     Ven          18:00 - 21:00    Atelier
+                  Sam          09:00 - 16:00    TP
+
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 6 et 7 novembre 2015
+           10     Ven          18:00 - 21:00    Atelier
+                  Sam          09:00 - 16:00    TP
+
+
+
+
+         05 février 2015                                                                                             Page : 4/5
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau des services académiques
+
+
+                                                  Baccalauréat en génie ÉLECTRIQUE
+
+                             HORAIRE D'INSCRIPTION des NOUVEAUX ÉTUDIANTS
+
+                                                             AUTOMNE 2015
+                               Consulter le calendrier universitaire pour connaître les périodes d'inscription et
+                                         la date d'application de la pénalité pour inscription tardive.
+                                                              www.etsmtl.ca/calendrier_ETS
+COURS      GR      JOUR                HEURE       ACTIVITÉ       LOCAL                                              PRÉALABLES
+
+
+PRE010     INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 13 et 14 novembre 2015
+           11      Ven            18:00 - 21:00    Atelier
+                   Sam            09:00 - 16:00    TP
+
+           Volet stages - activité à compléter en ligne
+           Volet intensif santé sécurité 9 h - 13 et 14 novembre 2015
+           12      Ven            18:00 - 21:00    Atelier
+                   Sam            09:00 - 16:00    TP
+
+           Volet stages - activité à compléter en ligne
+           13      Activité en ligne               Atelier
+
+
+NOTES
+1)         Activités
+           C:      cours                           TP : travaux pratiques                                            LABO : laboratoires
+           A:      Atelier                         TP/2 : travaux pratiques aux deux semaines                        LABO/2 : laboratoires aux deux
+                                                                                                                     semaines
+           Atelier/2 :       Atelier aux deux semaines
+
+           TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des
+           étudiants devront se présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2)
+           heures. Ceci vous sera confirmé au début du trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu
+           en même temps, s'il est indiqué (A+B) à côté de chacun des travaux pratiques (TP).
+
+
+2)         Programmes
+           B:      Baccalauréat
+           H:      Hors programme
+
+3)         L'horaire indiquant les locaux sera disponible en début de session dans la section Baccalauréats "Horaire des cours avec locaux (pour tous les
+           étudiants)", sur le WEB.
+
+
+  Modalités des ateliers PRE010 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants
+sauf ceux détenant une carte ASP. Pour les étudiants du programme 7622 en génie de la construction ou tout
+ autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité sur présentation de
+       votre carte ASP au Service de l'enseignement coopératif). - VOLET STAGES (DÉVELOPPEMENT
+ PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service
+     de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du
+                             programme 7622 doivent s'inscrire dans le groupe 13.
+
+
+
+
+         05 février 2015                                                                                                               Page : 5/5
+

@@ -1,0 +1,7 @@
+.col-sm-6.col-xs-12
+  .panel.panel-default
+    .panel-heading= term.title
+
+    .list-group
+      - term.academic_degree_terms.each do |academic_degree_term|
+        = link_to academic_degree_term.name, new_academic_degree_term_agenda_path(academic_degree_term), class: 'list-group-item'

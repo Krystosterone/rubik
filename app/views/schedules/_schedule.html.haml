@@ -1,0 +1,39 @@
+%fieldset.col-lg-6
+  %legend
+    Horaire -
+    = slice_index + schedule_counter + schedule_index + 1
+
+  .schedule{class: schedule.css_class}
+    %table.hours
+      %thead
+        %tr
+          %th.weekday
+      %tbody
+        - schedule.hours.each do |hour|
+          %tr.hour
+            %td= hour
+          %tr.half-hour
+            %td
+
+    .week-container
+      %table.backdrop
+        %thead
+          %tr
+            - schedule.weekdays.each do |weekday|
+              %th.weekday{ class: weekday.backdrop_class }
+                %span= weekday.name[0..2]
+                %span.post= weekday.name[3..-1]
+        %tbody
+          - schedule.hours.each do
+            %tr.hour
+              - schedule.weekdays.each do |weekday|
+                %td.empty{class: weekday.backdrop_class}
+            %tr.half-hour
+              - schedule.weekdays.each do |weekday|
+                %td.empty{class: weekday.backdrop_class}
+
+      .week
+        - schedule.weekdays.each do |weekday|
+          .weekday{class: weekday.css_class}
+            - weekday.periods.each do |period|
+              = render period
