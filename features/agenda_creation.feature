@@ -1,6 +1,6 @@
 # language: fr
 
-Fonctionnalité: Génération d'horaire
+Fonctionnalité: Création d'un agenda
   En tant qu’étudiant,
   Je veux être en mesure de créer un agenda,
   Afin de générer toutes les possibilités d'horaires possible.
@@ -8,10 +8,11 @@ Fonctionnalité: Génération d'horaire
   Scénario: Une simple combinaison d'horaire
     Étant donné qu'il existe des cours pour nouveaux étudiants de la session d'Hiver 2016
     Et que je suis sur la page des trimestres
-    Lorsque je sélectionne le trimestre de Génie logiciel
-    Alors je vois un nouvel agenda pour nouveaux étudiants de la session d'Hiver 2016
-    Et je vois un nouvel agenda avec comme trimestre "Génie logiciel"
-    Et je vois un nouvel agenda avec comme cours:
+    Lorsque je sélectionne le trimestre "Génie logiciel"
+    Alors je suis sur la page "Choix de cours"
+    Et je vois le trimestre "Hiver 2016 - Nouveaux Étudiants" d'affiché
+    Et je vois le baccalauréat "Génie logiciel" d'affiché
+    Et je vois les cours:
       | Code    |
       | ATE050  |
       | CHM131  |
@@ -27,10 +28,15 @@ Fonctionnalité: Génération d'horaire
       | MATEST  |
       | PHY144  |
       | PHYEST  |
-    Et que je sélectionne les cours CHM131, COM110, FRA151 et LOG100
-    Et que je sélectionne 4 cours par horaire
-    Lorsque je soumets l'agenda
-    Alors je vois les horaires:
+    Lorsque je sélectionne les cours CHM131, COM110, FRA151 et LOG100
+    Et je sélectionne 4 comme étant le nombre de cours par horaire
+    Et je soumets l'agenda
+    Alors je suis sur la page "Horaires"
+    Et je vois le trimestre "Hiver 2016 - Nouveaux Étudiants" d'affiché
+    Et je vois le baccalauréat "Génie logiciel" d'affiché
+    Et je vois 4 comme étant le nombre de cours par horaire affiché
+    Et je vois CHM131, COM110, FRA151 et LOG100 comme étant les cours sélectionnés
+    Et je vois les horaires:
       | Numéro d'horaire | Jour     | Période       | Cours    | Type   |
       | 1                | Lundi    | 9:00 - 12:30  | CHM131-1 | C      |
       | 1                | Lundi    | 18:00 - 21:30 | FRA151-1 | C      |

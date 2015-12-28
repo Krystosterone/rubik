@@ -1,5 +1,14 @@
 # encoding: utf-8
 
+Alors /^je vois (\d+) comme étant le nombre de cours par horaire affiché$/ do |courses_per_schedule|
+  expect(page).to have_field('Nombre de cours par horaire', with: courses_per_schedule)
+end
+
+Alors /^je vois (.+) comme étant les cours sélectionnés$/ do |courses_list|
+  courses = courses_list.split(/, | et /)
+  courses.each { |course| expect(page).to have_css('.label', text: course) }
+end
+
 Alors /^je vois les horaires:$/ do |table|
   schedules = find('.schedules').all('fieldset')
 

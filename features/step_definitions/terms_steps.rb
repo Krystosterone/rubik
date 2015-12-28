@@ -4,6 +4,6 @@
   visit path_to(page_name)
 end
 
-Lorsque /^je sélectionne le trimestre de (.+)$/ do |academic_degree|
+Lorsque /^je sélectionne le trimestre "(.+)"$/ do |academic_degree|
   click_link academic_degree
 end
