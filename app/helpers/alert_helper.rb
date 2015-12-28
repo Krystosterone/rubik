@@ -1,10 +1,12 @@
 module AlertHelper
-  CLASSES = { success: 'alert-success',
-              error: 'alert-danger',
-              alert: 'alert-warning',
-              notice: 'alert-info' }.with_indifferent_access
+  CLASSES = {
+    success: 'alert-success',
+    error: 'alert-danger',
+    alert: 'alert-warning',
+    notice: 'alert-info',
+  }.with_indifferent_access
 
   def alert_class(type)
-    CLASSES.fetch(type, type)
+    CLASSES.fetch(type, "alert-#{type}")
   end
 end
