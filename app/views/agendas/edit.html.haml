@@ -20,7 +20,7 @@
 
   .container
     %fieldset
-      %legend Cours
+      %legend= t('.courses')
       = f.collection_check_boxes :course_ids, agenda.academic_degree_term_courses, :id, :code do |ff|
         .course-checkbox-button
           = ff.check_box

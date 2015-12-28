@@ -24,6 +24,7 @@ fr:
               invalid: Veuillez corriger les congés spécifiés
   agendas:
     edit:
+      courses: Cours
       courses_per_schedule: Nombre de cours par horaire
       leaves: Congés
       submit: Soumettre
