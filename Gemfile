@@ -18,7 +18,6 @@ gem 'bootstrap-sass'
 gem 'kaminari'
 gem 'kaminari-i18n'
 gem 'puma'
-gem 'jbuilder'
 
 # Sidekiq
 gem 'sidekiq'
