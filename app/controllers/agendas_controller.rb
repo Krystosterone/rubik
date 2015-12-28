@@ -10,7 +10,6 @@ class AgendasController < ApplicationController
   end
 
   def edit
-    render :edit
   end
 
   def create
