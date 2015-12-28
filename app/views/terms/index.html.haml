@@ -1,7 +1,7 @@
 .jumbotron
   .container
-    %h1 Générateur d'horaires
-    %p Faites votre choix de cours avec aisance
+    %h1= t('.title')
+    %p= t('.subtitle')
 
 .container
   - terms.each_slice(2) do |terms_slice|

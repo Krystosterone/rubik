@@ -32,7 +32,7 @@ describe SchedulesController do
       it { is_expected.to redirect_to(edit_agenda_path(token: agenda.token)) }
 
       it 'has a blank flash notice' do
-        expect(flash[:notice]).to eq(I18n.t('schedules.index.agenda.blank'))
+        expect(flash[:notice]).to eq(I18n.t('schedules.index.blank_agenda'))
       end
     end
 

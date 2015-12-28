@@ -2,17 +2,17 @@
   .form-group
     .col-sm-8.col-sm-offset-4
       = link_to edit_agenda_path(token: agenda.token) do
-        Éditer
+        = t('.edit')
         &nbsp;
         %i.glyphicon.glyphicon-pencil
 
   .form-group
-    = f.label :courses_per_schedule, 'Nombre de cours par horaire', class: 'col-sm-4 control-label'
+    = f.label :courses_per_schedule, class: 'col-sm-4 control-label'
     .col-sm-8
       = f.text_field :courses_per_schedule, readonly: true, class: 'form-control'
 
   .form-group
-    = f.label :courses, 'Cours sélectionnés', class: 'col-sm-4 control-label'
+    = f.label :courses, class: 'col-sm-4 control-label'
     .col-sm-8
       - agenda.courses.each do |course|
         .label.label-info= course.code

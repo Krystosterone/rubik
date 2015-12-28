@@ -29,7 +29,7 @@ class SchedulesController < ApplicationController
     if @agenda.processing?
       redirect_to action: :processing
     elsif @agenda.empty?
-      redirect_to edit_agenda_path(token: @agenda.token), flash: { notice: t('.agenda.blank') }
+      redirect_to edit_agenda_path(token: @agenda.token), flash: { notice: t('.blank_agenda') }
     end
   end
 

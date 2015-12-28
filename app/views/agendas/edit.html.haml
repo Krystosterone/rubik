@@ -1,7 +1,5 @@
 .container
-  %ol.breadcrumb
-    %li= link_to 'Trimestres', terms_path
-    %li.active Choix de cours
+  = render 'shared/breadcrumb'
 
   - flash.each do |type, message|
     .alert{class: alert_class(type), role: 'alert'}
@@ -15,7 +13,7 @@
         = error
         %br
 
-  %h1.page-header Choix de cours
+  %h1.page-header= t('.title')
 
 = form_for [@academic_degree_term, agenda] do |f|
   = render 'shared/overview', f: f
@@ -29,7 +27,7 @@
           = ff.label(class: 'btn btn-default') { ff.text }
 
     %fieldset
-      %legend Nombre de cours par horaire
+      %legend= t('.courses_per_schedule')
       .btn-group.courses-per-schedule-group.btn-group-justified
         = f.collection_radio_buttons :courses_per_schedule, Agenda::COURSES_PER_SCHEDULE_RANGE, :to_i, :to_i do |ff|
           = ff.radio_button
@@ -37,7 +35,7 @@
 
     %a.schedules-anchor{name: 'leaves'}
     %fieldset.form-horizontal
-      %legend Congés
+      %legend= t('.leaves')
       = f.fields_for :leaves do |ff|
         .leave.row{class: ('has-error' if ff.object.errors.any?)}
           - if ff.object.errors.any?
@@ -58,4 +56,4 @@
             = ff.button '-', name: "#{ff.object_name}[_destroy]", value: 1, formaction: "#{f.options[:url]}/#leaves", class: 'btn btn-default btn-block'
       = f.button '+', name: "agenda[leaves_attributes][#{agenda.leaves.size}][_create]", value: 1, formaction: "#{f.options[:url]}/#leaves", class: 'col-xs-12 col-sm-4 pull-right btn btn-default'
 
-    = f.submit 'Soumettre', class: 'col-xs-12 col-sm-4 pull-right btn btn-primary'
+    = f.submit t('.submit'), class: 'col-xs-12 col-sm-4 pull-right btn btn-primary'

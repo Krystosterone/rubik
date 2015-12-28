@@ -22,7 +22,37 @@ fr:
               inclusion: Le nombre de cours par horaire "%{value}" est interdit
             leaves:
               invalid: Veuillez corriger les congés spécifiés
+  agendas:
+    edit:
+      courses_per_schedule: Nombre de cours par horaire
+      leaves: Congés
+      submit: Soumettre
+      title: Choix de cours
+  helpers:
+    label:
+      agenda:
+        academic_degree_name: Baccalauréat
+        courses: Cours sélectionnés
+        courses_per_schedule: Nombre de cours par horaire
+        term_title: Trimestre
+  shared:
+    breadcrumb:
+      terms: Trimestres
+      agendas: Choix de cours
+      schedules: Horaires
+    overview:
+      edit: Éditer
   schedules:
     index:
-      agenda:
-        blank: Veuillez choisir une nouvelle combinaison de cours; aucune combinaisons n'a pu être trouvée.
+      title: Horaires
+      blank_agenda: Veuillez choisir une nouvelle combinaison de cours; aucune combinaison n'a pu être trouvée.
+    processing:
+      message: Combinaisons en cours…
+    schedule:
+      title: Horaire
+    schedule_leave:
+      title: Congé
+  terms:
+    index:
+      title: Générateur d'horaires
+      subtitle: Faites votre choix de cours avec aisance
