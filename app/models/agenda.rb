@@ -24,6 +24,12 @@ class Agenda < ActiveRecord::Base
   alias_attribute :to_param, :token
   delegate :empty?, to: :schedules
 
+  def initialize(attributes = {})
+    course_ids = attributes.delete(:course_ids)
+    super
+    self.course_ids = course_ids if course_ids.present?
+  end
+
   def course_ids=(values)
     self.courses = find_courses(values).collect { |course| AgendaCourse.from(course) }
   end
@@ -55,6 +61,6 @@ class Agenda < ActiveRecord::Base
 
   def find_courses(values)
     course_ids = values.select(&:present?).map(&:to_i)
-    AcademicDegreeTermCourse.find(course_ids)
+    academic_degree_term.academic_degree_term_courses.find(course_ids)
   end
 end

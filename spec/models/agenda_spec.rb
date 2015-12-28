@@ -34,14 +34,30 @@ describe Agenda do
   it { is_expected.to delegate_method(:empty?).to(:schedules) }
 
   describe '#course_ids=' do
-    let(:academic_degree_term_courses) { create_list(:academic_degree_term_course, 4) }
+    let(:academic_degree_term) { create(:academic_degree_term) }
+    let(:academic_degree_term_courses) do
+      create_list(:academic_degree_term_course, 4, academic_degree_term: academic_degree_term)
+    end
     let(:course_ids) { academic_degree_term_courses.collect(&:id) }
-    let(:courses) do
-      academic_degree_term_courses.collect { |course| AgendaCourse.from(course) }
+    let(:courses) { academic_degree_term_courses.collect { |course| AgendaCourse.from(course) } }
+
+    context 'from a new instance' do
+      before do
+        subject.academic_degree_term = academic_degree_term
+        subject.save!(validate: false)
+      end
+
+      it 'assigns the right courses' do
+        expect { subject.course_ids = course_ids }.to change { subject.courses }.from([]).to(courses)
+      end
     end
 
-    it 'assigns the right courses' do
-      expect { subject.course_ids = course_ids }.to change { subject.courses }.from([]).to(courses)
+    context 'from an instance derived of an academic_degree_term' do
+      subject { academic_degree_term.agendas.new(course_ids: course_ids) }
+
+      it 'assigns the right courses' do
+        expect(subject.courses).to eq(courses)
+      end
     end
   end
 

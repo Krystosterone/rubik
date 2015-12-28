@@ -140,7 +140,7 @@ describe AgendasController do
     end
 
     context 'when the agenda was able to be combined' do
-      let(:course) { create(:academic_degree_term_course, academic_degree_term: build(:academic_degree_term)) }
+      let(:course) { create(:academic_degree_term_course, academic_degree_term: agenda.academic_degree_term) }
       let(:serialized_course) { AgendaCourse.from(course) }
       before do
         post :update,
