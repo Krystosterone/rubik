@@ -41,12 +41,11 @@ fr:
       terms: Trimestres
       agendas: Choix de cours
       schedules: Horaires
-    overview:
-      edit: Éditer
   schedules:
     index:
-      title: Horaires
       blank_agenda: Veuillez choisir une nouvelle combinaison de cours; aucune combinaison n'a pu être trouvée.
+      edit: Éditer
+      title: Horaires
     processing:
       message: Combinaisons en cours…
     schedule:
