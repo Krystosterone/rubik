@@ -7,4 +7,6 @@
 
     = stylesheet_link_tag 'processing', media: 'all'
     = csrf_meta_tags
-  %body= yield
+  %body
+    = yield
+    = render 'shared/google_analytics'
