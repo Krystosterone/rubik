@@ -9,6 +9,10 @@ Alors /^je vois (.+) comme étant les cours sélectionnés$/ do |courses_list|
   courses.each { |course| expect(page).to have_css('.label', text: course) }
 end
 
+Alors(/^je vois (\d+) possibilités d'horaires$/) do |count|
+  expect(page).to have_selector('.schedules fieldset', count: count)
+end
+
 Alors /^je vois les horaires:$/ do |table|
   schedules = find('.schedules').all('fieldset')
 

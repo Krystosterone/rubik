@@ -28,29 +28,30 @@ Fonctionnalité: Création d'un agenda
       | MATEST  |
       | PHY144  |
       | PHYEST  |
-    Lorsque je sélectionne les cours CHM131, COM110, FRA151 et LOG100
+    Lorsque je sélectionne les cours FRA150, INFTEST, MATEST et PHYEST
     Et je sélectionne 4 comme étant le nombre de cours par horaire
     Et je soumets l'agenda
     Alors je suis sur la page "Horaires"
     Et je vois le trimestre "Hiver 2016 - Nouveaux Étudiants" d'affiché
     Et je vois le baccalauréat "Génie logiciel" d'affiché
     Et je vois 4 comme étant le nombre de cours par horaire affiché
-    Et je vois CHM131, COM110, FRA151 et LOG100 comme étant les cours sélectionnés
+    Et je vois FRA150, INFTEST, MATEST et PHYEST comme étant les cours sélectionnés
+    Et je vois 2 possibilités d'horaires
     Et je vois les horaires:
-      | Numéro d'horaire | Jour     | Période       | Cours    | Type   |
-      | 1                | Lundi    | 9:00 - 12:30  | CHM131-1 | C      |
-      | 1                | Lundi    | 18:00 - 21:30 | FRA151-1 | C      |
-      | 1                | Mardi    | 8:30 - 12:30  | COM110-1 | TP A+B |
-      | 1                | Mercredi | 9:00 - 12:00  | CHM131-1 | TP     |
-      | 1                | Mercredi | 13:30 - 17:00 | LOG100-1 | C      |
-      | 1                | Mercredi | 18:00 - 22:00 | FRA151-1 | TP     |
-      | 1                | Jeudi    | 9:00 - 12:30  | COM110-1 | C      |
-      | 1                | Vendredi | 8:45 - 11:45  | LOG100-1 | Labo   |
-      | 2                | Lundi    | 9:00 - 12:30  | CHM131-1 | C      |
-      | 2                | Lundi    | 18:00 - 21:30 | FRA151-1 | C      |
-      | 2                | Mardi    | 8:30 - 12:30  | COM110-1 | TP A+B |
-      | 2                | Mercredi | 9:00 - 12:00  | CHM131-1 | TP     |
-      | 2                | Mercredi | 13:30 - 16:30 | LOG100-2 | Labo   |
-      | 2                | Mercredi | 18:00 - 22:00 | FRA151-1 | TP     |
-      | 2                | Jeudi    | 9:00 - 12:30  | COM110-1 | C      |
-      | 2                | Vendredi | 8:45 - 12:15  | LOG100-2 | C      |
+      | Numéro d'horaire | Jour     | Période       | Cours     | Type   |
+      | 1                | Lundi    | 9:00 - 12:30  | PHYEST-1  | C      |
+      | 1                | Lundi    | 18:00 - 21:30 | FRA150-1  | C      |
+      | 1                | Mardi    | 9:00 - 12:30  | MATEST-1  | C      |
+      | 1                | Mercredi | 9:00 - 12:00  | PHYEST-1  | TP     |
+      | 1                | Mercredi | 13:30 - 17:00 | INFTEST-1 | C      |
+      | 1                | Mercredi | 18:00 - 20:00 | FRA150-1  | TP     |
+      | 1                | Jeudi    | 9:00 - 12:00  | MATEST-1  | TP     |
+      | 1                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
+      | 2                | Lundi    | 18:00 - 21:30 | FRA150-1  | C      |
+      | 2                | Mardi    | 9:00 - 12:30  | MATEST-1  | C      |
+      | 2                | Mardi    | 18:00 - 21:30 | PHYEST-2  | C      |
+      | 2                | Mercredi | 13:30 - 17:00 | INFTEST-1 | C      |
+      | 2                | Mercredi | 18:00 - 20:00 | FRA150-1  | TP     |
+      | 2                | Jeudi    | 9:00 - 12:00  | MATEST-1  | TP     |
+      | 2                | Jeudi    | 18:00 - 21:00 | PHYEST-2  | TP     |
+      | 2                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |

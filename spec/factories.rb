@@ -18,6 +18,7 @@ FactoryGirl.define do
     academic_degree_term
     courses { build_list(:academic_degree_term_course, 4) }
     courses_per_schedule 4
+    leaves { build_list(:leave, 4) }
 
     factory :combined_agenda do
       combined_at { Time.zone.now }
@@ -42,7 +43,15 @@ FactoryGirl.define do
     number { generate(:number) }
   end
 
+  factory :leave do
+    skip_create
+
+    starts_at 100
+    ends_at 400
+  end
+
   factory :schedule do
+    course_groups { build_list(:course_group, 4) }
   end
 
   factory :schedule_weekday do

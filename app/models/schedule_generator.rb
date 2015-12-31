@@ -28,21 +28,16 @@ class ScheduleGenerator
   end
 
   def iterate(course_set, course_groups)
-    course_set.each do |course|
-      catch(:stop) do
-        course.groups.each do |group|
-          fail StopRecursion if course_groups.any? { |course_group| course_group.overlaps?(group) }
+    course = course_set.first
+    course.groups.each do |group|
+      next if course_groups.any? { |course_group| course_group.overlaps?(group) }
 
-          new_course_groups = course_groups.dup
-          new_course_groups << CourseGroup.new(code: course.code, group: group)
-          next agenda.schedules.new(course_groups: new_course_groups) if add?(new_course_groups)
-
-          begin
-            iterate(course_set[1..-1], new_course_groups)
-          rescue StopRecursion
-            course_groups.empty? ? throw(:stop) : raise
-          end
-        end
+      new_course_groups = course_groups.dup
+      new_course_groups << CourseGroup.new(code: course.code, group: group)
+      if add?(new_course_groups)
+        agenda.schedules.new(course_groups: new_course_groups)
+      elsif course_set.size > 1
+        iterate(course_set[1..-1], new_course_groups)
       end
     end
   end
