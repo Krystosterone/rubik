@@ -2,6 +2,8 @@ AllCops:
   Exclude:
     - bin/**/*
     - db/schema.rb
+    - spec/support/matchers/have_attr_accessor.rb
+    - lib/tasks/cucumber.rake
   RunRailsCops: true
 
 Metrics/LineLength:
@@ -15,3 +17,11 @@ Style/ClassAndModuleChildren:
 
 Style/TrailingComma:
   Enabled: false
+
+Lint/AmbiguousRegexpLiteral:
+  Exclude:
+    - features/step_definitions/**/*
+
+Style/AsciiIdentifiers:
+  Exclude:
+    - features/step_definitions/**/*

@@ -27,11 +27,14 @@ class UqamSite::Etl::Download < Pipeline
     Capybara.run_server = true
     Capybara.default_selector = :css
     Capybara.default_driver = :chrome
-    Capybara.javascript_driver  = :chrome
+    Capybara.javascript_driver = :chrome
   end
 
   def open_links
-    all('.liste > li > a[onclick]').each { |link| link.click; sleep(0.1) }
+    all('.liste > li > a[onclick]').each do |link|
+      link.click
+      sleep(0.1)
+    end
   end
 
   def create_folder

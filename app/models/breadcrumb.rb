@@ -35,10 +35,10 @@ class Breadcrumb
 
   def breadcrumb_path(name)
     case name
-      when 'terms'
-        root_path
-      when 'agendas'
-        new_academic_degree_term_agenda_path(agenda.academic_degree_term)
+    when 'terms'
+      root_path
+    when 'agendas'
+      new_academic_degree_term_agenda_path(agenda.academic_degree_term)
     end
   end
 

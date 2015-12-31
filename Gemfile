@@ -32,6 +32,7 @@ group :development do
   gem 'terminal-notifier-guard'
   gem 'rubocop'
   gem 'guard-rubocop'
+  gem 'rubocop-rspec'
 end
 
 group :development, :test do
@@ -46,7 +47,7 @@ group :test do
   gem 'rspec-sidekiq'
   gem 'rspec-its'
   gem 'rspec-activejob'
-  gem 'cucumber-rails', :require => false
+  gem 'cucumber-rails', require: false
   gem 'capybara'
   gem 'selenium-webdriver'
 end

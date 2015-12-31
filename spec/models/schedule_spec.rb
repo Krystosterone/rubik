@@ -9,7 +9,7 @@ describe Schedule do
       [CourseGroup.new(code: 'LOG120',
                        group: Group.new(number: 1,
                                         periods: [Period.new(type: 'C', starts_at: 6500, ends_at: 7000),
-                                                  Period.new(type: 'Labo', starts_at: 10000, ends_at: 10050)]))]
+                                                  Period.new(type: 'Labo', starts_at: 10_000, ends_at: 10_050)]))]
     end
     let(:leaves) do
       [Leave.new(starts_at: 1500, ends_at: 1600),

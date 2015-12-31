@@ -22,7 +22,7 @@ class EtsPdf::Etl::PreProcess < Pipeline
   end
 
   def txt_exists?(pdf_path)
-    txt_path = File.dirname(pdf_path) + '/' + File.basename(pdf_path,'.*')
-    File.exists?("#{txt_path}.txt")
+    txt_path = File.dirname(pdf_path) + '/' + File.basename(pdf_path, '.*')
+    File.exist?("#{txt_path}.txt")
   end
 end

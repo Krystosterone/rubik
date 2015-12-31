@@ -50,7 +50,7 @@ describe EtsPdf::Etl::Transform::BachelorUpdater do
           expect(term.academic_degree_terms.size).to eq(8)
           term.academic_degree_terms.each do |academic_degree_term|
             bachelor_name = EtsPdf::Etl::Transform::BachelorUpdater::BACHELOR_HANDLES
-                              .fetch(academic_degree_term.code)
+                            .fetch(academic_degree_term.code)
 
             expect(EtsPdf::Etl::Transform::BachelorUpdater::BACHELOR_HANDLES)
               .to include(academic_degree_term.code)
@@ -63,7 +63,7 @@ describe EtsPdf::Etl::Transform::BachelorUpdater do
         before do
           data.keys.each do |bachelor_handle|
             bachelor_name = EtsPdf::Etl::Transform::BachelorUpdater::BACHELOR_HANDLES
-                              .fetch(bachelor_handle)
+                            .fetch(bachelor_handle)
 
             academic_degree = AcademicDegree.create!(code: bachelor_handle, name: bachelor_name)
             term.academic_degree_terms.create!(academic_degree: academic_degree)

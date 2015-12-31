@@ -27,15 +27,15 @@ describe EtsPdf::Etl::Transform::AcademicDegreeUpdater do
     end
     let(:log120) { academic_degree_term.academic_degree_term_courses[0] }
     let(:log120_groups) do
-      [ Group.new(number: 1, periods: [ Period.new(type: 'C', starts_at: 1920, ends_at: 2040),
-                                        Period.new(type: 'TP', starts_at: 3540, ends_at: 3600)]),
-        Group.new(number: 2, periods: [ Period.new(type: 'Labo', starts_at: 7680, ends_at: 7860) ]) ]
+      [Group.new(number: 1, periods: [Period.new(type: 'C', starts_at: 1920, ends_at: 2040),
+                                      Period.new(type: 'TP', starts_at: 3540, ends_at: 3600)]),
+       Group.new(number: 2, periods: [Period.new(type: 'Labo', starts_at: 7680, ends_at: 7860)])]
     end
 
     let(:log240) { academic_degree_term.academic_degree_term_courses[1] }
     let(:log240_groups) do
-      [ Group.new(number: 1, periods: [ Period.new(type: 'TP', starts_at: 5100, ends_at: 5160),
-                                        Period.new(type: 'C', starts_at: 9120, ends_at: 9420)]) ]
+      [Group.new(number: 1, periods: [Period.new(type: 'TP', starts_at: 5100, ends_at: 5160),
+                                      Period.new(type: 'C', starts_at: 9120, ends_at: 9420)])]
     end
     subject { described_class.new(academic_degree_term, lines) }
 
@@ -79,10 +79,14 @@ describe EtsPdf::Etl::Transform::AcademicDegreeUpdater do
     typed_line = double(attributes)
     parsed_line = double(EtsPdf::Parser::ParsedLine, type => typed_line)
 
+    stub_line(parsed_line, type)
+
+    parsed_line
+  end
+
+  def stub_line(parsed_line, type)
     allow(parsed_line).to receive(:type?).and_return(false)
     allow(parsed_line).to receive(:parsed?).and_return(true)
     allow(parsed_line).to receive(:type?).with(type).and_return(true)
-
-    parsed_line
   end
 end

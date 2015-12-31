@@ -5,7 +5,7 @@ describe EtsPdf::Parser::ParsedLine::Base do
     private
 
     def match_pattern
-      %r(^valid line)
+      /^valid line/
     end
   end
 

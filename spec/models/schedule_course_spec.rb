@@ -40,15 +40,22 @@ describe ScheduleCourse do
     let(:result) { described_class.group_by_weekday_index(course_groups) }
 
     it 'returns a collection of weekdays with schedule courses' do
-      expect(result).to eq(0 => [ScheduleCourse.new(index: 1, code: 'LOG320', number: 1, type: 'C', starts_at: 0, ends_at: 1440),
-                                 ScheduleCourse.new(index: 1, code: 'LOG320', number: 1, type: 'Labo', starts_at: 1000, ends_at: 1440)],
-                           1 => [ScheduleCourse.new(index: 1, code: 'LOG320', number: 1, type: 'C', starts_at: 0, ends_at: 560),
-                                 ScheduleCourse.new(index: 1, code: 'LOG320', number: 1, type: 'Labo', starts_at: 0, ends_at: 1440)],
-                           2 => [ScheduleCourse.new(index: 1, code: 'LOG320', number: 1, type: 'Labo', starts_at: 0, ends_at: 1120)],
+      expect(result).to eq(0 => [described_class.new(index: 1, code: 'LOG320', number: 1,
+                                                     type: 'C', starts_at: 0, ends_at: 1440),
+                                 described_class.new(index: 1, code: 'LOG320', number: 1,
+                                                     type: 'Labo', starts_at: 1000, ends_at: 1440)],
+                           1 => [described_class.new(index: 1, code: 'LOG320', number: 1,
+                                                     type: 'C', starts_at: 0, ends_at: 560),
+                                 described_class.new(index: 1, code: 'LOG320', number: 1,
+                                                     type: 'Labo', starts_at: 0, ends_at: 1440)],
+                           2 => [described_class.new(index: 1, code: 'LOG320', number: 1,
+                                                     type: 'Labo', starts_at: 0, ends_at: 1120)],
                            3 => [],
                            4 => [],
-                           5 => [ScheduleCourse.new(index: 2, code: 'LO640', number: 2, type: 'TP', starts_at: 800, ends_at: 1440)],
-                           6 => [ScheduleCourse.new(index: 2, code: 'LO640', number: 2, type: 'TP', starts_at: 0, ends_at: 110)])
+                           5 => [described_class.new(index: 2, code: 'LO640', number: 2,
+                                                     type: 'TP', starts_at: 800, ends_at: 1440)],
+                           6 => [described_class.new(index: 2, code: 'LO640', number: 2,
+                                                     type: 'TP', starts_at: 0, ends_at: 110)])
     end
   end
 end

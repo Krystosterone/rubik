@@ -17,10 +17,11 @@ describe ScheduleGeneratorTestCase do
   describe '.all' do
     let(:tokens) { 3.times.collect { SecureRandom.hex } }
     let(:test_cases) do
-      tokens.collect do |token|
+      test_cases = tokens.collect do |token|
         content = { token: token }
         [token, content]
-      end.sort_by { |token, _| token }
+      end
+      test_cases.sort_by { |token, _| token }
     end
     before do
       test_cases.each do |token, content|

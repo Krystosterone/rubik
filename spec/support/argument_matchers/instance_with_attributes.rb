@@ -4,11 +4,12 @@ module InstanceWithAttributes
       @attributes = attributes
     end
 
-    def ===(actual)
+    def matches?(actual)
       @attributes.all? do |name, value|
-        value === actual.public_send(name)
+        value == actual.public_send(name)
       end
     end
+    alias_method :==, :matches?
 
     def inspect
       "An instance having attributes #{@attributes}"

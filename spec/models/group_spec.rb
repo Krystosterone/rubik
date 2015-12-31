@@ -1,7 +1,6 @@
 require 'rails_helper'
 
 describe Group do
-
   it do
     is_expected.to find_or_initialize_for_serialized(:periods, attributes: { type: 'TP',
                                                                              starts_at: 100,

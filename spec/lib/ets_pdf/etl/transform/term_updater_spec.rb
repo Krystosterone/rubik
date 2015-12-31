@@ -22,9 +22,8 @@ describe EtsPdf::Etl::Transform::TermUpdater do
 
     context 'for valid term handles and tags' do
       let(:term) do
-        { 'automne' => {
-            'anciens' => :data_1,
-            'nouveaux' => :data_2 },
+        { 'automne' => { 'anciens' => :data_1,
+                         'nouveaux' => :data_2 },
           'ete' => { 'nouveaux' => :data_3 },
           'hiver' => { 'anciens' => :data_4 }, }
       end

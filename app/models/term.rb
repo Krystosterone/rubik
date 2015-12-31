@@ -7,6 +7,6 @@ class Term < ActiveRecord::Base
 
   scope :ordered, lambda {
     includes(:academic_degree_terms, academic_degree_terms: :academic_degree)
-    .order(year: :desc, name: :asc, tags: :asc)
+      .order(year: :desc, name: :asc, tags: :asc)
   }
 end

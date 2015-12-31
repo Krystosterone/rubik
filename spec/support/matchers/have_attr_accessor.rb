@@ -6,7 +6,6 @@
 module Shoulda
   module Matchers
     module ActiveModel # :nodoc
-
       def have_attr_accessor(attribute)
         HaveAttrAccessorMatcher.new(attribute)
       end
@@ -32,26 +31,26 @@ module Shoulda
           @subject = subject
 
           reader = @subject.respond_to?(@attribute)
-          writer = @subject.respond_to?("#{@attribute.to_s}=")
+          writer = @subject.respond_to?("#{@attribute}=")
 
           v = true
-          v = v && !reader if @wo
-          v = v && reader unless @wo
-          v = v && !writer if @ro
-          v = v && writer unless @ro
+          v &&= !reader if @wo
+          v &&= reader unless @wo
+          v &&= !writer if @ro
+          v &&= writer unless @ro
           v
         end
 
         def description
-          msg = "have "
+          msg = 'have '
           if @ro
-            msg += "read only"
+            msg += 'read only'
           elsif @wo
-            msg += "write only"
+            msg += 'write only'
           else
-            msg += "read and write"
+            msg += 'read and write'
           end
-          msg += " accessors for #{@attribute}"
+          "#{msg} accessors for #{@attribute}"
         end
 
         def failure_message
@@ -73,7 +72,6 @@ module Shoulda
             "Expected #{@subject.class.name} not to respond to '#{@attribute}' and '#{@attribute}='"
           end
         end
-
       end
     end
   end
