@@ -1,6 +1,7 @@
 AllCops:
   Exclude:
     - bin/**/*
+    - vendor/**/*
     - db/schema.rb
     - spec/support/matchers/have_attr_accessor.rb
     - lib/tasks/cucumber.rake
