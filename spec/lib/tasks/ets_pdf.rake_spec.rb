@@ -1,13 +1,7 @@
 require 'rails_helper'
 
-describe 'ets_pdf::etl' do
+describe 'ets_pdf:etl' do
   let(:etl) { double(EtsPdf::Etl) }
-  subject { Rake::Task['ets_pdf:etl'] }
-  before do
-    Rails.application.load_tasks
-    Rake::Task.define_task(:environment)
-  end
-  after { Rake::Task.clear }
 
   context 'with no parameters' do
     it 'executes with a default parameter' do
