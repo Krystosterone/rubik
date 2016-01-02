@@ -53,7 +53,7 @@
               .col-sm-10
                 = ff.collection_select :ends_at, leave_times, :total_minutes, :weekday_time, {}, class: 'form-control'
           .col-xs-4.col-sm-2.pull-right
-            = ff.button '-', name: "#{ff.object_name}[_destroy]", value: 1, formaction: "#{f.options[:url]}/#leaves", class: 'btn btn-default btn-block'
-      = f.button '+', name: "agenda[leaves_attributes][#{agenda.leaves.size}][_create]", value: 1, formaction: "#{f.options[:url]}/#leaves", class: 'col-xs-12 col-sm-4 pull-right btn btn-default'
+            = ff.destroy_button '-', class: 'btn btn-default btn-block'
+      = f.create_button :leaves, '+', class: 'btn btn-default col-xs-12 col-sm-4 pull-right'
 
     = f.submit t('.submit'), class: 'col-xs-12 col-sm-4 pull-right btn btn-primary'

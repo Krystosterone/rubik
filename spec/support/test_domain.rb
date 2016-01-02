@@ -12,3 +12,7 @@ class Professor
   serialized_find_or_initialize_for :students
   serialized_accepts_nested_attributes_for :students
 end
+
+class TestFormBuilder < ActionView::Helpers::FormBuilder
+  include SerializedRecord::FormBuilderHelper
+end
