@@ -51,6 +51,7 @@ fr:
         term_title: Trimestre
     submit:
       create: Soumettre
+      update: Soumettre
   shared:
     breadcrumb:
       terms: Trimestres
