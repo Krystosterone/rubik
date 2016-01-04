@@ -34,7 +34,7 @@ fr:
       title: Choix de cours
   comments:
     new:
-      text: Vous avez une suggestion ou un commentaire? Vous avez eut un bogue? Veuillez nous le partager via le formulaire ci-bas.
+      text: Vous avez une suggestion ou un commentaire? Vous êtes tombé sur un bogue? Veuillez nous le partager via le formulaire ci-bas.
     create:
       success: Votre commentaire a été envoyé avec succès!
   comment_mailer:
