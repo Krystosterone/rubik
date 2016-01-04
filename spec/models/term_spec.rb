@@ -1,12 +1,17 @@
 require 'rails_helper'
 
 describe Term do
+  before { Timecop.freeze }
+  after { Timecop.return }
+
   it { is_expected.to have_many(:academic_degree_terms) }
   it { is_expected.to have_many(:academic_degrees).through(:academic_degree_terms) }
 
   it { is_expected.to validate_presence_of(:year) }
   it { is_expected.to validate_presence_of(:name) }
   it { is_expected.to validate_uniqueness_of(:name).scoped_to(:year, :tags) }
+
+  its(:enabled_at) { is_expected.to eq(Time.zone.now) }
 
   describe 'default scope' do
     let(:ordered_terms) { [] }

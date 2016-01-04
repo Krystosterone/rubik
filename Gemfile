@@ -54,6 +54,7 @@ group :test do
   gem 'capybara'
   gem 'selenium-webdriver'
   gem 'test_after_commit'
+  gem 'timecop'
 end
 
 group :production do
