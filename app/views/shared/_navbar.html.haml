@@ -6,7 +6,9 @@
         %span.icon-bar
         %span.icon-bar
         %span.icon-bar
-      = link_to 'Rubik', root_path, class: 'navbar-brand'
+      = link_to root_path, class: 'navbar-brand' do
+        %i.glyphicon.glyphicon-th-large
+        Rubik
 
     = check_box_tag :menu_toggle, '1', false, class: 'toggle hidden'
     .navbar-collapse
