@@ -1,0 +1,4 @@
+- flash.each do |type, message|
+  .alert{class: alert_class(type), role: 'alert'}
+    %span.glyphicon.glyphicon-exclamation-sign{'aria-hidden' => true}
+    = message

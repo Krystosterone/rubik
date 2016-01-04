@@ -18,6 +18,7 @@ gem 'bootstrap-sass'
 gem 'kaminari'
 gem 'kaminari-i18n'
 gem 'puma'
+gem 'email_validator'
 
 # Sidekiq
 gem 'sidekiq'
@@ -33,6 +34,8 @@ group :development do
   gem 'rubocop'
   gem 'guard-rubocop'
   gem 'rubocop-rspec'
+  gem 'letter_opener'
+  gem 'letter_opener_web', '~> 1.2.0'
 end
 
 group :development, :test do
@@ -50,6 +53,7 @@ group :test do
   gem 'cucumber-rails', require: false
   gem 'capybara'
   gem 'selenium-webdriver'
+  gem 'test_after_commit'
 end
 
 group :production do

@@ -1,4 +1,14 @@
-.navbar.navbar-inverse
+%nav.navbar.navbar-inverse
   .container
     .navbar-header
+      = label_tag :menu_toggle, class: 'button navbar-toggle collapsed' do
+        %span.sr-only Toggle navigation
+        %span.icon-bar
+        %span.icon-bar
+        %span.icon-bar
       = link_to 'Rubik', root_path, class: 'navbar-brand'
+
+    = check_box_tag :menu_toggle, '1', false, class: 'toggle hidden'
+    .navbar-collapse
+      %ul.nav.navbar-nav
+        %li= link_to 'Commentaires', new_comment_path

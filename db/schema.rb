@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151129021209) do
+ActiveRecord::Schema.define(version: 20160103223022) do
 
   create_table "academic_degree_term_courses", force: :cascade do |t|
     t.integer  "academic_degree_term_id", limit: 4
@@ -53,6 +53,11 @@ ActiveRecord::Schema.define(version: 20151129021209) do
   end
 
   add_index "agendas", ["token"], name: "index_agendas_on_token", using: :btree
+
+  create_table "comments", force: :cascade do |t|
+    t.string "user_email", limit: 255
+    t.text   "body",       limit: 65535
+  end
 
   create_table "courses", force: :cascade do |t|
     t.string   "code",       limit: 255

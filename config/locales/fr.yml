@@ -11,6 +11,10 @@ fr:
             ends_at:
               greater_than_or_equal_to_starts_at: Veuillez spécifier un temps de fin plus grand que le temps de début
   activerecord:
+    attributes:
+      comment:
+        user_email: Courriel
+        body: Commentaire
     errors:
       models:
         agenda:
@@ -27,8 +31,17 @@ fr:
       courses: Cours
       courses_per_schedule: Nombre de cours par horaire
       leaves: Congés
-      submit: Soumettre
       title: Choix de cours
+  comments:
+    new:
+      text: Vous avez une suggestion ou un commentaire? Vous avez eut un bogue? Veuillez nous le partager via le formulaire ci-bas.
+    create:
+      success: Votre commentaire a été envoyé avec succès!
+  comment_mailer:
+    email:
+      subject: '[Rubik-ETS] Nouveau commentaire'
+      from: 'De: %{email}'
+      body: Commentaire
   helpers:
     label:
       agenda:
@@ -36,6 +49,8 @@ fr:
         courses: Cours sélectionnés
         courses_per_schedule: Nombre de cours par horaire
         term_title: Trimestre
+    submit:
+      create: Soumettre
   shared:
     breadcrumb:
       terms: Trimestres

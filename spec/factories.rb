@@ -26,6 +26,11 @@ FactoryGirl.define do
     end
   end
 
+  factory :comment do
+    user_email { generate(:email) }
+    body
+  end
+
   factory :course do
     code { generate(:code) }
   end
@@ -71,7 +76,9 @@ FactoryGirl.define do
     name { generate(:name) }
   end
 
+  sequence(:body) { |n| "Body #{n}" }
   sequence(:code) { |n| "Code #{n}" }
+  sequence(:email) { |n| "email#{n}@domain.com" }
   sequence(:name) { |n| "Name #{n}" }
   sequence(:number) { |n| n }
   sequence(:type) { |n| "Type #{n}" }
