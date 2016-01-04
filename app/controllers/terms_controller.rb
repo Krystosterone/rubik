@@ -2,6 +2,6 @@ class TermsController < ApplicationController
   decorates_assigned :terms
 
   def index
-    @terms = Term.ordered
+    @terms = Term.includes(:academic_degree_terms, academic_degree_terms: :academic_degree).all
   end
 end

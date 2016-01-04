@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160103223022) do
+ActiveRecord::Schema.define(version: 20160104014024) do
 
   create_table "academic_degree_term_courses", force: :cascade do |t|
     t.integer  "academic_degree_term_id", limit: 4
@@ -80,6 +80,7 @@ ActiveRecord::Schema.define(version: 20160103223022) do
     t.string   "tags",       limit: 255
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.datetime "enabled_at"
   end
 
   add_index "terms", ["year", "name", "tags"], name: "index_terms_on_year_and_name_and_tags", unique: true, using: :btree
