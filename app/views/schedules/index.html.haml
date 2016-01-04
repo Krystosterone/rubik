@@ -13,4 +13,4 @@
 .container-fluid.schedules
   - schedules.each_slice(2).with_index do |schedules_slice, index|
     .row= render partial: 'schedule', collection: schedules_slice, locals: {slice_index: index * 2}
-= paginate @schedules
+= paginate @schedules, window: 2

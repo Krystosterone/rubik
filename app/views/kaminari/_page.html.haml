@@ -1,0 +1,5 @@
+%li{class: ('active' if page.current?)}
+  -if page.current?
+    %a= page
+  -else
+    = link_to page, url, rel: (page.next? ? 'next' : page.prev? ? 'prev' : nil)
