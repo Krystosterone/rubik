@@ -23,4 +23,5 @@ Rails.application.configure do
   }
 
   config.ga_tracking_id = ENV.fetch('GA_ANALYTICS_ID')
+  config.comment_email_recipient = ENV.fetch('COMMENT_EMAIL_RECIPIENT')
 end
