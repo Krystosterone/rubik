@@ -5,6 +5,7 @@ AllCops:
     - db/schema.rb
     - spec/support/matchers/have_attr_accessor.rb
     - lib/tasks/cucumber.rake
+    - features/support/_circleci_formatter.rb
   RunRailsCops: true
 
 Metrics/LineLength:
