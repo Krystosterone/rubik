@@ -24,7 +24,7 @@ describe Term do
     end
 
     it 'returns terms in "year: :desc, name: :asc, tags: :asc" order for enabled terms' do
-      expect(Term.all).to eq(ordered_terms)
+      expect(described_class.all).to eq(ordered_terms)
     end
   end
 end
