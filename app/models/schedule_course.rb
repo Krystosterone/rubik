@@ -21,15 +21,18 @@ class ScheduleCourse < WeekdayTimeRange
     end
 
     def execute
-      weekdays = (0..6).collect { |index| [index, []] }.to_h
-      for_every_weekday_time_ranges do |weekday_index, course_group, period, weekday_time_range|
-        weekdays[weekday_index] << ScheduleCourse.new(index: course_indexes[course_group.code],
-                                                      code: course_group.code,
-                                                      number: course_group.number,
-                                                      type: period.type,
-                                                      starts_at: weekday_time_range.starts_at,
-                                                      ends_at: weekday_time_range.ends_at)
+      weekdays = weekday_time_ranges.group_by { |weekday_index, *| weekday_index }
+      weekdays.transform_values! do |values|
+        values.flat_map do |_, course_group, period, weekday_time_range|
+          ScheduleCourse.new(index: course_indexes[course_group.code],
+                             code: course_group.code,
+                             number: course_group.number,
+                             type: period.type,
+                             starts_at: weekday_time_range.starts_at,
+                             ends_at: weekday_time_range.ends_at)
+        end
       end
+      (0..6).each { |index| weekdays[index] ||= [] }
       weekdays
     end
 
@@ -41,11 +44,11 @@ class ScheduleCourse < WeekdayTimeRange
       end.to_h
     end
 
-    def for_every_weekday_time_ranges
-      @course_groups.each do |course_group|
-        course_group.periods.each do |period|
+    def weekday_time_ranges
+      @weekday_time_ranges ||= @course_groups.flat_map do |course_group|
+        course_group.periods.flat_map do |period|
           period.to_weekday_time_ranges.collect do |weekday_index, weekday_time_range|
-            yield weekday_index, course_group, period, weekday_time_range
+            [weekday_index, course_group, period, weekday_time_range]
           end
         end
       end
