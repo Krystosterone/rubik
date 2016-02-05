@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-Étantdonné /^que je suis sur la page (.*)/ do |page_name|
+Étantdonnéqu /^je suis sur la page (.*)/ do |page_name|
   visit path_to(page_name)
 end
 

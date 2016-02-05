@@ -9,7 +9,7 @@ Fonctionnalité: Création d'un agenda
     Étant donné qu'il existe des cours pour nouveaux étudiants de la session d'Hiver 2016
     Et que je suis sur la page des trimestres
     Lorsque je sélectionne le trimestre "Génie logiciel"
-    Alors je suis sur la page "Choix de cours"
+    Alors je me retrouve sur la page "Choix de cours"
     Et je vois le trimestre "Hiver 2016 - Nouveaux Étudiants" d'affiché
     Et je vois le baccalauréat "Génie logiciel" d'affiché
     Et je vois les cours:
@@ -31,7 +31,7 @@ Fonctionnalité: Création d'un agenda
     Lorsque je sélectionne les cours FRA150, INFTEST, MATEST et PHYEST
     Et je sélectionne 4 comme étant le nombre de cours par horaire
     Et je soumets l'agenda
-    Alors je suis sur la page "Horaires"
+    Alors je me retrouve sur la page "Horaires"
     Et je vois le trimestre "Hiver 2016 - Nouveaux Étudiants" d'affiché
     Et je vois le baccalauréat "Génie logiciel" d'affiché
     Et je vois 4 comme étant le nombre de cours par horaire affiché

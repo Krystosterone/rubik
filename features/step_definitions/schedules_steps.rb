@@ -33,6 +33,6 @@ Alors /^je vois les horaires:$/ do |table|
   end
 end
 
-Lorsque /^que j'édite l'agenda$/ do
+Lorsque /^j'édite l'agenda$/ do
   click_link "Éditer"
 end

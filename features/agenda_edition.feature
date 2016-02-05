@@ -13,7 +13,7 @@ Fonctionnalité: Édition d'un agenda
     Et je sélectionne 4 comme étant le nombre de cours par horaire
     Et je soumets l'agenda
     Et que j'édite l'agenda
-    Alors je suis sur la page "Choix de cours"
+    Alors je me retrouve sur la page "Choix de cours"
     Et je vois le trimestre "Hiver 2016 - Nouveaux Étudiants" d'affiché
     Et je vois le baccalauréat "Génie logiciel" d'affiché
     Et je vois les cours:
@@ -37,7 +37,7 @@ Fonctionnalité: Édition d'un agenda
     Lorsque je dé-sélectionne les cours FRA150
     Et je sélectionne les cours FRA151
     Lorsque je soumets l'agenda
-    Alors je suis sur la page "Horaires"
+    Alors je me retrouve sur la page "Horaires"
     Et je vois le trimestre "Hiver 2016 - Nouveaux Étudiants" d'affiché
     Et je vois le baccalauréat "Génie logiciel" d'affiché
     Et je vois 4 comme étant le nombre de cours par horaire affiché
