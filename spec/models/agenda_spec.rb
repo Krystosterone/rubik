@@ -1,4 +1,4 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe Agenda do
   it { is_expected.to belong_to(:academic_degree_term) }
@@ -24,10 +24,10 @@ describe Agenda do
   end
 
   describe '#to_param' do
-    before { subject.token = 'a_token' }
+    before { subject.token = "a_token" }
 
     it 'aliases to #token' do
-      expect(subject.to_param).to eq('a_token')
+      expect(subject.to_param).to eq("a_token")
     end
   end
 
@@ -41,21 +41,21 @@ describe Agenda do
     let(:course_ids) { academic_degree_term_courses.collect(&:id) }
     let(:courses) { academic_degree_term_courses.collect { |course| AgendaCourse.from(course) } }
 
-    context 'from a new instance' do
+    context "from a new instance" do
       before do
         subject.academic_degree_term = academic_degree_term
         subject.save!(validate: false)
       end
 
-      it 'assigns the right courses' do
+      it "assigns the right courses" do
         expect { subject.course_ids = course_ids }.to change { subject.courses }.from([]).to(courses)
       end
     end
 
-    context 'from an instance derived of an academic_degree_term' do
+    context "from an instance derived of an academic_degree_term" do
       subject { academic_degree_term.agendas.new(course_ids: course_ids) }
 
-      it 'assigns the right courses' do
+      it "assigns the right courses" do
         expect(subject.courses).to eq(courses)
       end
     end
@@ -69,70 +69,70 @@ describe Agenda do
   end
 
   describe '#combine' do
-    context 'when leaves have been altered' do
+    context "when leaves have been altered" do
       before do
-        subject.leaves_attributes = { '0' => { '_create' => '1',
-                                               '_destroy' => '1' } }
+        subject.leaves_attributes = { "0" => { "_create" => "1",
+                                               "_destroy" => "1" } }
       end
 
-      it 'does not do anything' do
+      it "does not do anything" do
         expect(subject.combine).to eq(false)
       end
     end
 
-    context 'when no leaves have been altered' do
+    context "when no leaves have been altered" do
       subject { create(:combined_agenda) }
 
-      it 'deletes all associated schedules' do
+      it "deletes all associated schedules" do
         expect { subject.combine }.to change { subject.schedules.count }.to(0)
       end
 
-      it 'resets the combined timestamp' do
+      it "resets the combined timestamp" do
         expect { subject.combine }.to change { subject.combined_at }.to(nil)
       end
 
-      context 'when it was not able to save' do
+      context "when it was not able to save" do
         before { subject.courses_per_schedule = 0 }
 
         specify { expect(subject.combine).to eq(false) }
       end
 
-      context 'when it saved' do
+      context "when it saved" do
         specify { expect(subject.combine).to eq(true) }
       end
     end
   end
 
   describe '#processing?' do
-    context 'when there is no combined timestamp' do
-      it 'returns true' do
+    context "when there is no combined timestamp" do
+      it "returns true" do
         expect(subject).to be_processing
       end
     end
 
-    context 'when there is a combined timestamp' do
+    context "when there is a combined timestamp" do
       before { subject.combined_at = Time.zone.now }
 
-      it 'returns false' do
+      it "returns false" do
         expect(subject).to_not be_processing
       end
     end
   end
 
-  describe 'validating leaves' do
-    context 'when any leave is invalid' do
+  describe "validating leaves" do
+    context "when any leave is invalid" do
       before { subject.leaves << Leave.new(starts_at: 2000, ends_at: 1000) }
 
-      it 'adds an error on leaves' do
+      it "adds an error on leaves" do
         expect(subject).not_to be_valid
         expect(subject.errors).to be_added(:leaves, :invalid)
       end
     end
 
-    context 'when all leaves are valid' do
+    context "when all leaves are valid" do
       before { subject.valid? }
 
-      it 'adds no errors on leaves' do
+      it "adds no errors on leaves" do
         expect(subject.errors).not_to be_added(:leaves, :invalid)
       end
     end

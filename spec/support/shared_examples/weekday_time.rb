@@ -1,5 +1,5 @@
-shared_examples 'WeekdayTime' do
-  context 'for 200 minutes' do
+shared_examples "WeekdayTime" do
+  context "for 200 minutes" do
     subject { described_class.new(200) }
 
     its(:total_minutes) { is_expected.to eq(200) }
@@ -16,15 +16,15 @@ shared_examples 'WeekdayTime' do
   end
 
   describe '#==' do
-    context 'when both do not match' do
-      it 'returns false' do
+    context "when both do not match" do
+      it "returns false" do
         expect(described_class.new(10))
           .not_to eq(described_class.new(20))
       end
     end
 
-    context 'when both match' do
-      it 'is true' do
+    context "when both match" do
+      it "is true" do
         expect(described_class.new(550))
           .to eq(described_class.new(550))
       end

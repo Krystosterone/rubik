@@ -1,4 +1,4 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe ScheduleGeneratorJob do
   describe '#perform' do
@@ -6,7 +6,7 @@ describe ScheduleGeneratorJob do
     let(:schedule_generator) { double(ScheduleGenerator) }
     before { allow(ScheduleGenerator).to receive(:new).with(agenda).and_return(schedule_generator) }
 
-    it 'generates schedules for the agenda' do
+    it "generates schedules for the agenda" do
       expect(schedule_generator).to receive(:combine)
       expect(agenda).to receive(:save!)
 

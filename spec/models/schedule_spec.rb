@@ -1,15 +1,15 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe Schedule do
   it { is_expected.to belong_to(:agenda) }
   it { is_expected.to serialize(:course_groups).as(CourseGroupsSerializer) }
 
-  context 'with some courses and leaves' do
+  context "with some courses and leaves" do
     let(:course_groups) do
-      [CourseGroup.new(code: 'LOG120',
+      [CourseGroup.new(code: "LOG120",
                        group: Group.new(number: 1,
-                                        periods: [Period.new(type: 'C', starts_at: 6500, ends_at: 7000),
-                                                  Period.new(type: 'Labo', starts_at: 10_000, ends_at: 10_050)]))]
+                                        periods: [Period.new(type: "C", starts_at: 6500, ends_at: 7000),
+                                                  Period.new(type: "Labo", starts_at: 10_000, ends_at: 10_050)]))]
     end
     let(:leaves) do
       [Leave.new(starts_at: 1500, ends_at: 1600),
@@ -23,7 +23,7 @@ describe Schedule do
     its(:duration) { is_expected.to eq(1320) }
 
     describe '#weekdays' do
-      it 'groups them per weekdays' do
+      it "groups them per weekdays" do
         expect(subject.weekdays[0])
           .to eq(ScheduleWeekday.new(index: 0,
                                      periods: []))
@@ -39,9 +39,9 @@ describe Schedule do
         expect(subject.weekdays[4])
           .to eq(ScheduleWeekday.new(index: 4,
                                      periods: [ScheduleCourse.new(index: 1,
-                                                                  code: 'LOG120',
+                                                                  code: "LOG120",
                                                                   number: 1,
-                                                                  type: 'C',
+                                                                  type: "C",
                                                                   starts_at: 740,
                                                                   ends_at: 1240),
                                                ScheduleLeave.new(starts_at: 240, ends_at: 1240)]))
@@ -51,9 +51,9 @@ describe Schedule do
         expect(subject.weekdays[6])
           .to eq(ScheduleWeekday.new(index: 6,
                                      periods: [ScheduleCourse.new(index: 1,
-                                                                  code: 'LOG120',
+                                                                  code: "LOG120",
                                                                   number: 1,
-                                                                  type: 'Labo',
+                                                                  type: "Labo",
                                                                   starts_at: 1360,
                                                                   ends_at: 1410)]))
       end

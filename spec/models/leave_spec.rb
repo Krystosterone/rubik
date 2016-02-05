@@ -1,5 +1,5 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe Leave do
-  it_behaves_like 'WeekTimeRange'
+  it_behaves_like "WeekTimeRange"
 end

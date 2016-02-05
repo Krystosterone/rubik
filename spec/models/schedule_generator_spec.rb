@@ -1,4 +1,4 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe ScheduleGenerator do
   describe '#combine' do
@@ -10,7 +10,7 @@ describe ScheduleGenerator do
         subject { described_class.new(agenda) }
         before { subject.combine }
 
-        it 'combines all schedules appropriately' do
+        it "combines all schedules appropriately" do
           expect(actual_course_groups).to eq(expected_course_groups)
         end
       end

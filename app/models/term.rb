@@ -7,5 +7,5 @@ class Term < ActiveRecord::Base
 
   attr_default(:enabled_at) { Time.zone.now }
 
-  default_scope { where('enabled_at IS NOT NULL').order(year: :desc, name: :asc, tags: :asc) }
+  default_scope { where("enabled_at IS NOT NULL").order(year: :desc, name: :asc, tags: :asc) }
 end

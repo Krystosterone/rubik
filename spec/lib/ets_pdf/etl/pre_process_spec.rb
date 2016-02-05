@@ -1,10 +1,10 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe EtsPdf::Etl::PreProcess do
-  it_behaves_like 'Pipeline'
+  it_behaves_like "Pipeline"
 
   describe '#execute' do
-    let(:pdf_folder) { 'tmp/pdf_directory' }
+    let(:pdf_folder) { "tmp/pdf_directory" }
     let(:pdf_pattern) { "#{pdf_folder}/**/*" }
     subject { described_class.new(pdf_pattern) }
 
@@ -14,7 +14,7 @@ describe EtsPdf::Etl::PreProcess do
     end
     after { FileUtils.rm_rf(pdf_folder) }
 
-    it 'converts every pdf to txt, unless it already exists' do
+    it "converts every pdf to txt, unless it already exists" do
       (1..3).each do |index|
         pdf_path = Rails.root.join(pdf_folder, "#{index}.pdf").to_s
         expect(IO).to receive(:popen).with("pdftotext -enc UTF-8 -layout #{pdf_path}")

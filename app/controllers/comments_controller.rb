@@ -7,7 +7,7 @@ class CommentsController < ApplicationController
     @comment = Comment.new(comment_params)
 
     if @comment.save
-      redirect_to new_comment_path, flash: { notice: t('.success') }
+      redirect_to new_comment_path, flash: { notice: t(".success") }
     else
       render :new
     end

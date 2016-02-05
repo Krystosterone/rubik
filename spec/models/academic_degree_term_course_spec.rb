@@ -1,4 +1,4 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe AcademicDegreeTermCourse do
   it { is_expected.to belong_to(:academic_degree_term) }
@@ -15,15 +15,15 @@ describe AcademicDegreeTermCourse do
 
   it { is_expected.to delegate_method(:code).to(:course) }
 
-  describe 'default scope' do
+  describe "default scope" do
     let(:default_scope) { [] }
     before do
-      default_scope[2] = create(:academic_degree_term_course, course: create(:course, code: 'B121'))
-      default_scope[0] = create(:academic_degree_term_course, course: create(:course, code: 'A120'))
-      default_scope[1] = create(:academic_degree_term_course, course: create(:course, code: 'B120'))
+      default_scope[2] = create(:academic_degree_term_course, course: create(:course, code: "B121"))
+      default_scope[0] = create(:academic_degree_term_course, course: create(:course, code: "A120"))
+      default_scope[1] = create(:academic_degree_term_course, course: create(:course, code: "B120"))
     end
 
-    it 'orders them by course code' do
+    it "orders them by course code" do
       expect(described_class.all).to eq(default_scope)
     end
   end

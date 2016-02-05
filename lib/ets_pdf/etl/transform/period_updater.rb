@@ -1,25 +1,25 @@
 class EtsPdf::Etl::Transform::PeriodUpdater
   MINUTES_IN_DAY = 24 * 60
   TYPES = {
-    'Atelier' => 'Atelier',
-    'C' => 'C',
-    'Labo' => 'Labo',
-    'Labo/2' => 'Labo/2',
-    'Labo A' => 'Labo',
-    'Labo A+B' => 'Labo A+B',
-    'Labo B' => 'Labo',
-    'Labo C' => 'Labo',
-    'Projet' => 'Projet',
-    'Projets' => 'Projets',
-    'TP' => 'TP',
-    'TP/2' => 'TP/2',
-    'TP A' => 'TP',
-    'TP A+B' => 'TP A+B',
-    'TP B' => 'TP',
-    'TP/Labo' => 'TP/Labo',
-    'TP-Labo A' => 'TP-Labo',
-    'TP-Labo B' => 'TP-Labo',
-    'TP-Labo/2' => 'TP-Labo/2',
+    "Atelier" => "Atelier",
+    "C" => "C",
+    "Labo" => "Labo",
+    "Labo/2" => "Labo/2",
+    "Labo A" => "Labo",
+    "Labo A+B" => "Labo A+B",
+    "Labo B" => "Labo",
+    "Labo C" => "Labo",
+    "Projet" => "Projet",
+    "Projets" => "Projets",
+    "TP" => "TP",
+    "TP/2" => "TP/2",
+    "TP A" => "TP",
+    "TP A+B" => "TP A+B",
+    "TP B" => "TP",
+    "TP/Labo" => "TP/Labo",
+    "TP-Labo A" => "TP-Labo",
+    "TP-Labo B" => "TP-Labo",
+    "TP-Labo/2" => "TP-Labo/2",
   }
 
   def initialize(group, period_data)
@@ -47,11 +47,11 @@ class EtsPdf::Etl::Transform::PeriodUpdater
   end
 
   def int_value_of(time)
-    hours, minutes = time.split(':').map(&:to_i)
+    hours, minutes = time.split(":").map(&:to_i)
     weekday_index * MINUTES_IN_DAY + hours * 60 + minutes
   end
 
   def weekday_index
-    I18n.t('date.abbr_day_names').index { |abbr| abbr.downcase == @period_data.weekday.downcase }
+    I18n.t("date.abbr_day_names").index { |abbr| abbr.downcase == @period_data.weekday.downcase }
   end
 end

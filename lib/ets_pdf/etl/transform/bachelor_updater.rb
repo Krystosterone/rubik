@@ -1,13 +1,13 @@
 class EtsPdf::Etl::Transform::BachelorUpdater
   BACHELOR_HANDLES = {
-    'seg' => 'Enseignements généraux',
-    'ctn' => 'Génie de la construction',
-    'ele' => 'Génie électrique',
-    'log' => 'Génie logiciel',
-    'mec' => 'Génie mécanique',
-    'gol' => 'Génie des opérations et de la logistique',
-    'gpa' => 'Génie de la production automatisée',
-    'gti' => "Génie des technologies de l'information",
+    "seg" => "Enseignements généraux",
+    "ctn" => "Génie de la construction",
+    "ele" => "Génie électrique",
+    "log" => "Génie logiciel",
+    "mec" => "Génie mécanique",
+    "gol" => "Génie des opérations et de la logistique",
+    "gpa" => "Génie de la production automatisée",
+    "gti" => "Génie des technologies de l'information",
   }
 
   def initialize(term, data)

@@ -1,4 +1,4 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe CommentMailer do
   let(:comment) { build(:comment) }
@@ -7,6 +7,6 @@ describe CommentMailer do
     subject { described_class.email(comment) }
 
     its(:from) { is_expected.to include(comment.user_email) }
-    its(:to) { is_expected.to include('email@test.com') }
+    its(:to) { is_expected.to include("email@test.com") }
   end
 end

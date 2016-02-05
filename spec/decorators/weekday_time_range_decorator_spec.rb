@@ -1,5 +1,5 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe WeekdayTimeRangeDecorator do
-  it_behaves_like 'WeekdayTimeRangeDecorator', decorated_class: WeekdayTimeRange
+  it_behaves_like "WeekdayTimeRangeDecorator", decorated_class: WeekdayTimeRange
 end

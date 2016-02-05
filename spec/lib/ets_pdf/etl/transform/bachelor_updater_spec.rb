@@ -1,28 +1,28 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe EtsPdf::Etl::Transform::BachelorUpdater do
   describe '#execute' do
-    context 'for invalid bachelor handles' do
+    context "for invalid bachelor handles" do
       let(:term) { double(Term) }
-      let(:data) { { 'potato' => [] } }
+      let(:data) { { "potato" => [] } }
       subject { described_class.new(term, data) }
 
-      it 'raises an error' do
+      it "raises an error" do
         expect { subject.execute }.to raise_error('Invalid bachelor handle "potato"')
       end
     end
 
-    context 'for valid bachelor handles' do
+    context "for valid bachelor handles" do
       let(:term) { create(:term) }
       let(:data) do
-        { 'seg' => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          'ctn' => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          'ele' => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          'log' => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          'mec' => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          'gol' => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          'gpa' => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          'gti' => 2.times.collect { double(EtsPdf::Parser::ParsedLine) } }
+        { "seg" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
+          "ctn" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
+          "ele" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
+          "log" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
+          "mec" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
+          "gol" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
+          "gpa" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
+          "gti" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) } }
       end
       let(:academic_degree_updaters) do
         data.collect do |bachelor_handle, lines|
@@ -43,8 +43,8 @@ describe EtsPdf::Etl::Transform::BachelorUpdater do
         end
       end
 
-      context 'when no academic degrees exist' do
-        it 'creates them' do
+      context "when no academic degrees exist" do
+        it "creates them" do
           subject.execute
 
           expect(term.academic_degree_terms.size).to eq(8)
@@ -59,7 +59,7 @@ describe EtsPdf::Etl::Transform::BachelorUpdater do
         end
       end
 
-      context 'when the academic degrees exist' do
+      context "when the academic degrees exist" do
         before do
           data.keys.each do |bachelor_handle|
             bachelor_name = EtsPdf::Etl::Transform::BachelorUpdater::BACHELOR_HANDLES
@@ -70,7 +70,7 @@ describe EtsPdf::Etl::Transform::BachelorUpdater do
           end
         end
 
-        it 'does not create new ones' do
+        it "does not create new ones" do
           expect { subject.execute }.not_to change { term.academic_degree_terms.count }
         end
       end

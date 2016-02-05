@@ -2,7 +2,7 @@ Rails.application.configure do
   config.cache_classes = true
   config.eager_load = false
   config.serve_static_files = true
-  config.static_cache_control = 'public, max-age=3600'
+  config.static_cache_control = "public, max-age=3600"
   config.consider_all_requests_local = true
   config.action_controller.perform_caching = false
   config.action_dispatch.show_exceptions = false
@@ -12,5 +12,5 @@ Rails.application.configure do
   config.active_support.deprecation = :stderr
   config.active_job.queue_adapter = :test
 
-  config.comment_email_recipient = 'email@test.com'
+  config.comment_email_recipient = "email@test.com"
 end

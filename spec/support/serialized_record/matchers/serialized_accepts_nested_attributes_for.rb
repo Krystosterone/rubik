@@ -7,15 +7,15 @@ module SerializedRecord
       end
 
       def description
-        'Test for `serialized_accepts_nested_attributes_for`'
+        "Test for `serialized_accepts_nested_attributes_for`"
       end
 
       def failure_message
-        'Expected to define `serialized_accepts_nested_attributes_for`'
+        "Expected to define `serialized_accepts_nested_attributes_for`"
       end
 
       def failure_message_when_negated
-        'Expected not to define `serialized_accepts_nested_attributes_for`'
+        "Expected not to define `serialized_accepts_nested_attributes_for`"
       end
 
       def matches?(actual)
@@ -27,7 +27,7 @@ module SerializedRecord
       private
 
       def builds_members?(actual, attributes = @attributes)
-        attributes = { '0' => attributes }
+        attributes = { "0" => attributes }
 
         actual.public_send assign_attributes_method, attributes
         members = actual.public_send(@column)
@@ -40,12 +40,12 @@ module SerializedRecord
       end
 
       def builds_created_members?(actual)
-        builds_members?(actual, @attributes.merge('_create' => '1')) &&
+        builds_members?(actual, @attributes.merge("_create" => "1")) &&
           alters_members?(actual)
       end
 
       def discards_destroyed_members?(actual)
-        attributes = { '0' => @attributes.merge('_destroy' => '1') }
+        attributes = { "0" => @attributes.merge("_destroy" => "1") }
 
         actual.public_send assign_attributes_method, attributes
         members = actual.public_send(@column)
@@ -70,7 +70,7 @@ module SerializedRecord
       end
 
       def attributes_match?(member, member_attributes)
-        member_attributes.except('_create', '_destroy').all? do |key, value|
+        member_attributes.except("_create", "_destroy").all? do |key, value|
           member.public_send(key) == value
         end
       end

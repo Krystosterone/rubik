@@ -22,6 +22,9 @@ Style/ClassAndModuleChildren:
 Style/TrailingComma:
   Enabled: false
 
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+
 Lint/AmbiguousRegexpLiteral:
   Exclude:
     - features/step_definitions/**/*

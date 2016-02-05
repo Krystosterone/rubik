@@ -2,7 +2,7 @@ class TermDecorator < Draper::Decorator
   delegate_all
 
   def title
-    [name, year, title_tags].compact.join(' ')
+    [name, year, title_tags].compact.join(" ")
   end
 
   private

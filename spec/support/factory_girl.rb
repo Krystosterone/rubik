@@ -1,4 +1,4 @@
-require 'shoulda-matchers'
+require "shoulda-matchers"
 
 RSpec.configure do |config|
   config.include FactoryGirl::Syntax::Methods

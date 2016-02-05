@@ -13,6 +13,6 @@ class EtsPdf::Etl::Transform::GroupUpdater
   private
 
   def number
-    Integer(@group_data.number.sub(/^0+/, ''))
+    Integer(@group_data.number.sub(/^0+/, ""))
   end
 end

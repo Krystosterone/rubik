@@ -20,8 +20,8 @@ module SerializedRecord::AcceptsNestedAttributeFor
 
   def build_for(klass, column, attributes)
     members = attributes
-              .reject { |member_attributes| member_attributes['_destroy'] }
-              .collect { |member_attributes| klass.new(member_attributes.except('_create')) }
+              .reject { |member_attributes| member_attributes["_destroy"] }
+              .collect { |member_attributes| klass.new(member_attributes.except("_create")) }
 
     public_send "#{column}=", members
     instance_variable_set "@#{column}_altered", alters_column?(attributes)

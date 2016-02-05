@@ -15,12 +15,12 @@ class ScheduleWeekdayDecorator < Draper::Decorator
   end
 
   def name
-    I18n.t('date.day_names')[index].capitalize
+    I18n.t("date.day_names")[index].capitalize
   end
 
   private
 
   def weekend_class
-    'weekend' if weekend?
+    "weekend" if weekend?
   end
 end

@@ -1,6 +1,6 @@
-require 'cucumber/rails'
-require 'capybara/cucumber'
-require 'selenium-webdriver'
+require "cucumber/rails"
+require "capybara/cucumber"
+require "selenium-webdriver"
 
 ActionController::Base.allow_rescue = false
 

@@ -1,9 +1,9 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe ScheduleLeave do
-  it_behaves_like 'WeekdayTimeRange'
+  it_behaves_like "WeekdayTimeRange"
 
-  describe '.group_by_weekday_index' do
+  describe ".group_by_weekday_index" do
     let(:leaves) do
       [Leave.new(starts_at: 0, ends_at: 250),
        Leave.new(starts_at: 1550, ends_at: 7000),
@@ -12,7 +12,7 @@ describe ScheduleLeave do
     end
     let(:result) { described_class.group_by_weekday_index(leaves) }
 
-    it 'returns a collection of weekdays with schedule courses' do
+    it "returns a collection of weekdays with schedule courses" do
       expect(result).to eq(0 => [described_class.new(starts_at: 0, ends_at: 250),
                                  described_class.new(starts_at: 50, ends_at: 1440)],
                            1 => [described_class.new(starts_at: 110, ends_at: 1440),

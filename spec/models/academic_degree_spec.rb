@@ -1,4 +1,4 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe AcademicDegree do
   it { is_expected.to have_many(:academic_degree_terms) }

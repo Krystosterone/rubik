@@ -4,8 +4,8 @@ class ScheduleDecorator < Draper::Decorator
 
   def css_class
     classes = %W(from-#{from} duration-#{duration})
-    classes << 'collapsible' if collapsible?
-    classes.join(' ')
+    classes << "collapsible" if collapsible?
+    classes.join(" ")
   end
 
   def hours

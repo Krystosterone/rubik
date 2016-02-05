@@ -1,4 +1,4 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe Term do
   before { Timecop.freeze }
@@ -13,13 +13,13 @@ describe Term do
 
   its(:enabled_at) { is_expected.to eq(Time.zone.now) }
 
-  describe 'default scope' do
+  describe "default scope" do
     let(:ordered_terms) { [] }
     before do
-      ordered_terms[0] = create(:term, year: 2015, name: 'A', tags: 'B')
-      ordered_terms[1] = create(:term, year: 2015, name: 'A', tags: 'C')
-      ordered_terms[3] = create(:term, year: 2014, name: 'A', tags: 'B')
-      ordered_terms[2] = create(:term, year: 2015, name: 'B', tags: 'B')
+      ordered_terms[0] = create(:term, year: 2015, name: "A", tags: "B")
+      ordered_terms[1] = create(:term, year: 2015, name: "A", tags: "C")
+      ordered_terms[3] = create(:term, year: 2014, name: "A", tags: "B")
+      ordered_terms[2] = create(:term, year: 2015, name: "B", tags: "B")
       create(:term, enabled_at: nil)
     end
 

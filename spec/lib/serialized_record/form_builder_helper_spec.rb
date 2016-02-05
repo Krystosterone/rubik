@@ -1,5 +1,5 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe SerializedRecord::FormBuilderHelper do
-  it_behaves_like 'SerializedRecord::FormBuilderHelper'
+  it_behaves_like "SerializedRecord::FormBuilderHelper"
 end

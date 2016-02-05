@@ -1,5 +1,5 @@
 class EtsPdf::Etl::Extract < Pipeline
-  TXT_EXTENSION = '.txt'
+  TXT_EXTENSION = ".txt"
 
   alias_method :txt_folder, :input
 
@@ -32,7 +32,7 @@ class EtsPdf::Etl::Extract < Pipeline
   end
 
   def part_of(path, up)
-    backwards_path = up.times.collect { '..' }.join('/')
+    backwards_path = up.times.collect { ".." }.join("/")
     File.basename(File.expand_path(backwards_path, path), TXT_EXTENSION)
   end
 end

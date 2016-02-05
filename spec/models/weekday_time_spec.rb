@@ -1,5 +1,5 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe WeekdayTime do
-  it_behaves_like 'WeekdayTime'
+  it_behaves_like "WeekdayTime"
 end

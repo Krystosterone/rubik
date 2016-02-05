@@ -1,5 +1,5 @@
 class CommentMailer < ActionMailer::Base
-  delegate :comment_email_recipient, to: 'Rails.application.config'
+  delegate :comment_email_recipient, to: "Rails.application.config"
 
   def email(comment)
     @comment = comment

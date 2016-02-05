@@ -1,5 +1,5 @@
 class EtsPdf::Etl::PreProcess < Pipeline
-  PDF_EXTENSION = '.pdf'
+  PDF_EXTENSION = ".pdf"
 
   alias_method :pdf_pattern, :input
 
@@ -22,7 +22,7 @@ class EtsPdf::Etl::PreProcess < Pipeline
   end
 
   def txt_exists?(pdf_path)
-    txt_path = File.dirname(pdf_path) + '/' + File.basename(pdf_path, '.*')
+    txt_path = File.dirname(pdf_path) + "/" + File.basename(pdf_path, ".*")
     File.exist?("#{txt_path}.txt")
   end
 end

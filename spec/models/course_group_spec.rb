@@ -1,4 +1,4 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe CourseGroup do
   let(:group) { double }
@@ -11,23 +11,23 @@ describe CourseGroup do
   it { is_expected.to delegate_method(:overlaps?).to(:group) }
 
   describe '#new' do
-    context 'with attributes passed in' do
-      subject { described_class.new(code: 'CODE', group: group) }
+    context "with attributes passed in" do
+      subject { described_class.new(code: "CODE", group: group) }
 
-      its(:code) { is_expected.to eq('CODE') }
+      its(:code) { is_expected.to eq("CODE") }
       its(:group) { is_expected.to eq(group) }
     end
   end
 
   describe '#==' do
-    it 'returns false if course groups do not match' do
+    it "returns false if course groups do not match" do
       expect(described_class.new(code: nil, group: nil))
-        .not_to eq(described_class.new(code: 'CODE', group: group))
+        .not_to eq(described_class.new(code: "CODE", group: group))
     end
 
-    it 'returns true if course groups match' do
-      expect(described_class.new(code: 'CODE', group: group))
-        .to eq(described_class.new(code: 'CODE', group: group))
+    it "returns true if course groups match" do
+      expect(described_class.new(code: "CODE", group: group))
+        .to eq(described_class.new(code: "CODE", group: group))
     end
   end
 end

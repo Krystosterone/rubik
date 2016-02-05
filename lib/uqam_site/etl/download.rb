@@ -31,7 +31,7 @@ class UqamSite::Etl::Download < Pipeline
   end
 
   def open_links
-    all('.liste > li > a[onclick]').each do |link|
+    all(".liste > li > a[onclick]").each do |link|
       link.click
       sleep(0.1)
     end

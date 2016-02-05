@@ -1,4 +1,4 @@
-shared_examples 'WeekdayTimeRangeDecorator' do |decorated_class:|
+shared_examples "WeekdayTimeRangeDecorator" do |decorated_class:|
   describe '#time_span' do
     let(:weekday_time_range) do
       double(decorated_class,
@@ -7,8 +7,8 @@ shared_examples 'WeekdayTimeRangeDecorator' do |decorated_class:|
     end
     subject { described_class.new(weekday_time_range) }
 
-    it 'returns a concatenated starts_at time and ends_at time' do
-      expect(subject.time_span).to eq('0:50 - 6:00')
+    it "returns a concatenated starts_at time and ends_at time" do
+      expect(subject.time_span).to eq("0:50 - 6:00")
     end
   end
 
@@ -16,7 +16,7 @@ shared_examples 'WeekdayTimeRangeDecorator' do |decorated_class:|
     let(:weekday_time_range) { double(decorated_class, starts_at: WeekTime.new(50)) }
     subject { described_class.new(weekday_time_range) }
 
-    it 'is decorated' do
+    it "is decorated" do
       expect(subject.starts_at).to eq(weekday_time_range.starts_at)
       expect(subject.starts_at).to be_decorated
     end
@@ -26,7 +26,7 @@ shared_examples 'WeekdayTimeRangeDecorator' do |decorated_class:|
     let(:weekday_time_range) { double(decorated_class, ends_at: WeekTime.new(50)) }
     subject { described_class.new(weekday_time_range) }
 
-    it 'is decorated' do
+    it "is decorated" do
       expect(subject.ends_at).to eq(weekday_time_range.ends_at)
       expect(subject.ends_at).to be_decorated
     end
@@ -36,7 +36,7 @@ shared_examples 'WeekdayTimeRangeDecorator' do |decorated_class:|
     let(:partial_path) { decorated_class.name.underscore }
     subject { described_class.new(decorated_class.new) }
 
-    it 'returns the partial path' do
+    it "returns the partial path" do
       expect(subject.to_partial_path).to eq("schedules/#{partial_path}")
     end
   end

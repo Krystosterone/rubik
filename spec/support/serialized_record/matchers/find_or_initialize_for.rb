@@ -1,4 +1,4 @@
-require 'rspec/expectations'
+require "rspec/expectations"
 
 RSpec::Matchers.define :find_or_initialize_for_serialized do |column, attributes:|
   match do |actual|

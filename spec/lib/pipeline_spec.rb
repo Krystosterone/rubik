@@ -1,5 +1,5 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe Pipeline do
-  it_behaves_like 'Pipeline'
+  it_behaves_like "Pipeline"
 end

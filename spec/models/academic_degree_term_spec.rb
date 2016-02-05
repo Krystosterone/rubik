@@ -1,4 +1,4 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe AcademicDegreeTerm do
   it { is_expected.to belong_to(:academic_degree) }

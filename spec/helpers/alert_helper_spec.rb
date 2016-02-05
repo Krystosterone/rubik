@@ -1,4 +1,4 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe AlertHelper do
   describe '#alert_class' do
@@ -8,9 +8,9 @@ describe AlertHelper do
       end
     end
 
-    context 'when the type is not defined' do
+    context "when the type is not defined" do
       it 'returns itself appended by "alert"' do
-        expect(alert_class('potato')).to eq('alert-potato')
+        expect(alert_class("potato")).to eq("alert-potato")
       end
     end
   end

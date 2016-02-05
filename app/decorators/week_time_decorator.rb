@@ -6,6 +6,6 @@ class WeekTimeDecorator < WeekdayTimeDecorator
   private
 
   def weekday
-    I18n.t('date.day_names')[weekday_index].capitalize
+    I18n.t("date.day_names")[weekday_index].capitalize
   end
 end

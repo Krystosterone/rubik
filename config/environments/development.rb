@@ -19,10 +19,10 @@ Rails.application.configure do
   end
 
   reload_models_for_serialization = proc do
-    Dir[Rails.root.join('app/models/**/*.rb')].each { |file| require_dependency(file) }
+    Dir[Rails.root.join("app/models/**/*.rb")].each { |file| require_dependency(file) }
   end
 
   config.after_initialize(&reload_models_for_serialization)
   config.to_prepare(&reload_models_for_serialization)
-  config.comment_email_recipient = 'email@development.com'
+  config.comment_email_recipient = "email@development.com"
 end

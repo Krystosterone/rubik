@@ -1,8 +1,8 @@
-require 'sidekiq/web'
+require "sidekiq/web"
 
 Rails.application.routes.draw do
-  mount Sidekiq::Web, at: '/sidekiq'
-  mount LetterOpenerWeb::Engine, at: '/letter_opener' if Rails.env.development?
+  mount Sidekiq::Web, at: "/sidekiq"
+  mount LetterOpenerWeb::Engine, at: "/letter_opener" if Rails.env.development?
 
   resources :comments, only: [:new, :create]
   resources :terms, only: :index

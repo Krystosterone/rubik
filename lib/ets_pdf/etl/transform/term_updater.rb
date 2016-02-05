@@ -1,12 +1,12 @@
 class EtsPdf::Etl::Transform::TermUpdater
   TERM_HANDLES = {
-    'automne' => 'Automne',
-    'ete' => 'Été',
-    'hiver' => 'Hiver',
+    "automne" => "Automne",
+    "ete" => "Été",
+    "hiver" => "Hiver",
   }
   TERM_TAGS = {
-    'anciens' => 'Anciens Étudiants',
-    'nouveaux' => 'Nouveaux Étudiants',
+    "anciens" => "Anciens Étudiants",
+    "nouveaux" => "Nouveaux Étudiants",
   }
 
   def initialize(year, term)

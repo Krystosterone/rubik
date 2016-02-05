@@ -1,4 +1,4 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe Breadcrumb do
   let(:academic_degree_term) { double(AcademicDegreeTerm) }
@@ -6,18 +6,18 @@ describe Breadcrumb do
   let(:view_context) do
     double.tap do |view_context|
       allow(view_context).to receive(:t) { |key| key }
-      allow(view_context).to receive(:root_path).and_return('root_path')
+      allow(view_context).to receive(:root_path).and_return("root_path")
       allow(view_context)
-        .to receive(:new_academic_degree_term_agenda_path).with(academic_degree_term).and_return('agenda_path')
+        .to receive(:new_academic_degree_term_agenda_path).with(academic_degree_term).and_return("agenda_path")
       allow(view_context).to receive(:link_to) { |name, path| "#{name}_#{path}" }
       allow(view_context).to receive(:agenda).and_return(agenda)
     end
   end
 
   {
-    'terms' => [],
-    'agendas' => %w(.terms_root_path),
-    'schedules' => %w(.terms_root_path .agendas_agenda_path),
+    "terms" => [],
+    "agendas" => %w(.terms_root_path),
+    "schedules" => %w(.terms_root_path .agendas_agenda_path),
   }.each do |handle, links|
     context "with current handle as #{handle}" do
       let(:current_handle) { handle }

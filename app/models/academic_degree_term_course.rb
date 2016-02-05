@@ -10,6 +10,6 @@ class AcademicDegreeTermCourse < ActiveRecord::Base
   serialize :groups, GroupsSerializer
   serialized_find_or_initialize_for :groups
 
-  default_scope { includes(:course).order('courses.code') }
+  default_scope { includes(:course).order("courses.code") }
   delegate :code, to: :course
 end

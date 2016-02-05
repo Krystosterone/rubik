@@ -1,7 +1,7 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe SerializedRecord::FindOrInitializeFor do
   subject { TestProfessor.new }
 
-  it { is_expected.to find_or_initialize_for_serialized(:test_students, attributes: { name: 'Bob' }) }
+  it { is_expected.to find_or_initialize_for_serialized(:test_students, attributes: { name: "Bob" }) }
 end

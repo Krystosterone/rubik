@@ -10,6 +10,6 @@ class CreateAcademicDegreeTermCourse < ActiveRecord::Migration
     add_index :academic_degree_term_courses,
               [:academic_degree_term_id, :course_id],
               unique: true,
-              name: 'academic_degree_terms_courses_index'
+              name: "academic_degree_terms_courses_index"
   end
 end
