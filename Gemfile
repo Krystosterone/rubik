@@ -19,6 +19,7 @@ gem "kaminari"
 gem "kaminari-i18n"
 gem "puma"
 gem "email_validator"
+gem "airbrake"
 
 # Sidekiq
 gem "sidekiq"
@@ -40,6 +41,7 @@ end
 
 group :development, :test do
   gem "pry-byebug"
+  gem "dotenv-rails"
 end
 
 group :test do
@@ -57,7 +59,4 @@ group :test do
   gem "timecop"
 end
 
-group :production do
-  gem "airbrake"
-  gem "rails_12factor" # Heroku
-end
+gem "rails_12factor", group: :production  # Heroku
