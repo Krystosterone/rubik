@@ -3,9 +3,7 @@ class EtsPdf::Etl::Transform < Pipeline
 
   def execute
     ActiveRecord::Base.transaction do
-      ActiveRecord::Base.logger.silence do
-        terms.each { |arguments| TermUpdater.new(*arguments).execute }
-      end
+      terms.each { |arguments| TermUpdater.new(*arguments).execute }
     end
   end
 end
