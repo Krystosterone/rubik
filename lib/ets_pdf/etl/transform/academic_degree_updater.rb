@@ -35,6 +35,8 @@ class EtsPdf::Etl::Transform::AcademicDegreeUpdater
   end
 
   def update_period(period_data)
+    raise ParsingError, @academic_degree_term_course if @group.nil?
+
     EtsPdf::Etl::Transform::PeriodUpdater.new(@group, period_data).execute
   end
 
@@ -45,5 +47,26 @@ class EtsPdf::Etl::Transform::AcademicDegreeUpdater
   def skip_save?
     return true if @academic_degree_term_course.groups.empty?
     SKIP_COURSES.include?(@academic_degree_term_course.course.code)
+  end
+
+  class ParsingError < StandardError
+    def initialize(academic_degree_term_course)
+      super format(academic_degree_term_course)
+    end
+
+    private
+
+    def format(academic_degree_term_course)
+      term = academic_degree_term_course.academic_degree_term.term
+
+      stacktrace = [
+        term.year,
+        term.name,
+        term.tags,
+        academic_degree_term_course.academic_degree_term.academic_degree.code,
+        academic_degree_term_course.course.code,
+      ].join(", ")
+      "Parsing error for #{stacktrace}"
+    end
   end
 end
