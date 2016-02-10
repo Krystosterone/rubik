@@ -1,5 +1,5 @@
 class ScheduleGeneratorTestCase
-  AGENDA_ATTRIBUTES = %w(courses_per_schedule courses leaves token)
+  AGENDA_ATTRIBUTES = %w(courses_per_schedule courses leaves token).freeze
 
   mattr_accessor :folder_path, instance_accessor: false do
     Rails.root.join("spec/support/schedule_generator_test_cases")

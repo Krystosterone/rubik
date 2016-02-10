@@ -15,7 +15,7 @@ describe ScheduleGeneratorTestCase do
   end
 
   describe ".all" do
-    let(:tokens) { 3.times.collect { SecureRandom.hex } }
+    let(:tokens) { Array.new(3) { SecureRandom.hex } }
     let(:test_cases) do
       test_cases = tokens.collect do |token|
         content = { token: token }

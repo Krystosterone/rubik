@@ -9,7 +9,7 @@ describe ScheduleDecorator do
       let(:weekdays) do
         weekdays = []
         weekdays << double(ScheduleWeekday, weekend?: true, collapsible?: true)
-        weekdays += 5.times.collect { double(ScheduleWeekday, weekend?: false) }
+        weekdays += Array.new(5) { double(ScheduleWeekday, weekend?: false) }
         weekdays << double(ScheduleWeekday, weekend?: true, collapsible?: true)
         weekdays
       end
@@ -22,7 +22,7 @@ describe ScheduleDecorator do
       let(:weekdays) do
         weekdays = []
         weekdays << double(ScheduleWeekday, weekend?: true, collapsible?: true)
-        weekdays += 5.times.collect { double(ScheduleWeekday, weekend?: false) }
+        weekdays += Array.new(5) { double(ScheduleWeekday, weekend?: false) }
         weekdays << double(ScheduleWeekday, weekend?: true, collapsible?: false)
         weekdays
       end

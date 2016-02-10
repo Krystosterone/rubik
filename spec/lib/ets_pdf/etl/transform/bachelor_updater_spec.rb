@@ -15,14 +15,14 @@ describe EtsPdf::Etl::Transform::BachelorUpdater do
     context "for valid bachelor handles" do
       let(:term) { create(:term) }
       let(:data) do
-        { "seg" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          "ctn" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          "ele" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          "log" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          "mec" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          "gol" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          "gpa" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) },
-          "gti" => 2.times.collect { double(EtsPdf::Parser::ParsedLine) } }
+        { "seg" => Array.new(2) { double(EtsPdf::Parser::ParsedLine) },
+          "ctn" => Array.new(2) { double(EtsPdf::Parser::ParsedLine) },
+          "ele" => Array.new(2) { double(EtsPdf::Parser::ParsedLine) },
+          "log" => Array.new(2) { double(EtsPdf::Parser::ParsedLine) },
+          "mec" => Array.new(2) { double(EtsPdf::Parser::ParsedLine) },
+          "gol" => Array.new(2) { double(EtsPdf::Parser::ParsedLine) },
+          "gpa" => Array.new(2) { double(EtsPdf::Parser::ParsedLine) },
+          "gti" => Array.new(2) { double(EtsPdf::Parser::ParsedLine) } }
       end
       let(:academic_degree_updaters) do
         data.collect do |bachelor_handle, lines|

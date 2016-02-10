@@ -9,7 +9,7 @@ module InstanceWithAttributes
         value == actual.public_send(name)
       end
     end
-    alias_method :==, :matches?
+    alias == matches?
 
     def inspect
       "An instance having attributes #{@attributes}"

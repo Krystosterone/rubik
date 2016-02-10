@@ -3,11 +3,11 @@ class EtsPdf::Etl::Transform::TermUpdater
     "automne" => "Automne",
     "ete" => "Été",
     "hiver" => "Hiver",
-  }
+  }.freeze
   TERM_TAGS = {
     "anciens" => "Anciens Étudiants",
     "nouveaux" => "Nouveaux Étudiants",
-  }
+  }.freeze
 
   def initialize(year, term)
     @year = year
@@ -16,7 +16,7 @@ class EtsPdf::Etl::Transform::TermUpdater
 
   def execute
     @term.each do |term_handle, bachelor_types|
-      term_name = TERM_HANDLES[term_handle] || fail("Invalid term handle \"#{term_handle}\"")
+      term_name = TERM_HANDLES[term_handle] || raise("Invalid term handle \"#{term_handle}\"")
       for_each_bachelor_type(term_name, bachelor_types)
     end
   end
@@ -25,7 +25,7 @@ class EtsPdf::Etl::Transform::TermUpdater
 
   def for_each_bachelor_type(term_name, bachelor_types)
     bachelor_types.each do |bachelor_type, bachelors_data|
-      term_tags = TERM_TAGS[bachelor_type] || fail("Invalid bachelor type \"#{bachelor_type}\"")
+      term_tags = TERM_TAGS[bachelor_type] || raise("Invalid bachelor type \"#{bachelor_type}\"")
       term = Term.where(year: @year, name: term_name, tags: term_tags).first_or_create!
 
       EtsPdf::Etl::Transform::BachelorUpdater.new(term, bachelors_data).execute

@@ -1,7 +1,7 @@
 class EtsPdf::Etl::PreProcess < Pipeline
-  PDF_EXTENSION = ".pdf"
+  PDF_EXTENSION = ".pdf".freeze
 
-  alias_method :pdf_pattern, :input
+  alias pdf_pattern input
 
   def execute
     convert

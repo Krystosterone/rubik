@@ -1,5 +1,5 @@
 class Breadcrumb
-  ORDER = %w(terms agendas schedules)
+  ORDER = %w(terms agendas schedules).freeze
 
   def initialize(view_context, current_handle)
     @view_context = view_context

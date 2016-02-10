@@ -1,5 +1,5 @@
 class EtsPdf::Etl::Transform < Pipeline
-  alias_method :terms, :input
+  alias terms input
 
   def execute
     ActiveRecord::Base.transaction do

@@ -46,7 +46,7 @@ describe EtsPdf::Etl::Transform::AcademicDegreeUpdater do
 
       it "throws an error" do
         expect { subject.execute }
-          .to raise_exception(described_class::ParsingError, %r{Parsing error for.*LOG240})
+          .to raise_exception(described_class::ParsingError, /Parsing error for.*LOG240/)
       end
     end
 

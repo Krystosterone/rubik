@@ -26,10 +26,10 @@ Alors /^je vois les horaires:$/ do |table|
 
     actual_period = weekday.all(".period").find do |period|
       period.has_css?("div", text: row["Période"]) &&
-      period.has_css?("div", text: row["Cours"]) &&
-      period.has_css?("div", text: row["Type"])
+        period.has_css?("div", text: row["Cours"]) &&
+        period.has_css?("div", text: row["Type"])
     end
-    fail "Unable to find period #{row}" if actual_period.nil?
+    raise "Unable to find period #{row}" if actual_period.nil?
   end
 end
 

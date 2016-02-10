@@ -20,7 +20,7 @@ class EtsPdf::Etl::Transform::PeriodUpdater
     "TP-Labo A" => "TP-Labo",
     "TP-Labo B" => "TP-Labo",
     "TP-Labo/2" => "TP-Labo/2",
-  }
+  }.freeze
 
   def initialize(group, period_data)
     @group = group
@@ -35,7 +35,7 @@ class EtsPdf::Etl::Transform::PeriodUpdater
   private
 
   def type
-    TYPES[@period_data.type] || fail(ArgumentError, "Type #{@period_data.type} is not allowed")
+    TYPES[@period_data.type] || raise(ArgumentError, "Type #{@period_data.type} is not allowed")
   end
 
   def starts_at
@@ -52,6 +52,6 @@ class EtsPdf::Etl::Transform::PeriodUpdater
   end
 
   def weekday_index
-    I18n.t("date.abbr_day_names").index { |abbr| abbr.downcase == @period_data.weekday.downcase }
+    I18n.t("date.abbr_day_names").index { |abbr| abbr.casecmp(@period_data.weekday.downcase).zero? }
   end
 end

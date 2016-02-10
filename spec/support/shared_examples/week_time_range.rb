@@ -9,7 +9,7 @@ shared_examples "WeekTimeRange" do
 
       it "returns the weekday time range within associated weekday index" do
         expect(subject.to_weekday_time_ranges).to eq(
-          0 => WeekdayTimeRange.new(starts_at: 0, ends_at: 1440),
+          0 => WeekdayTimeRange.new(starts_at: 0, ends_at: 1440)
         )
       end
     end
@@ -20,7 +20,7 @@ shared_examples "WeekTimeRange" do
       it "returns the weekday time range within associated weekday index" do
         expect(subject.to_weekday_time_ranges).to eq(
           0 => WeekdayTimeRange.new(starts_at: 0, ends_at: 1440),
-          1 => WeekdayTimeRange.new(starts_at: 0, ends_at: 1440),
+          1 => WeekdayTimeRange.new(starts_at: 0, ends_at: 1440)
         )
       end
     end
@@ -32,7 +32,7 @@ shared_examples "WeekTimeRange" do
         expect(subject.to_weekday_time_ranges).to eq(
           1 => WeekdayTimeRange.new(starts_at: 160, ends_at: 1440),
           2 => WeekdayTimeRange.new(starts_at: 0, ends_at: 1440),
-          3 => WeekdayTimeRange.new(starts_at: 0, ends_at: 180),
+          3 => WeekdayTimeRange.new(starts_at: 0, ends_at: 180)
         )
       end
     end

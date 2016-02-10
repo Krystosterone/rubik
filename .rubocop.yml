@@ -1,6 +1,7 @@
 require: rubocop-rspec
 
 AllCops:
+  TargetRubyVersion: 2.2
   Exclude:
     - bin/**/*
     - vendor/**/*
@@ -8,7 +9,6 @@ AllCops:
     - spec/support/matchers/have_attr_accessor.rb
     - lib/tasks/cucumber.rake
     - features/support/_circleci_formatter.rb
-  RunRailsCops: true
 
 Metrics/LineLength:
   Max: 120
@@ -19,7 +19,7 @@ Style/Documentation:
 Style/ClassAndModuleChildren:
   Enabled: false
 
-Style/TrailingComma:
+Style/TrailingCommaInLiteral:
   Enabled: false
 
 Style/StringLiterals:
@@ -32,6 +32,9 @@ Lint/AmbiguousRegexpLiteral:
 Style/AsciiIdentifiers:
   Exclude:
     - features/step_definitions/**/*
+
+Rails:
+  Enabled: true
 
 RSpec/DescribeClass:
   Exclude:

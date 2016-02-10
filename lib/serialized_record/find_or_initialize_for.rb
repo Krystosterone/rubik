@@ -24,7 +24,7 @@ module SerializedRecord::FindOrInitializeFor
 
   def build_member(klass, column, attributes)
     member = klass.new(**attributes)
-    public_send("#{column}") << member
+    public_send(column.to_s) << member
     member
   end
 end

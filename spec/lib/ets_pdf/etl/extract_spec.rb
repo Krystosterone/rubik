@@ -3,7 +3,7 @@ require "rails_helper"
 describe EtsPdf::Etl::Extract do
   it_behaves_like "Pipeline"
 
-  TXT_SUBSET = "db/raw/ets/2014/hiver/**/*"
+  TXT_SUBSET = "db/raw/ets/2014/hiver/**/*".freeze
 
   describe '#execute' do
     subject { described_class.new(TXT_SUBSET) }

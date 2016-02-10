@@ -34,7 +34,7 @@ group :development do
   gem "terminal-notifier-guard"
   gem "rubocop"
   gem "guard-rubocop"
-  gem "rubocop-rspec"
+  gem "rubocop-rspec", github: "nevir/rubocop-rspec"
   gem "letter_opener"
   gem "letter_opener_web", "~> 1.2.0"
 end
@@ -59,4 +59,4 @@ group :test do
   gem "timecop"
 end
 
-gem "rails_12factor", group: :production  # Heroku
+gem "rails_12factor", group: :production # Heroku

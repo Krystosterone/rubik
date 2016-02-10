@@ -5,7 +5,7 @@ class WeekdayTime
     @total_minutes = total_minutes
   end
   attr_reader :total_minutes
-  alias_method :to_i, :total_minutes
+  alias to_i total_minutes
   delegate :to_s, to: :total_minutes
 
   def hour

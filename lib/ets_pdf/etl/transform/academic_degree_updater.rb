@@ -1,5 +1,5 @@
 class EtsPdf::Etl::Transform::AcademicDegreeUpdater
-  SKIP_COURSES = %w(PRE010)
+  SKIP_COURSES = %w(PRE010).freeze
 
   def initialize(academic_degree_term, lines)
     @academic_degree_term = academic_degree_term

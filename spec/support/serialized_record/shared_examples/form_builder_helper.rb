@@ -1,5 +1,5 @@
 shared_examples "SerializedRecord::FormBuilderHelper" do
-  let(:students) { 3.times.collect { double(TestStudent) } }
+  let(:students) { Array.new(3) { double(TestStudent) } }
   let(:professor) { double(TestProfessor, class: TestProfessor, test_students: students) }
   let(:view_context) { double }
   let(:parent_builder) { double(ActionView::Helpers::FormBuilder, options: { url: "parent_url" }) }
