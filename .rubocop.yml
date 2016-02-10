@@ -1,4 +1,4 @@
-require: rubocop-rspec
+# require: rubocop-rspec Disable until rails 5 is fully supported
 
 AllCops:
   TargetRubyVersion: 2.2
@@ -9,6 +9,7 @@ AllCops:
     - spec/support/matchers/have_attr_accessor.rb
     - lib/tasks/cucumber.rake
     - features/support/_circleci_formatter.rb
+    - spec/support/extensions/its.rb
 
 Metrics/LineLength:
   Max: 120
@@ -32,6 +33,9 @@ Lint/AmbiguousRegexpLiteral:
 Style/AsciiIdentifiers:
   Exclude:
     - features/step_definitions/**/*
+
+Rails:
+  Enabled: true
 
 Rails:
   Enabled: true

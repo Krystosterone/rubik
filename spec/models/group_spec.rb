@@ -72,7 +72,7 @@ describe Group do
 
     it "returns false if periods do not match" do
       expect(described_class.new(periods: [double]))
-        .not_to eq(described_class.new([]))
+        .not_to eq(described_class.new({}))
     end
 
     it "returns true if periods match" do

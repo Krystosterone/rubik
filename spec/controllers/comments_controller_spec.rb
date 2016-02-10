@@ -24,8 +24,12 @@ describe CommentsController do
     context "when the comment cannot be saved" do
       before do
         allow_any_instance_of(Comment).to receive(:save).and_return(false)
-        post :create, comment: { user_email: "some_email",
-                                 body: "text body" }
+        post :create, params: {
+          comment: {
+            user_email: "some_email",
+            body: "text body"
+          }
+        }
       end
 
       it { is_expected.to render_template(:new) }
@@ -41,8 +45,12 @@ describe CommentsController do
     context "when the comment was able to be saved" do
       let(:comment) { Comment.last }
       before do
-        post :create, comment: { user_email: "email@domain.com",
-                                 body: "Some comment" }
+        post :create, params: {
+          comment: {
+            user_email: "email@domain.com",
+            body: "Some comment"
+          }
+        }
       end
 
       it { is_expected.to redirect_to(new_comment_path) }

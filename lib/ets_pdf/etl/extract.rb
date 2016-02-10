@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class EtsPdf::Etl::Extract < Pipeline
   TXT_EXTENSION = ".txt".freeze
 

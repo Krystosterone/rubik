@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe Term do
-  before { Timecop.freeze }
+  before { Timecop.freeze(2016, 1, 1) }
   after { Timecop.return }
 
   it { is_expected.to have_many(:academic_degree_terms) }

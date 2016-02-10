@@ -8,7 +8,8 @@ describe AgendasController do
     describe "##{action}" do
       context "when the academic degree term does not exist" do
         it "raises an error" do
-          expect { public_send method, action, academic_degree_term_id: 1 }.to raise_error(ActiveRecord::RecordNotFound)
+          expect { public_send method, action, params: { academic_degree_term_id: 1 } }
+            .to raise_error(ActiveRecord::RecordNotFound)
         end
       end
     end
@@ -21,7 +22,7 @@ describe AgendasController do
     describe "##{action}" do
       context "when the agenda does not exist" do
         it "raises an error" do
-          expect { public_send method, action, token: 1 }.to raise_error(ActiveRecord::RecordNotFound)
+          expect { public_send method, action, params: { token: 1 } }.to raise_error(ActiveRecord::RecordNotFound)
         end
       end
     end
@@ -30,7 +31,7 @@ describe AgendasController do
   describe '#new' do
     context "when the academic degree term does exist" do
       let(:academic_degree_term) { create(:academic_degree_term) }
-      before { get :new, academic_degree_term_id: academic_degree_term.id }
+      before { get :new, params: { academic_degree_term_id: academic_degree_term.id } }
 
       it { is_expected.to render_template(:edit) }
 
@@ -47,7 +48,7 @@ describe AgendasController do
   describe '#edit' do
     context "when the agenda is found" do
       let(:agenda) { create(:combined_agenda) }
-      before { get :edit, token: agenda.token }
+      before { get :edit, params: { token: agenda.token } }
 
       it { is_expected.to render_template(:edit) }
 
@@ -63,7 +64,7 @@ describe AgendasController do
 
       context "when the post does not contain agenda" do
         it "raises an error" do
-          expect { post :create, academic_degree_term_id: academic_degree_term.id }
+          expect { post :create, params: { academic_degree_term_id: academic_degree_term.id } }
             .to raise_error(ActionController::ParameterMissing)
         end
       end
@@ -72,8 +73,10 @@ describe AgendasController do
         before do
           allow_any_instance_of(Agenda).to receive(:combine).and_return(false)
           post :create,
-               academic_degree_term_id: academic_degree_term.id,
-               agenda: { courses_per_schedule: 5 }
+               params: {
+                 academic_degree_term_id: academic_degree_term.id,
+                 agenda: { courses_per_schedule: 5 }
+               }
         end
         let(:assigned_agenda) { assigns(:agenda) }
 
@@ -93,9 +96,11 @@ describe AgendasController do
         let(:serialized_course) { AgendaCourse.from(course) }
         before do
           post :create,
-               academic_degree_term_id: academic_degree_term.id,
-               agenda: { course_ids: [course.id],
-                         courses_per_schedule: 1 }
+               params: {
+                 academic_degree_term_id: academic_degree_term.id,
+                 agenda: { course_ids: [course.id],
+                           courses_per_schedule: 1 }
+               }
         end
 
         it { is_expected.to redirect_to(processing_agenda_schedules_path(agenda)) }
@@ -117,7 +122,7 @@ describe AgendasController do
 
     context "when the post does not contain agenda" do
       it "raises an error" do
-        expect { post :update, token: agenda.token }
+        expect { post :update, params: { token: agenda.token } }
           .to raise_error(ActionController::ParameterMissing)
       end
     end
@@ -126,8 +131,10 @@ describe AgendasController do
       before do
         allow_any_instance_of(Agenda).to receive(:combine).and_return(false)
         post :update,
-             token: agenda.token,
-             agenda: { courses_per_schedule: 5 }
+             params: {
+               token: agenda.token,
+               agenda: { courses_per_schedule: 5 }
+             }
       end
       let(:assigned_agenda) { assigns(:agenda) }
 
@@ -144,9 +151,11 @@ describe AgendasController do
       let(:serialized_course) { AgendaCourse.from(course) }
       before do
         post :update,
-             token: agenda.token,
-             agenda: { course_ids: [course.id],
-                       courses_per_schedule: 1 }
+             params: {
+               token: agenda.token,
+               agenda: { course_ids: [course.id],
+                         courses_per_schedule: 1 }
+             }
         agenda.reload
       end
 
