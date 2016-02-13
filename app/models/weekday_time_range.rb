@@ -44,6 +44,6 @@ class WeekdayTimeRange
   private
 
   def time_correctness
-    errors.add(:ends_at, :greater_than_or_equal_to_starts_at) if @ends_at < @starts_at
+    errors.add(:ends_at, :greater_than_or_equal_to_starts_at) if @ends_at <= @starts_at
   end
 end

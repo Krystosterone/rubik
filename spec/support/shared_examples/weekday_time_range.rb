@@ -62,6 +62,15 @@ shared_examples "WeekdayTimeRange" do
       end
     end
 
+    context "when the start and end are equal" do
+      subject { described_class.new(starts_at: 0, ends_at: 0) }
+      before { subject.valid? }
+
+      it "does not add an error on ends_at" do
+        expect(subject.errors).to be_added(:ends_at, :greater_than_or_equal_to_starts_at)
+      end
+    end
+
     context "when the end comes before the start" do
       subject { described_class.new(starts_at: 200, ends_at: 100) }
       before { subject.valid? }
