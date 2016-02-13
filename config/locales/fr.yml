@@ -53,6 +53,9 @@ fr:
     submit:
       create: Soumettre
       update: Soumettre
+  layouts:
+    application:
+      title: Rubik
   shared:
     breadcrumb:
       terms: Trimestres

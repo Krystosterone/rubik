@@ -1,12 +1,11 @@
 !!!
 %html
   %head
-    %title Rubik
+    %title= t(".title")
     %meta{name: 'viewport', content: 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'}
 
     = stylesheet_link_tag 'application', media: 'all'
     = csrf_meta_tags
   %body{class: "#{controller_name}-controller #{action_name}-action"}
-    = render 'shared/navbar'
     = yield
     = render 'shared/google_analytics'

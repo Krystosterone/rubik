@@ -1,6 +1,4 @@
 class SchedulesController < ApplicationController
-  layout "processing", only: :processing
-
   before_action :find_agenda
   before_action :ensure_schedules_present, only: :index
   before_action :ensure_processing, only: :processing
