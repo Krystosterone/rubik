@@ -14,5 +14,9 @@ Rails.application.routes.draw do
     end
   end
 
+  ErrorsController::MAPPED_ERRORS.each do |status, code|
+    get "/#{code}", to: "errors##{status}"
+  end
+
   root 'terms#index'
 end

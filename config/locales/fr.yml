@@ -43,6 +43,13 @@ fr:
       subject: '[Rubik-ETS] Nouveau commentaire'
       from: 'De: %{email}'
       body: Commentaire
+  errors:
+    show:
+      title: "Erreur %{code}"
+      message:
+        not_found: Page introuvable
+        unprocessable_entity: Erreur d'entité
+        internal_server_error: Erreur interne
   helpers:
     label:
       agenda:
