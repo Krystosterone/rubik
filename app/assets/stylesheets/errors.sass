@@ -1,12 +1,37 @@
 .errors-controller
   background-color: $brand-primary
 
-  h1
-    color: white
-    text-align: center
-    font-size: 120px
-    @include text-shadow(0px 3px 0px darken($brand-primary, 10%), 0px 14px 10px rgba(0,0,0,0.15), 0px 24px 2px rgba(0,0,0,0.1), 0px 34px 30px rgba(0,0,0,0.1))
+  .content
+    position: absolute
+    top: 50%
+    left: 0
+    right: 0
+    margin-top: -110px
 
-  p
-    color: white
-    text-align: center
+    h1
+      color: $body-bg
+      text-align: center
+      font-size: 120px
+      @include text-shadow(0px 3px 0px darken($brand-primary, 10%), 0px 14px 10px rgba(0,0,0,0.15), 0px 24px 2px rgba(0,0,0,0.1), 0px 34px 30px rgba(0,0,0,0.1))
+
+    @media (max-width: $screen-md-min)
+      margin-top: -90px
+
+      h1
+        font-size: 90px
+
+    @media (max-width: $screen-sm-min)
+      margin-top: -70px
+
+      h1
+        font-size: 60px
+
+    @media (max-width: $screen-xs-min)
+      margin-top: -50px
+
+      h1
+        font-size: 30px
+
+    p
+      color: $body-bg
+      text-align: center
