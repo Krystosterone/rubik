@@ -37,16 +37,13 @@ Style/AsciiIdentifiers:
 Rails:
   Enabled: true
 
-Rails:
-  Enabled: true
-
-RSpec/DescribeClass:
-  Exclude:
-    - spec/**/*.rake_spec.rb
-    - spec/routing/**/*_spec.rb
-    - spec/support/shared_examples/coerced_attr_accessor.rb
-
-RSpec/InstanceVariable:
-  Exclude:
-    - spec/lib/schedule_generator_test_case_spec.rb
-    - spec/helpers/google_analytics_helper_spec.rb
+#RSpec/DescribeClass:
+#  Exclude:
+#    - spec/**/*.rake_spec.rb
+#    - spec/routing/**/*_spec.rb
+#    - spec/support/shared_examples/coerced_attr_accessor.rb
+#
+#RSpec/InstanceVariable:
+#  Exclude:
+#    - spec/lib/schedule_generator_test_case_spec.rb
+#    - spec/helpers/google_analytics_helper_spec.rb
