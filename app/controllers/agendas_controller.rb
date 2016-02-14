@@ -18,7 +18,7 @@ class AgendasController < ApplicationController
   end
 
   def update
-    @agenda.update_attributes(agenda_params)
+    @agenda.assign_attributes(agenda_params)
     combine
   end
 

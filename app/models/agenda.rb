@@ -43,10 +43,7 @@ class Agenda < ActiveRecord::Base
 
     schedules.delete_all
     self.combined_at = nil
-    return false unless save
-
-    ScheduleGeneratorJob.perform_later(self)
-    true
+    save.tap { |success| ScheduleGeneratorJob.perform_later(self) if success }
   end
 
   def processing?

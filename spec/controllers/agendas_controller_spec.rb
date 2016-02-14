@@ -28,7 +28,7 @@ describe AgendasController do
     end
   end
 
-  describe '#new' do
+  describe "#new" do
     context "when the academic degree term does exist" do
       let(:academic_degree_term) { create(:academic_degree_term) }
       before { get :new, params: { academic_degree_term_id: academic_degree_term.id } }
@@ -45,7 +45,7 @@ describe AgendasController do
     end
   end
 
-  describe '#edit' do
+  describe "#edit" do
     context "when the agenda is found" do
       let(:agenda) { create(:combined_agenda) }
       before { get :edit, params: { token: agenda.token } }
@@ -58,7 +58,7 @@ describe AgendasController do
     end
   end
 
-  describe '#create' do
+  describe "#create" do
     context "when the academic degree term does exist" do
       let(:academic_degree_term) { create(:academic_degree_term) }
 
@@ -117,7 +117,7 @@ describe AgendasController do
     end
   end
 
-  describe '#update' do
+  describe "#update" do
     let(:agenda) { create(:combined_agenda) }
 
     context "when the post does not contain agenda" do
@@ -143,6 +143,33 @@ describe AgendasController do
       it "assigns the agenda with the right parameters" do
         expect(assigned_agenda).to eq(agenda)
         expect(assigned_agenda.courses_per_schedule).to eq(5)
+      end
+    end
+
+    context "when adding a leave" do
+      before do
+        post :update,
+             params: {
+               token: agenda.token,
+               agenda: {
+                 leaves_attributes: {
+                   0 => { _create: 1 }
+                 }
+               }
+             }
+      end
+
+      let(:assigned_agenda) { assigns(:agenda) }
+
+      it { is_expected.to render_template(:edit) }
+
+      it "adds a leave to the agenda" do
+        expect(assigned_agenda).to eq(agenda)
+        expect(assigned_agenda.leaves.size).to eq(1)
+      end
+
+      it "does not try to validate the agenda" do
+        expect(assigned_agenda.errors).to be_empty
       end
     end
 
