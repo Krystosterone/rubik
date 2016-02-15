@@ -121,11 +121,17 @@ describe Agenda do
 
   describe "validating leaves" do
     context "when any leave is invalid" do
-      before { subject.leaves << Leave.new(starts_at: 2000, ends_at: 1000) }
+      before do
+        subject.leaves << Leave.new(starts_at: 2000, ends_at: 1000)
+        subject.leaves << Leave.new(starts_at: 2000, ends_at: 1000)
+      end
 
       it "adds an error on leaves" do
         expect(subject).not_to be_valid
         expect(subject.errors).to be_added(:leaves, :invalid)
+
+        expect(subject.leaves[-2]).to_not be_valid
+        expect(subject.leaves[-1]).to_not be_valid
       end
     end
 
