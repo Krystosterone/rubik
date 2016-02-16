@@ -53,7 +53,7 @@ class Agenda < ActiveRecord::Base
   private
 
   def validate_leaves
-    errors.add(:leaves, :invalid) if leaves.map(&:valid?).any? { |valid| valid == false }
+    errors.add(:leaves, :invalid) if leaves.map(&:invalid?).any?
   end
 
   def find_courses(values)
