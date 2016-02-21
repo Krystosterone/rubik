@@ -1,10 +1,9 @@
 %nav.navbar.navbar-inverse
   .container
     .navbar-header
-      = label_tag :menu_toggle,
-                  :"aria-expanded" => false,
-                  class: "button navbar-toggle collapsed",
-                  data: { toggle: "collapse", target: "#main-navigation" } do
+      %button.navbar-toggle.collapsed{"aria-expanded" => false,
+                                      data: { toggle: "collapse", target: "#main-navigation" },
+                                      type: "button"}
         %span.sr-only Toggle navigation
         %span.icon-bar
         %span.icon-bar
@@ -13,7 +12,6 @@
         %i.glyphicon.glyphicon-th-large
         Rubik
 
-    = check_box_tag :menu_toggle, "1", false, class: "toggle hidden"
     #main-navigation.navbar-collapse.collapse
       %ul.nav.navbar-nav
         %li= link_to t(".comments"), new_comment_path
