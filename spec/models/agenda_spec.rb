@@ -17,23 +17,23 @@ describe Agenda do
 
   it { is_expected.to validate_with(AgendaCoursesValidator) }
 
-  describe '#new' do
+  describe "#new" do
     its(:course_ids) { is_expected.to eq([]) }
     its(:courses_per_schedule) { is_expected.to eq(1) }
     its(:token) { is_expected.to_not be_nil }
   end
 
-  describe '#to_param' do
+  describe "#to_param" do
     before { subject.token = "a_token" }
 
-    it 'aliases to #token' do
+    it "aliases to #token" do
       expect(subject.to_param).to eq("a_token")
     end
   end
 
   it { is_expected.to delegate_method(:empty?).to(:schedules) }
 
-  describe '#course_ids=' do
+  describe "#course_ids=" do
     let(:academic_degree_term) { create(:academic_degree_term) }
     let(:academic_degree_term_courses) do
       create_list(:academic_degree_term_course, 4, academic_degree_term: academic_degree_term)
@@ -61,14 +61,14 @@ describe Agenda do
     end
   end
 
-  describe '#course_ids' do
+  describe "#course_ids" do
     let(:courses) { [AgendaCourse.new(id: 3), AgendaCourse.new(id: 9000)] }
     before { subject.courses = courses }
 
     its(:course_ids) { is_expected.to eq([3, 9000]) }
   end
 
-  describe '#combine' do
+  describe "#combine" do
     context "when leaves have been altered" do
       before do
         subject.leaves_attributes = { "0" => { "_create" => "1",
@@ -82,10 +82,6 @@ describe Agenda do
 
     context "when no leaves have been altered" do
       subject { create(:combined_agenda) }
-
-      it "deletes all associated schedules" do
-        expect { subject.combine }.to change { subject.schedules.count }.to(0)
-      end
 
       it "resets the combined timestamp" do
         expect { subject.combine }.to change { subject.combined_at }.to(nil)
@@ -103,7 +99,7 @@ describe Agenda do
     end
   end
 
-  describe '#processing?' do
+  describe "#processing?" do
     context "when there is no combined timestamp" do
       it "returns true" do
         expect(subject).to be_processing
