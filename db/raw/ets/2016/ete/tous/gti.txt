@@ -1,0 +1,702 @@
+e&2/('(7(&+12/2*,(683e5,(85(
+%XUHDXGHVVHUYLFHVDFDGpPLTXHV
+                                                                      %DFFDODXUpDWHQJpQLHGHVWHFKQRORJLHVGHO
+LQIRUPDWLRQ
+
+
+                                                                        +25$,5((7e
+                                                        /RFDX[$EkWLPHQWVXG1RWUH'DPH2
+                                                        /RFDX[%EkWLPHQWQRUG1RWUH'DPH2
+                                                        /RFDX[(EkWLPHQWRXHVW1RWUH'DPH2
+
+COURS       GR      JOUR              HEURE             $&7,9,7e              LOCAL    ENSEIGNANT                35e$/$%/(6
+
+CHM131      &+,0,((70$7e5,$8;
+
+            01      Lun             09:00 - 12:30       C
+                    Mer             09:00 - 12:00       TP
+
+            02      Mar             13:30 - 17:00       C
+                    Ven             13:30 - 16:30       TP
+
+            03      Mer             13:30 - 17:00       C
+                    Ven             09:00 - 12:00       TP
+
+            04      Jeu             09:00 - 12:30       C
+                    Mar             09:00 - 12:00       TP
+
+            05      Jeu             13:30 - 17:00       C
+                    Lun             13:30 - 16:30       TP
+
+            06      Lun             18:00 - 21:30       C
+                    Mer             18:00 - 21:00       TP
+
+            07      Mer             09:00 - 12:30       C
+                    Lun             09:00 - 12:00       TP
+
+            08      Jeu             18:00 - 21:30       C
+                    Mar             18:00 - 21:00       TP
+
+            09      Mar             09:00 - 12:30       C
+                    Jeu             09:00 - 12:00       TP
+
+            10      Lun             13:30 - 17:00       C
+                    Jeu             13:30 - 16:30       TP
+
+
+
+COM110      0e7+2'(6'(&20081,&$7,21                                                        TEST DE FRANCAIS OU FRA150 OU
+                                                                                                                 FRA151
+            01      Jeu             09:00 - 12:30       C
+                    Mar             08:30 - 12:30       TP A+B
+
+            02      Mer             13:30 - 17:00       C
+                    Ven             08:30 - 12:30       TP A+B
+
+            03      Lun             09:00 - 12:30       C
+                    Mer             08:30 - 12:30       TP A+B
+
+            04      Mar             18:00 - 21:30       C
+                    Jeu             18:00 - 22:00       TP A+B
+
+            05      Lun             18:00 - 21:30       C
+                    Mer             18:00 - 22:00       TP A+B
+
+
+
+ENT201      *(67,21),1$1&,Ê5('
+(175(35,6(                                                         GIA400 ou GIA410
+
+            01      Mar             18:00 - 21:30       C
+                    Jeu             18:00 - 20:00       TP
+
+
+
+ENT202      ,1752'8&7,21¬/
+(175(35(1(856+,3
+
+            01      Lun             13:30 - 17:00       C
+                    Mer             13:30 - 15:30       TP
+
+
+
+FRA150      )5$1d$,6e&5,7
+
+            01      Mar             13:30 - 17:00       C
+                    Ven             13:30 - 15:30       TP
+
+
+
+FRA151      )5$1d$,6e&5,7
+
+            01      Mar             13:30 - 17:00       C
+                    Ven             13:30 - 17:30       TP
+
+
+
+GIA400      $1$/<6('(5(17$%,/,7e'(352-(76
+
+            01      Mer             09:00 - 12:30       C
+                    Lun             10:30 - 12:30       TP
+
+            02      Jeu             13:30 - 17:00       C
+                    Lun             13:30 - 15:30       TP
+
+            03      Mar             09:00 - 12:30       C
+                    Jeu             10:30 - 12:30       TP
+
+            04      Mer             13:30 - 17:00       C
+
+                     Date : 2016-02-19 16:16:54                                                                     Page : 1/7
+e&2/('(7(&+12/2*,(683e5,(85(
+%XUHDXGHVVHUYLFHVDFDGpPLTXHV
+                                                             %DFFDODXUpDWHQJpQLHGHVWHFKQRORJLHVGHO
+LQIRUPDWLRQ
+
+
+                                                              +25$,5((7e
+                                                 /RFDX[$EkWLPHQWVXG1RWUH'DPH2
+                                                 /RFDX[%EkWLPHQWQRUG1RWUH'DPH2
+                                                 /RFDX[(EkWLPHQWRXHVW1RWUH'DPH2
+
+COURS       GR     JOUR           HEURE          $&7,9,7e           LOCAL     ENSEIGNANT                35e$/$%/(6
+
+GIA400      $1$/<6('(5(17$%,/,7e'(352-(76
+
+            04     Ven          10:30 - 12:30    TP
+
+            05     Jeu          09:00 - 12:30    C
+                   Mar          10:30 - 12:30    TP
+
+            06     Jeu          18:00 - 21:30    C
+                   Mar          18:00 - 20:00    TP
+
+            07     Mar          18:00 - 21:30    C
+                   Jeu          18:00 - 20:00    TP
+
+            08     Lun          18:00 - 21:30    C
+                   Mer          18:00 - 20:00    TP
+
+            09     Mar          13:30 - 17:00    C
+                   Ven          13:30 - 15:30    TP
+
+
+
+GPE450      GESTION DU PERSONNEL ET RELATIONS
+            INDUSTRIELLES
+            01     Jeu          13:30 - 17:00    C
+                   Lun          13:30 - 15:30    TP
+
+            02     Lun          18:00 - 21:30    C
+                   Jeu          18:00 - 20:00    TP
+
+
+
+GTI100      352*5$00$7,21(75e6($87,48((1
+            *e1,('(67,
+            01     Mer          13:30 - 17:00    C
+                   Mar          13:30 - 16:30    Labo               A-3324
+
+
+
+GTI350      &21&(37,21(7e9$/8$7,21'(6                                                               LOG210
+            INTERFACES UTILISATEURS
+            01     Mar          18:00 - 21:30    C
+                   Jeu          18:00 - 21:00    Labo               A-3324
+
+
+
+GTI410      APPLICATIONS DES TECHNIQUES                                                                 MAT472
+            180e5(1*5$3+(7,0$*
+            01     Jeu          08:45 - 12:15    C
+                   Mer          13:30 - 16:30    Labo               A-3322
+
+
+
+GTI510      GESTION DE PROJETS ET ASSURANCE DE                                                          GTI210 et STA204
+            /$48$/,7e
+            01     Jeu          18:00 - 21:30    C
+                   Mer          18:00 - 20:00    Labo               A-3412
+
+
+
+GTI515      6<67Ê0(6'
+,1)250$7,21'$16/(6                                                            Minimum 47 Cr et GTI210
+            ENTREPRISES
+            01     Jeu          18:00 - 21:30    C
+                   Mar          18:00 - 21:00    Labo               A-3326
+
+
+
+GTI525      7(&+12/2*,(6'('e9(/233(0(17                                                              Minimum 47 Cr
+            INTERNET
+            01     Mar          18:00 - 21:30    C
+                   Jeu          18:00 - 20:00    Labo               A-3412
+
+
+
+GTI610      5e6($8;'(7e/e&20081,&$7,21                                                  LOG121
+
+            01     Mar          08:45 - 12:15    C
+                   Jeu          08:45 - 11:45    Labo               A-3324
+
+            02     Lun          18:00 - 21:30    C
+                   Mer          18:00 - 21:00    Labo               A-3324
+
+
+
+GTI619      6e&85,7e'(66<67Ê0(6                                       GTI610
+
+            01     Mer          18:00 - 21:30    C
+                   Lun          18:00 - 20:00    Labo               A-3326
+
+
+
+
+                   Date : 2016-02-19 16:16:54                                                              Page : 2/7
+e&2/('(7(&+12/2*,(683e5,(85(
+%XUHDXGHVVHUYLFHVDFDGpPLTXHV
+                                                                   %DFFDODXUpDWHQJpQLHGHVWHFKQRORJLHVGHO
+LQIRUPDWLRQ
+
+
+                                                                    +25$,5((7e
+                                                     /RFDX[$EkWLPHQWVXG1RWUH'DPH2
+                                                     /RFDX[%EkWLPHQWQRUG1RWUH'DPH2
+                                                     /RFDX[(EkWLPHQWRXHVW1RWUH'DPH2
+
+COURS       GR      JOUR             HEURE           $&7,9,7e             LOCAL     ENSEIGNANT                35e$/$%/(6
+
+GTI660      %$6(6'('211e(608/7,0e',$6                                                      GTI310
+
+            01      Ven           08:30 - 12:00      C
+                    Lun           08:30 - 11:30      Labo
+
+
+
+GTI745      ,17(5)$&(687,/,6$7(856$9$1&e(6                                                         GTI350; MAT472
+
+            01      Ven           13:30 - 17:00      C
+                    Mar           13:30 - 15:30      Labo                 A-3326
+
+
+
+GTI770      6<67Ê0(6,17(//,*(176(7                                                                         GTI310 / LOG320; MAT350; MAT472
+            APPRENTISSAGE MACHINE
+            01      Jeu           13:30 - 17:00      C
+                    Lun           13:30 - 15:30      Labo                 A-3324
+
+
+
+GTI780      68-(76e0(5*(176(17(&+12/2*,(6
+            DE L'INFORMATION
+            01      Jeu           18:00 - 21:30      C
+                    Mar           18:00 - 20:00      Labo                 A-3324
+
+
+
+GTI785      6<67Ê0(6'
+$33/,&$7,21602%,/(6                                                       Minimum 84 Cr
+
+            01      Mer           18:00 - 21:30      C
+                    Mar           18:00 - 20:00      Labo                 A-3412
+
+
+
+GTI791      352-(7663e&,$8;                                       $XWRULVDWLRQGXGLUHFWHXUGHGpSDUWHPHQW
+
+            01                                       Projet
+
+
+
+GTI792      352-(7'(),1'
+e78'(6(1*e1,('(6                                                              STA304
+            TECHNOLOGIES DE L'INFORMATION
+            01                                       Projet
+
+
+
+INF111      352*5$00$7,2125,(17e(2%-(7+256
+            PROGRAMME)
+            80      Lun           18:00 - 21:30      C
+                    Mer           18:00 - 21:00      Labo                 E-4023
+                    'pEXWPDL)LQDRW
+
+
+ING150      STATIQUE ET DYNAMIQUE
+
+            01      Lun           09:00 - 12:30      C
+                    Mer           09:00 - 12:00      TP
+
+            02      Jeu           13:30 - 17:00      C
+                    Lun           13:30 - 16:30      TP
+
+            03      Mar           18:00 - 21:30      C
+                    Jeu           18:00 - 21:00      TP
+
+            04      Ven           09:00 - 12:30      C
+                    Mer           13:30 - 16:30      TP
+
+            05      Jeu           09:00 - 12:30      C
+                    Mar           09:00 - 12:00      TP
+
+
+
+ING160      7+(502'<1$0,48((70e&$1,48('(6                                                                 ING150
+            FLUIDES
+            01      Lun           13:30 - 17:00      C
+                    Jeu           13:30 - 16:30      TP
+
+            02      Mer           09:00 - 12:30      C
+                    Lun           09:00 - 12:00      TP
+
+            03      Mer           18:00 - 21:30      C
+                    Lun           18:00 - 21:00      TP
+
+            04      Ven           09:00 - 12:30      C
+                    Mer           13:30 - 16:30      TP
+
+
+
+
+                    Date : 2016-02-19 16:16:54                                                                   Page : 3/7
+e&2/('(7(&+12/2*,(683e5,(85(
+%XUHDXGHVVHUYLFHVDFDGpPLTXHV
+                                                               %DFFDODXUpDWHQJpQLHGHVWHFKQRORJLHVGHO
+LQIRUPDWLRQ
+
+
+                                                                 +25$,5((7e
+                                                   /RFDX[$EkWLPHQWVXG1RWUH'DPH2
+                                                   /RFDX[%EkWLPHQWQRUG1RWUH'DPH2
+                                                   /RFDX[(EkWLPHQWRXHVW1RWUH'DPH2
+
+COURS       GR     JOUR            HEURE           $&7,9,7e           LOCAL     ENSEIGNANT                35e$/$%/(6
+
+LOG121      &21&(37,2125,(17e(2%-(7                                              GTI100 (G.TI) ; LOG100 (G.Log)
+
+            01     Mar           08:45 - 12:15     C
+                   Jeu           08:45 - 11:45     Labo
+
+
+
+LOG210      ANALYSE ET CONCEPTION DE LOGICIELS                                                            LOG121
+
+            01     Mer           08:45 - 12:15     C
+                   Lun           08:30 - 11:30     Labo               A-3324
+
+            02     Lun           08:30 - 12:00     C
+                   Mer           08:45 - 11:45     Labo
+
+
+
+LOG430      ARCHITECTURE LOGICIELLE                                                                       LOG210
+
+            01     Ven           08:30 - 12:00     C
+                   Mer           13:30 - 16:30     Labo
+
+
+
+LOG645      $5&+,7(&785(6'(&$/&8/63$5$//Ê/(6
+
+            01     Mar           18:00 - 21:30     C
+                   Jeu           18:00 - 20:00     Labo               A-3326
+
+
+
+LOG735      6<67Ê0(6',675,%8e6
+
+            01     Mar           13:30 - 17:00     C
+                   Ven           13:30 - 15:30     Labo               A-3324
+
+
+
+MAT144      ,1752'8&7,21$8;0$7+e0$7,48(6'8
+            *e1,(+256352*
+            80     Lun           13:30 - 17:00     C
+                   Mer           13:30 - 16:30     TP
+                   'pEXWPDL)LQDRW
+            81     Mar          18:00 - 21:30      C
+                   Jeu          18:00 - 21:00      TP
+                   'pEXWPDL)LQDRW
+
+
+MAT145      &$/&8/',))e5(17,(/(7,17e*5$/
+
+            01     Mar           09:00 - 12:30     C
+                   Jeu           09:00 - 12:00     TP
+
+            02     Mar           13:30 - 17:00     C
+                   Ven           13:30 - 16:30     TP
+
+            03     Ven           09:00 - 12:30     C
+                   Mer           13:30 - 16:30     TP
+
+            04     Mer           18:00 - 21:30     C
+                   Lun           18:00 - 21:00     TP
+
+            05     Lun           13:30 - 17:00     C
+                   Jeu           13:30 - 16:30     TP
+
+            06     Lun           09:00 - 12:30     C
+                   Mer           09:00 - 12:00     TP
+
+
+
+MAT265      e48$7,216',))e5(17,(//(6                                             MAT145
+
+            01     Mer           09:00 - 12:30     C
+                   Lun           09:00 - 12:00     TP
+
+            02     Ven           09:00 - 12:30     C
+                   Mer           13:30 - 16:30     TP
+
+            03     Mar           13:30 - 17:00     C
+                   Ven           13:30 - 16:30     TP
+
+            04     Lun           13:30 - 17:00     C
+                   Jeu           13:30 - 16:30     TP
+
+            05     Mar           09:00 - 12:30     C
+                   Jeu           09:00 - 12:00     TP
+
+            06     Lun           09:00 - 12:30     C
+                   Mer           09:00 - 12:00     TP
+
+            07     Jeu           18:00 - 21:30     C
+
+                    Date : 2016-02-19 16:16:54                                                               Page : 4/7
+e&2/('(7(&+12/2*,(683e5,(85(
+%XUHDXGHVVHUYLFHVDFDGpPLTXHV
+                                                              %DFFDODXUpDWHQJpQLHGHVWHFKQRORJLHVGHO
+LQIRUPDWLRQ
+
+
+                                                              +25$,5((7e
+                                                  /RFDX[$EkWLPHQWVXG1RWUH'DPH2
+                                                  /RFDX[%EkWLPHQWQRUG1RWUH'DPH2
+                                                  /RFDX[(EkWLPHQWRXHVW1RWUH'DPH2
+
+COURS       GR     JOUR           HEURE           $&7,9,7e       LOCAL         ENSEIGNANT                35e$/$%/(6
+
+MAT265      e48$7,216',))e5(17,(//(6                                            MAT145
+
+            07     Mar          18:00 - 21:00     TP
+
+            08     Jeu          13:30 - 17:00     C
+                   Lun          13:30 - 16:30     TP
+
+            09     Mer          13:30 - 17:00     C
+                   Ven          09:00 - 12:00     TP
+
+            10     Jeu          09:00 - 12:30     C
+                   Mar          09:00 - 12:00     TP
+
+
+
+MAT350      352%$%,/,7e6(767$7,67,48(6                                             MAT145
+
+            01     Lun          09:00 - 12:30     C
+                   Mer          09:00 - 12:00     TP
+
+            02     Jeu          09:00 - 12:30     C
+                   Mar          09:00 - 12:00     TP
+
+            03     Jeu          13:30 - 17:00     C
+                   Lun          13:30 - 16:30     TP
+
+            04     Mer          13:30 - 17:00     C
+                   Ven          09:00 - 12:00     TP
+
+            05     Mar          18:00 - 21:30     C
+                   Jeu          18:00 - 21:00     TP
+
+            06     Lun          18:00 - 21:30     C
+                   Mer          18:00 - 21:00     TP
+
+            07     Lun          13:30 - 17:00     C
+                   Jeu          13:30 - 16:30     TP
+
+            08     Mer          09:00 - 12:30     C
+                   Lun          09:00 - 12:00     TP
+
+            09     Mar          09:00 - 12:30     C
+                   Jeu          09:00 - 12:00     TP
+
+            10     Mar          13:30 - 17:00     C
+                   Ven          13:30 - 16:30     TP
+
+            11     Ven          09:00 - 12:30     C
+                   Mer          13:30 - 16:30     TP
+
+
+
+MAT415      0$7+e0$7,48(6'8*e1,('(67,                                                MAT145
+
+            01     Mer          18:00 - 21:30     C
+                   Lun          18:00 - 21:00     TP
+
+
+
+MAT472      $/*Ê%5(/,1e$,5((7*e20e75,('(                                                            MAT145
+            L'ESPACE
+            01     Lun          18:00 - 21:30     C
+                   Mer          18:00 - 21:00     TP
+
+
+
+PHY144      ,1752'8&7,21¬/$3+<6,48('8*e1,(
+            (HORS PROGRAMME)
+            80     Lun          18:00 - 21:30     C
+                   Mer          18:00 - 21:00     TP
+                   'pEXWPDL)LQDRW
+            81     Mar          13:30 - 17:00      C
+                   Jeu          13:30 - 16:30      TP
+                   'pEXWPDL)LQDRW
+
+
+PHY332      e/(&75,&,7e(70$*1e7,60(                                           CTN258 / ING150
+
+            01     Lun          13:30 - 17:00     C
+                   Jeu          13:30 - 16:30     TP
+
+            02     Ven          09:00 - 12:30     C
+                   Mer          13:30 - 16:30     TP
+
+            03     Mar          09:00 - 12:30     C
+                   Jeu          09:00 - 12:00     TP
+
+            04     Mer          18:00 - 21:30     C
+                   Lun          18:00 - 21:00     TP
+
+            05     Mer          09:00 - 12:30     C
+
+
+                   Date : 2016-02-19 16:16:54                                                               Page : 5/7
+e&2/('(7(&+12/2*,(683e5,(85(
+%XUHDXGHVVHUYLFHVDFDGpPLTXHV
+                                                               %DFFDODXUpDWHQJpQLHGHVWHFKQRORJLHVGHO
+LQIRUPDWLRQ
+
+
+                                                                +25$,5((7e
+                                                  /RFDX[$EkWLPHQWVXG1RWUH'DPH2
+                                                  /RFDX[%EkWLPHQWQRUG1RWUH'DPH2
+                                                  /RFDX[(EkWLPHQWRXHVW1RWUH'DPH2
+
+COURS       GR     JOUR           HEURE           $&7,9,7e          LOCAL                 ENSEIGNANT                    35e$/$%/(6
+
+PHY332      e/(&75,&,7e(70$*1e7,60(                                                          CTN258 / ING150
+
+            05     Lun          09:00 - 12:00     TP
+
+            06     Lun          09:00 - 12:30     C
+                   Mer          09:00 - 12:00     TP
+
+            07     Mar          13:30 - 17:00     C
+                   Ven          13:30 - 16:30     TP
+
+
+
+PHY335      PHYSIQUE DES ONDES                                                                                          CTN258 / ING150
+
+            01     Mer          09:00 - 12:30     C
+                   Lun          09:00 - 12:00     TP
+
+            02     Jeu          09:00 - 12:30     C
+                   Mar          09:00 - 12:00     TP
+
+            03     Mer          13:30 - 17:00     C
+                   Ven          09:00 - 12:00     TP
+
+            04     Mar          13:30 - 17:00     C
+                   Ven          13:30 - 16:30     TP
+
+            05     Jeu          18:00 - 21:30     C
+                   Mar          18:00 - 21:00     TP
+
+            06     Lun          13:30 - 17:00     C
+                   Jeu          13:30 - 16:30     TP
+
+            07     Mar          09:00 - 12:30     C
+                   Jeu          09:00 - 12:00     TP
+
+            08     Lun          09:00 - 12:30     C
+                   Mer          09:00 - 12:00     TP
+
+
+
+PRE010      ,1,7$80,/,(8,1'866$17e(7
+            6e&85,7e$875$9$,/
+            9ROHWVWDJHVDFWLYLWpjFRPSOpWHUHQOLJQH9ROHWLQWHQVLIVDQWpVpFXULWpKDX[GDWHVVSpFLILTXHVLQGLTXpHVSRXUFKDTXHJURXSH0RGDOLWpVGHV
+            DWHOLHUV35(92/(7,17(16,)6$17e6e&85,7e2EOLJDWRLUHSRXUWRXVOHVpWXGLDQWVVDXIFHX[GpWHQDQWXQHFDUWH$633RXUOHV
+            pWXGLDQWVGXSURJUDPPHHQJpQLHGHODFRQVWUXFWLRQRXWRXWDXWUHpWXGLDQWD\DQWVXLYLODIRUPDWLRQ$63YRXVVHUH]H[HPSWpGXYROHWVDQWp
+            VpFXULWpHQVXLYDQWOHVFRQVLJQHVLQGLTXpHVGDQVOHPRGXOHGXYROHW67$*(6'e9(/233(0(17352)(66,211(/92/(767$*(6
+            'e9(/233(0(17352)(66,211(/REOLJDWRLUHSRXUWRXVOHVpWXGLDQWVFHWWHDFWLYLWpGRLWrWUHFRPSOpWpHHQOLJQHOH6HUYLFHGH
+            O
+HQVHLJQHPHQWFRRSpUDWLIYRXVLQIRUPHUDGHODSURFpGXUHjVXLYUHSDUFRXUULHO/HVpWXGLDQWVGXSURJUDPPHGRLYHQWV
+LQVFULUHGDQVOH
+            JURXSHUpVHUYp
+            01     Ven          18:00 - 21:00     Atelier           A-1340
+                   Sam          09:00 - 16:00     TP                A-1340
+
+            02     Ven          18:00 - 21:00     Atelier           A-1350
+                   Sam          09:00 - 16:00     TP                A-1350
+
+            03     Sam          13:00 - 13:30     Atelier
+                   &HFRXUVHVWRIIHUWHQOLJQH/HJURXSHHVWUpVHUYpDX[pWXGLDQWVLQVFULWVDXSURJUDPPH
+
+
+TIN501      ENVIRONNEMENT, TECHNOLOGIE ET                                                                               Minimum 70 Cr
+            62&,e7e
+            01     Jeu          09:00 - 12:30     C
+                   Mar          08:30 - 12:30     TP A+B
+
+            02     Mer          09:00 - 12:30     C
+                   Lun          08:30 - 12:30     TP A+B
+
+            03     Ven          09:00 - 12:30     C
+                   Mer          13:30 - 17:30     TP A+B
+
+            04     Mar          13:30 - 17:00     C
+                   Ven          13:30 - 17:30     TP A+B
+
+            05     Mer          18:00 - 21:30     C
+                   Lun          18:00 - 20:00     TP
+
+            06     Mar          18:00 - 21:30     C
+                   Jeu          18:00 - 20:00     TP
+
+            07     Lun          13:30 - 17:00     C
+                   Jeu          13:30 - 17:30     TP A+B
+
+            08     Mar          09:00 - 12:30     C
+
+
+
+
+                   Date : 2016-02-19 16:16:54                                                                               Page : 6/7
+e&2/('(7(&+12/2*,(683e5,(85(
+%XUHDXGHVVHUYLFHVDFDGpPLTXHV
+                                                                         %DFFDODXUpDWHQJpQLHGHVWHFKQRORJLHVGHO
+LQIRUPDWLRQ
+
+
+                                                                         +25$,5((7e
+                                                        /RFDX[$EkWLPHQWVXG1RWUH'DPH2
+                                                        /RFDX[%EkWLPHQWQRUG1RWUH'DPH2
+                                                        /RFDX[(EkWLPHQWRXHVW1RWUH'DPH2
+
+COURS       GR      JOUR               HEURE            $&7,9,7e            LOCAL             ENSEIGNANT                               35e$/$%/(6
+
+TIN501      ENVIRONNEMENT, TECHNOLOGIE ET                                                                                              Minimum 70 Cr
+            62&,e7e
+            08      Jeu             08:30 - 12:30       TP A+B
+
+
+NOTES
+
+a)          3URJUDPPHVG
+pWXGHV
+
+            B:                   EDFFDODXUpDW
+
+            GAQ :                FHUWLILFDWHQJHVWLRQHWDVVXUDQFHGHODTXDOLWp
+
+            GC :                 certificat en gestion de la construction
+
+            GE :                 certificat et programme court de 1HUF\FOHHQJHVWLRQGHVpWDEOLVVHPHQWV
+
+            PI :                 certificat en production industrielle
+
+            CT :                 FHUWLILFDWHQWpOpFRPPXQLFDWLRQ
+
+            TS :                 FHUWLILFDWVSpFLDOLVpHQJpQLHGHVWHFKQRORJLHGHODVDQWp
+
+b)          $FWLYLWpV
+
+            C : cours            TP : travaux pratiques                                       LABO : laboratoires
+
+                                 TP/2 : travaux pratiques aux deux (2) semaines               LABO/2 : laboratoires aux deux (2) semaines
+
+            73$%'DQVXQFRXUVVLOHQRPEUHG
+pWXGLDQWVOHMXVWLILHOHVWUDYDX[SUDWLTXHVVHURQWGLYLVpVHQGHX[JURXSHV$%/DPRLWLpGHVpWXGLDQWVGHYURQWVH
+            SUpVHQWHUjODSUHPLqUHSpULRGHGHGHX[KHXUHVHWOHVDXWUHVGHYURQWVHSUpVHQWHUjODGHX[LqPHSpULRGHGHGHX[KHXUHV&HFLYRXVVHUDFRQILUPpDXGpEXWGX
+            WULPHVWUH8QpWXGLDQWSHXWGRQFV
+LQVFULUHjGHX[FRXUVGRQWOHVWUDYDX[SUDWLTXHV73RQWOLHXHQPrPHWHPSVV
+LOHVWLQGLTXp$%jF{WpGHFKDFXQGHVWUDYDX[
+            pratiques (TP).
+
+c)          ¬7286/(6e78',$176'8352*5$00('(%$&&$/$85e$7
+
+            /HVFRXUVGHFRQFHQWUDWLRQQHSHXYHQWrWUHVXLYLVTX
+DSUqVODUpXVVLWHG
+XQPLQLPXPGHVRL[DQWHGL[FUpGLWVGHFRXUVGXSURJUDPPH
+
+            /HVFRXUVREOLJDWRLUHVGRLYHQWrWUHVXLYLVVHORQXQHVpTXHQFHFRUUHVSRQGDQWjODJULOOHGHFKHPLQHPHQWW\SHGXSURJUDPPH
+
+
+
+
+                        Date : 2016-02-19 16:16:54                                                                                          Page : 7/7
+

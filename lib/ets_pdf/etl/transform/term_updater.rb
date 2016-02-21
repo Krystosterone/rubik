@@ -7,6 +7,7 @@ class EtsPdf::Etl::Transform::TermUpdater
   TERM_TAGS = {
     "anciens" => "Anciens Étudiants",
     "nouveaux" => "Nouveaux Étudiants",
+    "tous" => nil,
   }.freeze
 
   def initialize(year, term)
@@ -25,7 +26,8 @@ class EtsPdf::Etl::Transform::TermUpdater
 
   def for_each_bachelor_type(term_name, bachelor_types)
     bachelor_types.each do |bachelor_type, bachelors_data|
-      term_tags = TERM_TAGS[bachelor_type] || raise("Invalid bachelor type \"#{bachelor_type}\"")
+      term_tags =
+        TERM_TAGS.key?(bachelor_type) ? TERM_TAGS[bachelor_type] : raise("Invalid bachelor type \"#{bachelor_type}\"")
       term = Term.where(year: @year, name: term_name, tags: term_tags).first_or_create!
 
       EtsPdf::Etl::Transform::BachelorUpdater.new(term, bachelors_data).execute
