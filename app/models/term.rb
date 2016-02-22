@@ -1,5 +1,5 @@
 class Term < ActiveRecord::Base
-  has_many :academic_degree_terms
+  has_many :academic_degree_terms, -> { joins(:academic_degree).order("academic_degrees.name DESC") }
   has_many :academic_degrees, through: :academic_degree_terms
 
   validates :year, presence: true

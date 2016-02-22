@@ -27,4 +27,21 @@ describe Term do
       expect(described_class.all).to eq(ordered_terms)
     end
   end
+
+  describe "#academic_degree_terms" do
+    context "default scope" do
+      let(:ordered) { [] }
+      subject { create(:term) }
+      before do
+        ordered[0] = create(:academic_degree_term, term: subject, academic_degree: build(:academic_degree, name: "Z"))
+        ordered[1] = create(:academic_degree_term, term: subject, academic_degree: build(:academic_degree, name: "Y"))
+        ordered[2] = create(:academic_degree_term, term: subject, academic_degree: build(:academic_degree, name: "X"))
+        ordered[3] = create(:academic_degree_term, term: subject, academic_degree: build(:academic_degree, name: "W"))
+      end
+
+      it "orders them by name" do
+        expect(subject.reload.academic_degree_terms).to eq(ordered)
+      end
+    end
+  end
 end
