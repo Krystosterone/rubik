@@ -68,6 +68,10 @@ fr:
       terms: Trimestres
       agendas: Choix de cours
       schedules: Horaires
+    footer:
+      message_header: "Il me fait plaisir de fournir cet outil à tous les étudiants de l'ÉTS!"
+      message_body: "J'héberge le site à mes frais; si vous désirez contribuer à la continuité et l'évolution de ce site, chaque petit don est apprécié!"
+      donate: Contribuer
     navbar:
       comments: Commentaires
   schedules:

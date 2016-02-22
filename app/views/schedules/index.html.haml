@@ -1,18 +1,20 @@
-= render 'shared/navbar'
+= render "shared/navbar"
 
 .container
-  = render 'shared/breadcrumb'
+  = render "shared/breadcrumb"
 
   %h1.page-header
-    = t('.title')
-    = link_to edit_agenda_path(token: agenda.token), class: 'btn btn-xs btn-primary' do
+    = t(".title")
+    = link_to edit_agenda_path(token: agenda.token), class: "btn btn-xs btn-primary" do
       %i.glyphicon.glyphicon-pencil
-      = t('.edit')
+      = t(".edit")
 
 = form_for agenda do |f|
-  = render 'overview', f: f
+  = render "overview", f: f
 
 .container-fluid.schedules
   - schedules.each_slice(2).with_index do |schedules_slice, index|
-    .row= render partial: 'schedule', collection: schedules_slice, locals: {slice_index: index * 2}
+    .row= render partial: "schedule", collection: schedules_slice, locals: {slice_index: index * 2}
 = paginate @schedules, window: 2
+
+= render "shared/footer"

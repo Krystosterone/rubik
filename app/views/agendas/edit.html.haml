@@ -1,57 +1,59 @@
-= render 'shared/navbar'
+= render "shared/navbar"
 
 .container
-  = render 'shared/breadcrumb'
-  = render 'shared/flash_messages'
+  = render "shared/breadcrumb"
+  = render "shared/flash_messages"
 
   - if agenda.errors.any?
-    .alert.alert-danger{role: 'alert'}
+    .alert.alert-danger{role: "alert"}
       - agenda.errors.each do |_, error|
-        %span.glyphicon.glyphicon-exclamation-sign{'aria-hidden' => true}
+        %span.glyphicon.glyphicon-exclamation-sign{"aria-hidden" => true}
         = error
         %br
 
-  %h1.page-header= t('.title')
+  %h1.page-header= t(".title")
 
 = form_for [@academic_degree_term, agenda] do |f|
-  = render 'shared/overview', f: f
+  = render "shared/overview", f: f
 
   .container
     %fieldset
-      %legend= t('.courses')
+      %legend= t(".courses")
       = f.collection_check_boxes :course_ids, agenda.academic_degree_term_courses, :id, :code do |ff|
         .course-checkbox-button
           = ff.check_box
-          = ff.label(class: 'btn btn-default') { ff.text }
+          = ff.label(class: "btn btn-default") { ff.text }
 
     %fieldset
-      %legend= t('.courses_per_schedule')
+      %legend= t(".courses_per_schedule")
       .btn-group.courses-per-schedule-group.btn-group-justified
         = f.collection_radio_buttons :courses_per_schedule, Agenda::COURSES_PER_SCHEDULE_RANGE, :to_i, :to_i do |ff|
           = ff.radio_button
-          = ff.label(class: 'btn btn-default')
+          = ff.label(class: "btn btn-default")
 
-    %a.schedules-anchor{name: 'leaves'}
+    %a.schedules-anchor{name: "leaves"}
     %fieldset.form-horizontal
-      %legend= t('.leaves')
+      %legend= t(".leaves")
       = f.fields_for :leaves do |ff|
-        .leave.row{class: ('has-error' if ff.object.errors.any?)}
+        .leave.row{class: ("has-error" if ff.object.errors.any?)}
           - if ff.object.errors.any?
             .col-xs-12
               - ff.object.errors.each do |_, error|
                 .help-block= error
           .col-sm-5
             .form-group
-              = ff.label :starts_at, class: 'col-sm-2 control-label'
+              = ff.label :starts_at, class: "col-sm-2 control-label"
               .col-sm-10
-                = ff.collection_select :starts_at, leave_times, :total_minutes, :weekday_time, {}, class: 'form-control'
+                = ff.collection_select :starts_at, leave_times, :total_minutes, :weekday_time, {}, class: "form-control"
           .col-sm-5
             .form-group
-              = ff.label :ends_at, class: 'col-sm-2 control-label'
+              = ff.label :ends_at, class: "col-sm-2 control-label"
               .col-sm-10
-                = ff.collection_select :ends_at, leave_times, :total_minutes, :weekday_time, {}, class: 'form-control'
+                = ff.collection_select :ends_at, leave_times, :total_minutes, :weekday_time, {}, class: "form-control"
           .col-xs-4.col-sm-2.pull-right
-            = ff.destroy_button '-', class: 'btn btn-default btn-block'
-      = f.create_button :leaves, '+', class: 'btn btn-default col-xs-12 col-sm-4 pull-right'
+            = ff.destroy_button "-", class: "btn btn-default btn-block"
+      = f.create_button :leaves, "+", class: "btn btn-default col-xs-12 col-sm-4 pull-right"
 
-    = f.submit class: 'col-xs-12 col-sm-4 pull-right btn btn-primary'
+    = f.submit class: "col-xs-12 col-sm-4 pull-right btn btn-primary"
+
+= render "shared/footer"
