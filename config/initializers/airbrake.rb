@@ -6,3 +6,12 @@ Airbrake.configure do |c|
   c.environment = Rails.env
   c.ignore_environments = %w(development test)
 end
+
+Airbrake.add_filter do |notice|
+  ignored_errors = %w(
+    AbstractController::ActionNotFound
+    ActionController::InvalidAuthenticityToken
+    ActiveRecord::RecordNotFound
+  )
+  notice.ignore! if notice[:errors].any? { |error| ignored_errors.include?(error[:type]) }
+end
