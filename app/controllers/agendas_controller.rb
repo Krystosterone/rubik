@@ -1,4 +1,5 @@
 class AgendasController < ApplicationController
+  before_action :expires_now
   before_action :find_academic_degree_term, only: [:new, :create]
   before_action :find_agenda, only: [:edit, :update]
 

@@ -13,6 +13,6 @@ elsif Rails.env.production?
     unique: :until_executing,
     unique_args: ->(args) { args.first.except('job_id') }
   }
-  
+
   SidekiqUniqueJobs.config.unique_args_enabled = true
 end
