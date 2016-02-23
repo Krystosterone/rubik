@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160104014024) do
+ActiveRecord::Schema.define(version: 20160223014223) do
 
   create_table "academic_degree_term_courses", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.integer  "academic_degree_term_id"
@@ -73,6 +73,8 @@ ActiveRecord::Schema.define(version: 20160104014024) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  add_index "schedules", ["agenda_id"], name: "index_schedules_on_agenda_id", using: :btree
 
   create_table "terms", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.integer  "year"
