@@ -20,6 +20,7 @@ gem "kaminari-i18n"
 gem "puma"
 gem "email_validator"
 gem "airbrake"
+gem "sidekiq-unique-jobs"
 
 # Sidekiq
 gem "sidekiq"

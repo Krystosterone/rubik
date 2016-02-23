@@ -4,6 +4,7 @@ class ScheduleGenerator
   end
 
   def combine
+    @agenda.schedules = []
     pruned_courses.combination(@agenda.courses_per_schedule).each do |course_set|
       iterate(course_set, [])
     end

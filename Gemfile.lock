@@ -379,6 +379,9 @@ GEM
       concurrent-ruby (~> 1.0)
       connection_pool (~> 2.2, >= 2.2.0)
       redis (~> 3.2, >= 3.2.1)
+    sidekiq-unique-jobs (4.0.16)
+      sidekiq (>= 2.6)
+      thor
     slop (3.6.0)
     sprockets (3.5.2)
       concurrent-ruby (~> 1.0)
@@ -453,6 +456,7 @@ DEPENDENCIES
   selenium-webdriver
   shoulda-matchers
   sidekiq
+  sidekiq-unique-jobs
   sinatra!
   terminal-notifier-guard
   timecop
