@@ -1,4 +1,6 @@
 class ErrorsController < ApplicationController
+  skip_before_action :show_navigation
+
   MAPPED_ERRORS = Rack::Utils::SYMBOL_TO_STATUS_CODE.slice(
     :not_found,
     :unprocessable_entity,
