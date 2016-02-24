@@ -1,7 +1,9 @@
 class ScheduleGeneratorJob < ActiveJob::Base
   def perform(agenda)
-    agenda.schedules.destroy_all
-    ScheduleGenerator.new(agenda).combine
-    agenda.save!
+    ActiveRecord::Base.transaction do
+      agenda.schedules.destroy_all
+      ScheduleGenerator.new(agenda).combine
+      agenda.save!
+    end
   end
 end
