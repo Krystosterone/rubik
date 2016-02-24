@@ -1,0 +1,24 @@
+= form_for @donation do |f|
+  .container-fluid
+    = render "shared/flash_messages"
+
+    %p= t(".title")
+    %p= t(".text")
+
+    .form-group{ class: ("has-error" if f.object.errors.key?(:donator_email)) }
+      = f.label :donator_email
+      = f.email_field :donator_email, class: "form-control"
+      - f.object.errors[:donator_email].each do |error|
+        .help-block= error
+
+    .form-group{ class: ("has-error" if f.object.errors.key?(:amount)) }
+      = f.label :amount
+      = f.number_field :amount, class: "form-control"
+      - f.object.errors[:amount].each do |error|
+        .help-block= error
+
+    .form-group
+      = f.label :message
+      = f.text_field :message, rows: 1, class: "form-control"
+
+    = f.button class: "col-xs-12 col-sm-4 pull-right btn btn-primary"

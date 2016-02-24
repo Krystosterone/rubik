@@ -23,6 +23,6 @@ module Rubik
     config.exceptions_app = routes
     config.action_view.field_error_proc = proc { |html_tag, _instance| html_tag }
     config.ga_tracking_id = nil
-    config.comment_email_recipient = nil
+    config.email_recipient = nil
   end
 end

@@ -11,7 +11,7 @@
     .form-group{ class: ("has-error" if f.object.errors.key?(:user_email)) }
       = f.label :user_email, class: "col-sm-2 control-label"
       .col-sm-10
-        = f.text_field :user_email, class: "form-control"
+        = f.email_field :user_email, class: "form-control"
         - f.object.errors[:user_email].each do |error|
           .help-block= error
 
@@ -22,4 +22,4 @@
         - f.object.errors[:body].each do |error|
           .help-block= error
 
-    = f.submit class: "col-xs-12 col-sm-4 pull-right btn btn-primary"
+    = f.button class: "col-xs-12 col-sm-4 pull-right btn btn-primary"

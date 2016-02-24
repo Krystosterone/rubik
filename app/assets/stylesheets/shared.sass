@@ -21,3 +21,13 @@ html
 
   .donate
     text-align: center
+
+.spinning
+  @include animation(spin 1s infinite linear)
+
+@include keyframes(spin)
+  0%
+    @include transform(rotate(0deg))
+
+  100%
+    @include transform(rotate(360deg))

@@ -34,5 +34,5 @@ Rails.application.configure do
 
   config.after_initialize(&reload_models_for_serialization)
   config.to_prepare(&reload_models_for_serialization)
-  config.comment_email_recipient = "email@development.com"
+  config.email_recipient = "email@development.com"
 end

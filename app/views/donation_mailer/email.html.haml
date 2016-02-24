@@ -1,0 +1,9 @@
+!!!
+%html
+  %head
+    %meta{content: "text/html; charset=UTF-8", "http-equiv" => "Content-Type"}
+  %body
+    %h1= t(".subject")
+    %h3= t(".from", email: @donation.donator_email)
+    %h3= t(".amount", value: @donation.amount)
+    %p= @donation.message
