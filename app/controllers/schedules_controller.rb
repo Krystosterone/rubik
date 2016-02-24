@@ -3,6 +3,7 @@ class SchedulesController < ApplicationController
   before_action :ensure_not_processing,
                 :ensure_schedules_present, only: :index
   before_action :ensure_processing, only: :processing
+  skip_before_action :show_navigation, only: :processing
 
   decorates_assigned :agenda
   decorates_assigned :schedules
