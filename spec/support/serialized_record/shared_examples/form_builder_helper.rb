@@ -29,7 +29,9 @@ shared_examples "SerializedRecord::FormBuilderHelper" do
 
   describe "#create_button" do
     let(:output) do
-      '<button name="button" type="button" class="btn" data-nested-form-create="test_students">+</button>'
+      <<-HTML.strip_heredoc.strip
+        <button name="button" type="button" class="btn" data-nested-form-create="test_students">+</button>
+      HTML
     end
 
     it "creates the appropriate markup" do
@@ -39,7 +41,10 @@ shared_examples "SerializedRecord::FormBuilderHelper" do
 
   describe "#destroy_button" do
     let(:output) do
-      '<input value="1" disabled="disabled" data-nested-form-destroy-input="" type="hidden" name="test_professor[_destroy]" id="test_professor__destroy" /><button name="button" type="button" class="btn" data-nested-form-destroy="">-</button>'
+      <<-HTML.strip_heredoc.strip.delete("\n")
+        <input value="1" disabled="disabled" data-nested-form-destroy-input="" type="hidden" name="test_professor[_destroy]" id="test_professor__destroy" />
+        <button name="button" type="button" class="btn" data-nested-form-destroy="">-</button>
+      HTML
     end
 
     it "creates the appropriate markup" do
