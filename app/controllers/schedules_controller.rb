@@ -1,6 +1,7 @@
 class SchedulesController < ApplicationController
   before_action :find_agenda
-  before_action :ensure_schedules_present, only: :index
+  before_action :ensure_not_processing,
+                :ensure_schedules_present, only: :index
   before_action :ensure_processing, only: :processing
 
   decorates_assigned :agenda
@@ -24,11 +25,11 @@ class SchedulesController < ApplicationController
   end
 
   def ensure_schedules_present
-    if @agenda.processing?
-      redirect_to action: :processing
-    elsif @agenda.empty?
-      redirect_to edit_agenda_path(token: @agenda.token), flash: { notice: t(".blank_agenda") }
-    end
+    redirect_to edit_agenda_path(token: @agenda.token), flash: { notice: t(".blank_agenda") } if @agenda.empty?
+  end
+
+  def ensure_not_processing
+    redirect_to action: :processing if @agenda.processing?
   end
 
   def ensure_processing

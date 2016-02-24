@@ -20,6 +20,16 @@ describe AgendasController do
     post: :update,
   }.each do |method, action|
     describe "##{action}" do
+      context "when the agenda is still processing" do
+        let(:agenda) { double(Agenda, processing?: true, to_param: "a_token") }
+        before do
+          allow(Agenda).to receive(:find_by!).with(token: "a_token").and_return(agenda)
+          public_send method, action, params: { token: "a_token" }
+        end
+
+        it { is_expected.to redirect_to(processing_agenda_schedules_path("a_token")) }
+      end
+
       context "when the agenda does not exist" do
         it "raises an error" do
           expect { public_send method, action, params: { token: 1 } }.to raise_error(ActiveRecord::RecordNotFound)
