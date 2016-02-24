@@ -1,27 +1,29 @@
-= render 'shared/navbar'
+= render "shared/navbar"
 
 .container
-  %h1.page-header= t('.title')
+  %h1.page-header= t(".title")
 
-  = render 'shared/flash_messages'
+  = render "shared/flash_messages"
 
-= form_for @comment, html: { class: 'form-horizontal' } do |f|
+= form_for @comment, html: { class: "form-horizontal" } do |f|
   .well
-    .container= t('.text')
+    .container= t(".text")
 
   .container
-    .form-group{ class: ('has-error' if f.object.errors.key?(:user_email)) }
-      = f.label :user_email, class: 'col-sm-2 control-label'
+    .form-group{ class: ("has-error" if f.object.errors.key?(:user_email)) }
+      = f.label :user_email, class: "col-sm-2 control-label"
       .col-sm-10
-        = f.text_field :user_email, class: 'form-control'
+        = f.text_field :user_email, class: "form-control"
         - f.object.errors[:user_email].each do |error|
           .help-block= error
 
-    .form-group{ class: ('has-error' if f.object.errors.key?(:body)) }
-      = f.label :body, class: 'col-sm-2 control-label'
+    .form-group{ class: ("has-error" if f.object.errors.key?(:body)) }
+      = f.label :body, class: "col-sm-2 control-label"
       .col-sm-10
-        = f.text_area :body, rows: 5, class: 'form-control'
+        = f.text_area :body, rows: 5, class: "form-control"
         - f.object.errors[:body].each do |error|
           .help-block= error
 
-    = f.submit class: 'col-xs-12 col-sm-4 pull-right btn btn-primary'
+    = f.submit class: "col-xs-12 col-sm-4 pull-right btn btn-primary"
+
+= render "shared/footer"
