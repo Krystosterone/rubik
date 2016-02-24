@@ -27,7 +27,7 @@ class AgendasController < ApplicationController
   private
 
   def find_academic_degree_term
-    @academic_degree_term = AcademicDegreeTerm.find(params[:academic_degree_term_id])
+    @academic_degree_term = AcademicDegreeTerm.enabled.find(params[:academic_degree_term_id])
   end
 
   def find_agenda

@@ -74,6 +74,7 @@ FactoryGirl.define do
   factory :term do
     year { generate(:year) }
     name { generate(:name) }
+    enabled_at { Time.zone.now }
   end
 
   sequence(:body) { |n| "Body #{n}" }

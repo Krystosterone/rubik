@@ -9,4 +9,6 @@ class AcademicDegreeTerm < ActiveRecord::Base
   validates :term, presence: true
 
   delegate :code, :name, to: :academic_degree
+
+  scope :enabled, -> { joins(:term).where("terms.enabled_at IS NOT NULL") }
 end
