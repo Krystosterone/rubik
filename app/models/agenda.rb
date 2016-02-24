@@ -39,8 +39,6 @@ class Agenda < ActiveRecord::Base
   end
 
   def combine
-    return false if leaves_altered?
-
     self.combined_at = nil
     save.tap { |success| ScheduleGeneratorJob.perform_later(self) if success }
   end

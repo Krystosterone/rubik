@@ -163,7 +163,7 @@ describe AgendasController do
                token: agenda.token,
                agenda: {
                  leaves_attributes: {
-                   0 => { _create: 1 }
+                   0 => { starts_at: 0 }
                  }
                }
              }
@@ -176,10 +176,6 @@ describe AgendasController do
       it "adds a leave to the agenda" do
         expect(assigned_agenda).to eq(agenda)
         expect(assigned_agenda.leaves.size).to eq(1)
-      end
-
-      it "does not try to validate the agenda" do
-        expect(assigned_agenda.errors).to be_empty
       end
     end
 

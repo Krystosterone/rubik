@@ -19,8 +19,7 @@ module SerializedRecord
       end
 
       def matches?(actual)
-        return false unless builds_members?(actual) && !alters_members?(actual)
-        return false unless builds_created_members?(actual)
+        return false unless builds_members?(actual)
         discards_destroyed_members?(actual)
       end
 
@@ -50,19 +49,11 @@ module SerializedRecord
         actual.public_send assign_attributes_method, attributes
         members = actual.public_send(@column)
 
-        members.empty? && alters_members?(actual)
-      end
-
-      def alters_members?(actual)
-        actual.public_send(altered_method)
+        members.empty?
       end
 
       def assign_attributes_method
         "#{@column}_attributes="
-      end
-
-      def altered_method
-        "#{@column}_altered?"
       end
 
       def klass
@@ -70,7 +61,7 @@ module SerializedRecord
       end
 
       def attributes_match?(member, member_attributes)
-        member_attributes.except("_create", "_destroy").all? do |key, value|
+        member_attributes.except("_destroy").all? do |key, value|
           member.public_send(key) == value
         end
       end

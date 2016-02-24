@@ -69,33 +69,20 @@ describe Agenda do
   end
 
   describe "#combine" do
-    context "when leaves have been altered" do
-      before do
-        subject.leaves_attributes = { "0" => { "_create" => "1",
-                                               "_destroy" => "1" } }
-      end
+    subject { create(:combined_agenda) }
 
-      it "does not do anything" do
-        expect(subject.combine).to eq(false)
-      end
+    it "resets the combined timestamp" do
+      expect { subject.combine }.to change { subject.combined_at }.to(nil)
     end
 
-    context "when no leaves have been altered" do
-      subject { create(:combined_agenda) }
+    context "when it was not able to save" do
+      before { subject.courses_per_schedule = 0 }
 
-      it "resets the combined timestamp" do
-        expect { subject.combine }.to change { subject.combined_at }.to(nil)
-      end
+      specify { expect(subject.combine).to eq(false) }
+    end
 
-      context "when it was not able to save" do
-        before { subject.courses_per_schedule = 0 }
-
-        specify { expect(subject.combine).to eq(false) }
-      end
-
-      context "when it saved" do
-        specify { expect(subject.combine).to eq(true) }
-      end
+    context "when it saved" do
+      specify { expect(subject.combine).to eq(true) }
     end
   end
 

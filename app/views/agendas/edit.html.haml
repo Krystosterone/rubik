@@ -34,24 +34,7 @@
     %a.schedules-anchor{name: "leaves"}
     %fieldset.form-horizontal
       %legend= t(".leaves")
-      = f.fields_for :leaves do |ff|
-        .leave.row{class: ("has-error" if ff.object.errors.any?)}
-          - if ff.object.errors.any?
-            .col-xs-12
-              - ff.object.errors.each do |_, error|
-                .help-block= error
-          .col-sm-5
-            .form-group
-              = ff.label :starts_at, class: "col-sm-2 control-label"
-              .col-sm-10
-                = ff.collection_select :starts_at, leave_times, :total_minutes, :weekday_time, {}, class: "form-control"
-          .col-sm-5
-            .form-group
-              = ff.label :ends_at, class: "col-sm-2 control-label"
-              .col-sm-10
-                = ff.collection_select :ends_at, leave_times, :total_minutes, :weekday_time, {}, class: "form-control"
-          .col-xs-4.col-sm-2.pull-right
-            = ff.destroy_button "-", class: "btn btn-default btn-block"
+      = f.nested_form :leaves
       = f.create_button :leaves, "+", class: "btn btn-default col-xs-12 col-sm-4 pull-right"
 
     = f.submit class: "col-xs-12 col-sm-4 pull-right btn btn-primary"

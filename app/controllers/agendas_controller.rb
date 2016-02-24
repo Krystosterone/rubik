@@ -37,7 +37,7 @@ class AgendasController < ApplicationController
   def agenda_params
     params.require(:agenda).permit(:courses_per_schedule,
                                    course_ids: [],
-                                   leaves_attributes: [:starts_at, :ends_at, :_destroy, :_create])
+                                   leaves_attributes: [:starts_at, :ends_at, :_destroy])
   end
 
   def agenda_token

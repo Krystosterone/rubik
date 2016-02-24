@@ -1,25 +1,40 @@
 module SerializedRecord::FormBuilderHelper
-  def create_button(method, value, options = {})
-    association_size = object.public_send(method).size
-    default_options = {
-      name: "#{object_name}[#{method}_attributes][#{association_size}][_create]",
-      value: 1,
-      formaction: "#{self.options[:url]}/##{method}"
-    }
+  def nested_form(association)
+    member = association.to_s.singularize
+    klass = member.classify.constantize
+    field_name = "#{association}_attributes"
 
-    button value, options.reverse_merge(default_options)
+    association_fields = fields_for(association) { |f| @template.render(member, f: f) }
+    container = @template.content_tag :div, association_fields, data: { :"nested-form" => association }
+
+    template_fields = fields_for(field_name,
+                                 klass.new,
+                                 index: "{{index}}") { |f| @template.render(member, f: f) }
+    javascript_template = @template.content_tag(:script,
+                                                template_fields,
+                                                data: { :"nested-form-template" => association },
+                                                type: "text/html")
+
+
+
+
+    [
+      container,
+      javascript_template,
+    ].join.html_safe
+  end
+
+  def create_button(association, value, options = {})
+    button value, options.merge(data: { :"nested-form-create" => association }, type: "button")
   end
 
   def destroy_button(value, options = {})
-    parent_url = self.options[:parent_builder].options[:url]
-    anchor_name = object.class.name.underscore.pluralize
+    input_field = hidden_field(:_destroy, value: "1", disabled: true, data: { :"nested-form-destroy-input" => "" })
+    button = button(value, options.merge(data: { :"nested-form-destroy" => "" }, type: "button"))
 
-    default_options = {
-      name: "#{object_name}[_destroy]",
-      value: 1,
-      formaction: "#{parent_url}/##{anchor_name}",
-    }
-
-    button value, options.reverse_merge(default_options)
+    [
+      input_field,
+      button,
+    ].join.html_safe
   end
 end
