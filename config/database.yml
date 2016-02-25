@@ -1,7 +1,7 @@
 default: &default
   adapter: mysql2
   encoding: utf8
-  pool: 10
+  pool: 20
 
 development:
   <<: *default
