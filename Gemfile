@@ -35,7 +35,7 @@ group :development do
   gem "terminal-notifier-guard"
   gem "rubocop"
   gem "guard-rubocop"
-  gem "rubocop-rspec" # Disable until rails 5 is fully supported
+  gem "rubocop-rspec"
   gem "letter_opener"
   gem "letter_opener_web", "~> 1.2.0"
 end

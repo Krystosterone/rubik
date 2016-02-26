@@ -20,7 +20,7 @@ describe Agenda do
   describe "#new" do
     its(:course_ids) { is_expected.to eq([]) }
     its(:courses_per_schedule) { is_expected.to eq(1) }
-    its(:token) { is_expected.to_not be_nil }
+    its(:token) { is_expected.not_to be_nil }
   end
 
   describe "#to_param" do
@@ -97,7 +97,7 @@ describe Agenda do
       before { subject.combined_at = Time.zone.now }
 
       it "returns false" do
-        expect(subject).to_not be_processing
+        expect(subject).not_to be_processing
       end
     end
   end
@@ -113,8 +113,8 @@ describe Agenda do
         expect(subject).not_to be_valid
         expect(subject.errors).to be_added(:leaves, :invalid)
 
-        expect(subject.leaves[-2]).to_not be_valid
-        expect(subject.leaves[-1]).to_not be_valid
+        expect(subject.leaves[-2]).not_to be_valid
+        expect(subject.leaves[-1]).not_to be_valid
       end
     end
 

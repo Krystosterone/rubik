@@ -13,7 +13,7 @@ describe EtsPdf::Parser::ParsedLine::Base do
     describe '#parsed?' do
       context "for an unparsed line" do
         subject { described_class.new("invalid line") }
-        it { is_expected.to_not be_parsed }
+        it { is_expected.not_to be_parsed }
       end
 
       context "for a parsed line" do

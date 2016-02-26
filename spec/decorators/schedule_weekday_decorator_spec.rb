@@ -23,7 +23,7 @@ describe ScheduleWeekdayDecorator do
       let(:schedule_weekday) { double(ScheduleWeekday, empty?: false) }
       subject { described_class.new(schedule_weekday) }
 
-      specify { expect(subject).to_not be_collapsible }
+      specify { expect(subject).not_to be_collapsible }
     end
   end
 

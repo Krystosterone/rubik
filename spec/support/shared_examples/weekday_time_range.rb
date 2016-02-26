@@ -1,5 +1,5 @@
 shared_examples "WeekdayTimeRange" do
-  describe '#new' do
+  describe "#new" do
     context "with attributes passed in" do
       subject { described_class.new(starts_at: 50, ends_at: 1000) }
 
@@ -14,7 +14,7 @@ shared_examples "WeekdayTimeRange" do
     its(:range) { is_expected.to eq(50...1000) }
     its(:duration) { is_expected.to eq(950) }
 
-    describe '#overlaps?' do
+    describe "#overlaps?" do
       context "when the ranges do not overlap" do
         let(:result) { subject.overlaps?(described_class.new(starts_at: 1001, ends_at: 1500)) }
 
@@ -28,7 +28,7 @@ shared_examples "WeekdayTimeRange" do
       end
     end
 
-    describe '#==' do
+    describe "#==" do
       it "returns false if time range does not match" do
         expect(subject == described_class.new).to eq(false)
       end
@@ -40,7 +40,7 @@ shared_examples "WeekdayTimeRange" do
     end
   end
 
-  describe '#empty?' do
+  describe "#empty?" do
     context "when the range has no minutes" do
       subject { described_class.new(starts_at: 0, ends_at: 0) }
       specify { expect(subject).to be_empty }
@@ -58,7 +58,7 @@ shared_examples "WeekdayTimeRange" do
       before { subject.valid? }
 
       it "does not add an error on ends_at" do
-        expect(subject.errors).to_not be_added(:ends_at, :greater_than_or_equal_to_starts_at)
+        expect(subject.errors).not_to be_added(:ends_at, :greater_than_or_equal_to_starts_at)
       end
     end
 
