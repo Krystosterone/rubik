@@ -49,4 +49,12 @@ describe "Application Routing" do
       expect(get: "/agendas/a_token/schedules/a").not_to be_routable
     end
   end
+
+  ErrorsController::MAPPED_ERRORS.each do |status, code|
+    describe "errors##{status}" do
+      it "routes GET /#{code}" do
+        expect(get: "/#{code}").to route_to("errors##{status}")
+      end
+    end
+  end
 end
