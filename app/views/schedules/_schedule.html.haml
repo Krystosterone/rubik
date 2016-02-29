@@ -1,10 +1,8 @@
-%fieldset.col-lg-6
+%fieldset.schedule{class: schedule.css_class}
   %legend
-    = t('.title')
-    \-
-    = slice_index + schedule_counter + schedule_index + 1
+    = link_to t(".title", index: index), agenda_schedule_path(@agenda, index)
 
-  .schedule{class: schedule.css_class}
+  .schedule-content
     %table.hours
       %thead
         %tr

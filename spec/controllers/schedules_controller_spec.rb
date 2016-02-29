@@ -11,7 +11,7 @@ describe SchedulesController do
     end
   end
 
-  describe '#index' do
+  describe "#index" do
     context "when the agenda is still processing" do
       let(:agenda) { double(Agenda, processing?: true) }
       before do
@@ -52,24 +52,55 @@ describe SchedulesController do
       it { is_expected.to render_template(:index) }
     end
 
-    context "when a page is past in" do
-      let(:schedules) { double }
-      let(:agenda) { double(Agenda, schedules: schedules, processing?: false, empty?: false) }
-      before do
-        allow(Agenda).to receive(:find_by!).with(token: "a_token").and_return(agenda)
-        allow(schedules).to receive(:page).with("10").and_return(schedules)
-        allow(schedules).to receive(:per).with(ScheduleHelper::SCHEDULES_PER_PAGE).and_return(schedules)
-
-        get :index, params: { agenda_token: "a_token", page: 10 }
-      end
+    context "when a page is set" do
+      let(:agenda) { create(:combined_agenda) }
+      let(:assigned_schedules) { assigns(:schedules) }
+      before { get :index, params: { agenda_token: agenda.token, page: 1 } }
 
       it "assigns the paginated schedules" do
-        expect(schedules).to eq(agenda.schedules)
+        expect(assigned_schedules).to eq(agenda.schedules)
+        expect(assigned_schedules.current_page).to eq(1)
+        expect(assigned_schedules.limit_value).to eq(50)
+      end
+    end
+
+    context "when a page is set beyond limit" do
+      let(:agenda) { create(:combined_agenda) }
+      let(:assigned_schedules) { assigns(:schedules) }
+
+      it "assigns the paginated schedules" do
+        expect { get :index, params: { agenda_token: agenda.token, page: 2 } }
+          .to raise_exception(ActiveRecord::RecordNotFound)
       end
     end
   end
 
-  describe '#processing' do
+  describe "#show" do
+    let(:schedules) { build_list(:schedule, 5) }
+    let(:agenda) { create(:combined_agenda, schedules: schedules) }
+
+    context "when the schedule does not exist" do
+      it "raises an error" do
+        expect { get :show, params: { agenda_token: agenda.token, index: 6 } }
+          .to raise_exception(ActiveRecord::RecordNotFound)
+      end
+    end
+
+    context "when passing in an index" do
+      let(:assigned_schedule) { assigns(:schedule) }
+      before do
+        get :show, params: { agenda_token: agenda.token, index: 3 }
+      end
+
+      it { is_expected.to render_template(:show) }
+
+      it "assigns the correct schedule" do
+        expect(assigned_schedule).to eq(agenda.schedules[2])
+      end
+    end
+  end
+
+  describe "#processing" do
     before { allow(Agenda).to receive(:find_by!).with(token: "a_token").and_return(agenda) }
 
     context "when the agenda is still processing" do

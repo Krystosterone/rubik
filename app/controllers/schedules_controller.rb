@@ -1,15 +1,20 @@
 class SchedulesController < ApplicationController
+  include ScheduleHelper
+
   before_action :find_agenda
   before_action :ensure_not_processing,
                 :ensure_schedules_present, only: :index
   before_action :ensure_processing, only: :processing
   skip_before_action :show_navigation, only: :processing
 
-  decorates_assigned :agenda
-  decorates_assigned :schedules
+  decorates_assigned :agenda, :schedule, :schedules
 
   def index
-    @schedules = @agenda.schedules.page(params[:page]).per(ScheduleHelper::SCHEDULES_PER_PAGE)
+    @schedules = @agenda.schedules.page(params[:page]).per(50).presence || raise(ActiveRecord::RecordNotFound)
+  end
+
+  def show
+    @schedule = @agenda.schedules.offset(schedule_index).first!
   end
 
   def processing

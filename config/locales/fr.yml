@@ -97,7 +97,7 @@ fr:
     processing:
       message: Combinaisons en cours…
     schedule:
-      title: Horaire
+      title: "Horaire - %{index}"
     schedule_leave:
       title: Congé
   terms:

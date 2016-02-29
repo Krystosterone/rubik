@@ -1,9 +1,9 @@
 module ScheduleHelper
-  SCHEDULES_PER_PAGE = 50
+  def schedule_page_index
+    (@schedules.current_page - 1) * @schedules.limit_value
+  end
 
   def schedule_index
-    page = params.fetch(:page, 1).to_i
-    page = [page - 1, 0].max
-    page * SCHEDULES_PER_PAGE
+    Integer(params.fetch(:index)) - 1
   end
 end

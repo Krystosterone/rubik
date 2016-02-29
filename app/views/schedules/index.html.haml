@@ -11,6 +11,8 @@
   = render "overview", f: f
 
 .container-fluid.schedules
-  - schedules.each_slice(2).with_index do |schedules_slice, index|
-    .row= render partial: "schedule", collection: schedules_slice, locals: {slice_index: index * 2}
+  - schedules.each_slice(2).with_index do |schedules_slice, slice_index|
+    .row
+      - schedules_slice.each_with_index do |schedule, index|
+        .col-lg-6= render "schedule", schedule: schedule, index: schedule_page_index + index + slice_index * 2 + 1
 = paginate @schedules, window: 2
