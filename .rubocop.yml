@@ -1,4 +1,4 @@
-require: rubocop-rspec #Disable until rails 5 is fully supported
+require: rubocop-rspec
 
 AllCops:
   TargetRubyVersion: 2.2
@@ -52,6 +52,7 @@ RSpec/DescribeClass:
 RSpec/FilePath:
   Exclude:
     - spec/config/application.rb
+    - spec/config/initializers/maintenance_spec.rb
 
 RSpec/InstanceVariable:
   Exclude:
