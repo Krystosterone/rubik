@@ -21,6 +21,7 @@ gem "puma"
 gem "email_validator"
 gem "airbrake"
 gem "sidekiq-unique-jobs"
+gem "sprockets-es6"
 
 # Sidekiq
 gem "sidekiq"
