@@ -7,11 +7,23 @@
     .form-group
       = f.label :starts_at, class: 'col-sm-2 control-label'
       .col-sm-10
-        = f.collection_select :starts_at, leave_times, :total_minutes, :weekday_time, {}, class: 'form-control'
+        = f.collection_select :starts_at,
+                              leave_times,
+                              :total_minutes,
+                              :weekday_time,
+                              {},
+                              class: 'form-control',
+                              data: { "leave-starts-at" => f.index }
   .col-sm-5
     .form-group
       = f.label :ends_at, class: 'col-sm-2 control-label'
       .col-sm-10
-        = f.collection_select :ends_at, leave_times, :total_minutes, :weekday_time, {}, class: 'form-control'
+        = f.collection_select :ends_at,
+                              leave_times,
+                              :total_minutes,
+                              :weekday_time,
+                              {},
+                              class: 'form-control',
+                              data: { "leave-ends-at" => f.index }
   .col-xs-4.col-sm-2.pull-right
     = f.destroy_button '-', class: 'btn btn-default btn-block'

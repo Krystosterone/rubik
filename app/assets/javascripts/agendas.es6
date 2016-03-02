@@ -15,7 +15,7 @@ $(() => {
   });
 
   $(document).on("click", ".agendas-controller body [data-nested-form-destroy]", (event) => {
-    event.preventDefault()
+    event.preventDefault();
 
     var $button = $(event.currentTarget);
     var $fields = $button.closest("[data-fields]");
@@ -23,5 +23,19 @@ $(() => {
 
     $input.removeAttr("disabled");
     $fields.css({"display": "none"});
+  });
+
+  $(document).on("change", ".agendas-controller body [data-leave-starts-at]", (event) => {
+    var $select = $(event.currentTarget);
+    var selectedValue = parseInt($select.val());
+    var index = $select.attr("data-leave-starts-at");
+    var $endsAtSelect = $(`[data-leave-ends-at='${index}']`);
+
+    $endsAtSelect.find("option").each((index, option) => {
+      var $option = $(option);
+      var isDisabled = parseInt($option.val()) <= selectedValue;
+
+      $option.prop("disabled", isDisabled);
+    });
   });
 });
