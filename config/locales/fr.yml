@@ -15,10 +15,6 @@ fr:
       comment:
         user_email: Courriel
         body: Commentaire
-      donation:
-        donator_email: Courriel
-        amount: Montant ($)
-        message: Message (optionnel)
     errors:
       models:
         agenda:
@@ -42,22 +38,11 @@ fr:
       text: Vous avez un commentaire? Une suggestion? Êtes-vous tombé sur un bogue? Veuillez nous le partager via le formulaire ci-dessous!
     create:
       success: Votre commentaire a été envoyé avec succès!
-  donations:
-    new:
-      title: Merci de vouloir contribuer à l'évolution du site!
-      text: Je vous contacterai dans les prochains jours pour éffectuer un suivi sur le don.
-    create:
-      success: Merci pour votre don! :)
   comment_mailer:
     email:
       subject: '[Rubik-ETS] Nouveau commentaire'
       from: 'De: %{email}'
       body: Commentaire
-  donation_mailer:
-    email:
-      subject: '[Rubik-ETS] Nouveau don'
-      from: 'De: %{email}'
-      amount: 'Don de: %{value}$'
   errors:
     show:
       title: "Erreur %{code}"

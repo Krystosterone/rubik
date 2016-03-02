@@ -2,16 +2,8 @@
   .container
     %p= t(".message_header")
     %p= t(".message_body")
-    .donate
-      %button.btn.btn-primary{"data-toggle" => "modal", "data-target" => "#donation-modal"}= t(".donate")
-
-#donation-modal.modal.fade{role: "dialog", tabindex: "-1", "aria-labelledby" => "donation-modal-label"}
-  .modal-dialog{role: "document"}
-    .modal-content
-      .modal-header
-        %button.close{"aria-label" => "Close", "data-dismiss" => "modal", :type => "button"}
-          %span{"aria-hidden" => "true"} &times;
-        %h4#donation-modal-label.modal-title= t(".donate")
-
-      .modal-body
-        = render template: "donations/new"
+    %form.donate{action: "https://www.paypal.com/cgi-bin/webscr", method: "post", target: "_top"}
+      %input{name: "cmd", type: "hidden", value: "_s-xclick"}
+      %input{name: "hosted_button_id", type: "hidden", value: "XXNVZEYVBWCXN"}
+      %button.btn.btn-primary{type: "submit", onclick:"javascript:ga('send', 'event', 'button', 'click', 'donate-button');"}= t(".donate")
+      %img{alt: "", border: "0", height: "1", src: "https://www.paypalobjects.com/en_US/i/scr/pixel.gif", width: "1"}

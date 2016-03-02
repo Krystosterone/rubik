@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160224191306) do
+ActiveRecord::Schema.define(version: 20160223014223) do
 
   create_table "academic_degree_term_courses", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.integer  "academic_degree_term_id"
@@ -66,12 +66,6 @@ ActiveRecord::Schema.define(version: 20160224191306) do
   end
 
   add_index "courses", ["code"], name: "index_courses_on_code", unique: true, using: :btree
-
-  create_table "donations", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
-    t.string  "donator_email"
-    t.decimal "amount",                      precision: 10
-    t.text    "message",       limit: 65535
-  end
 
   create_table "schedules", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.integer  "agenda_id"
