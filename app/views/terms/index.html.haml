@@ -4,9 +4,5 @@
     %p= t('.subtitle')
 
 .container
-  = link_to "https://flashday.io/pages/fr", class: "flash-day-banner", target: "_blank", onclick:"javascript:ga('send', 'event', 'button', 'click', 'flashday-banner');" do
-    = image_tag "logo-flashday.png", width: 100, height: 68
-    %p Flash Day est une compétition étudiante d'une journée avec un seul but: construire une plateforme de commerce en ligne.
-
   - terms.each_slice(2) do |terms_slice|
     .row= render partial: 'term', collection: terms_slice
