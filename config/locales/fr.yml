@@ -69,7 +69,7 @@ fr:
       agendas: Choix de cours
       schedules: Horaires
     footer:
-      message_html: "&copy; Krystian Czesak | <a title=\"Github\" href=\"https://github.com/Krystosterone\">Github</a>"
+      message_html: "&copy; Krystian Czesak | <a title=\"Github\" href=\"https://github.com/Krystosterone\" target=\"_blank\">Github</a>"
       donate: Contribuer
     navbar:
       comments: Commentaires
