@@ -84,6 +84,8 @@ fr:
       title: "Horaire - %{index}"
     schedule_leave:
       title: Congé
+    show:
+      back: Retour
   terms:
     index:
       title: Générateur d'horaires

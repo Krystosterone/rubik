@@ -10,7 +10,7 @@ class SchedulesController < ApplicationController
   decorates_assigned :agenda, :schedule, :schedules
 
   def index
-    @schedules = @agenda.schedules.page(params[:page]).per(50).presence || raise(ActiveRecord::RecordNotFound)
+    @schedules = find_schedules || raise(ActiveRecord::RecordNotFound)
   end
 
   def show
@@ -28,6 +28,10 @@ class SchedulesController < ApplicationController
 
   def agenda_token
     params.require(:agenda_token)
+  end
+
+  def find_schedules
+    @agenda.schedules.page(params[:page]).per(SCHEDULES_PER_PAGE).presence
   end
 
   def ensure_schedules_present

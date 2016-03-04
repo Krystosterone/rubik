@@ -16,4 +16,12 @@ describe ScheduleHelper do
       expect(schedule_index).to eq(4)
     end
   end
+
+  describe "#schedule_page" do
+    let(:params) { ActionController::Parameters.new(index: "163") }
+
+    it "returns the schedule index" do
+      expect(schedule_page).to eq(4)
+    end
+  end
 end

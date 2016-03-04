@@ -9,7 +9,7 @@ class ScheduleDecorator < Draper::Decorator
   end
 
   def hours
-    (starts_at.hour..restricted_ends_at).collect { |hour| "#{hour.to_s.rjust(2, "0")}:00" }
+    (starts_at.hour..restricted_ends_at).collect { |hour| "#{hour.to_s.rjust(2, '0')}:00" }
   end
 
   def duration
