@@ -9,8 +9,11 @@ class ScheduleDecorator < Draper::Decorator
   end
 
   def hours
-    new_ends_at = [ends_at.hour, 23].min
-    (starts_at.hour..new_ends_at).collect { |hour| "#{hour.to_s.rjust(2, '0')}:00" }
+    (starts_at.hour..restricted_ends_at).collect { |hour| "#{hour.to_s.rjust(2, "0")}:00" }
+  end
+
+  def duration
+    (restricted_ends_at - starts_at.hour) * 60
   end
 
   private
@@ -21,5 +24,9 @@ class ScheduleDecorator < Draper::Decorator
 
   def collapsible?
     weekdays.select(&:weekend?).all?(&:collapsible?)
+  end
+
+  def restricted_ends_at
+    [ends_at.hour, 23].min
   end
 end

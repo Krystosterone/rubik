@@ -1,8 +1,8 @@
 require "rails_helper"
 
 describe ScheduleDecorator do
-  describe '#css_class' do
-    let(:schedule) { double(Schedule, starts_at: double(WeekTime, hour: 10), duration: 1000) }
+  describe "#css_class" do
+    let(:schedule) { double(Schedule, starts_at: double(WeekTime, hour: 10), ends_at: double(WeekTime, hour: 24)) }
     subject { described_class.new(schedule) }
 
     context "when the weekend weekdays are collapsible" do
@@ -15,7 +15,7 @@ describe ScheduleDecorator do
       end
       before { allow(subject).to receive(:weekdays).and_return(weekdays) }
 
-      its(:css_class) { is_expected.to eq("from-600 duration-1000 collapsible") }
+      its(:css_class) { is_expected.to eq("from-600 duration-780 collapsible") }
     end
 
     context "when not all weekend weekdays are collapsible" do
@@ -28,11 +28,11 @@ describe ScheduleDecorator do
       end
       before { allow(subject).to receive(:weekdays).and_return(weekdays) }
 
-      its(:css_class) { is_expected.to eq("from-600 duration-1000") }
+      its(:css_class) { is_expected.to eq("from-600 duration-780") }
     end
   end
 
-  describe '#hours' do
+  describe "#hours" do
     context "when the starting hour is 12" do
       let(:schedule) { double(Schedule, starts_at: double(WeekTime, hour: 12)) }
       subject { described_class.new(schedule) }
