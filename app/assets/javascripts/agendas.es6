@@ -1,41 +1,10 @@
+//= require agendas/behaviours/nested_form
+//= require agendas/behaviours/leave_nested_form
+
 $(() => {
-  $(".agendas-controller body [data-nested-form] > *").attr("data-fields", "");
+  if (!$(".agendas-controller").length)
+    return;
 
-  $(".agendas-controller body [data-nested-form-create]").click((event) => {
-    event.preventDefault();
-
-    var $button = $(event.currentTarget);
-    var association = $button.attr("data-nested-form-create");
-    var $container = $(`[data-nested-form='${association}']`);
-    var template = $(`[data-nested-form-template='${association}']`).html();
-    var memberLength = $container.children().length;
-
-    var associationFields = $(template.replace(/\{\{index}}/g, `${memberLength}`)).attr("data-fields", "");
-    $container.append(associationFields);
-  });
-
-  $(document).on("click", ".agendas-controller body [data-nested-form-destroy]", (event) => {
-    event.preventDefault();
-
-    var $button = $(event.currentTarget);
-    var $fields = $button.closest("[data-fields]");
-    var $input = $button.prev("[data-nested-form-destroy-input]");
-
-    $input.removeAttr("disabled");
-    $fields.css({"display": "none"});
-  });
-
-  $(document).on("change", ".agendas-controller body [data-leave-starts-at]", (event) => {
-    var $select = $(event.currentTarget);
-    var selectedValue = parseInt($select.val());
-    var index = $select.attr("data-leave-starts-at");
-    var $endsAtSelect = $(`[data-leave-ends-at='${index}']`);
-
-    $endsAtSelect.find("option").each((index, option) => {
-      var $option = $(option);
-      var isDisabled = parseInt($option.val()) <= selectedValue;
-
-      $option.prop("disabled", isDisabled);
-    });
-  });
+  new NestedForm();
+  new LeaveNestedForm();
 });
