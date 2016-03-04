@@ -1,6 +1,7 @@
 .col-sm-6.col-xs-12
   .panel.panel-default
-    .panel-heading= term.title
+    .panel-heading
+      .panel-title= term.title
 
     .list-group
       - term.academic_degree_terms.each do |academic_degree_term|
