@@ -1,8 +1,6 @@
 .container
   .row= render "schedule", schedule: schedule, index: schedule_index + 1
   .row
-    .col-xs-6.col-sm-4
-      = link_to agenda_schedules_path(page: schedule_page, anchor: "schedule-#{schedule_index + 1}"),
-                class: "btn btn-primary btn-block" do
-        %i.glyphicon.glyphicon-chevron-left
-        = t(".back")
+    = link_to agenda_schedules_path(page: schedule_page, anchor: "schedule-#{schedule_index + 1}") do
+      %i.glyphicon.glyphicon-chevron-left
+      = t(".back")

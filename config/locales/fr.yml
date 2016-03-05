@@ -85,7 +85,7 @@ fr:
     schedule_leave:
       title: Congé
     show:
-      back: Retour
+      back: Retour aux résultats
   terms:
     index:
       title: Générateur d'horaires
