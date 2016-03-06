@@ -26,9 +26,9 @@ Alors /^je vois les horaires:$/ do |table|
     weekday = actual_schedule.at_css(".weekday-#{weekday_index}")
 
     actual_period = weekday.css(".period").find do |period|
-      period.css("div:contains('#{row["Période"]}')").present? &&
-      period.css("div:contains('#{row["Cours"]}')").present? &&
-      period.css("div:contains('#{row["Type"]}')").present?
+      period.css("div:contains('#{row['Période']}')").present? &&
+        period.css("div:contains('#{row['Cours']}')").present? &&
+        period.css("div:contains('#{row['Type']}')").present?
     end
     raise "Unable to find period #{row}" if actual_period.nil?
   end
