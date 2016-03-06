@@ -16,14 +16,14 @@
 
   .container
     %fieldset
-      %legend= t(".courses")
+      %legend= f.label :courses
       = f.collection_check_boxes :course_ids, agenda.academic_degree_term_courses, :id, :code do |ff|
         .course-checkbox-button
           = ff.check_box
           = ff.label(class: "btn btn-default") { ff.text }
 
     %fieldset
-      %legend= t(".courses_per_schedule")
+      %legend= f.label :courses_per_schedule
       .btn-group.courses-per-schedule-group.btn-group-justified
         = f.collection_radio_buttons :courses_per_schedule, Agenda::COURSES_PER_SCHEDULE_RANGE, :to_i, :to_i do |ff|
           = ff.radio_button
@@ -31,7 +31,7 @@
 
     %a.schedules-anchor{name: "leaves"}
     %fieldset.form-horizontal
-      %legend= t(".leaves")
+      %legend= f.label :leaves
       = f.nested_form :leaves
       = f.create_button :leaves, "+", class: "btn btn-default col-xs-12 col-sm-4 pull-right"
 

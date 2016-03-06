@@ -12,6 +12,12 @@ fr:
               greater_than_or_equal_to_starts_at: Veuillez spécifier un temps de fin plus grand que le temps de début
   activerecord:
     attributes:
+      agenda:
+        academic_degree_name: Baccalauréat
+        courses: Cours
+        courses_per_schedule: Nombre de cours par horaire
+        leaves: Congés
+        term_title: Trimestre
       comment:
         user_email: Courriel
         body: Commentaire
@@ -28,9 +34,6 @@ fr:
               invalid: Veuillez corriger les congés spécifiés
   agendas:
     edit:
-      courses: Cours
-      courses_per_schedule: Nombre de cours par horaire
-      leaves: Congés
       title: Choix de cours
   comments:
     new:
@@ -51,12 +54,6 @@ fr:
         unprocessable_entity: Erreur d'entité
         internal_server_error: Erreur interne
   helpers:
-    label:
-      agenda:
-        academic_degree_name: Baccalauréat
-        courses: Cours sélectionnés
-        courses_per_schedule: Nombre de cours par horaire
-        term_title: Trimestre
     submit:
       create: Soumettre
       update: Soumettre
