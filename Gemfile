@@ -65,6 +65,7 @@ group :test do
   gem "timecop"
   gem "rails-controller-testing"
   gem "simplecov", require: false
+  gem "poltergeist"
 end
 
 gem "rails_12factor", group: :production # Heroku
