@@ -4,7 +4,11 @@ describe ScheduleGeneratorJob do
   describe "#perform" do
     let(:agenda) { create(:combined_agenda) }
     let(:schedule_generator) { double(ScheduleGenerator) }
-    before { allow(ScheduleGenerator).to receive(:new).with(agenda).and_return(schedule_generator) }
+    before do
+      Timecop.freeze(2016, 01, 01)
+      allow(ScheduleGenerator).to receive(:new).with(agenda).and_return(schedule_generator)
+    end
+    after { Timecop.return }
 
     it "deletes all previous schedules and generates new schedules for the agenda" do
       expect(schedule_generator).to receive(:combine)
@@ -13,6 +17,8 @@ describe ScheduleGeneratorJob do
       subject.perform(agenda)
 
       expect(agenda.schedules).to be_empty
+      expect(agenda).not_to be_processing
+      expect(agenda.combined_at).to eq(Time.zone.now)
     end
   end
 end

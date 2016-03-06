@@ -7,7 +7,6 @@ class ScheduleGenerator
     pruned_courses.combination(@agenda.courses_per_schedule).each do |course_set|
       iterate(course_set, [])
     end
-    @agenda.combined_at = Time.zone.now
   end
 
   private

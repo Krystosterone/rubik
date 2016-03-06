@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160223014223) do
+ActiveRecord::Schema.define(version: 20160305211939) do
 
   create_table "academic_degree_term_courses", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.integer  "academic_degree_term_id"
@@ -50,6 +50,7 @@ ActiveRecord::Schema.define(version: 20160223014223) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.datetime "combined_at"
+    t.boolean  "processing"
   end
 
   add_index "agendas", ["token"], name: "index_agendas_on_token", using: :btree

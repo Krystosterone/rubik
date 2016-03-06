@@ -3,6 +3,7 @@ class ScheduleGeneratorJob < ActiveJob::Base
     ActiveRecord::Base.transaction do
       agenda.schedules.destroy_all
       ScheduleGenerator.new(agenda).combine
+      agenda.mark_as_finished_processing
       agenda.save!
     end
   end

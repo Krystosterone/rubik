@@ -19,6 +19,7 @@ class Agenda < ActiveRecord::Base
 
   attr_default :course_ids, []
   attr_default :courses_per_schedule, COURSES_PER_SCHEDULE_RANGE.begin
+  attr_default :processing, false
   attr_default(:token) { SecureRandom.hex }
 
   alias_attribute :to_param, :token
@@ -39,15 +40,21 @@ class Agenda < ActiveRecord::Base
   end
 
   def combine
-    self.combined_at = nil
+    mark_as_processing
     save.tap { |success| ScheduleGeneratorJob.perform_later(self) if success }
   end
 
-  def processing?
-    !combined_at
+  def mark_as_finished_processing
+    self.processing = false
+    self.combined_at = Time.zone.now
   end
 
   private
+
+  def mark_as_processing
+    self.processing = true
+    self.combined_at = nil
+  end
 
   def validate_leaves
     errors.add(:leaves, :invalid) if leaves.map(&:invalid?).any?

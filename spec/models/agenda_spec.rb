@@ -20,6 +20,7 @@ describe Agenda do
   describe "#new" do
     its(:course_ids) { is_expected.to eq([]) }
     its(:courses_per_schedule) { is_expected.to eq(1) }
+    its(:processing) { is_expected.to eq(false) }
     its(:token) { is_expected.not_to be_nil }
   end
 
@@ -75,6 +76,10 @@ describe Agenda do
       expect { subject.combine }.to change { subject.combined_at }.to(nil)
     end
 
+    it "sets processing to true" do
+      expect { subject.combine }.to change { subject.processing }.from(false).to(true)
+    end
+
     context "when it was not able to save" do
       before { subject.courses_per_schedule = 0 }
 
@@ -86,20 +91,15 @@ describe Agenda do
     end
   end
 
-  describe "#processing?" do
-    context "when there is no combined timestamp" do
-      it "returns true" do
-        expect(subject).to be_processing
-      end
+  describe "#mark_as_finished_processing" do
+    before do
+      Timecop.freeze(2016, 01, 01)
+      subject.mark_as_finished_processing
     end
+    after { Timecop.return }
 
-    context "when there is a combined timestamp" do
-      before { subject.combined_at = Time.zone.now }
-
-      it "returns false" do
-        expect(subject).not_to be_processing
-      end
-    end
+    its(:processing) { is_expected.to eq(false) }
+    its(:combined_at) { is_expected.to eq(Time.zone.now) }
   end
 
   describe "validating leaves" do
