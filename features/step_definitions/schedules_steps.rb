@@ -14,20 +14,21 @@ Alors(/^je vois (\d+) possibilités d'horaires$/) do |count|
 end
 
 Alors /^je vois les horaires:$/ do |table|
-  schedules = find(".schedules").all("fieldset")
+  document = Nokogiri::HTML(html)
+  schedules = document.css(".schedules .schedule")
 
   table.hashes.each do |row|
     weekday_index = I18n.t("date.day_names").index(row["Jour"].downcase)
 
     actual_schedule = schedules.find do |schedule|
-      schedule.has_css?("legend", text: "Horaire - #{row["Numéro d'horaire"]}")
+      schedule.css("legend:contains('Horaire - #{row["Numéro d'horaire"]}')").present?
     end
-    weekday = actual_schedule.find(".weekday-#{weekday_index}")
+    weekday = actual_schedule.at_css(".weekday-#{weekday_index}")
 
-    actual_period = weekday.all(".period").find do |period|
-      period.has_css?("div", text: row["Période"]) &&
-        period.has_css?("div", text: row["Cours"]) &&
-        period.has_css?("div", text: row["Type"])
+    actual_period = weekday.css(".period").find do |period|
+      period.css("div:contains('#{row["Période"]}')").present? &&
+      period.css("div:contains('#{row["Cours"]}')").present? &&
+      period.css("div:contains('#{row["Type"]}')").present?
     end
     raise "Unable to find period #{row}" if actual_period.nil?
   end
