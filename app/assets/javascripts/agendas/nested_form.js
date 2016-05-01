@@ -1,3 +1,5 @@
+"use strict";
+
 export default class NestedForm {
   constructor() {
     $("[data-nested-form] > *").attr("data-fields", "");

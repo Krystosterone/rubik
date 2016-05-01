@@ -1,3 +1,5 @@
+"use strict";
+
 $(() => {
   if (!$(".schedules-controller.processing-action").length)
     return;
