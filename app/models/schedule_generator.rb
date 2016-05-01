@@ -44,8 +44,4 @@ class ScheduleGenerator
       @agenda.schedules.new(course_groups: new_course_groups)
     end
   end
-
-  def add?(course_groups)
-    course_groups.size == @agenda.courses_per_schedule
-  end
 end
