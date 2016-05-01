@@ -1,0 +1,36 @@
+{
+  "name": "rubik",
+  "version": "1.0.0",
+  "description": "[![Circle CI](https://circleci.com/gh/Krystosterone/rubik.svg?style=svg&circle-token=bda09a43695a9d1abd1a5085e97428bcdc1f901b)](https://circleci.com/gh/Krystosterone/rubik)",
+  "main": "app/assets/javascripts/application.js",
+  "engines": {
+    "node": "6.0.0"
+  },
+  "scripts": {
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krystosterone/rubik.git"
+  },
+  "author": "Krystian Czesak",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Krystosterone/rubik/issues"
+  },
+  "homepage": "https://github.com/Krystosterone/rubik#readme",
+  "devDependencies": {
+    "eslint": "^2.9.0"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.6.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.0.0",
+    "browserify-incremental": "^3.1.1"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  }
+}

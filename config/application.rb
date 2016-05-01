@@ -1,7 +1,6 @@
 require File.expand_path("../boot", __FILE__)
 
 require "rails/all"
-require "sprockets/es6"
 
 # Require the gems listed in Gemfile, including any gems
 # you"ve limited to :test, :development, or :production.
@@ -20,6 +19,9 @@ module Rubik
     config.autoload_paths += %W(
       #{config.root}/lib
     )
+
+    config.browserify_rails.commandline_options = "-t babelify"
+    config.browserify_rails.source_map_environments << "development"
 
     config.exceptions_app = routes
     config.action_view.field_error_proc = proc { |html_tag, _instance| html_tag }

@@ -13,3 +13,4 @@
 /tmp
 .ruby-gemset
 coverage
+/node_modules/

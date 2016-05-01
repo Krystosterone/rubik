@@ -1,4 +1,6 @@
-class LeaveNestedForm {
+import $ from "vendor/jquery-2.2.3";
+
+export default class LeaveNestedForm {
   constructor() {
     $("[data-nested-form='leaves'] > [data-fields]").each(this.onFieldsInit.bind(this));
     $(document).on("create", "[data-nested-form='leaves'] > [data-fields]", this.onCreate.bind(this));
@@ -6,7 +8,7 @@ class LeaveNestedForm {
   }
 
   onFieldsInit(index, fields) {
-    let $fields = $(fields)
+    let $fields = $(fields);
 
     this.setDataOptions($fields);
     this.restrictEndsAtSelect($fields.find("[data-leave-starts-at]"));

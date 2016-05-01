@@ -8,7 +8,7 @@ gem "compass-rails"
 gem "bootstrap-sass"
 gem "uglifier", ">= 1.3.0"
 gem "coffee-rails", "~> 4.1.0"
-gem "jquery-rails"
+# gem "jquery-rails"
 gem "haml-rails"
 gem "rails-i18n"
 gem "activemodel-serializers-xml", github: "rails/activemodel-serializers-xml" # needed for draper,
@@ -21,7 +21,7 @@ gem "puma"
 gem "email_validator"
 gem "airbrake"
 gem "sidekiq-unique-jobs"
-gem "sprockets-es6"
+gem "browserify-rails"
 
 # Sidekiq
 gem "sidekiq"
