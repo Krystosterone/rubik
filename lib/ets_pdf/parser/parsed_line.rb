@@ -1,17 +1,23 @@
 class EtsPdf::Parser::ParsedLine
+  LINE_TYPES = %w(course group period).map do |type|
+    [type, self.const_get(type.classify)]
+  end.to_h
+
   def initialize(line)
     @line = line
-    @course = Course.new(line)
-    @group = Group.new(line)
-    @period = Period.new(line)
+    @types = {}
   end
-  attr_reader :course, :group, :line, :period
+  attr_reader :line
 
-  def type?(name)
-    public_send(name).parsed?
+  LINE_TYPES.each do |type, klass|
+    define_method(type) { @types[type] ||= klass.new(@line) }
   end
 
   def parsed?
-    [@course, @group, @period].any?(&:parsed?)
+    LINE_TYPES.keys.any? { |type| type?(type) }
+  end
+
+  def type?(name)
+    LINE_TYPES.keys.include?(name.to_s) ? public_send(name).parsed? : false
   end
 end
