@@ -1,5 +1,3 @@
-import $ from "vendor/jquery-2.2.3";
-
 export default class NestedForm {
   constructor() {
     $("[data-nested-form] > *").attr("data-fields", "");

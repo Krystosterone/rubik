@@ -1,5 +1,3 @@
-import $ from "vendor/jquery-2.2.3";
-
 export default class LeaveNestedForm {
   constructor() {
     $("[data-nested-form='leaves'] > [data-fields]").each(this.onFieldsInit.bind(this));
