@@ -89,14 +89,14 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-core.git
-  revision: e9b99468cbfa45d2c0f38e69a0c9c9184814e327
+  revision: 9a722615eb45cbc8d1a0fc9035fd6600e14b0d10
   specs:
     rspec-core (3.5.0.pre)
       rspec-support (= 3.5.0.pre)
 
 GIT
   remote: git://github.com/rspec/rspec-expectations.git
-  revision: f7b5f1d52484a858eba27c2d6c40794df325d0d0
+  revision: d5b6b35d518ab6692f894d2f124608878c1da946
   specs:
     rspec-expectations (3.5.0.pre)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -104,7 +104,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-mocks.git
-  revision: 993fcf286ac0e5b23f209c8183fa8f2209347d12
+  revision: 4b8dbc9e6251d2c263deeaeb12448e20f67402d6
   specs:
     rspec-mocks (3.5.0.pre)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -112,7 +112,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-rails.git
-  revision: 74131b25e9d0a68e39ee5bf5b0ad08c2fd8a444b
+  revision: ca9e01573edb2e4e7774d42b4aa92ba0959d793d
   specs:
     rspec-rails (3.5.0.pre)
       actionpack (>= 3.0)
@@ -125,7 +125,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-support.git
-  revision: 4b938ec512d2fbee945913afbb957b510244ecb3
+  revision: 7b4fabc42a194a22bc47ec241fd9f5587c68d5f4
   specs:
     rspec-support (3.5.0.pre)
 
