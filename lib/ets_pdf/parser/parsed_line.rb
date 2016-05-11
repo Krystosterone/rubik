@@ -1,6 +1,6 @@
 class EtsPdf::Parser::ParsedLine
   LINE_TYPES = %w(course group period).map do |type|
-    [type, const_get(type.classify)]
+    [type, "EtsPdf::Parser::ParsedLine::#{type.classify}".constantize]
   end.to_h
 
   def initialize(line)
