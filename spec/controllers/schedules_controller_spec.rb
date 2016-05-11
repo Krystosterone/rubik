@@ -105,14 +105,16 @@ describe SchedulesController do
 
     context "when the agenda is still processing" do
       let(:agenda) { double(processing?: true) }
-      before { get :processing, params: { agenda_token: "a_token" } }
+      subject { get :processing, params: { agenda_token: "a_token" } }
 
       it { is_expected.to render_template(:processing) }
+
+      it { is_expected.to have_http_status(:accepted) }
     end
 
     context "when the agenda finished processing" do
       let(:agenda) { double(processing?: false) }
-      before { get :processing, params: { agenda_token: "a_token" } }
+      subject { get :processing, params: { agenda_token: "a_token" } }
 
       it { is_expected.to redirect_to(action: :index) }
     end

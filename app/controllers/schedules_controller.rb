@@ -18,6 +18,7 @@ class SchedulesController < ApplicationController
   end
 
   def processing
+    render :processing, status: :accepted
   end
 
   private
