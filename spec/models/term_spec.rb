@@ -11,9 +11,7 @@ describe Term do
   it { is_expected.to validate_presence_of(:name) }
   it { is_expected.to validate_uniqueness_of(:name).scoped_to(:year, :tags) }
 
-  its(:enabled_at) { is_expected.to eq(Time.zone.now) }
-
-  describe "default scope" do
+  describe ".enabled" do
     let(:ordered_terms) { [] }
     before do
       ordered_terms[0] = create(:term, year: 2015, name: "A", tags: "B")
@@ -24,7 +22,7 @@ describe Term do
     end
 
     it 'returns terms in "year: :desc, name: :asc, tags: :asc" order for enabled terms' do
-      expect(described_class.all).to eq(ordered_terms)
+      expect(described_class.enabled.all).to eq(ordered_terms)
     end
   end
 

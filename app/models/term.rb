@@ -5,7 +5,5 @@ class Term < ActiveRecord::Base
   validates :year, presence: true
   validates :name, presence: true, uniqueness: { scope: [:year, :tags] }
 
-  attr_default(:enabled_at) { Time.zone.now }
-
-  default_scope { where("enabled_at IS NOT NULL").order(year: :desc, name: :asc, tags: :asc) }
+  scope :enabled, -> { where("enabled_at IS NOT NULL").order(year: :desc, name: :asc, tags: :asc) }
 end
