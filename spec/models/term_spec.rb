@@ -4,7 +4,7 @@ describe Term do
   before { Timecop.freeze(2016, 1, 1) }
   after { Timecop.return }
 
-  it { is_expected.to have_many(:academic_degree_terms) }
+  it { is_expected.to have_many(:academic_degree_terms).dependent(:delete_all) }
   it { is_expected.to have_many(:academic_degrees).through(:academic_degree_terms) }
 
   it { is_expected.to validate_presence_of(:year) }

@@ -5,7 +5,7 @@ describe Agenda do
   it { is_expected.to have_one(:academic_degree).through(:academic_degree_term) }
   it { is_expected.to have_one(:term).through(:academic_degree_term) }
   it { is_expected.to have_many(:academic_degree_term_courses).through(:academic_degree_term) }
-  it { is_expected.to have_many(:schedules).dependent(:destroy) }
+  it { is_expected.to have_many(:schedules).dependent(:delete_all) }
 
   it { is_expected.to serialize(:courses).as(AgendaCoursesSerializer) }
   it { is_expected.to serialize(:leaves).as(LeavesSerializer) }

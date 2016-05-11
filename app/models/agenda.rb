@@ -7,7 +7,7 @@ class Agenda < ActiveRecord::Base
   has_one :academic_degree, through: :academic_degree_term
   has_one :term, through: :academic_degree_term
   has_many :academic_degree_term_courses, through: :academic_degree_term
-  has_many :schedules, dependent: :destroy
+  has_many :schedules, dependent: :delete_all
 
   serialize :courses, AgendaCoursesSerializer
   serialize :leaves, LeavesSerializer
