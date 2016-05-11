@@ -10,7 +10,7 @@ const pollProcessing = function() {
           window.location.reload();
         }
       });
-  }, 2000);
+  }, 1000);
 };
 
 $(() => {
