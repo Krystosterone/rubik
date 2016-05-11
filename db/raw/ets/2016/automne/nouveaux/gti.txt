@@ -201,7 +201,7 @@ MATEST      ACCUEIL EN MATHÉMATIQUES
 
 
 PHY144      INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
-            01     Lun          09:00 - 12:30 C
+            01     Lun          09:00 - 12:30    C
                    Mer          09:00 - 12:00    TP
             02     Ven          09:00 - 12:30    C
                    Mer          13:30 - 16:30    TP
