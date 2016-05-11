@@ -11,6 +11,7 @@
       font-size: 24px
       color: $body-bg
       text-align: center
+      @include animation(show-title 0.5s)
 
     .sk-folding-cube
       position: absolute
@@ -59,21 +60,7 @@
         &:before
           @include animation-delay(0.9s)
 
-    @-webkit-keyframes sk-foldCubeAngle
-      0%, 10%
-        @include transform(perspective(140px) rotateX(-180deg))
-        opacity: 0
-
-      25%, 75%
-        @include transform(perspective(140px) rotateX(0deg))
-        opacity: 1
-
-      90%, 100%
-        @include transform(perspective(140px) rotateX(180deg))
-        opacity: 0
-
-
-    @keyframes sk-foldCubeAngle
+    @include keyframes(sk-foldCubeAngle)
       0%, 10%
         @include transform(perspective(140px) rotateX(-180deg))
         opacity: 0
@@ -85,3 +72,12 @@
       90%, 100%
         @include transform(perspective(140px) rotateY(180deg))
         opacity: 0
+
+    @include keyframes(show-title)
+      0%
+        @include transform(scale(1.2))
+        opacity: 0
+
+      100%
+        @include transform(scale(1))
+        opacity: 1
