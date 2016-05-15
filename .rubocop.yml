@@ -34,6 +34,9 @@ Style/AsciiIdentifiers:
   Exclude:
     - features/step_definitions/**/*
 
+Style/IndentArray:
+  EnforcedStyle: consistent
+
 Rails:
   Enabled: true
 

@@ -34,7 +34,7 @@ describe AgendaCourseCollection do
     ]
   end
 
-  subject { AgendaCourseCollection.new(courses, mandatory_course_codes, leaves) }
+  subject { described_class.new(courses, mandatory_course_codes, leaves) }
 
   its(:mandatory) { is_expected.to eq(courses[0..0]) }
   its(:pruned) do
