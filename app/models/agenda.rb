@@ -39,6 +39,10 @@ class Agenda < ActiveRecord::Base
     courses.collect(&:id)
   end
 
+  def courses
+    AgendaCourseCollection.new(super, [], leaves)
+  end
+
   def combine
     mark_as_processing
     save.tap { |success| ScheduleGeneratorJob.perform_later(self) if success }

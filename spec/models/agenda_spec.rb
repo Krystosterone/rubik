@@ -69,6 +69,14 @@ describe Agenda do
     its(:course_ids) { is_expected.to eq([3, 9000]) }
   end
 
+  describe "#courses" do
+    let(:courses) { [AgendaCourse.new(id: 3), AgendaCourse.new(id: 9000)] }
+    before { subject.courses = courses }
+
+    its(:courses) { is_expected.to be_a(Array) }
+    its(:courses) { is_expected.to be_a(AgendaCourseCollection) }
+  end
+
   describe "#combine" do
     subject { create(:combined_agenda) }
 

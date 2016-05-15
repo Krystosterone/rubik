@@ -4,26 +4,12 @@ class ScheduleGenerator
   end
 
   def combine
-    pruned_courses.combination(@agenda.courses_per_schedule).each do |course_set|
+    @agenda.courses.pruned.combination(@agenda.courses_per_schedule).each do |course_set|
       iterate(course_set, [])
     end
   end
 
   private
-
-  def pruned_courses
-    @agenda.courses.each(&method(:prune_groups)).reject(&:empty?)
-  end
-
-  def prune_groups(course)
-    course.groups.reject! { |group| overlaps_leaves?(group) }
-  end
-
-  def overlaps_leaves?(group)
-    @agenda.leaves.any? do |leave|
-      group.periods.any? { |period| leave.overlaps?(period) }
-    end
-  end
 
   def iterate(course_set, course_groups)
     course = course_set.first

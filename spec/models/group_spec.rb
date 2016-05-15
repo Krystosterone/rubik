@@ -9,7 +9,9 @@ describe Group do
   it { is_expected.to have_attr_accessor(:number) }
   it { is_expected.to have_attr_accessor(:periods) }
 
-  describe '#new' do
+  it { is_expected.to delegate_method(:empty?).to(:periods) }
+
+  describe "#new" do
     context "when passing in attributes" do
       let(:periods) { [double, double] }
       subject { described_class.new(number: 1, periods: periods) }
@@ -19,7 +21,7 @@ describe Group do
     end
   end
 
-  describe '#overlaps?' do
+  describe "#overlaps?" do
     context "when no periods overlap" do
       subject do
         described_class.new(
@@ -67,7 +69,7 @@ describe Group do
     end
   end
 
-  describe '#==' do
+  describe "#==" do
     let(:periods) { [double] }
 
     it "returns false if periods do not match" do
