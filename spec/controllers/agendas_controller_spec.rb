@@ -108,8 +108,13 @@ describe AgendasController do
           post :create,
                params: {
                  academic_degree_term_id: academic_degree_term.id,
-                 agenda: { course_ids: [course.id],
-                           courses_per_schedule: 1 }
+                 agenda: {
+                   course_ids: [course.id],
+                   courses_per_schedule: 1,
+                   leaves_attributes: {
+                     0 => { starts_at: 0, ends_at: 100 }
+                   },
+                 },
                }
         end
 
@@ -122,6 +127,8 @@ describe AgendasController do
           expect(agenda.courses_per_schedule).to eq(1)
           expect(agenda.courses.size).to eq(1)
           expect(agenda.courses[0]).to eq(serialized_course)
+          expect(agenda.leaves.size).to eq(1)
+          expect(agenda.leaves[0]).to eq(Leave.new(starts_at: 0, ends_at: 100))
         end
       end
     end
@@ -156,29 +163,6 @@ describe AgendasController do
       end
     end
 
-    context "when adding a leave" do
-      before do
-        post :update,
-             params: {
-               token: agenda.token,
-               agenda: {
-                 leaves_attributes: {
-                   0 => { starts_at: 0 }
-                 }
-               }
-             }
-      end
-
-      let(:assigned_agenda) { assigns(:agenda) }
-
-      it { is_expected.to render_template(:edit) }
-
-      it "adds a leave to the agenda" do
-        expect(assigned_agenda).to eq(agenda)
-        expect(assigned_agenda.leaves.size).to eq(1)
-      end
-    end
-
     context "when the agenda was able to be combined" do
       let(:course) { create(:academic_degree_term_course, academic_degree_term: agenda.academic_degree_term) }
       let(:serialized_course) { AgendaCourse.from(course) }
@@ -186,8 +170,13 @@ describe AgendasController do
         post :update,
              params: {
                token: agenda.token,
-               agenda: { course_ids: [course.id],
-                         courses_per_schedule: 1 }
+               agenda: {
+                 course_ids: [course.id],
+                 courses_per_schedule: 1,
+                 leaves_attributes: {
+                   0 => { starts_at: 0, ends_at: 100 }
+                 },
+               }
              }
         agenda.reload
       end
@@ -198,6 +187,8 @@ describe AgendasController do
         expect(agenda.courses_per_schedule).to eq(1)
         expect(agenda.courses.size).to eq(1)
         expect(agenda.courses[0]).to eq(serialized_course)
+        expect(agenda.leaves.size).to eq(1)
+        expect(agenda.leaves[0]).to eq(Leave.new(starts_at: 0, ends_at: 100))
       end
     end
   end

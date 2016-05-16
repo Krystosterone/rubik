@@ -14,8 +14,14 @@ describe Agenda do
 
   it { is_expected.to validate_presence_of(:courses) }
   it { is_expected.to validate_inclusion_of(:courses_per_schedule).in_range(1..5) }
-
   it { is_expected.to validate_with(AgendaCoursesValidator) }
+
+  its(:course_ids) { is_expected.to be_empty }
+  its(:courses_per_schedule) { is_expected.to eq(1) }
+  its(:processing) { is_expected.to eq(false) }
+  its(:token) { is_expected.to be_present }
+
+  it { is_expected.to delegate_method(:empty?).to(:schedules) }
 
   describe "#new" do
     its(:course_ids) { is_expected.to eq([]) }
@@ -31,8 +37,6 @@ describe Agenda do
       expect(subject.to_param).to eq("a_token")
     end
   end
-
-  it { is_expected.to delegate_method(:empty?).to(:schedules) }
 
   describe "#course_ids=" do
     let(:academic_degree_term) { create(:academic_degree_term) }
