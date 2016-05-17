@@ -8,6 +8,8 @@
     = javascript_include_tag "application"
     = csrf_meta_tags
   %body
+    %noscript
+      .well.text-center= t(".noscript_warning")
     = render "shared/navbar" if @show_navigation
     = yield
     = render "shared/footer" if @show_navigation

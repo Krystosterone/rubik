@@ -60,6 +60,7 @@ fr:
   layouts:
     application:
       title: Rubik
+      noscript_warning: Veuillez activer Javascript pour utiliser le site
   shared:
     breadcrumb:
       terms: Trimestres
@@ -72,7 +73,7 @@ fr:
       comments: Commentaires
   schedules:
     index:
-      blank_agenda: Veuillez choisir une nouvelle combinaison de cours; aucune combinaison n'a pu être trouvée.
+      blank_agenda: Veuillez choisir une nouvelle combinaison de cours; aucune combinaison n'a pu être trouvée
       edit: Éditer
       title: Horaires
     processing:
