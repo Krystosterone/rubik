@@ -17,10 +17,23 @@
   .container
     %fieldset
       %legend= f.label :courses
+      %p= t(".mandatory_courses_explication_html")
+
+      - mandatory_checkbox_name = "agenda[mandatory_course_codes][]"
+      = hidden_field_tag mandatory_checkbox_name, nil, id: nil
+
       = f.collection_check_boxes :course_ids, agenda.academic_degree_term_courses, :id, :code do |ff|
-        .course-checkbox-button
-          = ff.check_box
+        - value = ff.text.downcase
+        - mandatory_course_id = "agenda_mandatory_course_codes_#{value}"
+
+        .course-checkbox-button.btn-group.btn-group-justified{ role: "group" }
+          = ff.check_box data: { :"child-checkbox" => mandatory_course_id }
           = ff.label(class: "btn btn-default") { ff.text }
+
+          = check_box_tag mandatory_checkbox_name, value, agenda.mandatory_course_codes.include?(value), id: mandatory_course_id
+          = label_tag mandatory_course_id, class: "btn btn-default" do
+            %i.checked.fa.fa-lock
+            %i.unchecked.fa.fa-unlock-alt
 
     %fieldset
       %legend= f.label :courses_per_schedule

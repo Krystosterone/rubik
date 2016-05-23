@@ -114,6 +114,7 @@ describe AgendasController do
                    leaves_attributes: {
                      0 => { starts_at: 0, ends_at: 100 }
                    },
+                   mandatory_course_codes: [course.code],
                  },
                }
         end
@@ -129,6 +130,7 @@ describe AgendasController do
           expect(agenda.courses[0]).to eq(serialized_course)
           expect(agenda.leaves.size).to eq(1)
           expect(agenda.leaves[0]).to eq(Leave.new(starts_at: 0, ends_at: 100))
+          expect(agenda.mandatory_course_codes).to eq([course.code])
         end
       end
     end
@@ -176,6 +178,7 @@ describe AgendasController do
                  leaves_attributes: {
                    0 => { starts_at: 0, ends_at: 100 }
                  },
+                 mandatory_course_codes: [course.code],
                }
              }
         agenda.reload
@@ -189,6 +192,7 @@ describe AgendasController do
         expect(agenda.courses[0]).to eq(serialized_course)
         expect(agenda.leaves.size).to eq(1)
         expect(agenda.leaves[0]).to eq(Leave.new(starts_at: 0, ends_at: 100))
+        expect(agenda.mandatory_course_codes).to eq([course.code])
       end
     end
   end

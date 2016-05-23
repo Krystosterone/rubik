@@ -11,6 +11,7 @@ class Agenda < ActiveRecord::Base
 
   serialize :courses, AgendaCoursesSerializer
   serialize :leaves, LeavesSerializer
+  serialize :mandatory_course_codes, JSON
   serialized_accepts_nested_attributes_for :leaves
 
   validate :validate_leaves
@@ -18,12 +19,16 @@ class Agenda < ActiveRecord::Base
   validates_with AgendaCoursesValidator
 
   attr_default :course_ids, []
+  attr_default :mandatory_course_codes, []
   attr_default :courses_per_schedule, COURSES_PER_SCHEDULE_RANGE.begin
   attr_default :processing, false
   attr_default(:token) { SecureRandom.hex }
 
   alias_attribute :to_param, :token
   delegate :empty?, to: :schedules
+  delegate :pruned, to: :courses, prefix: true
+  delegate :mandatory, :remainder, to: :courses, prefix: true
+  delegate :mandatory, :remainder, to: :courses_pruned, prefix: true
 
   def initialize(attributes = {})
     course_ids = attributes.delete(:course_ids)
@@ -40,7 +45,7 @@ class Agenda < ActiveRecord::Base
   end
 
   def courses
-    AgendaCourseCollection.new(super, [], leaves)
+    AgendaCourseCollection.new(super, mandatory_course_codes, leaves)
   end
 
   def combine
@@ -51,6 +56,10 @@ class Agenda < ActiveRecord::Base
   def mark_as_finished_processing
     self.processing = false
     self.combined_at = Time.zone.now
+  end
+
+  def mandatory_course_codes=(values)
+    super values.reject(&:blank?)
   end
 
   private

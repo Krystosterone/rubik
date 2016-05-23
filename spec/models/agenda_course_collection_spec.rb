@@ -26,7 +26,7 @@ describe AgendaCourseCollection do
       ),
     ]
   end
-  let(:mandatory_course_codes) { ["COURSE_1"] }
+  let(:mandatory_course_codes) { %w(COURSE_1) }
   let(:leaves) do
     [
       Leave.new(starts_at: 0, ends_at: 50),
@@ -36,7 +36,8 @@ describe AgendaCourseCollection do
 
   subject { described_class.new(courses, mandatory_course_codes, leaves) }
 
-  its(:mandatory) { is_expected.to eq(courses[0..0]) }
+  its(:mandatory) { is_expected.to eq([courses[0]]) }
+  its(:remainder) { is_expected.to eq([courses[1]]) }
   its(:pruned) do
     is_expected.to eq([
       AgendaCourse.new(

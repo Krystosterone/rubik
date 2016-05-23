@@ -34,7 +34,7 @@ describe ScheduleGeneratorTestCase do
     end
   end
 
-  describe '#write' do
+  describe "#write" do
     let(:agenda) { create(:combined_agenda) }
     let(:test_case) { YAML.load_file(@tmp_folder_path.join("#{agenda.token}.yaml")) }
     let(:test_case_data) do
@@ -43,6 +43,7 @@ describe ScheduleGeneratorTestCase do
           courses_per_schedule: agenda.courses_per_schedule,
           courses: agenda.courses,
           leaves: agenda.leaves,
+          mandatory_course_codes: agenda.mandatory_course_codes,
           token: agenda.token,
         },
         generated_course_groups: agenda.schedules.collect(&:course_groups)

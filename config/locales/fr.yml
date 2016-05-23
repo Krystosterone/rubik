@@ -17,6 +17,7 @@ fr:
         courses: Cours
         courses_per_schedule: Nombre de cours par horaire
         leaves: Congés
+        mandatory_course_codes: Cours obligatoires
         term_title: Trimestre
       comment:
         user_email: Courriel
@@ -27,14 +28,18 @@ fr:
           attributes:
             courses:
               blank: Veuillez sélectionner au moins un cours
-              greater_than_or_equal_to_courses_per_schedule: Veuillez sélectionner une quantité de cours supérieur ou égal au nombre de cours par horaire
+              greater_than_or_equal_to_courses_per_schedule: Veuillez sélectionner un nombre de cours supérieur ou égal au nombre de cours par horaire
             courses_per_schedule:
               inclusion: Le nombre de cours par horaire "%{value}" est interdit
             leaves:
               invalid: Veuillez corriger les congés spécifiés
+            mandatory_course_codes:
+              less_than_or_equal_to_courses_per_schedule: Veuillez sélectionner un nombre de cours obligatoires égal ou inférieur au nombre de cours par horaire
+              redundant: Le nombre de cours obligatoires équivaut au nombre de cours par horaire; Votre sélection de cours non-obligatoire sera donc ignorée.
   agendas:
     edit:
       title: Choix de cours
+      mandatory_courses_explication_html: Sélectionnez le "<i class="fa fa-lock"></i>" au côté d'un cours pour le rendre obligatoire.
   comments:
     new:
       title: Laisser un commentaire
