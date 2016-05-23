@@ -9,7 +9,7 @@ describe Agenda do
 
   it { is_expected.to serialize(:courses).as(AgendaCoursesSerializer) }
   it { is_expected.to serialize(:leaves).as(LeavesSerializer) }
-
+  it { is_expected.to serialize(:mandatory_course_codes) }
   it { is_expected.to accept_nested_attributes_for_serialized(:leaves, attributes: { starts_at: 0, ends_at: 100 }) }
 
   it { is_expected.to validate_presence_of(:courses) }
@@ -17,11 +17,17 @@ describe Agenda do
   it { is_expected.to validate_with(AgendaCoursesValidator) }
 
   its(:course_ids) { is_expected.to be_empty }
+  its(:mandatory_course_codes) { is_expected.to be_empty }
   its(:courses_per_schedule) { is_expected.to eq(1) }
   its(:processing) { is_expected.to eq(false) }
   its(:token) { is_expected.to be_present }
 
   it { is_expected.to delegate_method(:empty?).to(:schedules) }
+  it { is_expected.to delegate_method(:pruned).to(:courses).with_prefix }
+  it { is_expected.to delegate_method(:mandatory).to(:courses).with_prefix }
+  it { is_expected.to delegate_method(:remainder).to(:courses).with_prefix }
+  it { is_expected.to delegate_method(:mandatory).to(:courses_pruned).with_prefix }
+  it { is_expected.to delegate_method(:remainder).to(:courses_pruned).with_prefix }
 
   describe "#new" do
     its(:course_ids) { is_expected.to eq([]) }
@@ -74,11 +80,15 @@ describe Agenda do
   end
 
   describe "#courses" do
-    let(:courses) { [AgendaCourse.new(id: 3), AgendaCourse.new(id: 9000)] }
-    before { subject.courses = courses }
+    subject { build(:agenda, mandatory_course_codes: %w(COURSE_1 COURSE_2)) }
+    let(:courses_collection) { double(AgendaCourseCollection) }
+    before do
+      allow(AgendaCourseCollection)
+        .to receive(:new).with(subject.courses, subject.mandatory_course_codes, subject.leaves)
+        .and_return(courses_collection)
+    end
 
-    its(:courses) { is_expected.to be_a(Array) }
-    its(:courses) { is_expected.to be_a(AgendaCourseCollection) }
+    its(:courses) { is_expected.to eq(courses_collection) }
   end
 
   describe "#combine" do
@@ -112,6 +122,12 @@ describe Agenda do
 
     its(:processing) { is_expected.to eq(false) }
     its(:combined_at) { is_expected.to eq(Time.zone.now) }
+  end
+
+  describe "mandatory_course_codes=" do
+    subject { build(:agenda, mandatory_course_codes: [nil, "COURSE_1", "", "COURSE_2"]) }
+
+    its(:mandatory_course_codes) { %w(COURSE_1 COURSE_2) }
   end
 
   describe "validating leaves" do

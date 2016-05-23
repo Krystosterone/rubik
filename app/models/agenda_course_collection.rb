@@ -9,6 +9,10 @@ class AgendaCourseCollection < Array
     collection(mandatory_courses)
   end
 
+  def remainder
+    collection(remainder_courses)
+  end
+
   def pruned
     collection(pruned_courses)
   end
@@ -22,9 +26,15 @@ class AgendaCourseCollection < Array
   end
 
   def mandatory_courses
-    @mandatory_course_codes.collect do |mandatory_course_code|
-      cloned_courses.find { |course| course.code.casecmp(mandatory_course_code) }
-    end
+    cloned_courses.select(&method(:mandatory?))
+  end
+
+  def remainder_courses
+    cloned_courses.reject(&method(:mandatory?))
+  end
+
+  def mandatory?(course)
+    @mandatory_course_codes.any? { |mandatory_course_code| mandatory_course_code.casecmp(course.code).zero? }
   end
 
   def pruned_courses
