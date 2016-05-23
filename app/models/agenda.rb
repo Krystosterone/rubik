@@ -18,11 +18,13 @@ class Agenda < ActiveRecord::Base
   validates :courses_per_schedule, inclusion: { in: COURSES_PER_SCHEDULE_RANGE }
   validates_with AgendaCoursesValidator
 
-  attr_default :course_ids, []
-  attr_default :mandatory_course_codes, []
-  attr_default :courses_per_schedule, COURSES_PER_SCHEDULE_RANGE.begin
-  attr_default :processing, false
-  attr_default(:token) { SecureRandom.hex }
+  after_initialize do
+    self.course_ids ||= []
+    self.mandatory_course_codes ||= []
+    self.courses_per_schedule ||= COURSES_PER_SCHEDULE_RANGE.begin
+    self.processing ||= false
+    self.token ||= SecureRandom.hex
+  end
 
   alias_attribute :to_param, :token
   delegate :empty?, to: :schedules

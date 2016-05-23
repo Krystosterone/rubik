@@ -142,8 +142,6 @@ GEM
     airbrake-ruby (1.0.4)
     arel (7.0.0)
     ast (2.2.0)
-    attribute-defaults (0.7.0)
-      activerecord (>= 4.0.0, < 5.0.0)
     autoprefixer-rails (6.3.1)
       execjs
       json
@@ -427,7 +425,6 @@ PLATFORMS
 DEPENDENCIES
   activemodel-serializers-xml
   airbrake
-  attribute-defaults
   better_errors
   binding_of_caller
   bootstrap-sass

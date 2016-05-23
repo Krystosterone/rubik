@@ -13,7 +13,6 @@ gem "haml-rails"
 gem "rails-i18n"
 gem "activemodel-serializers-xml"
 gem "draper", github: "audionerd/draper", branch: "rails5"
-gem "attribute-defaults"
 gem "kaminari", github: "amatsuda/kaminari" # remove once rails 5 is fully supported
 gem "kaminari-i18n"
 gem "puma"
