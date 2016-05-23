@@ -11,8 +11,7 @@ gem "coffee-rails", "~> 4.1.0"
 gem "jquery-rails"
 gem "haml-rails"
 gem "rails-i18n"
-gem "activemodel-serializers-xml", github: "rails/activemodel-serializers-xml" # needed for draper,
-# remove once rails 5 is fully supported
+gem "activemodel-serializers-xml"
 gem "draper", github: "audionerd/draper", branch: "rails5"
 gem "attribute-defaults"
 gem "kaminari", github: "amatsuda/kaminari" # remove once rails 5 is fully supported
