@@ -1,3 +1,3 @@
 class NewsletterSubscription < ActiveRecord::Base
-  validates :email, email: true, presence: true, uniqueness: true
+  validates :email, email: true, uniqueness: true
 end
