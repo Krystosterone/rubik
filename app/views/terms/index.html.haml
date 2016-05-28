@@ -3,6 +3,28 @@
     %h1= t('.title')
     %p= t('.subtitle')
 
+= form_for @newsletter_subscription, url: create_newsletter_subscription_terms_path, html: { class: "form-horizontal" } do |f|
+  .container
+    .col-xs-12
+      = render "shared/flash_messages"
+
+      %p.text-center
+        = link_to "#newsletter-subscription-collapse", data: { toggle: "collapse" } do
+          %i.glyphicon.glyphicon-bell
+          = t(".newsletter_subscription_message")
+
+  #newsletter-subscription-collapse.collapse{ class: ("in" if f.object.errors.present?) }
+    .well
+      .container
+        .form-group{ class: ("has-error" if f.object.errors.key?(:email)) }
+          = f.label :email, class: "col-sm-1 control-label"
+          .col-sm-11
+            = f.text_field :email, class: "form-control"
+            - f.object.errors[:email].each do |error|
+              .help-block= error
+
+        = f.submit class: "col-xs-12 col-sm-4 pull-right btn btn-primary btn-sm"
+
 .container
   - terms.each_slice(2) do |terms_slice|
     .row= render partial: 'term', collection: terms_slice

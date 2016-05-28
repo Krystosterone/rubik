@@ -36,6 +36,10 @@ fr:
             mandatory_course_codes:
               less_than_or_equal_to_courses_per_schedule: Veuillez sélectionner un nombre de cours obligatoires égal ou inférieur au nombre de cours par horaire
               redundant: Le nombre de cours obligatoires équivaut au nombre de cours par horaire; Votre sélection de cours non-obligatoire sera donc ignorée.
+        newsletter_subscription:
+          attributes:
+            email:
+              taken: a déjà été enregistré
   agendas:
     edit:
       title: Choix de cours
@@ -93,3 +97,6 @@ fr:
     index:
       title: Générateur d'horaires
       subtitle: Faites votre choix de cours avec aisance
+      newsletter_subscription_message: Appuyez ici pour être notifié à la prochaine mise-à-jour des trimestres
+    create_newsletter_subscription:
+      success: Vous serez notifié à la prochaine mise-à-jour des trimestres

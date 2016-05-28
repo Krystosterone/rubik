@@ -11,6 +11,13 @@ describe "Application Routing" do
     end
   end
 
+  describe "terms#create_newsletter_subscription" do
+    it "routes POST /terms/create_newsletter_subscription" do
+      expect(post: "/terms/create_newsletter_subscription").to route_to("terms#create_newsletter_subscription")
+      expect(create_newsletter_subscription_terms_path).to eq("/terms/create_newsletter_subscription")
+    end
+  end
+
   describe "agendas#show", type: :request do
     it "redirects GET /agendas/<token> to /agendas/<token>/schedules" do
       get("/agendas/a_token")
