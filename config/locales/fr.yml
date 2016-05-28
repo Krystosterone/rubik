@@ -39,7 +39,7 @@ fr:
   agendas:
     edit:
       title: Choix de cours
-      mandatory_courses_explication_html: Sélectionnez le "<i class="fa fa-lock"></i>" au côté d'un cours pour le rendre obligatoire.
+      mandatory_courses_explication_html: Sélectionnez le "<i class="fa fa-lock"></i>" à côté d'un cours pour le rendre obligatoire.
   comments:
     new:
       title: Laisser un commentaire
