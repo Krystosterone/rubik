@@ -1,18 +1,28 @@
-$hero-jumbotron-height: 400px
-$hero-jumbotron-padding: 60px
-
 .terms-controller body
   .navbar.navbar-inverse
     margin-bottom: 0
     @include box-shadow(none)
 
   .hero-jumbotron
-    min-height: $hero-jumbotron-height - $hero-jumbotron-padding * 2
-    margin-bottom: 30px
-    padding: $hero-jumbotron-padding 0 $hero-jumbotron-padding 0
+    margin-bottom: 15px
+    padding: 60px 0 60px 0
     background-image: asset-url("ets-jumbotron.jpg")
     background-size: cover
     background-position: center center
+
+    @media (max-width: $screen-md-min)
+      padding: 30px 0 30px 0
+
+      h1
+        margin-bottom: 5px
+        font-size: 46px
+
+    @media (max-width: $screen-sm-min)
+      padding: 15px 0 15px 0
+
+      h1
+        margin-bottom: 0
+        font-size: 36px
 
     *
       color: white
