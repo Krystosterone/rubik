@@ -5,7 +5,11 @@ Rails.application.routes.draw do
   mount LetterOpenerWeb::Engine, at: "/letter_opener" if Rails.env.development?
 
   resources :comments, only: [:new, :create]
-  resources :terms, only: :index
+  resources :terms, only: :index do
+    collection do
+      post :create_newsletter_subscription
+    end
+  end
   resources :academic_degree_terms, only: [] do
     resources :agendas, except: :show, param: :token, shallow: true do
       get "/", to: redirect("/agendas/%{agenda_token}/schedules", 302)
