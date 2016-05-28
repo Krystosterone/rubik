@@ -22,6 +22,8 @@ fr:
       comment:
         user_email: Courriel
         body: Commentaire
+      newsletter_subscription:
+        email: Courriel
     errors:
       models:
         agenda:
