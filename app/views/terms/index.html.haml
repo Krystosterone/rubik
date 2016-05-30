@@ -5,13 +5,12 @@
 
 = form_for @newsletter_subscription, url: create_newsletter_subscription_terms_path, html: { class: "form-horizontal" } do |f|
   .container
-    .col-xs-12
-      = render "shared/flash_messages"
+    = render "shared/flash_messages"
 
-      %p.text-center
-        = link_to "#newsletter-subscription-collapse", data: { toggle: "collapse" } do
-          %i.glyphicon.glyphicon-bell
-          = t(".newsletter_subscription_message")
+    %p
+      = link_to "#newsletter-subscription-collapse", data: { toggle: "collapse" } do
+        %i.fa.fa-bell-o
+        = t(".newsletter_subscription_message")
 
   #newsletter-subscription-collapse.collapse{ class: ("in" if f.object.errors.present?) }
     .well

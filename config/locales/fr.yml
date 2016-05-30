@@ -99,6 +99,6 @@ fr:
     index:
       title: Générateur d'horaires
       subtitle: Faites votre choix de cours avec aisance
-      newsletter_subscription_message: Appuyez ici pour être notifié à la prochaine mise-à-jour des trimestres
+      newsletter_subscription_message: Je veux être notifié à la prochaine mise à jour des trimestres
     create_newsletter_subscription:
-      success: Vous serez notifié à la prochaine mise-à-jour des trimestres
+      success: Vous serez notifié à la prochaine mise à jour des trimestres
