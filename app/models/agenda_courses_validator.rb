@@ -5,9 +5,9 @@ class AgendaCoursesValidator < ActiveModel::Validator
     elsif courses_mismatch?(agenda)
       agenda.errors.add(:courses, :greater_than_or_equal_to_courses_per_schedule)
     elsif mandatory_courses_overflow?(agenda)
-      agenda.errors.add(:mandatory_course_codes, :less_than_or_equal_to_courses_per_schedule)
+      agenda.errors.add(:mandatory_course_ids, :less_than_or_equal_to_courses_per_schedule)
     elsif mandatory_courses_redundant?(agenda)
-      agenda.errors.add(:mandatory_course_codes, :redundant)
+      agenda.errors.add(:mandatory_course_ids, :redundant)
     end
   end
 

@@ -11,7 +11,7 @@ class Agenda < ActiveRecord::Base
 
   serialize :courses, AgendaCoursesSerializer
   serialize :leaves, LeavesSerializer
-  serialize :mandatory_course_codes, JSON
+  serialize :mandatory_course_ids, JSON
   serialized_accepts_nested_attributes_for :leaves
 
   validate :validate_leaves
@@ -20,7 +20,7 @@ class Agenda < ActiveRecord::Base
 
   after_initialize do
     self.course_ids ||= []
-    self.mandatory_course_codes ||= []
+    self.mandatory_course_ids ||= []
     self.courses_per_schedule ||= COURSES_PER_SCHEDULE_RANGE.begin
     self.processing ||= false
     self.token ||= SecureRandom.hex
@@ -47,7 +47,7 @@ class Agenda < ActiveRecord::Base
   end
 
   def courses
-    AgendaCourseCollection.new(super, mandatory_course_codes, leaves)
+    AgendaCourseCollection.new(super, mandatory_course_ids, leaves)
   end
 
   def combine
@@ -60,8 +60,8 @@ class Agenda < ActiveRecord::Base
     self.combined_at = Time.zone.now
   end
 
-  def mandatory_course_codes=(values)
-    super values.reject(&:blank?)
+  def mandatory_course_ids=(values)
+    super values.reject(&:blank?).map(&:to_i)
   end
 
   private

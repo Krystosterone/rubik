@@ -17,7 +17,7 @@ fr:
         courses: Cours
         courses_per_schedule: Nombre de cours par horaire
         leaves: Congés
-        mandatory_course_codes: Cours obligatoires
+        mandatory_course_ids: Cours obligatoires
         term_title: Trimestre
       comment:
         user_email: Courriel
@@ -35,7 +35,7 @@ fr:
               inclusion: Le nombre de cours par horaire "%{value}" est interdit
             leaves:
               invalid: Veuillez corriger les congés spécifiés
-            mandatory_course_codes:
+            mandatory_course_ids:
               less_than_or_equal_to_courses_per_schedule: Veuillez sélectionner un nombre de cours obligatoires égal ou inférieur au nombre de cours par horaire
               redundant: Le nombre de cours obligatoires équivaut au nombre de cours par horaire; Votre sélection de cours non-obligatoire sera donc ignorée.
         newsletter_subscription:

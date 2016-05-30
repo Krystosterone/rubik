@@ -43,7 +43,7 @@ describe ScheduleGeneratorTestCase do
           courses_per_schedule: agenda.courses_per_schedule,
           courses: agenda.courses,
           leaves: agenda.leaves,
-          mandatory_course_codes: agenda.mandatory_course_codes,
+          mandatory_course_ids: agenda.mandatory_course_ids,
           token: agenda.token,
         },
         generated_course_groups: agenda.schedules.collect(&:course_groups)

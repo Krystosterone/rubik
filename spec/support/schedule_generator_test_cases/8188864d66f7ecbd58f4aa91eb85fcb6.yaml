@@ -100,11 +100,11 @@
         starts_at: 2520
         ends_at: 2700
   :leaves: []
-  :mandatory_course_codes:
-  - log515
-  - log635
-  - log645
-  - log660
+  :mandatory_course_ids:
+  - 3065
+  - 3066
+  - 3067
+  - 3068
   :token: 8188864d66f7ecbd58f4aa91eb85fcb6
 :generated_course_groups:
 - - !ruby/object:CourseGroup

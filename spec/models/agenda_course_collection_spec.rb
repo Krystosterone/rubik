@@ -4,6 +4,7 @@ describe AgendaCourseCollection do
   let(:courses) do
     [
       AgendaCourse.new(
+        id: 1,
         code: "COURSE_1",
         groups: [
           Group.new(periods: [
@@ -16,6 +17,7 @@ describe AgendaCourseCollection do
         ]
       ),
       AgendaCourse.new(
+        id: 2,
         code: "COURSE_2",
         groups: [
           Group.new(periods: [
@@ -26,7 +28,7 @@ describe AgendaCourseCollection do
       ),
     ]
   end
-  let(:mandatory_course_codes) { %w(COURSE_1) }
+  let(:mandatory_course_ids) { [1] }
   let(:leaves) do
     [
       Leave.new(starts_at: 0, ends_at: 50),
@@ -34,13 +36,14 @@ describe AgendaCourseCollection do
     ]
   end
 
-  subject { described_class.new(courses, mandatory_course_codes, leaves) }
+  subject { described_class.new(courses, mandatory_course_ids, leaves) }
 
   its(:mandatory) { is_expected.to eq([courses[0]]) }
   its(:remainder) { is_expected.to eq([courses[1]]) }
   its(:pruned) do
     is_expected.to eq([
       AgendaCourse.new(
+        id: 1,
         code: "COURSE_1",
         groups: [
           Group.new(periods: [

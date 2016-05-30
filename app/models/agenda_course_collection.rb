@@ -1,7 +1,7 @@
 class AgendaCourseCollection < Array
-  def initialize(courses, mandatory_course_codes, leaves)
+  def initialize(courses, mandatory_course_ids, leaves)
     super courses
-    @mandatory_course_codes = mandatory_course_codes
+    @mandatory_course_ids = mandatory_course_ids
     @leaves = leaves
   end
 
@@ -34,7 +34,7 @@ class AgendaCourseCollection < Array
   end
 
   def mandatory?(course)
-    @mandatory_course_codes.any? { |mandatory_course_code| mandatory_course_code.casecmp(course.code).zero? }
+    @mandatory_course_ids.any? { |mandatory_course_id| mandatory_course_id == course.id }
   end
 
   def pruned_courses
@@ -52,6 +52,6 @@ class AgendaCourseCollection < Array
   end
 
   def collection(courses)
-    AgendaCourseCollection.new(courses, @mandatory_course_codes, @leaves)
+    AgendaCourseCollection.new(courses, @mandatory_course_ids, @leaves)
   end
 end

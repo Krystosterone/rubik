@@ -287,10 +287,10 @@
   - !ruby/object:Leave
     starts_at: 7200
     ends_at: 8640
-  :mandatory_course_codes:
-  - gti619
-  - log210
-  - log635
+  :mandatory_course_ids:
+  - 3051
+  - 3059
+  - 3066
   :token: 6d44cb9f344acdcc583e333b5a354862
 :generated_course_groups:
 - - !ruby/object:CourseGroup

@@ -3,7 +3,7 @@ class ScheduleGeneratorTestCase
     courses_per_schedule
     courses
     leaves
-    mandatory_course_codes
+    mandatory_course_ids
     token
   ).freeze
 

@@ -4,15 +4,15 @@
     .col-sm-8
       = f.text_field :courses_per_schedule, disabled: true, readonly: true, class: 'form-control'
 
-  - if agenda.mandatory_course_codes.present?
+  - if agenda.courses_mandatory.present?
     .form-group
       .col-sm-4.control-label
-        = f.label :mandatory_course_codes
+        = f.label :mandatory_course_ids
         .label.label-default
           %i.fa.fa-lock
       .col-sm-8.courses-list
-        - agenda.mandatory_course_codes.each do |course_code|
-          .label.label-info= course_code.upcase
+        - agenda.courses_mandatory.each do |course|
+          .label.label-info= course.code
 
   - if agenda.courses_remainder.present?
     .form-group

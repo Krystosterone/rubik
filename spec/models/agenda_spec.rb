@@ -9,7 +9,7 @@ describe Agenda do
 
   it { is_expected.to serialize(:courses).as(AgendaCoursesSerializer) }
   it { is_expected.to serialize(:leaves).as(LeavesSerializer) }
-  it { is_expected.to serialize(:mandatory_course_codes) }
+  it { is_expected.to serialize(:mandatory_course_ids) }
   it { is_expected.to accept_nested_attributes_for_serialized(:leaves, attributes: { starts_at: 0, ends_at: 100 }) }
 
   it { is_expected.to validate_presence_of(:courses) }
@@ -17,7 +17,7 @@ describe Agenda do
   it { is_expected.to validate_with(AgendaCoursesValidator) }
 
   its(:course_ids) { is_expected.to be_empty }
-  its(:mandatory_course_codes) { is_expected.to be_empty }
+  its(:mandatory_course_ids) { is_expected.to be_empty }
   its(:courses_per_schedule) { is_expected.to eq(1) }
   its(:processing) { is_expected.to eq(false) }
   its(:token) { is_expected.to be_present }
@@ -80,11 +80,11 @@ describe Agenda do
   end
 
   describe "#courses" do
-    subject { build(:agenda, mandatory_course_codes: %w(COURSE_1 COURSE_2)) }
+    subject { build(:agenda, mandatory_course_ids: [1, 2]) }
     let(:courses_collection) { double(AgendaCourseCollection) }
     before do
       allow(AgendaCourseCollection)
-        .to receive(:new).with(subject.courses, subject.mandatory_course_codes, subject.leaves)
+        .to receive(:new).with(subject.courses, subject.mandatory_course_ids, subject.leaves)
         .and_return(courses_collection)
     end
 
@@ -124,10 +124,10 @@ describe Agenda do
     its(:combined_at) { is_expected.to eq(Time.zone.now) }
   end
 
-  describe "mandatory_course_codes=" do
-    subject { build(:agenda, mandatory_course_codes: [nil, "COURSE_1", "", "COURSE_2"]) }
+  describe "mandatory_course_ids=" do
+    subject { build(:agenda, mandatory_course_ids: [nil, "1", "", "2"]) }
 
-    its(:mandatory_course_codes) { %w(COURSE_1 COURSE_2) }
+    its(:mandatory_course_ids) { [1, 2] }
   end
 
   describe "validating leaves" do

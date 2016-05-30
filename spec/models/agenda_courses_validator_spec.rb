@@ -32,20 +32,20 @@ describe AgendaCoursesValidator do
       let(:agenda) do
         Agenda.new(
           courses: [
-            AgendaCourse.new(code: "COURSE_1"),
-            AgendaCourse.new(code: "COURSE_2"),
-            AgendaCourse.new(code: "COURSE_3"),
-            AgendaCourse.new(code: "COURSE_4"),
+            AgendaCourse.new(id: 1),
+            AgendaCourse.new(id: 2),
+            AgendaCourse.new(id: 3),
+            AgendaCourse.new(id: 4),
           ],
           courses_per_schedule: 2,
-          mandatory_course_codes: %w(COURSE_1 COURSE_2 COURSE_3)
+          mandatory_course_ids: [1, 2, 3]
         )
       end
 
       it "adds and error on the record" do
         error_code = :less_than_or_equal_to_courses_per_schedule
         expect { subject.validate(agenda) }
-          .to change { agenda.errors.added?(:mandatory_course_codes, error_code) }.to(true)
+          .to change { agenda.errors.added?(:mandatory_course_ids, error_code) }.to(true)
       end
     end
 
@@ -53,19 +53,19 @@ describe AgendaCoursesValidator do
       let(:agenda) do
         Agenda.new(
           courses: [
-            AgendaCourse.new(code: "COURSE_1"),
-            AgendaCourse.new(code: "COURSE_2"),
-            AgendaCourse.new(code: "COURSE_3"),
-            AgendaCourse.new(code: "COURSE_4"),
+            AgendaCourse.new(id: 1),
+            AgendaCourse.new(id: 2),
+            AgendaCourse.new(id: 3),
+            AgendaCourse.new(id: 4),
           ],
           courses_per_schedule: 3,
-          mandatory_course_codes: %w(COURSE_1 COURSE_2 COURSE_3)
+          mandatory_course_ids: [1, 2, 3]
         )
       end
 
       it "adds and error on the record" do
         expect { subject.validate(agenda) }
-          .to change { agenda.errors.added?(:mandatory_course_codes, :redundant) }.to(true)
+          .to change { agenda.errors.added?(:mandatory_course_ids, :redundant) }.to(true)
       end
     end
   end
