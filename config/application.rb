@@ -25,7 +25,7 @@ module Rubik
 
     config.exceptions_app = routes
     config.action_view.field_error_proc = proc { |html_tag, _instance| html_tag }
-    config.ga_tracking_id = nil
-    config.comment_email_recipient = nil
+    config.ga_tracking_id = ENV.fetch("GA_ANALYTICS_ID")
+    config.comment_email_recipient = ENV.fetch("COMMENT_EMAIL_RECIPIENT")
   end
 end

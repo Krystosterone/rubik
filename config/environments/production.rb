@@ -22,7 +22,4 @@ Rails.application.configure do
     domain: "heroku.com",
     enable_starttls_auto: true
   }
-
-  config.ga_tracking_id = ENV.fetch("GA_ANALYTICS_ID")
-  config.comment_email_recipient = ENV.fetch("COMMENT_EMAIL_RECIPIENT")
 end
