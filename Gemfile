@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 ruby "2.3.0"
 
-gem "rails", github: "rails/rails"
+gem "rails", github: "rails/rails", tag: "v5.0.0.rc1"
 gem "mysql2", "~> 0.3.18"
 gem "sass-rails", "~> 5.0"
 gem "compass-rails"
@@ -13,7 +13,7 @@ gem "haml-rails"
 gem "rails-i18n"
 gem "activemodel-serializers-xml"
 gem "draper", github: "audionerd/draper", branch: "rails5"
-gem "kaminari", github: "amatsuda/kaminari" # remove once rails 5 is fully supported
+gem "kaminari"
 gem "kaminari-i18n"
 gem "puma"
 gem "email_validator"
@@ -29,11 +29,7 @@ group :development do
   gem "bullet"
   gem "better_errors"
   gem "binding_of_caller"
-  gem "guard"
-  # gem "guard-rspec" Remove temporarily until rails 5 is fully supported
-  gem "terminal-notifier-guard"
   gem "rubocop"
-  gem "guard-rubocop"
   gem "rubocop-rspec"
   gem "letter_opener"
   gem "letter_opener_web", "~> 1.2.0"
@@ -45,14 +41,7 @@ group :development, :test do
 end
 
 group :test do
-  # All of those are needed for rails 5 support
-  # Remove once fully supported and replace by 'gem "rspec-rails""
-  gem "rspec-rails", github: "rspec/rspec-rails"
-  gem "rspec-core", github: "rspec/rspec-core"
-  gem "rspec-expectations", github: "rspec/rspec-expectations"
-  gem "rspec-mocks", github: "rspec/rspec-mocks"
-  gem "rspec-support", github: "rspec/rspec-support"
-
+  gem "rspec-rails", github: "rspec/rspec-rails", tag: "v3.5.0.beta4" # remove once rails 5 is fully supported
   gem "shoulda-matchers", require: false
   gem "factory_girl_rails"
   gem "database_cleaner"
