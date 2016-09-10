@@ -5,7 +5,7 @@ describe ScheduleGeneratorJob do
     let(:agenda) { create(:combined_agenda) }
     let(:schedule_generator) { double(ScheduleGenerator) }
     before do
-      Timecop.freeze(2016, 01, 01)
+      Timecop.freeze(2016, 1, 1)
       allow(ScheduleGenerator).to receive(:new).with(agenda).and_return(schedule_generator)
     end
     after { Timecop.return }

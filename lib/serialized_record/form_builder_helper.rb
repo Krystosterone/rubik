@@ -1,11 +1,13 @@
 module SerializedRecord::FormBuilderHelper
+  include ActionView::Helpers::OutputSafetyHelper
+
   def nested_form(association)
     member = association.to_s.singularize
 
-    [
+    safe_join([
       association_container(association, member),
       javascript_template(association, member),
-    ].join.html_safe
+    ])
   end
 
   def association_container(association, member)
@@ -21,10 +23,10 @@ module SerializedRecord::FormBuilderHelper
     input_field = hidden_field(:_destroy, value: "1", disabled: true, data: { "nested-form-destroy-input" => "" })
     button = button(value, options.merge(data: { "nested-form-destroy" => "" }, type: "button"))
 
-    [
+    safe_join([
       input_field,
       button,
-    ].join.html_safe
+    ])
   end
 
   private

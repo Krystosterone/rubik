@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe WeekdayTimeDecorator do
-  describe '#time' do
+  describe "#time" do
     context "with minutes less than 10" do
       let(:weekday_time) { double(WeekdayTime, hour: 5, minutes: 9) }
       subject { described_class.new(weekday_time) }

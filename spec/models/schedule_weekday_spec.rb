@@ -3,7 +3,7 @@ require "rails_helper"
 describe ScheduleWeekday do
   it { is_expected.to delegate_method(:empty?).to(:periods) }
 
-  describe '#new' do
+  describe "#new" do
     context "when passing in some attributes" do
       let(:periods) { [double, double] }
       subject { described_class.new(index: 6, periods: periods) }
@@ -26,7 +26,7 @@ describe ScheduleWeekday do
     its(:ends_at) { is_expected.to eq(800) }
   end
 
-  describe '#weekend?' do
+  describe "#weekend?" do
     { [0, 6] => true,
       (1..5) => false }.each do |indexes, is_weekend|
       indexes.each do |index|
@@ -41,7 +41,7 @@ describe ScheduleWeekday do
     end
   end
 
-  describe '#==' do
+  describe "#==" do
     let(:periods) { [double(Period), double(Period)] }
     subject { described_class.new(index: 3, periods: periods) }
 

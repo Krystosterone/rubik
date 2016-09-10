@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe EtsPdf::Etl::Transform::AcademicDegreeUpdater do
-  describe '#execute' do
+  describe "#execute" do
     let(:academic_degree_term) { create(:academic_degree_term) }
     let(:lines) do
       [

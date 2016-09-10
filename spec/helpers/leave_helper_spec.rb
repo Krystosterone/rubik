@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe LeaveHelper do
-  describe '#leave_times' do
+  describe "#leave_times" do
     let(:result) do
       leaves = Array.new(7) do |day|
         (0..23).collect { |hour| WeekTime.on(day, hour) }

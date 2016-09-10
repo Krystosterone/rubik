@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe BreadcrumbHelper do
-  describe '#breadcrumb' do
+  describe "#breadcrumb" do
     let(:controller_name) { "some_controller_name" }
     let(:breadcrumb_instance) { double(Breadcrumb) }
     before do

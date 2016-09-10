@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe ScheduleWeekdayDecorator do
-  describe '#periods' do
+  describe "#periods" do
     let(:schedule_weekday) { build(:schedule_weekday) }
     subject { described_class.new(schedule_weekday) }
 
@@ -11,7 +11,7 @@ describe ScheduleWeekdayDecorator do
     end
   end
 
-  describe '#collapsible?' do
+  describe "#collapsible?" do
     context "when it is empty" do
       let(:schedule_weekday) { double(ScheduleWeekday, empty?: true) }
       subject { described_class.new(schedule_weekday) }
@@ -27,7 +27,7 @@ describe ScheduleWeekdayDecorator do
     end
   end
 
-  describe '#backdrop_class' do
+  describe "#backdrop_class" do
     context "when the weekday is not a weekend" do
       let(:schedule_weekday) { double(ScheduleWeekday, weekend?: false) }
       subject { described_class.new(schedule_weekday) }
@@ -47,7 +47,7 @@ describe ScheduleWeekdayDecorator do
     end
   end
 
-  describe '#css_class' do
+  describe "#css_class" do
     context "for a weekend weekday with index 0" do
       let(:schedule_weekday) { double(ScheduleWeekday, index: 0, weekend?: true) }
       subject { described_class.new(schedule_weekday) }
@@ -65,7 +65,7 @@ describe ScheduleWeekdayDecorator do
     end
   end
 
-  describe '#name' do
+  describe "#name" do
     %w(Dimanche Lundi Mardi Mercredi Jeudi Vendredi Samedi).each_with_index do |name, index|
       context "for index #{index}" do
         let(:schedule_weekday) { double(ScheduleWeekday, index: index) }

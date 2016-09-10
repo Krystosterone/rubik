@@ -14,7 +14,7 @@ class ScheduleWeekday
   end
 
   def weekend?
-    @index == 0 || @index == 6
+    index.zero? || index == 6
   end
 
   def ==(other)

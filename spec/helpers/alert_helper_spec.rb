@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe AlertHelper do
-  describe '#alert_class' do
+  describe "#alert_class" do
     described_class::CLASSES.each do |type, css_class|
       context "with type #{type}" do
         specify { expect(alert_class(type)).to eq(css_class) }

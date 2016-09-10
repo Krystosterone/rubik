@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe EtsPdf::Etl do
-  describe '#execute' do
+  describe "#execute" do
     let(:pre_process_pipe) { double(EtsPdf::Etl::PreProcess) }
     let(:extract_pipe) { double(EtsPdf::Etl::Extract) }
     let(:transform_pipe) { double(EtsPdf::Etl::Transform) }

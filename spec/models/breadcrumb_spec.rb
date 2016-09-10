@@ -23,13 +23,13 @@ describe Breadcrumb do
       let(:current_handle) { handle }
       subject { described_class.new(view_context, current_handle) }
 
-      describe '#current_name' do
+      describe "#current_name" do
         specify do
           expect(subject.render { current_name }).to eq(".#{handle}")
         end
       end
 
-      describe '#links' do
+      describe "#links" do
         specify do
           expect do |b|
             subject.render { links(&b) }

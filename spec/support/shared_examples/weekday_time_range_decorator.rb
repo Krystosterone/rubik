@@ -1,5 +1,5 @@
 shared_examples "WeekdayTimeRangeDecorator" do |decorated_class:|
-  describe '#time_span' do
+  describe "#time_span" do
     let(:weekday_time_range) do
       double(decorated_class,
              starts_at: WeekTime.new(50),
@@ -12,7 +12,7 @@ shared_examples "WeekdayTimeRangeDecorator" do |decorated_class:|
     end
   end
 
-  describe '#starts_at' do
+  describe "#starts_at" do
     let(:weekday_time_range) { double(decorated_class, starts_at: WeekTime.new(50)) }
     subject { described_class.new(weekday_time_range) }
 
@@ -22,7 +22,7 @@ shared_examples "WeekdayTimeRangeDecorator" do |decorated_class:|
     end
   end
 
-  describe '#ends_at' do
+  describe "#ends_at" do
     let(:weekday_time_range) { double(decorated_class, ends_at: WeekTime.new(50)) }
     subject { described_class.new(weekday_time_range) }
 
@@ -32,7 +32,7 @@ shared_examples "WeekdayTimeRangeDecorator" do |decorated_class:|
     end
   end
 
-  describe '#to_partial_path' do
+  describe "#to_partial_path" do
     let(:partial_path) { decorated_class.name.underscore }
     subject { described_class.new(decorated_class.new) }
 

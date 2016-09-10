@@ -22,7 +22,7 @@ describe Schedule do
     its(:ends_at) { is_expected.to eq(1410) }
     its(:duration) { is_expected.to eq(1320) }
 
-    describe '#weekdays' do
+    describe "#weekdays" do
       it "groups them per weekdays" do
         expect(subject.weekdays[0])
           .to eq(ScheduleWeekday.new(index: 0,

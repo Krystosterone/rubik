@@ -3,7 +3,7 @@ require "rails_helper"
 describe ScheduleLeaveDecorator do
   it_behaves_like "WeekdayTimeRangeDecorator", decorated_class: ScheduleLeave
 
-  describe '#css_class' do
+  describe "#css_class" do
     let(:weekday_time_range) do
       double(ScheduleLeave, starts_at: WeekTime.new(1000), duration: 4000)
     end

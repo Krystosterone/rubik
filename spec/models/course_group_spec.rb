@@ -10,7 +10,7 @@ describe CourseGroup do
   it { is_expected.to delegate_method(:periods).to(:group) }
   it { is_expected.to delegate_method(:overlaps?).to(:group) }
 
-  describe '#new' do
+  describe "#new" do
     context "with attributes passed in" do
       subject { described_class.new(code: "CODE", group: group) }
 
@@ -19,7 +19,7 @@ describe CourseGroup do
     end
   end
 
-  describe '#==' do
+  describe "#==" do
     it "returns false if course groups do not match" do
       expect(described_class.new(code: nil, group: nil))
         .not_to eq(described_class.new(code: "CODE", group: group))

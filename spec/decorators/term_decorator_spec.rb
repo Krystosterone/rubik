@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe TermDecorator do
-  describe '#title' do
+  describe "#title" do
     let(:term) { double(Term, name: "A name", year: "2015", tags: nil) }
     subject { described_class.new(term) }
 

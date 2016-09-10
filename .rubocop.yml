@@ -1,4 +1,4 @@
-require: rubocop-rspec
+#require: rubocop-rspec
 
 AllCops:
   TargetRubyVersion: 2.2
@@ -40,25 +40,25 @@ Style/IndentArray:
 Rails:
   Enabled: true
 
-RSpec/AnyInstance:
-  Exclude:
-    - spec/controllers/agendas_controller_spec.rb
-    - spec/controllers/comments_controller_spec.rb
-    - spec/models/agenda_spec.rb
-
-RSpec/DescribeClass:
-  Exclude:
-    - spec/**/*.rake_spec.rb
-    - spec/routing/**/*_spec.rb
-    - spec/support/shared_examples/coerced_attr_accessor.rb
-
-RSpec/FilePath:
-  Exclude:
-    - spec/config/application.rb
-    - spec/config/initializers/maintenance_spec.rb
-
-RSpec/InstanceVariable:
-  Exclude:
-    - spec/lib/schedule_generator_test_case_spec.rb
-    - spec/helpers/google_analytics_helper_spec.rb
-    - spec/middleware/maintenance_spec.rb
+#RSpec/AnyInstance:
+#  Exclude:
+#    - spec/controllers/agendas_controller_spec.rb
+#    - spec/controllers/comments_controller_spec.rb
+#    - spec/models/agenda_spec.rb
+#
+#RSpec/DescribeClass:
+#  Exclude:
+#    - spec/**/*.rake_spec.rb
+#    - spec/routing/**/*_spec.rb
+#    - spec/support/shared_examples/coerced_attr_accessor.rb
+#
+#RSpec/FilePath:
+#  Exclude:
+#    - spec/config/application.rb
+#    - spec/config/initializers/maintenance_spec.rb
+#
+#RSpec/InstanceVariable:
+#  Exclude:
+#    - spec/lib/schedule_generator_test_case_spec.rb
+#    - spec/helpers/google_analytics_helper_spec.rb
+#    - spec/middleware/maintenance_spec.rb

@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe EtsPdf::Etl::Transform::AcademicDegreeTermCourseUpdater do
-  describe '#execute' do
+  describe "#execute" do
     let(:academic_degree_term) { create(:academic_degree_term) }
     let(:course_data) { double(EtsPdf::Parser::ParsedLine::Course, code: "LOG120") }
     let(:course) { Course.find_by(code: "LOG120") }

@@ -3,7 +3,7 @@ require "rails_helper"
 describe ScheduleCourse do
   it_behaves_like "WeekdayTimeRange"
 
-  describe '#new' do
+  describe "#new" do
     context "when passing in some attributes" do
       subject { described_class.new(index: 3, code: "LOG320", number: 1, type: "TP") }
 
@@ -14,7 +14,7 @@ describe ScheduleCourse do
     end
   end
 
-  describe '#==' do
+  describe "#==" do
     subject { described_class.new(index: 3, code: "LOG320", number: 1, type: "TP") }
 
     context "when instances do not match" do

@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe EtsPdf::Etl::Transform::PeriodUpdater do
-  describe '#execute' do
+  describe "#execute" do
     described_class::TYPES.each do |parsed_type, transformed_type|
       context "for a period of type #{parsed_type}" do
         let(:group) { Group.new(number: 1) }

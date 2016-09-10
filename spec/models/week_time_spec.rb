@@ -12,7 +12,7 @@ describe WeekTime do
     end
   end
 
-  describe '#hour' do
+  describe "#hour" do
     context "for 2300 minutes" do
       subject { described_class.new(2300) }
 
@@ -22,7 +22,7 @@ describe WeekTime do
     end
   end
 
-  describe '#weekday_index' do
+  describe "#weekday_index" do
     context "for 4500 minutes" do
       subject { described_class.new(4500) }
       its(:weekday_index) { is_expected.to eq(3) }

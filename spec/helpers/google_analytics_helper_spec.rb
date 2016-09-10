@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe GoogleAnalyticsHelper do
-  describe '#ga_tracking_id' do
+  describe "#ga_tracking_id" do
     before do
       @old_ga_tracking_id = Rails.application.config.ga_tracking_id
       Rails.application.config.ga_tracking_id = "Test-GA-ID"

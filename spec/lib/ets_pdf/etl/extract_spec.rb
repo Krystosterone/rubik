@@ -6,30 +6,36 @@ describe EtsPdf::Etl::Extract do
 
   TXT_SUBSET = "db/raw/ets/2014/hiver/**/*".freeze
 
-  describe '#execute' do
+  describe "#execute" do
     subject { described_class.new(TXT_SUBSET) }
     before { allow(EtsPdf::Parser).to receive(:new) { |path| double(execute: path) } }
 
     it "returns a comprehensible data structure" do
-      expect(subject.execute).to match("2014" => {
-                                         "hiver" => {
-                                           "anciens" => {
-                                             "ctn" => txt_matching(:anciens, :ctn),
-                                             "ele" => txt_matching(:anciens, :ele),
-                                             "gol" => txt_matching(:anciens, :gol),
-                                             "gpa" => txt_matching(:anciens, :gpa),
-                                             "gti" => txt_matching(:anciens, :gti),
-                                             "log" => txt_matching(:anciens, :log),
-                                             "mec" => txt_matching(:anciens, :mec),
-                                             "seg" => txt_matching(:anciens, :seg) },
-                                           "nouveaux" => {
-                                             "ctn" => txt_matching(:nouveaux, :ctn),
-                                             "ele" => txt_matching(:nouveaux, :ele),
-                                             "gpa" => txt_matching(:nouveaux, :gpa),
-                                             "gti" => txt_matching(:nouveaux, :gti),
-                                             "log" => txt_matching(:nouveaux, :log),
-                                             "mec" => txt_matching(:nouveaux, :mec),
-                                             "seg" => txt_matching(:nouveaux, :seg) } } })
+      expect(subject.execute).to match(
+        "2014" => {
+          "hiver" => {
+            "anciens" => {
+              "ctn" => txt_matching(:anciens, :ctn),
+              "ele" => txt_matching(:anciens, :ele),
+              "gol" => txt_matching(:anciens, :gol),
+              "gpa" => txt_matching(:anciens, :gpa),
+              "gti" => txt_matching(:anciens, :gti),
+              "log" => txt_matching(:anciens, :log),
+              "mec" => txt_matching(:anciens, :mec),
+              "seg" => txt_matching(:anciens, :seg),
+            },
+            "nouveaux" => {
+              "ctn" => txt_matching(:nouveaux, :ctn),
+              "ele" => txt_matching(:nouveaux, :ele),
+              "gpa" => txt_matching(:nouveaux, :gpa),
+              "gti" => txt_matching(:nouveaux, :gti),
+              "log" => txt_matching(:nouveaux, :log),
+              "mec" => txt_matching(:nouveaux, :mec),
+              "seg" => txt_matching(:nouveaux, :seg),
+            }
+          }
+        }
+      )
     end
   end
 

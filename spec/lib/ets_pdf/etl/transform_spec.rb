@@ -3,7 +3,7 @@ require "rails_helper"
 describe EtsPdf::Etl::Transform do
   it_behaves_like "Pipeline"
 
-  describe '#execute' do
+  describe "#execute" do
     let(:terms) { { 2016 => :arguments, 2015 => :more_arguments } }
     subject { described_class.new(terms) }
 

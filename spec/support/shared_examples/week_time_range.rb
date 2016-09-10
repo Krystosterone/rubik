@@ -3,7 +3,7 @@ shared_examples "WeekTimeRange" do
   it_behaves_like "it has a coerced attr_accessor", :starts_at, WeekTime
   it_behaves_like "it has a coerced attr_accessor", :ends_at, WeekTime
 
-  describe '#to_weekday_time_ranges' do
+  describe "#to_weekday_time_ranges" do
     context "when it starts at 0 and ends at 1440" do
       subject { described_class.new(starts_at: 0, ends_at: 1440) }
 

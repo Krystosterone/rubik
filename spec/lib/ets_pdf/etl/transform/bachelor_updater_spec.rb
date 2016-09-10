@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe EtsPdf::Etl::Transform::BachelorUpdater do
-  describe '#execute' do
+  describe "#execute" do
     context "for invalid bachelor handles" do
       let(:term) { double(Term) }
       let(:data) { { "potato" => [] } }

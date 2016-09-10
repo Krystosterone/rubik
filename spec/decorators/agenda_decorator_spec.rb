@@ -9,7 +9,7 @@ describe AgendaDecorator do
   its(:academic_degree_name) { is_expected.to eq("XYZ") }
   its(:term_title) { is_expected.to eq("ABC 2016 - some tags") }
 
-  describe '#term' do
+  describe "#term" do
     it "decorates term" do
       expect(subject.term).to eq(agenda.term)
       expect(subject.term).to be_decorated

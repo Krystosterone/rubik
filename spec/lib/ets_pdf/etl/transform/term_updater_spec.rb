@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe EtsPdf::Etl::Transform::TermUpdater do
-  describe '#execute' do
+  describe "#execute" do
     context "for an invalid term handle" do
       let(:term) { { "patate" => {} } }
       subject { described_class.new(2015, term) }

@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe EtsPdf::Etl::Transform::GroupUpdater do
-  describe '#execute' do
+  describe "#execute" do
     let(:academic_degree_term_course) { build(:academic_degree_term_course) }
     let(:group_data) do
       double(EtsPdf::Parser::ParsedLine::Group,

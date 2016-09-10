@@ -3,7 +3,7 @@ require "rails_helper"
 describe EtsPdf::Etl::PreProcess do
   it_behaves_like "Pipeline"
 
-  describe '#execute' do
+  describe "#execute" do
     let(:pdf_folder) { "tmp/pdf_directory" }
     let(:pdf_pattern) { "#{pdf_folder}/**/*" }
     subject { described_class.new(pdf_pattern) }

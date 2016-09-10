@@ -3,7 +3,7 @@ require "rails_helper"
 describe CommentsController do
   let(:comment) { assigns(:comment) }
 
-  describe '#new' do
+  describe "#new" do
     before { get :new }
 
     it { is_expected.to render_template(:new) }
@@ -14,7 +14,7 @@ describe CommentsController do
     end
   end
 
-  describe '#create' do
+  describe "#create" do
     context "when there is a missing parameter" do
       it "raises an exception" do
         expect { post :create }.to raise_exception(ActionController::ParameterMissing)

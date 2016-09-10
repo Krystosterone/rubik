@@ -115,7 +115,7 @@ describe Agenda do
 
   describe "#mark_as_finished_processing" do
     before do
-      Timecop.freeze(2016, 01, 01)
+      Timecop.freeze(2016, 1, 1)
       subject.mark_as_finished_processing
     end
     after { Timecop.return }

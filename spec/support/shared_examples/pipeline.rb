@@ -19,7 +19,7 @@ shared_examples "Pipeline" do
     end
   end
 
-  describe '#pipe' do
+  describe "#pipe" do
     subject(:pipeline) do
       described_class.new("initial_input").pipe(First).pipe(Second).pipe(Last)
     end

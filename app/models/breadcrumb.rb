@@ -46,7 +46,11 @@ class Breadcrumb
     t ".#{name}"
   end
 
-  def method_missing(name, *args, &block)
-    @view_context.respond_to?(name) ? @view_context.send(name, *args, &block) : super
+  def respond_to_missing?(method_name, *_arguments, &_block)
+    @view_context.respond_to?(method_name)
+  end
+
+  def method_missing(method_name, *args, &block)
+    respond_to_missing?(method_name) ? @view_context.send(method_name, *args, &block) : super
   end
 end

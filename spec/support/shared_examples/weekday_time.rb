@@ -5,8 +5,8 @@ shared_examples "WeekdayTime" do
     its(:total_minutes) { is_expected.to eq(200) }
     it { is_expected.to delegate_method(:to_s).to(:total_minutes) }
 
-    describe '#to_i' do
-      it 'returns #total_minutes' do
+    describe "#to_i" do
+      it "returns #total_minutes" do
         expect(subject.to_i).to eq(200)
       end
     end
@@ -15,7 +15,7 @@ shared_examples "WeekdayTime" do
     its(:minutes) { is_expected.to eq(20) }
   end
 
-  describe '#==' do
+  describe "#==" do
     context "when both do not match" do
       it "returns false" do
         expect(described_class.new(10))

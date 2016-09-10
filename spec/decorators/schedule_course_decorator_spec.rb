@@ -3,7 +3,7 @@ require "rails_helper"
 describe ScheduleCourseDecorator do
   it_behaves_like "WeekdayTimeRangeDecorator", decorated_class: ScheduleCourse
 
-  describe '#css_class' do
+  describe "#css_class" do
     let(:weekday_time_range) do
       double(ScheduleCourse, index: 3, starts_at: WeekTime.new(1000), duration: 4000)
     end
@@ -14,7 +14,7 @@ describe ScheduleCourseDecorator do
     end
   end
 
-  describe '#course' do
+  describe "#course" do
     let(:schedule_course) { ScheduleCourse.new(code: "LOG120", number: 2) }
     subject { described_class.new(schedule_course) }
 
