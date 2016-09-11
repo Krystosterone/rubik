@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class Term < ActiveRecord::Base
   has_many :academic_degree_terms,
            -> { joins(:academic_degree).order("academic_degrees.name DESC") },

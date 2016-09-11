@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class AgendaCoursesSerializer < Serializer
   class << self
     def dump_as_json(courses)

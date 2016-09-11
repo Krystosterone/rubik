@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class WeekTime < WeekdayTime
   class << self
     def on(day, hour)

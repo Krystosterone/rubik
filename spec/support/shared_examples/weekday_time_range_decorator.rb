@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 shared_examples "WeekdayTimeRangeDecorator" do |decorated_class:|
   describe "#time_span" do
     subject(:decorator) { described_class.new(weekday_time_range) }

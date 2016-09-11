@@ -1,4 +1,5 @@
 # encoding: utf-8
+# frozen_string_literal: true
 
 Étantdonnéqu /^je suis sur la page (.*)/ do |page_name|
   visit path_to(page_name)

@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class AcademicDegreeTermCourse < ActiveRecord::Base
   include SerializedRecord::FindOrInitializeFor
 

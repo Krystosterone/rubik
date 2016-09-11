@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class ScheduleGeneratorJob < ActiveJob::Base
   def perform(agenda)
     ActiveRecord::Base.transaction do

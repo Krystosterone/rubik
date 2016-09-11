@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class EtsPdf::Etl::Transform::AcademicDegreeTermCourseUpdater
   def initialize(academic_degree_term, course_data)
     @academic_degree_term = academic_degree_term

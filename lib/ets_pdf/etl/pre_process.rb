@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 class EtsPdf::Etl::PreProcess < Pipeline
-  PDF_EXTENSION = ".pdf".freeze
+  PDF_EXTENSION = ".pdf"
 
   alias pdf_pattern input
 

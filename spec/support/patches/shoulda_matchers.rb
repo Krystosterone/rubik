@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 # TODO: Remove once should-matchers supports rails 5
 
 Shoulda::Matchers::RailsShim.class_eval do

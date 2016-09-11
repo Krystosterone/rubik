@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class AgendasController < ApplicationController
   before_action :expires_now
   before_action :find_academic_degree_term, only: [:new, :create]

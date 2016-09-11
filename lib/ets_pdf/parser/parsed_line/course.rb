@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class EtsPdf::Parser::ParsedLine
   class Course < Base
     def code

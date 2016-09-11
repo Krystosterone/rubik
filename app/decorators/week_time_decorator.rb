@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class WeekTimeDecorator < WeekdayTimeDecorator
   def weekday_time
     "#{weekday} #{time}"

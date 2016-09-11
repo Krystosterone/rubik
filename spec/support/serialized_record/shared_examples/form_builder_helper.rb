@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 shared_examples "SerializedRecord::FormBuilderHelper" do
   subject(:helper) { TestFormBuilder.new("test_professor", professor, view_context, {}) }
   let(:students) { Array.new(3) { TestStudent.new } }

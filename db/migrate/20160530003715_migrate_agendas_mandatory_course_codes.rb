@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class MigrateAgendasMandatoryCourseCodes < ActiveRecord::Migration[5.0]
   def up
     Agenda.all.each do |agenda|

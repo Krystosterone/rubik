@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class Period < WeekTimeRange
   include Draper::Decoratable
   attr_accessor :type

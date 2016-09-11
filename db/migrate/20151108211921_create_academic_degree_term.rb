@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class CreateAcademicDegreeTerm < ActiveRecord::Migration
   def change
     create_table :academic_degree_terms do |t|

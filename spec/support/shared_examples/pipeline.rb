@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 shared_examples "Pipeline" do
   class First < Pipeline
     def execute

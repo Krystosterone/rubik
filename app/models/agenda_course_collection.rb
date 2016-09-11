@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class AgendaCourseCollection < Array
   def initialize(courses, mandatory_course_ids, leaves)
     super courses

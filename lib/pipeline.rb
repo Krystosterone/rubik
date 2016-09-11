@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class Pipeline
   def initialize(input)
     @input = input

@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class ScheduleCourse < WeekdayTimeRange
   attr_accessor :code, :index, :number, :type
 

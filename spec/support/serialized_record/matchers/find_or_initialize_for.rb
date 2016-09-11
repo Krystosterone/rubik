@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 require "rspec/expectations"
 
 RSpec::Matchers.define :find_or_initialize_for_serialized do |column, attributes:|

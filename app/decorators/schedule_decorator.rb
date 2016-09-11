@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class ScheduleDecorator < Draper::Decorator
   delegate_all
   decorates_association :weekdays

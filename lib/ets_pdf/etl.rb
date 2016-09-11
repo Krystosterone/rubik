@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class EtsPdf::Etl < Pipeline
   def initialize(pdf_folder)
     super(pdf_folder)

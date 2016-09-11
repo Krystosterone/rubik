@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class TermsController < ApplicationController
   before_action :assign_terms
 

@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class ScheduleGenerator
   def initialize(agenda)
     @agenda = agenda

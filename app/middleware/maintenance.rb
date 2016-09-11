@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class Maintenance
   def initialize(app)
     @app = app

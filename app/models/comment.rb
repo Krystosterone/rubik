@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class Comment < ActiveRecord::Base
   after_commit :send_email, on: :create
 

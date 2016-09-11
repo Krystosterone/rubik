@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class AcademicDegreeTerm < ActiveRecord::Base
   belongs_to :academic_degree
   belongs_to :term

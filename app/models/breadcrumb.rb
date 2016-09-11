@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class Breadcrumb
   ORDER = %w(terms agendas schedules).freeze
 
@@ -22,7 +23,7 @@ class Breadcrumb
 
   def link_names
     ending = current_index - 1
-    ending < 0 ? [] : ORDER[0..ending]
+    ending.negative? ? [] : ORDER[0..ending]
   end
 
   def current_index

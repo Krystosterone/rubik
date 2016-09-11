@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class EtsPdf::Etl::Transform::PeriodUpdater
   MINUTES_IN_DAY = 24 * 60
   TYPES = {

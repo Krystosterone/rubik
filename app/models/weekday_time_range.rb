@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class WeekdayTimeRange
   include ActiveModel::Model
   include ActiveModel::Validations

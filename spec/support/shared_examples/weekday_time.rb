@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 shared_examples "WeekdayTime" do
   context "for 200 minutes" do
     subject(:time) { described_class.new(200) }

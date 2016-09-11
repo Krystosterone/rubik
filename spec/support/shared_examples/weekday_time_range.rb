@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 shared_examples "WeekdayTimeRange" do
   describe "#new" do
     context "with attributes passed in" do

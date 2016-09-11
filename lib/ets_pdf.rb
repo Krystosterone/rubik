@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 module EtsPdf
   require "ets_pdf/parser"
   require "ets_pdf/parser/parsed_line"

@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class Course < ActiveRecord::Base
   has_many :academic_degree_term_courses
   has_many :academic_degree_terms, through: :academic_degree_term_courses

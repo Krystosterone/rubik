@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class EtsPdf::Etl::Transform::TermUpdater
   TERM_HANDLES = {
     "automne" => "Automne",

@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class EtsPdf::Parser
   def initialize(path)
     @path = path

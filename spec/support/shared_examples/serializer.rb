@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 shared_examples "Serializer" do |data_structure:, as_json:|
   describe ".dump" do
     it "dumps the data structure to JSON" do

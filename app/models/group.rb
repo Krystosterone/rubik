@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class Group
   include ActiveModel::Model
   include SerializedRecord::FindOrInitializeFor

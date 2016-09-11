@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 shared_examples "ParsedLine" do
   [
     "ÉCOLE DE TECHNOLOGIE SUPÉRIEURE",

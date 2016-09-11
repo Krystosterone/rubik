@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class ScheduleLeave < WeekdayTimeRange
   class << self
     def group_by_weekday_index(leaves)
