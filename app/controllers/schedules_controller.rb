@@ -25,7 +25,7 @@ class SchedulesController < ApplicationController
   private
 
   def find_agenda
-    @agenda = Agenda.find_by!(token: agenda_token)
+    @agenda = Agenda.left_outer_joins(:schedules).find_by!(token: agenda_token)
   end
 
   def agenda_token

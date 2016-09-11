@@ -14,21 +14,15 @@ describe SchedulesController do
 
   describe "#index" do
     context "when the agenda is still processing" do
-      let(:agenda) { instance_double(Agenda, processing?: true) }
-      before do
-        allow(Agenda).to receive(:find_by!).with(token: "a_token").and_return(agenda)
-        get :index, params: { agenda_token: "a_token" }
-      end
+      let(:agenda) { create(:processing_agenda) }
+      before { get :index, params: { agenda_token: agenda.token } }
 
       it { is_expected.to redirect_to(action: :processing) }
     end
 
     context "when the agenda is empty" do
-      let(:agenda) { instance_double(Agenda, token: "a_token", processing?: false, empty?: true) }
-      before do
-        allow(Agenda).to receive(:find_by!).with(token: agenda.token).and_return(agenda)
-        get :index, params: { agenda_token: agenda.token }
-      end
+      let(:agenda) { create(:combined_empty_agenda) }
+      before { get :index, params: { agenda_token: agenda.token } }
 
       it { is_expected.to redirect_to(edit_agenda_path(token: agenda.token)) }
 
@@ -108,11 +102,9 @@ describe SchedulesController do
   end
 
   describe "#processing" do
-    before { allow(Agenda).to receive(:find_by!).with(token: "a_token").and_return(agenda) }
-
     context "when the agenda is still processing" do
-      subject { get :processing, params: { agenda_token: "a_token" } }
-      let(:agenda) { instance_double(Agenda, processing?: true) }
+      subject { get :processing, params: { agenda_token: agenda.token } }
+      let(:agenda) { create(:processing_agenda) }
 
       it { is_expected.to render_template(:processing) }
 
@@ -120,8 +112,8 @@ describe SchedulesController do
     end
 
     context "when the agenda finished processing" do
-      subject { get :processing, params: { agenda_token: "a_token" } }
-      let(:agenda) { instance_double(Agenda, processing?: false) }
+      subject { get :processing, params: { agenda_token: agenda.token } }
+      let(:agenda) { create(:combined_agenda) }
 
       it { is_expected.to redirect_to(action: :index) }
     end

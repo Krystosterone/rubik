@@ -22,13 +22,10 @@ describe AgendasController do
   }.each do |method, action|
     describe "##{action}" do
       context "when the agenda is still processing" do
-        let(:agenda) { instance_double(Agenda, processing?: true, to_param: "a_token") }
-        before do
-          allow(Agenda).to receive(:find_by!).with(token: "a_token").and_return(agenda)
-          public_send method, action, params: { token: "a_token" }
-        end
+        let(:agenda) { create(:processing_agenda) }
+        before { public_send method, action, params: { token: agenda.token } }
 
-        it { is_expected.to redirect_to(processing_agenda_schedules_path("a_token")) }
+        it { is_expected.to redirect_to(processing_agenda_schedules_path(agenda.token)) }
       end
 
       context "when the agenda does not exist" do

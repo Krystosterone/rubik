@@ -21,9 +21,17 @@ FactoryGirl.define do
     courses_per_schedule 4
     leaves { build_list(:leave, 4) }
 
+    factory :processing_agenda do
+      processing true
+    end
+
     factory :combined_agenda do
       combined_at { Time.zone.now }
       schedules { build_list(:schedule, 4) }
+    end
+
+    factory :combined_empty_agenda do
+      combined_at { Time.zone.now }
     end
   end
 

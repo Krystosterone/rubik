@@ -32,7 +32,7 @@ class AgendasController < ApplicationController
   end
 
   def find_agenda
-    @agenda = Agenda.find_by!(token: agenda_token)
+    @agenda = Agenda.joins(:academic_degree_term).find_by!(token: agenda_token)
   end
 
   def agenda_params
