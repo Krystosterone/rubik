@@ -13,7 +13,7 @@ describe SchedulesController do
 
   describe "#index" do
     context "when the agenda is still processing" do
-      let(:agenda) { double(Agenda, processing?: true) }
+      let(:agenda) { instance_double(Agenda, processing?: true) }
       before do
         allow(Agenda).to receive(:find_by!).with(token: "a_token").and_return(agenda)
         get :index, params: { agenda_token: "a_token" }
@@ -23,7 +23,7 @@ describe SchedulesController do
     end
 
     context "when the agenda is empty" do
-      let(:agenda) { double(Agenda, token: "a_token", processing?: false, empty?: true) }
+      let(:agenda) { instance_double(Agenda, token: "a_token", processing?: false, empty?: true) }
       before do
         allow(Agenda).to receive(:find_by!).with(token: agenda.token).and_return(agenda)
         get :index, params: { agenda_token: agenda.token }
@@ -57,9 +57,15 @@ describe SchedulesController do
       let(:assigned_schedules) { assigns(:schedules) }
       before { get :index, params: { agenda_token: agenda.token, page: 1 } }
 
-      it "assigns the paginated schedules" do
+      it "assigns the schedules" do
         expect(assigned_schedules).to eq(agenda.schedules)
+      end
+
+      it "sets the correct current page" do
         expect(assigned_schedules.current_page).to eq(1)
+      end
+
+      it "sets the correct limit value" do
         expect(assigned_schedules.limit_value).to eq(50)
       end
     end
@@ -104,8 +110,8 @@ describe SchedulesController do
     before { allow(Agenda).to receive(:find_by!).with(token: "a_token").and_return(agenda) }
 
     context "when the agenda is still processing" do
-      let(:agenda) { double(processing?: true) }
       subject { get :processing, params: { agenda_token: "a_token" } }
+      let(:agenda) { instance_double(Agenda, processing?: true) }
 
       it { is_expected.to render_template(:processing) }
 
@@ -113,8 +119,8 @@ describe SchedulesController do
     end
 
     context "when the agenda finished processing" do
-      let(:agenda) { double(processing?: false) }
       subject { get :processing, params: { agenda_token: "a_token" } }
+      let(:agenda) { instance_double(Agenda, processing?: false) }
 
       it { is_expected.to redirect_to(action: :index) }
     end

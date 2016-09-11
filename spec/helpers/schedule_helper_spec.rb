@@ -2,7 +2,7 @@ require "rails_helper"
 
 describe ScheduleHelper do
   describe "#schedule_page_index" do
-    before { @schedules = double("Schedules", current_page: 3, limit_value: 50) }
+    before { @schedules = instance_double("Schedules", current_page: 3, limit_value: 50) }
 
     it "returns the schedule page index" do
       expect(schedule_page_index).to eq(100)

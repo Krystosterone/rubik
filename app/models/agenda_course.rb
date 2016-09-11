@@ -6,9 +6,11 @@ class AgendaCourse
 
   class << self
     def from(academic_degree_term_course)
-      new(id: academic_degree_term_course.id,
-          code: academic_degree_term_course.code,
-          groups: academic_degree_term_course.groups)
+      new(
+        id: academic_degree_term_course.id,
+        code: academic_degree_term_course.code,
+        groups: academic_degree_term_course.groups
+      )
     end
   end
 

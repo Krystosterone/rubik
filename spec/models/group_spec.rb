@@ -13,8 +13,8 @@ describe Group do
 
   describe "#new" do
     context "when passing in attributes" do
-      let(:periods) { [double, double] }
       subject { described_class.new(number: 1, periods: periods) }
+      let(:periods) { [double, double] }
 
       its(:number) { is_expected.to eq(1) }
       its(:periods) { is_expected.to eq(periods) }
@@ -23,7 +23,7 @@ describe Group do
 
   describe "#overlaps?" do
     context "when no periods overlap" do
-      subject do
+      subject(:group) do
         described_class.new(
           number: 1,
           periods: [
@@ -42,11 +42,11 @@ describe Group do
         )
       end
 
-      specify { expect(subject.overlaps?(other)).to eq(false) }
+      specify { expect(group.overlaps?(other)).to eq(false) }
     end
 
     context "when periods overlap" do
-      subject do
+      subject(:group) do
         described_class.new(
           number: 1,
           periods: [
@@ -65,7 +65,7 @@ describe Group do
         )
       end
 
-      specify { expect(subject.overlaps?(other)).to eq(true) }
+      specify { expect(group.overlaps?(other)).to eq(true) }
     end
   end
 

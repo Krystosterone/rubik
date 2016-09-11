@@ -1,8 +1,8 @@
 require "rails_helper"
 
 describe Breadcrumb do
-  let(:academic_degree_term) { double(AcademicDegreeTerm) }
-  let(:agenda) { double(Agenda, academic_degree_term: academic_degree_term) }
+  let(:academic_degree_term) { instance_double(AcademicDegreeTerm) }
+  let(:agenda) { instance_double(Agenda, academic_degree_term: academic_degree_term) }
   let(:view_context) do
     double.tap do |view_context|
       allow(view_context).to receive(:t) { |key| key }
@@ -20,19 +20,19 @@ describe Breadcrumb do
     "schedules" => %w(.terms_root_path .agendas_agenda_path),
   }.each do |handle, links|
     context "with current handle as #{handle}" do
+      subject(:breadcrumb) { described_class.new(view_context, current_handle) }
       let(:current_handle) { handle }
-      subject { described_class.new(view_context, current_handle) }
 
       describe "#current_name" do
         specify do
-          expect(subject.render { current_name }).to eq(".#{handle}")
+          expect(breadcrumb.render { current_name }).to eq(".#{handle}")
         end
       end
 
       describe "#links" do
         specify do
           expect do |b|
-            subject.render { links(&b) }
+            breadcrumb.render { links(&b) }
           end.to yield_successive_args(*links)
         end
       end

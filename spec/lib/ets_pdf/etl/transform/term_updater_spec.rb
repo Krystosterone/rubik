@@ -3,24 +3,25 @@ require "rails_helper"
 describe EtsPdf::Etl::Transform::TermUpdater do
   describe "#execute" do
     context "for an invalid term handle" do
+      subject(:term_updater) { described_class.new(2015, term) }
       let(:term) { { "patate" => {} } }
-      subject { described_class.new(2015, term) }
 
       it "throws and error" do
-        expect { subject.execute }.to raise_error('Invalid term handle "patate"')
+        expect { term_updater.execute }.to raise_error('Invalid term handle "patate"')
       end
     end
 
     context "for an invalid tag" do
+      subject(:term_updater) { described_class.new(2014, term) }
       let(:term) { { "automne" => { "nope" => :data } } }
-      subject { described_class.new(2014, term) }
 
       it "throws and error" do
-        expect { subject.execute }.to raise_error('Invalid bachelor type "nope"')
+        expect { term_updater.execute }.to raise_error('Invalid bachelor type "nope"')
       end
     end
 
     context "for valid term handles and tags" do
+      subject(:term_updater) { described_class.new(2016, term) }
       let(:term) do
         {
           "automne" => {
@@ -47,7 +48,7 @@ describe EtsPdf::Etl::Transform::TermUpdater do
       end
       let(:bachelor_updaters) do
         updaters_attributes.collect do |bachelors_data, updater_attributes|
-          bachelor_updater = double(EtsPdf::Etl::Transform::BachelorUpdater)
+          bachelor_updater = instance_double(EtsPdf::Etl::Transform::BachelorUpdater)
           term_record = instance_with_attributes(updater_attributes)
 
           allow(EtsPdf::Etl::Transform::BachelorUpdater)
@@ -56,16 +57,15 @@ describe EtsPdf::Etl::Transform::TermUpdater do
           bachelor_updater
         end
       end
-      subject { described_class.new(2016, term) }
       before do
         bachelor_updaters.each do |bachelor_updater|
-          expect(bachelor_updater).to receive(:execute)
+          allow(bachelor_updater).to receive(:execute)
         end
       end
 
       context "when the terms do not exist" do
         it "creates the terms" do
-          subject.execute
+          term_updater.execute
 
           updaters_attributes.values.each do |updater_attributes|
             expect(Term.find_by(**updater_attributes)).to be_present
@@ -81,7 +81,7 @@ describe EtsPdf::Etl::Transform::TermUpdater do
         end
 
         it "does not create new terms" do
-          expect { subject.execute }.not_to change { Term.count }
+          expect { term_updater.execute }.not_to change { Term.count }
         end
       end
     end

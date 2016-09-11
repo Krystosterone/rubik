@@ -21,7 +21,7 @@ describe AgendasController do
   }.each do |method, action|
     describe "##{action}" do
       context "when the agenda is still processing" do
-        let(:agenda) { double(Agenda, processing?: true, to_param: "a_token") }
+        let(:agenda) { instance_double(Agenda, processing?: true, to_param: "a_token") }
         before do
           allow(Agenda).to receive(:find_by!).with(token: "a_token").and_return(agenda)
           public_send method, action, params: { token: "a_token" }
@@ -41,17 +41,16 @@ describe AgendasController do
   describe "#new" do
     context "when the academic degree term does exist" do
       let(:academic_degree_term) { create(:academic_degree_term) }
+      let(:agenda) { assigns(:agenda) }
       before { get :new, params: { academic_degree_term_id: academic_degree_term.id } }
 
       it { is_expected.to render_template(:edit) }
 
       it "assigns a new agenda" do
-        new_agenda = assigns(:agenda)
-
-        expect(new_agenda).to be_new_record
-        expect(new_agenda).to be_instance_of(Agenda)
-        expect(new_agenda.academic_degree_term).to eq(academic_degree_term)
+        expect(agenda).to be_a_new(Agenda)
       end
+
+      specify { expect(agenda.academic_degree_term).to eq(academic_degree_term) }
     end
   end
 
@@ -92,12 +91,12 @@ describe AgendasController do
 
         it { is_expected.to render_template(:edit) }
 
-        it "assigns the agenda with the right parameters" do
-          expect(assigned_agenda).to be_new_record
-          expect(assigned_agenda).to be_instance_of(Agenda)
-          expect(assigned_agenda.academic_degree_term).to eq(academic_degree_term)
-          expect(assigned_agenda.courses_per_schedule).to eq(5)
+        it "assigns the agenda" do
+          expect(assigned_agenda).to be_a_new(Agenda)
         end
+
+        specify { expect(assigned_agenda.academic_degree_term).to eq(academic_degree_term) }
+        specify { expect(assigned_agenda.courses_per_schedule).to eq(5) }
       end
 
       context "when the agenda was able to be combined" do
@@ -123,15 +122,15 @@ describe AgendasController do
 
         it "creates an agenda" do
           expect(agenda).not_to be_nil
-          expect(agenda.academic_degree_term).to eq(academic_degree_term)
-
-          expect(agenda.courses_per_schedule).to eq(1)
-          expect(agenda.courses.size).to eq(1)
-          expect(agenda.courses[0]).to eq(serialized_course)
-          expect(agenda.leaves.size).to eq(1)
-          expect(agenda.leaves[0]).to eq(Leave.new(starts_at: 0, ends_at: 100))
-          expect(agenda.mandatory_course_ids).to eq([course.id])
         end
+
+        specify { expect(agenda.academic_degree_term).to eq(academic_degree_term) }
+        specify { expect(agenda.courses_per_schedule).to eq(1) }
+        specify { expect(agenda.courses.size).to eq(1) }
+        specify { expect(agenda.courses[0]).to eq(serialized_course) }
+        specify { expect(agenda.leaves.size).to eq(1) }
+        specify { expect(agenda.leaves[0]).to eq(Leave.new(starts_at: 0, ends_at: 100)) }
+        specify { expect(agenda.mandatory_course_ids).to eq([course.id]) }
       end
     end
   end
@@ -159,8 +158,11 @@ describe AgendasController do
 
       it { is_expected.to render_template(:edit) }
 
-      it "assigns the agenda with the right parameters" do
+      it "assigns the agenda" do
         expect(assigned_agenda).to eq(agenda)
+      end
+
+      it "updates the attributes on the agenda" do
         expect(assigned_agenda.courses_per_schedule).to eq(5)
       end
     end
@@ -186,14 +188,12 @@ describe AgendasController do
 
       it { is_expected.to redirect_to(processing_agenda_schedules_path(agenda)) }
 
-      it "updates the agenda" do
-        expect(agenda.courses_per_schedule).to eq(1)
-        expect(agenda.courses.size).to eq(1)
-        expect(agenda.courses[0]).to eq(serialized_course)
-        expect(agenda.leaves.size).to eq(1)
-        expect(agenda.leaves[0]).to eq(Leave.new(starts_at: 0, ends_at: 100))
-        expect(agenda.mandatory_course_ids).to eq([course.id])
-      end
+      specify { expect(agenda.courses_per_schedule).to eq(1) }
+      specify { expect(agenda.courses.size).to eq(1) }
+      specify { expect(agenda.courses[0]).to eq(serialized_course) }
+      specify { expect(agenda.leaves.size).to eq(1) }
+      specify { expect(agenda.leaves[0]).to eq(Leave.new(starts_at: 0, ends_at: 100)) }
+      specify { expect(agenda.mandatory_course_ids).to eq([course.id]) }
     end
   end
 end

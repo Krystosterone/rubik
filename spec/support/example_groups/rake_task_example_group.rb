@@ -8,8 +8,8 @@ module RakeTaskExampleGroup
   end
 
   included do
+    subject(:rake_task) { Rake::Task[task_name] }
     let(:task_name) { self.class.top_level_description }
-    subject { Rake::Task[task_name] }
 
     before do
       Rails.application.load_tasks

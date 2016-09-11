@@ -1,17 +1,17 @@
 require "rails_helper"
 
 describe EtsPdf::Parser::ParsedLine do
-  subject { described_class.new("some line") }
+  subject(:parsed_line) { described_class.new("some line") }
 
   its(:line) { is_expected.to eq("some line") }
 
   described_class::LINE_TYPES.each do |type, klass|
     describe "##{type}" do
-      let(:mock_line) { double(klass) }
+      let(:mock_line) { instance_double(klass) }
       before { allow(klass).to receive(:new).with("some line").and_return(mock_line) }
 
       it "returns the decorated line" do
-        expect(subject.public_send(type)).to eq(mock_line)
+        expect(parsed_line.public_send(type)).to eq(mock_line)
       end
     end
   end
@@ -19,21 +19,20 @@ describe EtsPdf::Parser::ParsedLine do
   describe "#type?" do
     context "when an unhandled type is passed" do
       it "returns false" do
-        expect(subject.type?(:unhandled)).to eq(false)
+        expect(parsed_line.type?(:unhandled)).to eq(false)
       end
     end
 
     described_class::LINE_TYPES.each do |type, klass|
       context "when :#{type} is passed" do
-        let(:mock_line) { double(klass) }
+        let(:mock_line) { instance_double(klass) }
         before { allow(klass).to receive(:new).with("some line").and_return(mock_line) }
 
         it "delegates .parsed? to the #{type} line" do
-          allow(mock_line).to receive(:parsed?).and_return(false)
-          expect(subject.type?(type)).to eq(false)
-
-          allow(mock_line).to receive(:parsed?).and_return(true)
-          expect(subject.type?(type)).to eq(true)
+          [false, true].each do |value|
+            allow(mock_line).to receive(:parsed?).and_return(value)
+            expect(parsed_line.type?(type)).to eq(value)
+          end
         end
       end
     end
@@ -65,7 +64,7 @@ describe EtsPdf::Parser::ParsedLine do
   end
 
   def mock_line(klass, parsed:)
-    mock_line = double(klass)
+    mock_line = instance_double(klass)
 
     allow(klass).to receive(:new).with("some line").and_return(mock_line)
     allow(mock_line).to receive(:parsed?).and_return(parsed)

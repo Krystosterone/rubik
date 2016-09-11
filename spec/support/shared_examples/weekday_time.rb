@@ -1,13 +1,13 @@
 shared_examples "WeekdayTime" do
   context "for 200 minutes" do
-    subject { described_class.new(200) }
+    subject(:time) { described_class.new(200) }
 
     its(:total_minutes) { is_expected.to eq(200) }
     it { is_expected.to delegate_method(:to_s).to(:total_minutes) }
 
     describe "#to_i" do
       it "returns #total_minutes" do
-        expect(subject.to_i).to eq(200)
+        expect(time.to_i).to eq(200)
       end
     end
 

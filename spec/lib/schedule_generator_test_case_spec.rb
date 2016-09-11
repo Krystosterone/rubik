@@ -35,6 +35,7 @@ describe ScheduleGeneratorTestCase do
   end
 
   describe "#write" do
+    subject(:generator) { described_class.new(agenda.token) }
     let(:agenda) { create(:combined_agenda) }
     let(:test_case) { YAML.load_file(@tmp_folder_path.join("#{agenda.token}.yaml")) }
     let(:test_case_data) do
@@ -49,8 +50,7 @@ describe ScheduleGeneratorTestCase do
         generated_course_groups: agenda.schedules.collect(&:course_groups)
       }
     end
-    subject { described_class.new(agenda.token) }
-    before { subject.write }
+    before { generator.write }
 
     it "writes to file everything needed for testing the schedule generator" do
       expect(test_case).to eq(test_case_data)

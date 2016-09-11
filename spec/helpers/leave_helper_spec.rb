@@ -9,9 +9,7 @@ describe LeaveHelper do
       leaves.flatten
     end
 
-    it "returns decorated week times for 0 to 23 hours for all the days of the weeks" do
-      expect(leave_times).to eq(result)
-      expect(leave_times).to be_decorated
-    end
+    specify { expect(leave_times).to be_decorated }
+    specify { expect(leave_times).to eq(result) }
   end
 end

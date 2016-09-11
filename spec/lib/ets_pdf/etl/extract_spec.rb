@@ -7,11 +7,9 @@ describe EtsPdf::Etl::Extract do
   TXT_SUBSET = "db/raw/ets/2014/hiver/**/*".freeze
 
   describe "#execute" do
-    subject { described_class.new(TXT_SUBSET) }
-    before { allow(EtsPdf::Parser).to receive(:new) { |path| double(execute: path) } }
-
-    it "returns a comprehensible data structure" do
-      expect(subject.execute).to match(
+    subject(:extract_etl) { described_class.new(TXT_SUBSET) }
+    let(:expected_data) do
+      {
         "2014" => {
           "hiver" => {
             "anciens" => {
@@ -35,7 +33,12 @@ describe EtsPdf::Etl::Extract do
             }
           }
         }
-      )
+      }
+    end
+    before { allow(EtsPdf::Parser).to receive(:new) { |path| instance_double(EtsPdf::Parser, execute: path) } }
+
+    it "returns a comprehensible data structure" do
+      expect(extract_etl.execute).to match(expected_data)
     end
   end
 

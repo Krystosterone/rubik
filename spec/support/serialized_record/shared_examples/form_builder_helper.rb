@@ -1,11 +1,9 @@
 shared_examples "SerializedRecord::FormBuilderHelper" do
+  subject(:helper) { TestFormBuilder.new("test_professor", professor, view_context, {}) }
   let(:students) { Array.new(3) { TestStudent.new } }
   let(:professor) { TestProfessor.new(test_students: students) }
   let(:view_path) { Rails.root.join("spec/fixtures/views") }
   let(:view_context) { ActionView::Base.new(view_path) }
-  subject do
-    TestFormBuilder.new("test_professor", professor, view_context, {})
-  end
 
   describe "#nested_form" do
     let(:output) do
@@ -23,7 +21,7 @@ shared_examples "SerializedRecord::FormBuilderHelper" do
     end
 
     it "returns a form with fields_for and script for the association" do
-      expect(subject.nested_form(:test_students)).to eq(output)
+      expect(helper.nested_form(:test_students)).to eq(output)
     end
   end
 
@@ -35,7 +33,7 @@ shared_examples "SerializedRecord::FormBuilderHelper" do
     end
 
     it "creates the appropriate markup" do
-      expect(subject.create_button(:test_students, "+", class: "btn")).to eq(output)
+      expect(helper.create_button(:test_students, "+", class: "btn")).to eq(output)
     end
   end
 
@@ -48,7 +46,7 @@ shared_examples "SerializedRecord::FormBuilderHelper" do
     end
 
     it "creates the appropriate markup" do
-      expect(subject.destroy_button("-", class: "btn")).to eq(output)
+      expect(helper.destroy_button("-", class: "btn")).to eq(output)
     end
   end
 end

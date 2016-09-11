@@ -5,15 +5,11 @@ describe ErrorsController do
     describe "##{status}" do
       before { get status }
 
-      it "renders template with correct status code" do
-        expect(response).to render_template("show")
-        expect(response).to have_http_status(code)
-      end
+      specify { expect(response).to render_template("show") }
+      specify { expect(response).to have_http_status(code) }
 
-      it "assigns variables" do
-        expect(assigns(:status)).to eq(status)
-        expect(assigns(:code)).to eq(code)
-      end
+      specify { expect(assigns(:status)).to eq(status) }
+      specify { expect(assigns(:code)).to eq(code) }
     end
   end
 end

@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe AgendaCourse do
-  let(:groups) { [double] }
+  let(:groups) { [instance_double(Group)] }
 
   it { is_expected.to have_attr_accessor(:id) }
   it { is_expected.to have_attr_accessor(:code) }
@@ -37,8 +37,10 @@ describe AgendaCourse do
   end
 
   describe ".from" do
-    let(:academic_degree_term_course) { double(id: 3, code: "TWO", groups: [double]) }
     subject { described_class.from(academic_degree_term_course) }
+    let(:academic_degree_term_course) do
+      instance_double(AcademicDegreeTermCourse, id: 3, code: "TWO", groups: [double])
+    end
 
     its(:id) { is_expected.to eq(academic_degree_term_course.id) }
     its(:code) { is_expected.to eq(academic_degree_term_course.code) }

@@ -1,14 +1,14 @@
 require "rails_helper"
 
 describe "ets_pdf:etl" do
-  let(:etl) { double(EtsPdf::Etl) }
+  let(:etl) { instance_double(EtsPdf::Etl) }
 
   context "with no parameters" do
     it "executes with a default parameter" do
       allow(EtsPdf::Etl).to receive(:new).with("db/raw/ets/**/*").and_return(etl)
-      expect(etl).to receive(:execute)
+      allow(etl).to receive(:execute)
 
-      subject.execute
+      rake_task.execute
     end
   end
 
@@ -18,9 +18,9 @@ describe "ets_pdf:etl" do
 
     it "executes with the pdf folder parameter" do
       allow(EtsPdf::Etl).to receive(:new).with("another/path/**/*").and_return(etl)
-      expect(etl).to receive(:execute)
+      allow(etl).to receive(:execute)
 
-      subject.execute
+      rake_task.execute
     end
   end
 end

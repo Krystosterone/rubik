@@ -9,8 +9,7 @@ describe CommentsController do
     it { is_expected.to render_template(:new) }
 
     it "assigns a new comment" do
-      expect(comment).to be_new_record
-      expect(comment).to be_instance_of(Comment)
+      expect(comment).to be_a_new(Comment)
     end
   end
 
@@ -34,11 +33,15 @@ describe CommentsController do
 
       it { is_expected.to render_template(:new) }
 
-      it "assigns a comment with the right parameters" do
-        expect(comment).to be_new_record
-        expect(comment).to be_instance_of(Comment)
-        expect(comment.user_email).to eq("some_email")
-        expect(comment.body).to eq("text body")
+      it "assigns the new comment" do
+        expect(comment).to be_a_new(Comment)
+      end
+
+      it "assigns the new comment with correct attributes" do
+        expect(comment.slice(:user_email, :body)).to eq(
+          "user_email" => "some_email",
+          "body" => "text body"
+        )
       end
     end
 
@@ -60,8 +63,10 @@ describe CommentsController do
       end
 
       it "created the comment" do
-        expect(comment.user_email).to eq("email@domain.com")
-        expect(comment.body).to eq("Some comment")
+        expect(comment.slice(:user_email, :body)).to eq(
+          "user_email" => "email@domain.com",
+          "body" => "Some comment"
+        )
       end
     end
   end

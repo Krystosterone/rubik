@@ -14,10 +14,10 @@ describe WeekTime do
 
   describe "#hour" do
     context "for 2300 minutes" do
-      subject { described_class.new(2300) }
+      subject(:week_time) { described_class.new(2300) }
 
       it "operates on a modulo 24" do
-        expect(subject.hour).to eq(14)
+        expect(week_time.hour).to eq(14)
       end
     end
   end

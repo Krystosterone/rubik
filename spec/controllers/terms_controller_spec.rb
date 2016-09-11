@@ -12,9 +12,10 @@ describe TermsController do
     end
 
     it "assigns a new newsletter subscription" do
-      expect(newsletter_subscription).to be_new_record
       expect(newsletter_subscription).to be_instance_of(NewsletterSubscription)
     end
+
+    specify { expect(newsletter_subscription).to be_new_record }
 
     it "renders the index" do
       expect(response).to render_template(:index)
@@ -31,10 +32,10 @@ describe TermsController do
       end
 
       it "assigns a new newsletter subscription" do
-        expect(newsletter_subscription).to be_new_record
-        expect(newsletter_subscription).to be_instance_of(NewsletterSubscription)
-        expect(newsletter_subscription.email).to eq("nope")
+        expect(newsletter_subscription).to be_a_new(NewsletterSubscription)
       end
+
+      specify { expect(newsletter_subscription.email).to eq("nope") }
 
       it "renders the index" do
         expect(response).to render_template(:index)

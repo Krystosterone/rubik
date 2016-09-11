@@ -1,6 +1,7 @@
 require "rails_helper"
 
 describe AgendaCourseCollection do
+  subject { described_class.new(courses, mandatory_course_ids, leaves) }
   let(:courses) do
     [
       AgendaCourse.new(
@@ -35,13 +36,8 @@ describe AgendaCourseCollection do
       Leave.new(starts_at: 1850, ends_at: 1901),
     ]
   end
-
-  subject { described_class.new(courses, mandatory_course_ids, leaves) }
-
-  its(:mandatory) { is_expected.to eq([courses[0]]) }
-  its(:remainder) { is_expected.to eq([courses[1]]) }
-  its(:pruned) do
-    is_expected.to eq([
+  let(:expected_pruned_courses) do
+    [
       AgendaCourse.new(
         id: 1,
         code: "COURSE_1",
@@ -51,6 +47,10 @@ describe AgendaCourseCollection do
           ]),
         ]
       )
-    ])
+    ]
   end
+
+  its(:mandatory) { is_expected.to eq([courses[0]]) }
+  its(:remainder) { is_expected.to eq([courses[1]]) }
+  its(:pruned) { is_expected.to eq(expected_pruned_courses) }
 end

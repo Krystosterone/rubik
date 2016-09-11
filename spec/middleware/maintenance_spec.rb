@@ -1,17 +1,17 @@
 require "rails_helper"
 
 describe Maintenance do
-  let(:app) { double(Rubik::Application) }
-  subject { described_class.new(app) }
+  subject(:middleware) { described_class.new(app) }
+  let(:app) { instance_double(Rubik::Application) }
 
   describe "#call" do
     context "when maintenance mode is not enabled" do
       let(:env) { {} }
 
       it "calls through" do
-        expect(app).to receive(:call).with(env)
+        allow(app).to receive(:call).with(env)
 
-        subject.call(env)
+        middleware.call(env)
       end
     end
 
@@ -27,7 +27,7 @@ describe Maintenance do
         let(:maintenance_page) { File.read(Rails.root.join("public/maintenance.html")) }
 
         it "shows the maintenance page" do
-          expect(subject.call(env)).to eq([200, {}, [maintenance_page]])
+          expect(middleware.call(env)).to eq([200, {}, [maintenance_page]])
         end
       end
 
@@ -40,9 +40,9 @@ describe Maintenance do
         after { ENV["MAINTAINER_IPS"] = @maintainer_ips }
 
         it "calls through" do
-          expect(app).to receive(:call).with(env)
+          allow(app).to receive(:call).with(env)
 
-          subject.call(env)
+          middleware.call(env)
         end
       end
     end
