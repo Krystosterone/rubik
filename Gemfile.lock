@@ -1,15 +1,4 @@
 GIT
-  remote: git://github.com/audionerd/draper.git
-  revision: e816e0e5876b76c648c0928f1c3f2aa2c7a3d1f2
-  branch: rails5
-  specs:
-    draper (2.1.0)
-      actionpack (>= 3.0)
-      activemodel (>= 3.0)
-      activesupport (>= 3.0)
-      request_store (~> 1.0)
-
-GIT
   remote: git://github.com/rspec/rspec-rails.git
   revision: 4aca61458a39e7b0e12bebe57b0ef7796e54d6fc
   tag: v3.5.0.beta4
@@ -167,6 +156,12 @@ GEM
     dotenv-rails (2.1.1)
       dotenv (= 2.1.1)
       railties (>= 4.0, < 5.1)
+    draper (3.0.0.pre1)
+      actionpack (~> 5.0)
+      activemodel (~> 5.0)
+      activemodel-serializers-xml (~> 1.0)
+      activesupport (~> 5.0)
+      request_store (~> 1.0)
     email_validator (1.6.0)
       activemodel
     erubis (2.7.0)
@@ -371,7 +366,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activemodel-serializers-xml
   airbrake
   better_errors
   binding_of_caller
@@ -384,7 +378,7 @@ DEPENDENCIES
   cucumber-rails
   database_cleaner
   dotenv-rails
-  draper!
+  draper (= 3.0.0.pre1)
   email_validator
   factory_girl_rails
   haml-rails
