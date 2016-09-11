@@ -21,13 +21,13 @@ gem "email_validator"
 gem "airbrake"
 gem "sidekiq-unique-jobs"
 gem "browserify-rails"
+gem "bullet"
 
 # Sidekiq
 gem "sidekiq"
 gem "sinatra", github: "sinatra/sinatra", require: false
 
 group :development do
-  gem "bullet"
   gem "better_errors"
   gem "binding_of_caller"
   gem "rubocop"
