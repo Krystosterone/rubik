@@ -41,7 +41,7 @@ group :development, :test do
 end
 
 group :test do
-  gem "rspec-rails", github: "rspec/rspec-rails", tag: "v3.5.0.beta4" # remove once rails 5 is fully supported
+  gem "rspec-rails"
   gem "shoulda-matchers", require: false
   gem "factory_girl_rails"
   gem "database_cleaner"
