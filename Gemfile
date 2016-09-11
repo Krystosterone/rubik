@@ -24,7 +24,7 @@ gem "bullet"
 
 # Sidekiq
 gem "sidekiq"
-gem "sinatra", github: "sinatra/sinatra", require: false
+gem "sinatra", "2.0.0.beta2"
 
 group :development do
   gem "better_errors"
