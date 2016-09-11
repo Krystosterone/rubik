@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 ruby "2.3.0"
 
-gem "rails", github: "rails/rails", tag: "v5.0.0.rc1"
+gem "rails"
 gem "mysql2", "~> 0.3.18"
 gem "sass-rails", "~> 5.0"
 gem "compass-rails"
