@@ -1,4 +1,4 @@
-# Remove once should-matchers supports rails 5
+# TODO: Remove once should-matchers supports rails 5
 
 Shoulda::Matchers::RailsShim.class_eval do
   def self.serialized_attributes_for(model)

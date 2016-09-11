@@ -71,5 +71,6 @@ RSpec/MultipleExpectations:
   Exclude:
     - spec/routing/application_routing_spec.rb
 
+# TODO: Fix once Rubocop-Rspec is fixed (https://github.com/backus/rubocop-rspec/pull/207)
 RSpec/NestedGroups:
-  Enabled: false # TODO: Correct eventually
+  Enabled: false
