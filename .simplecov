@@ -6,3 +6,8 @@ if ENV["CIRCLE_ARTIFACTS"]
 end
 
 SimpleCov.start("rails") { add_filter "lib/tasks/cucumber.rake" }
+
+if ENV["CIRCLECI"]
+  require "codecov"
+  SimpleCov.formatter = SimpleCov::Formatter::Codecov
+end

@@ -53,6 +53,7 @@ group :test do
   gem "rails-controller-testing"
   gem "simplecov", require: false
   gem "poltergeist"
+  gem "codecov", require: false
 end
 
 gem "rails_12factor", group: :production # Heroku

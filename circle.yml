@@ -1,4 +1,6 @@
 machine:
+  environment:
+    CODECOV_TOKEN: 7fb93589-618d-41f0-a5b6-e5fdb4c78e55
   pre:
     - sudo curl --output /usr/local/bin/phantomjs https://s3.amazonaws.com/circle-downloads/phantomjs-2.1.1
 
