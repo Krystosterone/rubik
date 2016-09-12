@@ -11,11 +11,5 @@ module RakeTaskExampleGroup
   included do
     subject(:rake_task) { Rake::Task[task_name] }
     let(:task_name) { self.class.top_level_description }
-
-    before do
-      Rails.application.load_tasks
-      Rake::Task.define_task(:environment)
-    end
-    after { Rake::Task.clear }
   end
 end
