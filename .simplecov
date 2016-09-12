@@ -5,7 +5,11 @@ if ENV["CIRCLE_ARTIFACTS"]
   SimpleCov.coverage_dir(coverage_directory)
 end
 
-SimpleCov.start("rails") { add_filter "lib/tasks/cucumber.rake" }
+SimpleCov.start("rails") do
+  add_filter "lib/tasks/cucumber.rake"
+  add_group "Decorators", "app/decorators"
+  add_group "Middleware", "app/middleware"
+end
 
 if ENV["CIRCLECI"]
   require "codecov"
