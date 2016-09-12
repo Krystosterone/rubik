@@ -1,3 +1,2 @@
 # frozen_string_literal: true
-require "simplecov"
-SimpleCov.start "rails"
+# Move things here if you're testing in isolation *without* the Rails framework
