@@ -1,3 +1,3 @@
-require 'simplecov'
+require "simplecov"
 
-SimpleCov.start { add_filter 'lib/tasks/cucumber.rake' }
+SimpleCov.start("rails") { add_filter "lib/tasks/cucumber.rake" }
