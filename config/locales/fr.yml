@@ -56,7 +56,6 @@ fr:
     email:
       subject: '[Rubik-ETS] Nouveau commentaire'
       from: 'De: %{email}'
-      body: Commentaire
   errors:
     show:
       title: "Erreur %{code}"
