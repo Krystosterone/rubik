@@ -22,3 +22,10 @@ end
 class TestFormBuilder < ActionView::Helpers::FormBuilder
   include SerializedRecord::FormBuilderHelper
 end
+
+class TestCourseScopedModel
+  include ActiveModel::Model
+  prepend CourseScopes
+
+  attr_accessor :courses, :leaves, :mandatory_course_ids
+end

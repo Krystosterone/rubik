@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 class Agenda < ActiveRecord::Base
   include SerializedRecord::AcceptsNestedAttributeFor
+  prepend CourseScopes
 
   COURSES_PER_SCHEDULE_RANGE = 1..5
 
@@ -20,7 +21,7 @@ class Agenda < ActiveRecord::Base
   validates_with AgendaCoursesValidator
 
   after_initialize do
-    self.course_ids ||= []
+    self.courses ||= []
     self.mandatory_course_ids ||= []
     self.courses_per_schedule ||= COURSES_PER_SCHEDULE_RANGE.begin
     self.processing ||= false
@@ -29,9 +30,6 @@ class Agenda < ActiveRecord::Base
 
   alias_attribute :to_param, :token
   delegate :empty?, to: :schedules
-  delegate :pruned, to: :courses, prefix: true
-  delegate :mandatory, :remainder, to: :courses, prefix: true
-  delegate :mandatory, :remainder, to: :courses_pruned, prefix: true
 
   def initialize(attributes = {})
     course_ids = attributes.delete(:course_ids)
@@ -45,10 +43,6 @@ class Agenda < ActiveRecord::Base
 
   def course_ids
     courses.collect(&:id)
-  end
-
-  def courses
-    AgendaCourseCollection.new(super, mandatory_course_ids, leaves)
   end
 
   def combine

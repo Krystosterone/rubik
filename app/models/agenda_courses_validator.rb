@@ -19,10 +19,10 @@ class AgendaCoursesValidator < ActiveModel::Validator
   end
 
   def mandatory_courses_overflow?(agenda)
-    agenda.courses_mandatory.size > agenda.courses_per_schedule
+    agenda.mandatory_courses.size > agenda.courses_per_schedule
   end
 
   def mandatory_courses_redundant?(agenda)
-    agenda.courses_mandatory.size == agenda.courses_per_schedule && agenda.courses_remainder.present?
+    agenda.mandatory_courses.size == agenda.courses_per_schedule && agenda.remainder_courses.present?
   end
 end

@@ -13,19 +13,19 @@ class ScheduleGenerator
   private
 
   def combinations
-    if @agenda.courses_mandatory.empty?
-      @agenda.courses_pruned.combination(@agenda.courses_per_schedule)
-    elsif @agenda.courses_mandatory.size == @agenda.courses_per_schedule
-      @agenda.courses_pruned_mandatory.combination(@agenda.courses_per_schedule)
+    if @agenda.mandatory_courses.empty?
+      @agenda.pruned_courses.combination(@agenda.courses_per_schedule)
+    elsif @agenda.mandatory_courses.size == @agenda.courses_per_schedule
+      @agenda.pruned_mandatory_courses.combination(@agenda.courses_per_schedule)
     else
       product_combinations
     end
   end
 
   def product_combinations
-    remainder_set_size = @agenda.courses_per_schedule - @agenda.courses_mandatory.size
-    mandatory_combinations = @agenda.courses_pruned_mandatory.combination(@agenda.courses_mandatory.size).to_a
-    remainder_combinations = @agenda.courses_pruned_remainder.combination(remainder_set_size).to_a
+    remainder_set_size = @agenda.courses_per_schedule - @agenda.mandatory_courses.size
+    mandatory_combinations = @agenda.pruned_mandatory_courses.combination(@agenda.mandatory_courses.size).to_a
+    remainder_combinations = @agenda.pruned_remainder_courses.combination(remainder_set_size).to_a
 
     mandatory_combinations.product(remainder_combinations).map(&:flatten)
   end

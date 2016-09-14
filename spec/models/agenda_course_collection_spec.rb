@@ -51,6 +51,7 @@ describe AgendaCourseCollection do
     ]
   end
 
+  it { is_expected.to eq(courses) }
   its(:mandatory) { is_expected.to eq([courses[0]]) }
   its(:remainder) { is_expected.to eq([courses[1]]) }
   its(:pruned) { is_expected.to eq(expected_pruned_courses) }

@@ -2,6 +2,8 @@
 require "rails_helper"
 
 describe Agenda do
+  it_behaves_like "CourseScopes", described_class: described_class
+
   subject(:agenda) { described_class.new }
   it { is_expected.to belong_to(:academic_degree_term) }
   it { is_expected.to have_one(:academic_degree).through(:academic_degree_term) }
@@ -25,11 +27,6 @@ describe Agenda do
   its(:token) { is_expected.to be_present }
 
   it { is_expected.to delegate_method(:empty?).to(:schedules) }
-  it { is_expected.to delegate_method(:pruned).to(:courses).with_prefix }
-  it { is_expected.to delegate_method(:mandatory).to(:courses).with_prefix }
-  it { is_expected.to delegate_method(:remainder).to(:courses).with_prefix }
-  it { is_expected.to delegate_method(:mandatory).to(:courses_pruned).with_prefix }
-  it { is_expected.to delegate_method(:remainder).to(:courses_pruned).with_prefix }
 
   describe "#new" do
     its(:course_ids) { is_expected.to eq([]) }
