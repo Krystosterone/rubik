@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160918181930) do
+ActiveRecord::Schema.define(version: 20160918181948) do
 
   create_table "academic_degree_term_courses", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.integer  "academic_degree_term_id"
@@ -52,13 +52,11 @@ ActiveRecord::Schema.define(version: 20160918181930) do
     t.integer  "academic_degree_term_id"
     t.string   "token"
     t.integer  "courses_per_schedule"
-    t.text     "courses",                 limit: 65535
     t.text     "leaves",                  limit: 65535
     t.datetime "created_at"
     t.datetime "updated_at"
     t.datetime "combined_at"
     t.boolean  "processing"
-    t.text     "mandatory_course_ids",    limit: 65535
     t.index ["token"], name: "index_agendas_on_token", using: :btree
   end
 

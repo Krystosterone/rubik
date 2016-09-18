@@ -32,13 +32,15 @@ class AgendasController < ApplicationController
   end
 
   def find_agenda
-    @agenda = Agenda.joins(:academic_degree_term).find_by!(token: agenda_token)
+    @agenda =
+      Agenda
+      .joins(:academic_degree_term, :courses, academic_degree_term_courses: :course)
+      .find_by!(token: agenda_token)
   end
 
   def agenda_params
     params.require(:agenda).permit(:courses_per_schedule,
-                                   course_ids: [],
-                                   mandatory_course_ids: [],
+                                   courses_attributes: [:_destroy, :academic_degree_term_course_id, :id, :mandatory],
                                    leaves_attributes: [:starts_at, :ends_at, :_destroy])
   end
 

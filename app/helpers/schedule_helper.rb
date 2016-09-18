@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 module ScheduleHelper
-  SCHEDULES_PER_PAGE = 50
+  SCHEDULES_PER_PAGE = 20
 
   def schedule_page_index
     (@schedules.current_page - 1) * @schedules.limit_value

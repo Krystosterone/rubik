@@ -14,9 +14,9 @@
         - agenda.mandatory_courses.each do |course|
           .label.label-info= course.code
 
-  - if agenda.remainder_courses.present?
+  - if agenda.optional_courses.present?
     .form-group
       = f.label :courses, class: 'col-sm-4 control-label'
       .col-sm-8.courses-list
-        - agenda.remainder_courses.each do |course|
+        - agenda.optional_courses.each do |course|
           .label.label-info= course.code

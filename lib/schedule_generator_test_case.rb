@@ -1,11 +1,20 @@
 # frozen_string_literal: true
 class ScheduleGeneratorTestCase
+  ACADEMIC_DEGREE_TERM_COURSE_ATTRIBUTES = %w(
+    id
+    groups
+  ).freeze
   AGENDA_ATTRIBUTES = %w(
     courses_per_schedule
-    courses
     leaves
-    mandatory_course_ids
     token
+  ).freeze
+  AGENDA_COURSE_ATTRIBUTES = %w(
+    academic_degree_term_course_id
+    mandatory
+  ).freeze
+  COURSE_ATTRIBUTES = %w(
+    code
   ).freeze
 
   mattr_accessor :folder_path, instance_accessor: false do
@@ -23,7 +32,7 @@ class ScheduleGeneratorTestCase
   end
 
   def write
-    File.write file_path, file_content.to_yaml
+    File.write(file_path, file_content.to_yaml)
   end
 
   private
@@ -33,19 +42,38 @@ class ScheduleGeneratorTestCase
   end
 
   def file_path
-    self.class.folder_path.join("#{agenda.token}.yaml")
+    self.class.folder_path.join("#{agenda.token}.yml")
   end
 
   def file_content
-    { agenda_attributes: attributes_to_commit.symbolize_keys,
-      generated_course_groups: generated_course_groups }
+    {
+      academic_degree_term_courses_attributes: academic_degree_term_courses_attributes,
+      agenda_attributes: agenda_attributes,
+      generated_course_groups: generated_course_groups,
+    }
   end
 
-  def attributes_to_commit
-    @agenda.attributes.slice(*AGENDA_ATTRIBUTES)
+  def academic_degree_term_courses_attributes
+    agenda.courses.map do |course|
+      academic_degree_term_course = course.academic_degree_term_course
+
+      attributes = course.academic_degree_term_course.slice(*ACADEMIC_DEGREE_TERM_COURSE_ATTRIBUTES).symbolize_keys
+      attributes[:course_attributes] = academic_degree_term_course.course.slice(*COURSE_ATTRIBUTES).symbolize_keys
+      attributes
+    end
+  end
+
+  def agenda_attributes
+    attributes = agenda.attributes.slice(*AGENDA_ATTRIBUTES).symbolize_keys
+    attributes[:courses_attributes] = agenda_courses_attributes
+    attributes
+  end
+
+  def agenda_courses_attributes
+    agenda.courses.map { |course| course.attributes.slice(*AGENDA_COURSE_ATTRIBUTES).symbolize_keys }
   end
 
   def generated_course_groups
-    @agenda.schedules.collect(&:course_groups)
+    agenda.schedules.collect(&:course_groups)
   end
 end

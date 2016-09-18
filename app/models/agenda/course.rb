@@ -18,6 +18,8 @@ class Agenda::Course < ActiveRecord::Base
     groups.reject(&method(:overlaps_leaves?))
   end
 
+  private
+
   def overlaps_leaves?(group)
     agenda.leaves.any? do |leave|
       group.periods.any? { |period| leave.overlaps?(period) }

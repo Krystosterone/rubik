@@ -19,19 +19,21 @@
       %legend= f.label :courses
       %p= t(".mandatory_courses_explication_html")
 
-      - mandatory_checkbox_name = "agenda[mandatory_course_ids][]"
-      = hidden_field_tag mandatory_checkbox_name, nil, id: nil
-
-      = f.collection_check_boxes :course_ids, agenda.academic_degree_term_courses, :id, :code do |ff|
-        - id = ff.object.id
-        - mandatory_course_id = "agenda_mandatory_course_ids_#{id}"
+      - agenda.academic_degree_term_courses.each_with_index do |academic_degree_term_course, index|
+        - agenda_course = agenda.courses.find { |course| course.academic_degree_term_course_id == academic_degree_term_course.id }
 
         .course-checkbox-button.btn-group.btn-group-justified{ role: "group" }
-          = ff.check_box data: { :"child-checkbox" => mandatory_course_id }
-          = ff.label(class: "btn btn-default") { ff.text }
+          = hidden_field_tag "agenda[courses_attributes][#{index}][id]", agenda_course.id, id: nil unless agenda_course.nil?
+          = hidden_field_tag "agenda[courses_attributes][#{index}][academic_degree_term_course_id]", academic_degree_term_course.id, id: nil
+          = hidden_field_tag "agenda[courses_attributes][#{index}][mandatory]", false, id: nil
+          = hidden_field_tag "agenda[courses_attributes][#{index}][_destroy]", true, id: nil
 
-          = check_box_tag mandatory_checkbox_name, id, agenda.mandatory_course_ids.include?(id), id: mandatory_course_id
-          = label_tag mandatory_course_id, class: "btn btn-default" do
+          = check_box_tag "agenda[courses_attributes][#{index}][_destroy]", false, !agenda_course.nil?, data: { "child-checkbox" => "agenda_courses_attributes_#{index}_mandatory" }
+          = label_tag "agenda_courses_attributes_#{index}__destroy", class: "btn btn-default" do
+            = academic_degree_term_course.code
+
+          = check_box_tag "agenda[courses_attributes][#{index}][mandatory]", true, agenda_course.try!(:mandatory?)
+          = label_tag "agenda_courses_attributes_#{index}_mandatory", class: "btn btn-default" do
             %i.checked.fa.fa-lock
             %i.unchecked.fa.fa-unlock-alt
 

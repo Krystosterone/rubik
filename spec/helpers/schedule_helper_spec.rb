@@ -22,7 +22,7 @@ describe ScheduleHelper do
     let(:params) { ActionController::Parameters.new(index: "163") }
 
     it "returns the schedule index" do
-      expect(schedule_page).to eq(4)
+      expect(schedule_page).to eq(9)
     end
   end
 end

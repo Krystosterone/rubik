@@ -1,28 +1,47 @@
 # frozen_string_literal: true
 class AgendaCoursesValidator < ActiveModel::Validator
   def validate(agenda)
-    if agenda.courses.empty?
-      agenda.errors.add(:courses, :blank)
-    elsif courses_mismatch?(agenda)
-      agenda.errors.add(:courses, :greater_than_or_equal_to_courses_per_schedule)
-    elsif mandatory_courses_overflow?(agenda)
-      agenda.errors.add(:mandatory_course_ids, :less_than_or_equal_to_courses_per_schedule)
-    elsif mandatory_courses_redundant?(agenda)
-      agenda.errors.add(:mandatory_course_ids, :redundant)
+    Validator.new(agenda).execute
+  end
+
+  class Validator
+    include MemoizedCourseScopes
+
+    def initialize(agenda)
+      @agenda = agenda
     end
-  end
 
-  private
+    def execute
+      if courses.empty?
+        errors.add(:courses, :blank)
+      elsif courses_mismatch?
+        errors.add(:courses, :greater_than_or_equal_to_courses_per_schedule)
+      elsif mandatory_courses_overflow?
+        errors.add(:courses, :mandatory_courses_less_than_or_equal_to_courses_per_schedule) # TODO: Change translation
+      elsif mandatory_courses_redundant?
+        errors.add(:courses, :mandatory_courses_redundant) # TODO: Change translation
+      end
+    end
 
-  def courses_mismatch?(agenda)
-    agenda.courses.size < agenda.courses_per_schedule
-  end
+    private
 
-  def mandatory_courses_overflow?(agenda)
-    agenda.mandatory_courses.size > agenda.courses_per_schedule
-  end
+    attr_reader :agenda
+    delegate :errors, to: :agenda
 
-  def mandatory_courses_redundant?(agenda)
-    agenda.mandatory_courses.size == agenda.courses_per_schedule && agenda.remainder_courses.present?
+    def courses_mismatch?
+      courses.size < agenda.courses_per_schedule
+    end
+
+    def mandatory_courses_overflow?
+      mandatory_courses.size > agenda.courses_per_schedule
+    end
+
+    def mandatory_courses_redundant?
+      mandatory_courses.size == agenda.courses_per_schedule && optional_courses.present?
+    end
+
+    def courses
+      @courses ||= agenda.courses.reject(&:marked_for_destruction?)
+    end
   end
 end

@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 class AgendaDecorator < Draper::Decorator
+  include MemoizedCourseScopes
+
   delegate_all
   decorates_association :term
 

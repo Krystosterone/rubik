@@ -38,14 +38,31 @@ describe ScheduleGeneratorTestCase do
   describe "#write" do
     subject(:generator) { described_class.new(agenda.token) }
     let(:agenda) { create(:combined_agenda) }
-    let(:test_case) { YAML.load_file(@tmp_folder_path.join("#{agenda.token}.yaml")) }
+    let(:test_case) { YAML.load_file(@tmp_folder_path.join("#{agenda.token}.yml")) }
+    let(:academic_degree_term_courses_attributes) do
+      agenda.courses.map do |course|
+        {
+          course_attributes: { code: course.code },
+          id: course.academic_degree_term_course_id,
+          groups: course.groups,
+        }
+      end
+    end
+    let(:courses_attributes) do
+      agenda.courses.map do |course|
+        {
+          academic_degree_term_course_id: course.academic_degree_term_course_id,
+          mandatory: course.mandatory?,
+        }
+      end
+    end
     let(:test_case_data) do
       {
+        academic_degree_term_courses_attributes: academic_degree_term_courses_attributes,
         agenda_attributes: {
+          courses_attributes: courses_attributes,
           courses_per_schedule: agenda.courses_per_schedule,
-          courses: agenda.courses,
           leaves: agenda.leaves,
-          mandatory_course_ids: agenda.mandatory_course_ids,
           token: agenda.token,
         },
         generated_course_groups: agenda.schedules.collect(&:course_groups)
@@ -54,7 +71,7 @@ describe ScheduleGeneratorTestCase do
     before { generator.write }
 
     it "writes to file everything needed for testing the schedule generator" do
-      expect(test_case).to eq(test_case_data)
+      expect(test_case.slice(:agenda_attributes)).to eq(test_case_data.slice(:agenda_attributes))
     end
   end
 end

@@ -99,19 +99,21 @@ describe AgendasController do
 
       context "when the agenda was able to be combined" do
         let(:agenda) { Agenda.last }
-        let(:course) { create(:academic_degree_term_course, academic_degree_term: academic_degree_term) }
-        let(:serialized_course) { AgendaCourse.from(course) }
+        let(:academic_degree_term_course) do
+          create(:academic_degree_term_course, academic_degree_term: academic_degree_term)
+        end
         before do
           post :create,
                params: {
                  academic_degree_term_id: academic_degree_term.id,
                  agenda: {
-                   course_ids: [course.id],
+                   courses_attributes: {
+                     0 => { academic_degree_term_course_id: academic_degree_term_course.id, mandatory: true }
+                   },
                    courses_per_schedule: 1,
                    leaves_attributes: {
                      0 => { starts_at: 0, ends_at: 100 }
-                   },
-                   mandatory_course_ids: [course.id],
+                   }
                  },
                }
         end
@@ -125,10 +127,12 @@ describe AgendasController do
         specify { expect(agenda.academic_degree_term).to eq(academic_degree_term) }
         specify { expect(agenda.courses_per_schedule).to eq(1) }
         specify { expect(agenda.courses.size).to eq(1) }
-        specify { expect(agenda.courses[0]).to eq(serialized_course) }
+        specify do
+          expect(agenda.courses[0].attributes.slice("academic_degree_term_course_id", "mandatory"))
+            .to eq("academic_degree_term_course_id" => academic_degree_term_course.id, "mandatory" => true)
+        end
         specify { expect(agenda.leaves.size).to eq(1) }
         specify { expect(agenda.leaves[0]).to eq(Leave.new(starts_at: 0, ends_at: 100)) }
-        specify { expect(agenda.mandatory_course_ids).to eq([course.id]) }
       end
     end
   end
@@ -166,19 +170,24 @@ describe AgendasController do
     end
 
     context "when the agenda was able to be combined" do
-      let(:course) { create(:academic_degree_term_course, academic_degree_term: agenda.academic_degree_term) }
-      let(:serialized_course) { AgendaCourse.from(course) }
+      let(:academic_degree_term_course) do
+        create(:academic_degree_term_course, academic_degree_term: agenda.academic_degree_term)
+      end
+      let(:courses_attributes) do
+        courses_attributes = agenda.courses.map { |course| { id: course.id, _destroy: "1" } }
+        courses_attributes << { academic_degree_term_course_id: academic_degree_term_course.id, mandatory: true }
+        courses_attributes.map.with_index { |attributes, index| [index, attributes] }.to_h
+      end
       before do
         post :update,
              params: {
                token: agenda.token,
                agenda: {
-                 course_ids: [course.id],
+                 courses_attributes: courses_attributes,
                  courses_per_schedule: 1,
                  leaves_attributes: {
                    0 => { starts_at: 0, ends_at: 100 }
-                 },
-                 mandatory_course_ids: [course.id],
+                 }
                }
              }
         agenda.reload
@@ -188,10 +197,12 @@ describe AgendasController do
 
       specify { expect(agenda.courses_per_schedule).to eq(1) }
       specify { expect(agenda.courses.size).to eq(1) }
-      specify { expect(agenda.courses[0]).to eq(serialized_course) }
+      specify do
+        expect(agenda.courses[0].attributes.slice("academic_degree_term_course_id", "mandatory"))
+          .to eq("academic_degree_term_course_id" => academic_degree_term_course.id, "mandatory" => true)
+      end
       specify { expect(agenda.leaves.size).to eq(1) }
       specify { expect(agenda.leaves[0]).to eq(Leave.new(starts_at: 0, ends_at: 100)) }
-      specify { expect(agenda.mandatory_course_ids).to eq([course.id]) }
     end
   end
 end

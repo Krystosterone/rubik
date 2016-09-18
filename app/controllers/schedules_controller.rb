@@ -25,7 +25,11 @@ class SchedulesController < ApplicationController
   private
 
   def find_agenda
-    @agenda = Agenda.left_outer_joins(:schedules).find_by!(token: agenda_token)
+    @agenda =
+      Agenda
+      .left_outer_joins(:schedules)
+      .includes(courses: { academic_degree_term_course: :course })
+      .find_by!(token: agenda_token)
   end
 
   def agenda_token
@@ -37,7 +41,8 @@ class SchedulesController < ApplicationController
   end
 
   def ensure_schedules_present
-    redirect_to edit_agenda_path(token: @agenda.token), flash: { notice: t(".blank_agenda") } if @agenda.empty?
+    return unless @agenda.schedules.empty?
+    redirect_to edit_agenda_path(token: @agenda.token), flash: { notice: t(".blank_agenda") }
   end
 
   def ensure_not_processing

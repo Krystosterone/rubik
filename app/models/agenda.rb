@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 class Agenda < ActiveRecord::Base
   include SerializedRecord::AcceptsNestedAttributeFor
-  prepend CourseScopes
 
   COURSES_PER_SCHEDULE_RANGE = 1..5
 
@@ -9,11 +8,12 @@ class Agenda < ActiveRecord::Base
   has_one :academic_degree, through: :academic_degree_term
   has_one :term, through: :academic_degree_term
   has_many :academic_degree_term_courses, through: :academic_degree_term
+  has_many :courses, dependent: :delete_all
   has_many :schedules, dependent: :delete_all
 
-  serialize :courses, AgendaCoursesSerializer
+  accepts_nested_attributes_for :courses, allow_destroy: true
+
   serialize :leaves, LeavesSerializer
-  serialize :mandatory_course_ids, JSON
   serialized_accepts_nested_attributes_for :leaves
 
   validate :validate_leaves
@@ -21,29 +21,12 @@ class Agenda < ActiveRecord::Base
   validates_with AgendaCoursesValidator
 
   after_initialize do
-    self.courses ||= []
-    self.mandatory_course_ids ||= []
     self.courses_per_schedule ||= COURSES_PER_SCHEDULE_RANGE.begin
-    self.processing ||= false
+    self.processing = false if processing.nil?
     self.token ||= SecureRandom.hex
   end
 
   alias_attribute :to_param, :token
-  delegate :empty?, to: :schedules
-
-  def initialize(attributes = {})
-    course_ids = attributes.delete(:course_ids)
-    super
-    self.course_ids = course_ids if course_ids.present?
-  end
-
-  def course_ids=(values)
-    self.courses = find_courses(values).collect { |course| AgendaCourse.from(course) }
-  end
-
-  def course_ids
-    courses.collect(&:id)
-  end
 
   def combine
     mark_as_processing
@@ -55,10 +38,6 @@ class Agenda < ActiveRecord::Base
     self.combined_at = Time.zone.now
   end
 
-  def mandatory_course_ids=(values)
-    super values.reject(&:blank?).map(&:to_i)
-  end
-
   private
 
   def mark_as_processing
@@ -68,10 +47,5 @@ class Agenda < ActiveRecord::Base
 
   def validate_leaves
     errors.add(:leaves, :invalid) if leaves.map(&:invalid?).any?
-  end
-
-  def find_courses(values)
-    course_ids = values.select(&:present?).map(&:to_i)
-    academic_degree_term.academic_degree_term_courses.find(course_ids)
   end
 end

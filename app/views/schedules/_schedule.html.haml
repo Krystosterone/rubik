@@ -35,5 +35,4 @@
       .week
         - schedule.weekdays.each do |weekday|
           .weekday{class: weekday.css_class}
-            - weekday.periods.each do |period|
-              = render period
+            = render weekday.periods

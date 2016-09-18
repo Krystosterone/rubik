@@ -61,7 +61,7 @@ describe SchedulesController do
       end
 
       it "sets the correct limit value" do
-        expect(assigned_schedules.limit_value).to eq(50)
+        expect(assigned_schedules.limit_value).to eq(20)
       end
     end
 

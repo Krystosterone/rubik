@@ -2,38 +2,26 @@
 require "rails_helper"
 
 describe Agenda do
-  it_behaves_like "CourseScopes", described_class: described_class
-
   subject(:agenda) { described_class.new }
   it { is_expected.to belong_to(:academic_degree_term) }
   it { is_expected.to have_one(:academic_degree).through(:academic_degree_term) }
   it { is_expected.to have_one(:term).through(:academic_degree_term) }
   it { is_expected.to have_many(:academic_degree_term_courses).through(:academic_degree_term) }
+  it { is_expected.to have_many(:courses).dependent(:delete_all) }
   it { is_expected.to have_many(:schedules).dependent(:delete_all) }
 
-  it { is_expected.to serialize(:courses).as(AgendaCoursesSerializer) }
+  it { is_expected.to accept_nested_attributes_for(:courses).allow_destroy(true) }
+
   it { is_expected.to serialize(:leaves).as(LeavesSerializer) }
-  it { is_expected.to serialize(:mandatory_course_ids) }
   it { is_expected.to accept_nested_attributes_for_serialized(:leaves, attributes: { starts_at: 0, ends_at: 100 }) }
 
   it { is_expected.to validate_presence_of(:courses) }
   it { is_expected.to validate_inclusion_of(:courses_per_schedule).in_range(1..5) }
   it { is_expected.to validate_with(AgendaCoursesValidator) }
 
-  its(:course_ids) { is_expected.to be_empty }
-  its(:mandatory_course_ids) { is_expected.to be_empty }
   its(:courses_per_schedule) { is_expected.to eq(1) }
   its(:processing) { is_expected.to eq(false) }
   its(:token) { is_expected.to be_present }
-
-  it { is_expected.to delegate_method(:empty?).to(:schedules) }
-
-  describe "#new" do
-    its(:course_ids) { is_expected.to eq([]) }
-    its(:courses_per_schedule) { is_expected.to eq(1) }
-    its(:processing) { is_expected.to eq(false) }
-    its(:token) { is_expected.not_to be_nil }
-  end
 
   describe "#to_param" do
     before { agenda.token = "a_token" }
@@ -41,53 +29,6 @@ describe Agenda do
     it "aliases to #token" do
       expect(agenda.to_param).to eq("a_token")
     end
-  end
-
-  describe "#course_ids=" do
-    let(:academic_degree_term) { create(:academic_degree_term) }
-    let(:academic_degree_term_courses) do
-      create_list(:academic_degree_term_course, 4, academic_degree_term: academic_degree_term)
-    end
-    let(:course_ids) { academic_degree_term_courses.collect(&:id) }
-    let(:courses) { academic_degree_term_courses.collect { |course| AgendaCourse.from(course) } }
-
-    context "from a new instance" do
-      before do
-        agenda.academic_degree_term = academic_degree_term
-        agenda.save!(validate: false)
-      end
-
-      it "assigns the right courses" do
-        expect { agenda.course_ids = course_ids }.to change { agenda.courses }.from([]).to(courses)
-      end
-    end
-
-    context "from an instance derived of an academic_degree_term" do
-      subject(:agenda) { academic_degree_term.agendas.new(course_ids: course_ids) }
-
-      it "assigns the right courses" do
-        expect(agenda.courses).to eq(courses)
-      end
-    end
-  end
-
-  describe "#course_ids" do
-    let(:courses) { [AgendaCourse.new(id: 3), AgendaCourse.new(id: 9000)] }
-    before { agenda.courses = courses }
-
-    its(:course_ids) { is_expected.to eq([3, 9000]) }
-  end
-
-  describe "#courses" do
-    subject(:agenda) { build(:agenda, mandatory_course_ids: [1, 2]) }
-    let(:courses_collection) { instance_double(AgendaCourseCollection) }
-    before do
-      allow(AgendaCourseCollection)
-        .to receive(:new).with(agenda.courses, agenda.mandatory_course_ids, agenda.leaves)
-        .and_return(courses_collection)
-    end
-
-    its(:courses) { is_expected.to eq(courses_collection) }
   end
 
   describe "#combine" do

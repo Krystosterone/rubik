@@ -17,7 +17,13 @@ FactoryGirl.define do
 
   factory :agenda do
     academic_degree_term
-    courses { build_list(:academic_degree_term_course, 4) }
+    courses do
+      build_list(:agenda_course, 4).map do |course|
+        course.academic_degree_term_course =
+          build(:academic_degree_term_course, academic_degree_term: academic_degree_term)
+        course
+      end
+    end
     courses_per_schedule 4
     leaves { build_list(:leave, 4) }
 

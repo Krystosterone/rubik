@@ -1,225 +1,6 @@
 ---
 :agenda_attributes:
   :courses_per_schedule: 4
-  :courses:
-  - !ruby/object:AgendaCourse
-    id: 3775
-    code: CTN404
-    groups:
-    - !ruby/object:Group
-      number: 1
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 2250
-        ends_at: 2460
-      - !ruby/object:Period
-        type: TP/Labo
-        starts_at: 3390
-        ends_at: 3630
-    - !ruby/object:Group
-      number: 2
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 8010
-        ends_at: 8220
-      - !ruby/object:Period
-        type: TP/Labo
-        starts_at: 3690
-        ends_at: 3930
-    - !ruby/object:Group
-      number: 3
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 3690
-        ends_at: 3900
-      - !ruby/object:Period
-        type: TP/Labo
-        starts_at: 8010
-        ends_at: 8250
-    - !ruby/object:Group
-      number: 4
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 3390
-        ends_at: 3600
-      - !ruby/object:Period
-        type: TP/Labo
-        starts_at: 7710
-        ends_at: 7950
-  - !ruby/object:AgendaCourse
-    id: 3778
-    code: CTN504
-    groups:
-    - !ruby/object:Group
-      number: 1
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 3390
-        ends_at: 3600
-      - !ruby/object:Period
-        type: TP/Labo
-        starts_at: 1965
-        ends_at: 2145
-    - !ruby/object:Group
-      number: 2
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 4830
-        ends_at: 5040
-      - !ruby/object:Period
-        type: TP/Labo
-        starts_at: 2250
-        ends_at: 2430
-    - !ruby/object:Group
-      number: 3
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 5130
-        ends_at: 5340
-      - !ruby/object:Period
-        type: TP/Labo
-        starts_at: 7710
-        ends_at: 7890
-  - !ruby/object:AgendaCourse
-    id: 3796
-    code: GIA400
-    groups:
-    - !ruby/object:Group
-      number: 1
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 4860
-        ends_at: 5070
-      - !ruby/object:Period
-        type: TP
-        starts_at: 2070
-        ends_at: 2190
-    - !ruby/object:Group
-      number: 4
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 5130
-        ends_at: 5340
-      - !ruby/object:Period
-        type: TP
-        starts_at: 7830
-        ends_at: 7950
-    - !ruby/object:Group
-      number: 9
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 3690
-        ends_at: 3900
-      - !ruby/object:Period
-        type: TP
-        starts_at: 8010
-        ends_at: 8130
-  - !ruby/object:AgendaCourse
-    id: 3804
-    code: PHY332
-    groups:
-    - !ruby/object:Group
-      number: 2
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 7740
-        ends_at: 7950
-      - !ruby/object:Period
-        type: TP
-        starts_at: 5130
-        ends_at: 5310
-    - !ruby/object:Group
-      number: 5
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 4860
-        ends_at: 5070
-      - !ruby/object:Period
-        type: TP
-        starts_at: 1980
-        ends_at: 2160
-    - !ruby/object:Group
-      number: 6
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 1980
-        ends_at: 2190
-      - !ruby/object:Period
-        type: TP
-        starts_at: 4860
-        ends_at: 5040
-    - !ruby/object:Group
-      number: 7
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 3690
-        ends_at: 3900
-      - !ruby/object:Period
-        type: TP
-        starts_at: 8010
-        ends_at: 8190
-  - !ruby/object:AgendaCourse
-    id: 3805
-    code: PHY335
-    groups:
-    - !ruby/object:Group
-      number: 1
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 4860
-        ends_at: 5070
-      - !ruby/object:Period
-        type: TP
-        starts_at: 1980
-        ends_at: 2160
-    - !ruby/object:Group
-      number: 3
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 5130
-        ends_at: 5340
-      - !ruby/object:Period
-        type: TP
-        starts_at: 7740
-        ends_at: 7920
-    - !ruby/object:Group
-      number: 4
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 3690
-        ends_at: 3900
-      - !ruby/object:Period
-        type: TP
-        starts_at: 8010
-        ends_at: 8190
-    - !ruby/object:Group
-      number: 8
-      periods:
-      - !ruby/object:Period
-        type: C
-        starts_at: 1980
-        ends_at: 2190
-      - !ruby/object:Period
-        type: TP
-        starts_at: 4860
-        ends_at: 5040
   :leaves:
   - !ruby/object:Leave
     starts_at: 5340
@@ -228,6 +9,17 @@
     starts_at: 5880
     ends_at: 7080
   :token: 87faf0ccc49f334f30f413b75aefa355
+  :courses_attributes:
+  - :academic_degree_term_course_id: 3775
+    :mandatory: false
+  - :academic_degree_term_course_id: 3778
+    :mandatory: false
+  - :academic_degree_term_course_id: 3796
+    :mandatory: false
+  - :academic_degree_term_course_id: 3804
+    :mandatory: false
+  - :academic_degree_term_course_id: 3805
+    :mandatory: false
 :generated_course_groups:
 - - !ruby/object:CourseGroup
     code: CTN404
@@ -1269,3 +1061,222 @@
         type: TP
         starts_at: 7740
         ends_at: 7920
+:academic_degree_term_courses_attributes:
+- :id: 3775
+  :course_attributes:
+    :code: CTN404
+  :groups:
+  - !ruby/object:Group
+    number: 1
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 2250
+      ends_at: 2460
+    - !ruby/object:Period
+      type: TP/Labo
+      starts_at: 3390
+      ends_at: 3630
+  - !ruby/object:Group
+    number: 2
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 8010
+      ends_at: 8220
+    - !ruby/object:Period
+      type: TP/Labo
+      starts_at: 3690
+      ends_at: 3930
+  - !ruby/object:Group
+    number: 3
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 3690
+      ends_at: 3900
+    - !ruby/object:Period
+      type: TP/Labo
+      starts_at: 8010
+      ends_at: 8250
+  - !ruby/object:Group
+    number: 4
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 3390
+      ends_at: 3600
+    - !ruby/object:Period
+      type: TP/Labo
+      starts_at: 7710
+      ends_at: 7950
+- :id: 3778
+  :course_attributes:
+    :code: CTN504
+  :groups:
+  - !ruby/object:Group
+    number: 1
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 3390
+      ends_at: 3600
+    - !ruby/object:Period
+      type: TP/Labo
+      starts_at: 1965
+      ends_at: 2145
+  - !ruby/object:Group
+    number: 2
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 4830
+      ends_at: 5040
+    - !ruby/object:Period
+      type: TP/Labo
+      starts_at: 2250
+      ends_at: 2430
+  - !ruby/object:Group
+    number: 3
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 5130
+      ends_at: 5340
+    - !ruby/object:Period
+      type: TP/Labo
+      starts_at: 7710
+      ends_at: 7890
+- :id: 3796
+  :course_attributes:
+    :code: GIA400
+  :groups:
+  - !ruby/object:Group
+    number: 1
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 4860
+      ends_at: 5070
+    - !ruby/object:Period
+      type: TP
+      starts_at: 2070
+      ends_at: 2190
+  - !ruby/object:Group
+    number: 4
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 5130
+      ends_at: 5340
+    - !ruby/object:Period
+      type: TP
+      starts_at: 7830
+      ends_at: 7950
+  - !ruby/object:Group
+    number: 9
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 3690
+      ends_at: 3900
+    - !ruby/object:Period
+      type: TP
+      starts_at: 8010
+      ends_at: 8130
+- :id: 3804
+  :course_attributes:
+    :code: PHY332
+  :groups:
+  - !ruby/object:Group
+    number: 2
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 7740
+      ends_at: 7950
+    - !ruby/object:Period
+      type: TP
+      starts_at: 5130
+      ends_at: 5310
+  - !ruby/object:Group
+    number: 5
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 4860
+      ends_at: 5070
+    - !ruby/object:Period
+      type: TP
+      starts_at: 1980
+      ends_at: 2160
+  - !ruby/object:Group
+    number: 6
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 1980
+      ends_at: 2190
+    - !ruby/object:Period
+      type: TP
+      starts_at: 4860
+      ends_at: 5040
+  - !ruby/object:Group
+    number: 7
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 3690
+      ends_at: 3900
+    - !ruby/object:Period
+      type: TP
+      starts_at: 8010
+      ends_at: 8190
+- :id: 3805
+  :course_attributes:
+    :code: PHY335
+  :groups:
+  - !ruby/object:Group
+    number: 1
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 4860
+      ends_at: 5070
+    - !ruby/object:Period
+      type: TP
+      starts_at: 1980
+      ends_at: 2160
+  - !ruby/object:Group
+    number: 3
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 5130
+      ends_at: 5340
+    - !ruby/object:Period
+      type: TP
+      starts_at: 7740
+      ends_at: 7920
+  - !ruby/object:Group
+    number: 4
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 3690
+      ends_at: 3900
+    - !ruby/object:Period
+      type: TP
+      starts_at: 8010
+      ends_at: 8190
+  - !ruby/object:Group
+    number: 8
+    periods:
+    - !ruby/object:Period
+      type: C
+      starts_at: 1980
+      ends_at: 2190
+    - !ruby/object:Period
+      type: TP
+      starts_at: 4860
+      ends_at: 5040
