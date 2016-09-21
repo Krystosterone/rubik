@@ -14,4 +14,6 @@ Rails.application.configure do
   config.active_support.test_order = :random
   config.active_support.deprecation = :stderr
   config.active_job.queue_adapter = :test
+
+  config.after_initialize { Bullet.raise = true }
 end

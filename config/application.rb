@@ -26,5 +26,10 @@ module Rubik
     config.action_view.field_error_proc = proc { |html_tag, _instance| html_tag }
     config.ga_tracking_id = ENV.fetch("GA_ANALYTICS_ID")
     config.comment_email_recipient = ENV.fetch("COMMENT_EMAIL_RECIPIENT")
+
+    config.after_initialize do
+      Bullet.enable = true
+      Bullet.bullet_logger = true
+    end
   end
 end
