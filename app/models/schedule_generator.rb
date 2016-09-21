@@ -53,7 +53,7 @@ class ScheduleGenerator
   end
 
   def courses_collection
-    @courses_collection ||= @agenda.courses.includes(:academic_degree_term_course, :agenda)
+    @courses_collection ||= @agenda.courses.includes(:academic_degree_term_course)
   end
 
   def courses

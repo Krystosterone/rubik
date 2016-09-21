@@ -4,7 +4,7 @@ require "rails_helper"
 describe Agenda::Course do
   subject(:course) { described_class.new }
   it { is_expected.to belong_to(:academic_degree_term_course) }
-  it { is_expected.to belong_to(:agenda) }
+  it { is_expected.to belong_to(:agenda).inverse_of(:courses) }
 
   it { is_expected.to validate_presence_of(:academic_degree_term_course) }
 

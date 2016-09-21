@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 class Agenda::Course < ActiveRecord::Base
   belongs_to :academic_degree_term_course
-  belongs_to :agenda
+  belongs_to :agenda, inverse_of: :courses
 
   validates :academic_degree_term_course, presence: true
 
