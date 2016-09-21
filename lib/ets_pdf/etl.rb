@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 class EtsPdf::Etl < Pipeline
-  def initialize(pdf_folder)
+  def initialize(pdf_folder = "db/raw/ets/**/*")
     super(pdf_folder)
   end
 
