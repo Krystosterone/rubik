@@ -35,6 +35,14 @@ FactoryGirl.define do
     end
   end
 
+  factory :agenda_course, class: "Agenda::Course" do
+    academic_degree_term_course
+
+    factory :mandatory_agenda_course do
+      mandatory true
+    end
+  end
+
   factory :comment do
     user_email { generate(:email) }
     body

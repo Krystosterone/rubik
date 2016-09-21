@@ -1,4 +1,3 @@
-# encoding: UTF-8
 # This file is auto-generated from the current state of the database. Instead
 # of editing this file, please use the migrations feature of Active Record to
 # incrementally modify your database, and then regenerate this schema definition.
@@ -11,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160530004937) do
+ActiveRecord::Schema.define(version: 20160918181930) do
 
   create_table "academic_degree_term_courses", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.integer  "academic_degree_term_id"
@@ -36,6 +35,17 @@ ActiveRecord::Schema.define(version: 20160530004937) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.index ["code"], name: "index_academic_degrees_on_code", unique: true, using: :btree
+  end
+
+  create_table "agenda_courses", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+    t.integer  "academic_degree_term_course_id"
+    t.integer  "agenda_id"
+    t.boolean  "mandatory"
+    t.datetime "created_at",                     null: false
+    t.datetime "updated_at",                     null: false
+    t.index ["academic_degree_term_course_id", "agenda_id"], name: "agenda_courses_index", unique: true, using: :btree
+    t.index ["academic_degree_term_course_id"], name: "index_agenda_courses_on_academic_degree_term_course_id", using: :btree
+    t.index ["agenda_id"], name: "index_agenda_courses_on_agenda_id", using: :btree
   end
 
   create_table "agendas", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
