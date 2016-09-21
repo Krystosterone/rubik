@@ -31,13 +31,12 @@ fr:
             courses:
               blank: Veuillez sélectionner au moins un cours
               greater_than_or_equal_to_courses_per_schedule: Veuillez sélectionner un nombre de cours supérieur ou égal au nombre de cours par horaire
+              mandatory_courses_less_than_or_equal_to_courses_per_schedule: Veuillez sélectionner un nombre de cours obligatoires égal ou inférieur au nombre de cours par horaire
+              mandatory_courses_redundant: Le nombre de cours obligatoires équivaut au nombre de cours par horaire; Votre sélection de cours non-obligatoire sera donc ignorée.
             courses_per_schedule:
               inclusion: Le nombre de cours par horaire "%{value}" est interdit
             leaves:
               invalid: Veuillez corriger les congés spécifiés
-            mandatory_course_ids:
-              less_than_or_equal_to_courses_per_schedule: Veuillez sélectionner un nombre de cours obligatoires égal ou inférieur au nombre de cours par horaire
-              redundant: Le nombre de cours obligatoires équivaut au nombre de cours par horaire; Votre sélection de cours non-obligatoire sera donc ignorée.
         newsletter_subscription:
           attributes:
             email:
