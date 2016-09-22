@@ -1,14 +1,16 @@
 # frozen_string_literal: true
 class AgendasController < ApplicationController
   before_action :expires_now
-  before_action :find_academic_degree_term, only: [:new, :create]
+  before_action :assign_academic_degree_term,
+                :instantiate_agenda, only: [:new, :create]
   before_action :find_agenda,
                 :ensure_not_processing, only: [:edit, :update]
+  before_action :assign_attributes,
+                :combine, only: [:create, :update]
 
   decorates_assigned :agenda
 
   def new
-    @agenda = @academic_degree_term.agendas.new
     render :edit
   end
 
@@ -16,19 +18,19 @@ class AgendasController < ApplicationController
   end
 
   def create
-    @agenda = @academic_degree_term.agendas.new(agenda_params)
-    combine
   end
 
   def update
-    @agenda.assign_attributes(agenda_params)
-    combine
   end
 
   private
 
-  def find_academic_degree_term
+  def assign_academic_degree_term
     @academic_degree_term = AcademicDegreeTerm.enabled.find(params[:academic_degree_term_id])
+  end
+
+  def instantiate_agenda
+    @agenda = @academic_degree_term.agendas.new
   end
 
   def find_agenda
@@ -48,6 +50,10 @@ class AgendasController < ApplicationController
 
   def agenda_token
     params.require(:token)
+  end
+
+  def assign_attributes
+    @agenda.assign_attributes(agenda_params)
   end
 
   def combine
