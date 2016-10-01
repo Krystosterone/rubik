@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 class Agenda < ActiveRecord::Base
+  include Defaults
   include SerializedRecord::AcceptsNestedAttributeFor
 
   COURSES_PER_SCHEDULE_RANGE = 1..5
@@ -20,11 +21,9 @@ class Agenda < ActiveRecord::Base
   validates :courses_per_schedule, inclusion: { in: COURSES_PER_SCHEDULE_RANGE }
   validates_with AgendaCoursesValidator
 
-  after_initialize do
-    self.courses_per_schedule ||= COURSES_PER_SCHEDULE_RANGE.begin
-    self.processing = false if processing.nil?
-    self.token ||= SecureRandom.hex
-  end
+  default :courses_per_schedule, COURSES_PER_SCHEDULE_RANGE.begin
+  default :processing, false
+  default(:token) { SecureRandom.hex }
 
   alias_attribute :to_param, :token
 

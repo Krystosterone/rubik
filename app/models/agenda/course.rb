@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 class Agenda::Course < ActiveRecord::Base
+  include Defaults
+
   belongs_to :academic_degree_term_course
   belongs_to :agenda, inverse_of: :courses
 
@@ -10,9 +12,7 @@ class Agenda::Course < ActiveRecord::Base
   scope :mandatory, -> { where(mandatory: true) }
   scope :optional, -> { where(mandatory: false) }
 
-  after_initialize do
-    self.mandatory = false if mandatory.nil?
-  end
+  default :mandatory, false
 
   def pruned_groups
     groups.reject(&method(:overlaps_leaves?))

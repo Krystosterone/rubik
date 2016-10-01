@@ -1,8 +1,19 @@
 # frozen_string_literal: true
 class TestStudent
-  include ActiveModel::Model
+  extend ActiveModel::Callbacks
+  define_model_callbacks :initialize, only: :after
 
-  attr_accessor :name, :_destroy
+  include ActiveModel::Model
+  include Defaults
+
+  attr_accessor :name, :token, :_destroy
+
+  default :name, "Krystian"
+  default(:token) { SecureRandom.hex }
+
+  def initialize(*)
+    run_callbacks(:initialize) { super }
+  end
 end
 
 class TestProfessor
