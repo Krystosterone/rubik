@@ -25,5 +25,6 @@ end
 Capybara.default_selector = :css
 Capybara.server_port = 9887
 Capybara.app_host = "http://127.0.0.1:#{Capybara.server_port}"
+Capybara.match = :prefer_exact
 
 Cucumber::Rails::Database.javascript_strategy = :truncation
