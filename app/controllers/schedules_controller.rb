@@ -2,11 +2,11 @@
 class SchedulesController < ApplicationController
   include ScheduleHelper
 
-  before_action :find_agenda, only: :processing
-  before_action :find_agenda_with_courses, except: :processing
+  before_action :find_agenda
   before_action :ensure_not_processing,
                 :ensure_schedules_present, only: :index
   before_action :ensure_processing, only: :processing
+  before_action :eager_load_courses, except: :processing
   skip_before_action :show_navigation, only: :processing
 
   decorates_assigned :agenda, :schedule, :schedules
@@ -25,24 +25,20 @@ class SchedulesController < ApplicationController
 
   private
 
-  def find_agenda_with_courses
-    @agenda =
-      Agenda
-      .left_outer_joins(:schedules)
-      .includes(courses: { academic_degree_term_course: :course })
-      .find_by!(token: agenda_token)
+  def agenda_token
+    params.require(:agenda_token)
   end
 
   def find_agenda
     @agenda = Agenda.left_outer_joins(:schedules).find_by!(token: agenda_token)
   end
 
-  def agenda_token
-    params.require(:agenda_token)
-  end
-
   def find_schedules
     @agenda.schedules.page(params[:page]).per(SCHEDULES_PER_PAGE).presence
+  end
+
+  def eager_load_courses
+    @agenda.courses = @agenda.courses.includes(academic_degree_term_course: :course)
   end
 
   def ensure_schedules_present
