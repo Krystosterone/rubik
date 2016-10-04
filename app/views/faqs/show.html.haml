@@ -1,0 +1,11 @@
+.container
+  %h1.page-header= t(".title")
+
+.well
+  .container= simple_format t(".introduction")
+
+.container
+  - t(".questions").each do |question|
+    %fieldset
+      %legend= question[:title]
+      = simple_format question[:body], {}, sanitize: false

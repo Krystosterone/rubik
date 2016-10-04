@@ -62,6 +62,25 @@ fr:
         not_found: Page introuvable
         unprocessable_entity: Erreur d'entité
         internal_server_error: Erreur interne
+  faqs:
+    show:
+      title: Foire aux questions
+      introduction: |
+        Bonjour,
+
+        je me nomme <a title="Github" href="https://github.com/Krystosterone" target="_blank">Krystian</a> et je suis le créateur de <b>Rubik</b>: un outil facile, pratique et intuitif afin de générer des combinaisons d'horaires pour différents trimestres.
+
+        J'ai créé ce site comme projet de fin d'études au trimestre d'automne 2013 et le maintiens jusqu'à ce jour. Je vous prierais donc de garder cela en tête avant de m'écrire tout commentaire désobligeant ou me faire part de vos frustrations.
+
+        Je fournis ce service gratuitement, sans compensation et l'héberge à mes frais. Ce site n'a aucune affiliation avec l'ÉTS.
+      questions:
+        - title: Quand est-ce que les trimestres sont-ils mis à jour?
+          body: |
+            Le site dépend entièrement des données fournies via les PDFs produits ici: <a title="Horaires et planification des cours : baccalauréats" href="http://etsmtl.ca/horaires-bac" target="_blank">Horaires et planification des cours : baccalauréats</a>. Les trimestres sont donc mis à jour lorsque ces données sont rendues publiques.
+
+            Si les données fournies sur le site diffèrent de ceux affichées sur ChemiNot, il s'agit généralement d'une erreur de la part de l'école.
+
+            Avant d'envoyer un <a title="commentaire" href="/comments/new">commentaire</a>, veuillez vous assurer que votre choix de groupe-cours est bel et bien énuméré dans le PDF correspondant.
   helpers:
     submit:
       create: Soumettre
@@ -80,6 +99,7 @@ fr:
       donate: Contribuer
     navbar:
       comments: Commentaires
+      faq: FAQ
   schedules:
     index:
       blank_agenda: Veuillez choisir une nouvelle combinaison de cours; aucune combinaison n'a pu être trouvée
