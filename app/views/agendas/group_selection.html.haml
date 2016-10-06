@@ -1,0 +1,59 @@
+.container
+  = render "shared/breadcrumb"
+  = render "shared/flash_messages"
+
+  - if agenda.errors.any?
+    .alert.alert-danger{role: "alert"}
+      - agenda.errors.each do |_, error|
+        %span.glyphicon.glyphicon-exclamation-sign{"aria-hidden" => true}
+        = error
+        %br
+
+  %h1.page-header= t(".title")
+
+= form_for [@academic_degree_term, agenda] do |agenda_fields|
+  = hidden_field_tag :step, step
+  = render "shared/overview", f: agenda_fields
+
+  .container
+    %fieldset
+      %legend= t(".groups")
+
+      = agenda_fields.fields_for :courses do |course_fields|
+        %table.group-selection-table
+          %thead
+            %tr{class: ("danger" if course_fields.object.errors.any?)}
+              %th{colspan: 3}
+                = course_fields.hidden_field :id
+                - if course_fields.object.mandatory?
+                  %i.fa.fa-lock
+                = course_fields.object.code
+
+          %tbody
+            - group_index = 0
+            = course_fields.collection_check_boxes :group_numbers, course_fields.object.groups, :number, :number do |group_fields|
+              - group_index += 1
+              - group_fields.object.periods.each_with_index do |period, index|
+                %tr{class: ("active" if group_index % 2 == 1)}
+                  - if index.zero?
+                    %th{rowspan: group_fields.object.periods.size}
+                      = group_fields.label do
+                        .label-content
+                          = group_fields.check_box
+                          = group_fields.text
+                  %td
+                    = group_fields.label do
+                      .label-content
+                        = period.type
+                  %td
+                    = group_fields.label do
+                      .label-content
+                        = period.time_span
+
+    .row
+      .col-sm-4.col-sm-push-8
+        = agenda_fields.submit class: "btn btn-primary btn-block"
+      .col-sm-8.col-sm-pull-4.back
+        = link_to edit_agenda_path(agenda, step: :course_selection) do
+          %i.glyphicon.glyphicon-chevron-left
+          = t(".back")

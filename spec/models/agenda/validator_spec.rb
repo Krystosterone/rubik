@@ -1,12 +1,13 @@
 # frozen_string_literal: true
 require "rails_helper"
 
-describe AgendaCoursesValidator do
+describe Agenda::Validator do
   subject(:validator) { described_class.new }
+  let(:agenda) { Agenda.new }
 
   describe "#validate" do
     context "with a record that has no error" do
-      let(:agenda) { Agenda.new(courses: build_list(:agenda_course, 2), courses_per_schedule: 2) }
+      before { agenda.assign_attributes(courses: build_list(:agenda_course, 2), courses_per_schedule: 2) }
 
       it "does not add an error on the record" do
         expect { validator.validate(agenda) }
@@ -15,15 +16,13 @@ describe AgendaCoursesValidator do
     end
 
     context "with a record that has no courses" do
-      let(:agenda) { Agenda.new }
-
       it "adds and error on the record" do
         expect { validator.validate(agenda) }.to change { agenda.errors.added?(:courses, :blank) }.to(true)
       end
     end
 
     context "with a record has more courses per schedule than courses" do
-      let(:agenda) { Agenda.new(courses: build_list(:agenda_course, 2), courses_per_schedule: 4) }
+      before { agenda.assign_attributes(courses: build_list(:agenda_course, 2), courses_per_schedule: 4) }
 
       it "adds and error on the record" do
         expect { validator.validate(agenda) }
@@ -32,8 +31,8 @@ describe AgendaCoursesValidator do
     end
 
     context "with the number of mandatory courses being more than the number of selected courses" do
-      let(:agenda) do
-        Agenda.new(
+      before do
+        agenda.assign_attributes(
           courses: build_list(:mandatory_agenda_course, 3) + [build(:agenda_course)],
           courses_per_schedule: 2
         )
@@ -46,8 +45,8 @@ describe AgendaCoursesValidator do
     end
 
     context "when there are some courses selected when not necessary" do
-      let(:agenda) do
-        Agenda.new(
+      before do
+        agenda.assign_attributes(
           courses: build_list(:mandatory_agenda_course, 3) + [build(:agenda_course)],
           courses_per_schedule: 3
         )
@@ -56,6 +55,36 @@ describe AgendaCoursesValidator do
       it "adds and error on the record" do
         expect { validator.validate(agenda) }
           .to change { agenda.errors.added?(:courses, :mandatory_courses_redundant) }.to(true)
+      end
+    end
+
+    context "when any leave is invalid" do
+      before do
+        agenda.assign_attributes(leaves: [
+          Leave.new(starts_at: 2000, ends_at: 1000),
+          Leave.new(starts_at: 2000, ends_at: 1000),
+        ])
+        agenda.valid?
+      end
+
+      it "sets the agenda to be invalid" do
+        expect(agenda).not_to be_valid
+      end
+
+      it "adds an error on agenda" do
+        expect(agenda.errors).to be_added(:leaves, :invalid)
+      end
+
+      it "sets an error on leaves" do
+        expect(agenda.leaves.all?(&:invalid?)).to eq(true)
+      end
+    end
+
+    context "when all leaves are valid" do
+      before { agenda.valid? }
+
+      it "adds no errors on leaves" do
+        expect(agenda.errors).not_to be_added(:leaves, :invalid)
       end
     end
   end

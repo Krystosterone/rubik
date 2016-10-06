@@ -13,6 +13,7 @@ FactoryGirl.define do
   factory :academic_degree_term_course do
     academic_degree_term
     course
+    groups { build_list(:group, 4) }
   end
 
   factory :agenda do
@@ -43,6 +44,7 @@ FactoryGirl.define do
 
   factory :agenda_course, class: "Agenda::Course" do
     academic_degree_term_course
+    agenda { Agenda.new }
 
     factory :mandatory_agenda_course do
       mandatory true

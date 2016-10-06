@@ -42,7 +42,7 @@ describe AgendasController do
       let(:agenda) { assigns(:agenda) }
       before { get :new, params: { academic_degree_term_id: academic_degree_term.id } }
 
-      it { is_expected.to render_template(:edit) }
+      it { is_expected.to render_template("agendas/course_selection") }
 
       it "assigns a new agenda" do
         expect(agenda).to be_a_new(Agenda)
@@ -53,11 +53,33 @@ describe AgendasController do
   end
 
   describe "#edit" do
-    context "when the agenda is found" do
+    context "when the agenda is found with no step" do
       let(:agenda) { create(:combined_agenda) }
       before { get :edit, params: { token: agenda.token } }
 
-      it { is_expected.to render_template(:edit) }
+      it { is_expected.to render_template("agendas/course_selection") }
+
+      it "assigns a new agenda" do
+        expect(assigns(:agenda)).to eq(agenda)
+      end
+    end
+
+    context "when the agenda is found with step 'course_selection'" do
+      let(:agenda) { create(:combined_agenda) }
+      before { get :edit, params: { step: AgendaCreationProcess::STEP_COURSE_SELECTION, token: agenda.token } }
+
+      it { is_expected.to render_template("agendas/course_selection") }
+
+      it "assigns a new agenda" do
+        expect(assigns(:agenda)).to eq(agenda)
+      end
+    end
+
+    context "when the agenda is found with step 'group_selection'" do
+      let(:agenda) { create(:combined_agenda, filter_groups: true) }
+      before { get :edit, params: { step: AgendaCreationProcess::STEP_GROUP_SELECTION, token: agenda.token } }
+
+      it { is_expected.to render_template("agendas/group_selection") }
 
       it "assigns a new agenda" do
         expect(assigns(:agenda)).to eq(agenda)
@@ -66,73 +88,114 @@ describe AgendasController do
   end
 
   describe "#create" do
-    context "when the academic degree term does exist" do
-      let(:academic_degree_term) { create(:academic_degree_term) }
+    let(:academic_degree_term) { create(:academic_degree_term) }
 
-      context "when the post does not contain agenda" do
-        it "raises an error" do
-          expect { post :create, params: { academic_degree_term_id: academic_degree_term.id } }
-            .to raise_error(ActionController::ParameterMissing)
-        end
+    context "when the post does not contain agenda" do
+      it "raises an error" do
+        expect { post :create, params: { academic_degree_term_id: academic_degree_term.id } }
+          .to raise_error(ActionController::ParameterMissing)
       end
+    end
 
-      context "when the agenda could not be combined" do
-        before do
-          allow_any_instance_of(Agenda).to receive(:combine).and_return(false)
-          post :create,
-               params: {
-                 academic_degree_term_id: academic_degree_term.id,
-                 agenda: { courses_per_schedule: 5 }
-               }
-        end
+    context "when no group filtering was selected" do
+      context "when the agenda could not be saved" do
         let(:assigned_agenda) { assigns(:agenda) }
-
-        it { is_expected.to render_template(:edit) }
-
-        it "assigns the agenda" do
-          expect(assigned_agenda).to be_a_new(Agenda)
+        before do
+          post :create, params: {
+            academic_degree_term_id: academic_degree_term.id,
+            agenda: {
+              courses_per_schedule: 6,
+              filter_groups: false,
+            },
+          }
         end
 
+        it { is_expected.to render_template("agendas/course_selection") }
+
+        specify { expect(assigned_agenda).to be_a_new(Agenda) }
         specify { expect(assigned_agenda.academic_degree_term).to eq(academic_degree_term) }
-        specify { expect(assigned_agenda.courses_per_schedule).to eq(5) }
+        specify { expect(assigned_agenda.courses_per_schedule).to eq(6) }
       end
 
-      context "when the agenda was able to be combined" do
+      context "when the agenda was saved" do
         let(:agenda) { Agenda.last }
         let(:academic_degree_term_course) do
           create(:academic_degree_term_course, academic_degree_term: academic_degree_term)
         end
         before do
-          post :create,
-               params: {
-                 academic_degree_term_id: academic_degree_term.id,
-                 agenda: {
-                   courses_attributes: {
-                     0 => { academic_degree_term_course_id: academic_degree_term_course.id, mandatory: true }
-                   },
-                   courses_per_schedule: 1,
-                   leaves_attributes: {
-                     0 => { starts_at: 0, ends_at: 100 }
-                   }
-                 },
-               }
+          post :create, params: {
+            academic_degree_term_id: academic_degree_term.id,
+            agenda: {
+              courses_attributes: {
+                0 => { academic_degree_term_course_id: academic_degree_term_course.id, mandatory: true },
+              },
+              courses_per_schedule: 1,
+              filter_groups: false,
+              leaves_attributes: {
+                0 => { starts_at: 0, ends_at: 100 },
+              },
+            },
+          }
         end
 
         it { is_expected.to redirect_to(processing_agenda_schedules_path(agenda)) }
 
         it "creates an agenda" do
-          expect(agenda).not_to be_nil
+          expect(agenda).to be_present
         end
 
-        specify { expect(agenda.academic_degree_term).to eq(academic_degree_term) }
-        specify { expect(agenda.courses_per_schedule).to eq(1) }
-        specify { expect(agenda.courses.size).to eq(1) }
-        specify do
-          expect(agenda.courses[0].attributes.slice("academic_degree_term_course_id", "mandatory"))
-            .to eq("academic_degree_term_course_id" => academic_degree_term_course.id, "mandatory" => true)
+        it "enqueues the job to combine schedules" do
+          expect(ScheduleGeneratorJob).to have_been_enqueued.with(global_id(agenda))
         end
-        specify { expect(agenda.leaves.size).to eq(1) }
-        specify { expect(agenda.leaves[0]).to eq(Leave.new(starts_at: 0, ends_at: 100)) }
+      end
+    end
+
+    context "when group filtering was selected" do
+      context "when the agenda could not be saved" do
+        let(:assigned_agenda) { assigns(:agenda) }
+        before do
+          post :create, params: {
+            academic_degree_term_id: academic_degree_term.id,
+            agenda: {
+              courses_per_schedule: 6,
+              filter_groups: true,
+            },
+          }
+        end
+
+        it { is_expected.to render_template("agendas/course_selection") }
+
+        specify { expect(assigned_agenda).to be_a_new(Agenda) }
+        specify { expect(assigned_agenda.academic_degree_term).to eq(academic_degree_term) }
+        specify { expect(assigned_agenda.courses_per_schedule).to eq(6) }
+      end
+
+      context "when the agenda was saved" do
+        let(:agenda) { Agenda.last }
+        let(:academic_degree_term_course) do
+          create(:academic_degree_term_course, academic_degree_term: academic_degree_term)
+        end
+        before do
+          post :create, params: {
+            academic_degree_term_id: academic_degree_term.id,
+            agenda: {
+              courses_attributes: {
+                0 => { academic_degree_term_course_id: academic_degree_term_course.id, mandatory: true },
+              },
+              courses_per_schedule: 1,
+              filter_groups: true,
+              leaves_attributes: {
+                0 => { starts_at: 0, ends_at: 100 },
+              },
+            },
+          }
+        end
+
+        it { is_expected.to redirect_to(edit_agenda_path(agenda, step: AgendaCreationProcess::STEP_GROUP_SELECTION)) }
+
+        it "creates an agenda" do
+          expect(agenda).to be_present
+        end
       end
     end
   end
@@ -147,62 +210,101 @@ describe AgendasController do
       end
     end
 
-    context "when the agenda could not be combined" do
-      before do
-        allow_any_instance_of(Agenda).to receive(:combine).and_return(false)
-        post :update,
-             params: {
-               token: agenda.token,
-               agenda: { courses_per_schedule: 5 }
-             }
+    context "when group filtering was selected on step 'course_selection'" do
+      context "when the agenda could not be saved" do
+        before do
+          put :update, params: {
+            agenda: {
+              courses_per_schedule: 6,
+              filter_groups: false,
+            },
+            token: agenda.token,
+            step: AgendaCreationProcess::STEP_COURSE_SELECTION,
+          }
+        end
+
+        it { is_expected.to render_template("agendas/course_selection") }
+
+        it "assigns a new agenda" do
+          expect(assigns(:agenda)).to eq(agenda)
+        end
       end
-      let(:assigned_agenda) { assigns(:agenda) }
 
-      it { is_expected.to render_template(:edit) }
+      context "when the agenda was saved" do
+        let(:academic_degree_term_course) do
+          create(:academic_degree_term_course, academic_degree_term: agenda.academic_degree_term)
+        end
+        let(:courses_attributes) do
+          courses_attributes = agenda.courses.map { |course| { id: course.id, _destroy: "1" } }
+          courses_attributes << { academic_degree_term_course_id: academic_degree_term_course.id, mandatory: true }
+          courses_attributes.map.with_index { |attributes, index| [index, attributes] }.to_h
+        end
+        before do
+          put :update, params: {
+            agenda: {
+              courses_attributes: courses_attributes,
+              courses_per_schedule: 1,
+              filter_groups: false,
+              leaves_attributes: {
+                0 => { starts_at: 0, ends_at: 100 },
+              },
+            },
+            token: agenda.token,
+            step: AgendaCreationProcess::STEP_COURSE_SELECTION,
+          }
+          agenda.reload
+        end
 
-      it "assigns the agenda" do
-        expect(assigned_agenda).to eq(agenda)
-      end
+        it { is_expected.to redirect_to(processing_agenda_schedules_path(agenda)) }
 
-      it "updates the attributes on the agenda" do
-        expect(assigned_agenda.courses_per_schedule).to eq(5)
+        it { expect(agenda.courses_per_schedule).to eq(1) }
       end
     end
 
-    context "when the agenda was able to be combined" do
-      let(:academic_degree_term_course) do
-        create(:academic_degree_term_course, academic_degree_term: agenda.academic_degree_term)
-      end
-      let(:courses_attributes) do
-        courses_attributes = agenda.courses.map { |course| { id: course.id, _destroy: "1" } }
-        courses_attributes << { academic_degree_term_course_id: academic_degree_term_course.id, mandatory: true }
-        courses_attributes.map.with_index { |attributes, index| [index, attributes] }.to_h
-      end
-      before do
-        post :update,
-             params: {
-               token: agenda.token,
-               agenda: {
-                 courses_attributes: courses_attributes,
-                 courses_per_schedule: 1,
-                 leaves_attributes: {
-                   0 => { starts_at: 0, ends_at: 100 }
-                 }
-               }
-             }
-        agenda.reload
+    context "when no group filtering was selected on step 'group_selection'" do
+      before { agenda.update!(filter_groups: true) }
+
+      context "when the agenda could not be saved" do
+        before do
+          put :update, params: {
+            agenda: {
+              courses_attributes: {
+                id: agenda.courses.first.id,
+                group_numbers: [""],
+              }
+            },
+            token: agenda.token,
+            step: AgendaCreationProcess::STEP_GROUP_SELECTION,
+          }
+        end
+
+        it { is_expected.to render_template("agendas/group_selection") }
+
+        it "assigns a new agenda" do
+          expect(assigns(:agenda)).to eq(agenda)
+        end
       end
 
-      it { is_expected.to redirect_to(processing_agenda_schedules_path(agenda)) }
+      context "when the agenda was saved" do
+        let(:group_numbers) { Array(agenda.courses.first.groups.first.number) }
+        before do
+          put :update, params: {
+            agenda: {
+              courses_attributes: {
+                id: agenda.courses.first.id,
+                group_numbers: group_numbers,
+              },
+            },
+            token: agenda.token,
+            step: AgendaCreationProcess::STEP_GROUP_SELECTION,
+          }
+          agenda.reload
+        end
 
-      specify { expect(agenda.courses_per_schedule).to eq(1) }
-      specify { expect(agenda.courses.size).to eq(1) }
-      specify do
-        expect(agenda.courses[0].attributes.slice("academic_degree_term_course_id", "mandatory"))
-          .to eq("academic_degree_term_course_id" => academic_degree_term_course.id, "mandatory" => true)
+        it { is_expected.to redirect_to(processing_agenda_schedules_path(agenda)) }
+
+        it { expect(agenda.courses.first.group_numbers).to eq(group_numbers) }
       end
-      specify { expect(agenda.leaves.size).to eq(1) }
-      specify { expect(agenda.leaves[0]).to eq(Leave.new(starts_at: 0, ends_at: 100)) }
     end
   end
 end

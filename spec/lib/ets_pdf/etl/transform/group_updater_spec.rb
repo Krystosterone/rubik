@@ -20,10 +20,10 @@ describe EtsPdf::Etl::Transform::GroupUpdater do
     end
 
     context "with no groups serialized" do
-      before { group_updater.execute }
+      before { academic_degree_term_course.groups = [] }
 
       it "created them" do
-        expect(academic_degree_term_course.groups).to eq(groups)
+        expect { group_updater.execute }.to change { academic_degree_term_course.groups }.to(groups)
       end
     end
 

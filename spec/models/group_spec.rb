@@ -73,14 +73,16 @@ describe Group do
   describe "#==" do
     let(:periods) { [double] }
 
-    it "returns false if periods do not match" do
-      expect(described_class.new(periods: [double]))
-        .not_to eq(described_class.new({}))
+    it "returns false if numbers do not match" do
+      expect(described_class.new(number: 1)).not_to eq(described_class.new(number: 2))
     end
 
-    it "returns true if periods match" do
-      expect(described_class.new(periods: periods))
-        .to eq(described_class.new(periods: periods))
+    it "returns false if periods do not match" do
+      expect(described_class.new(periods: [double])).not_to eq(described_class.new({}))
+    end
+
+    it "returns true if everything matches" do
+      expect(described_class.new(number: 1, periods: periods)).to eq(described_class.new(number: 1, periods: periods))
     end
   end
 end

@@ -16,6 +16,7 @@ fr:
         academic_degree_name: Baccalauréat
         courses: Cours
         courses_per_schedule: Nombre de cours par horaire
+        filter_groups: Filtrer les groupes
         leaves: Congés
         mandatory_course_ids: Cours obligatoires
         term_title: Trimestre
@@ -37,14 +38,23 @@ fr:
               inclusion: Le nombre de cours par horaire "%{value}" est interdit
             leaves:
               invalid: Veuillez corriger les congés spécifiés
+        agenda/course:
+          attributes:
+            selected_groups:
+              blank: Veuillez sélectionner au moins un groupe par cours
         newsletter_subscription:
           attributes:
             email:
               taken: a déjà été enregistré
   agendas:
-    edit:
-      title: Choix de cours
+    course_selection:
+      filter_groups: Filtrer les groupes comme prochaine étape
       mandatory_courses_explication_html: Sélectionnez le "<i class="fa fa-lock"></i>" à côté d'un cours pour le rendre obligatoire.
+      title: Choix de cours
+    group_selection:
+      back: Retour à la sélection des groupes
+      groups: Groupes
+      title: Choix de groupes
   comments:
     new:
       title: Laisser un commentaire
@@ -92,7 +102,9 @@ fr:
   shared:
     breadcrumb:
       terms: Trimestres
-      agendas: Choix de cours
+      agendas:
+        course_selection: Choix de cours
+        group_selection: Choix de groupes
       schedules: Horaires
     footer:
       message_html: "&copy; Krystian Czesak | <a title=\"Github\" href=\"https://github.com/Krystosterone\" target=\"_blank\">Github</a>"

@@ -1,17 +1,18 @@
 # frozen_string_literal: true
-class AgendaCoursesValidator < ActiveModel::Validator
+class Agenda::Validator < ActiveModel::Validator
   def validate(agenda)
-    Validator.new(agenda).execute
+    MemoizedValidator.new(agenda).execute
   end
 
-  class Validator
+  class MemoizedValidator < SimpleDelegator
     include MemoizedCourseScopes
 
-    def initialize(agenda)
-      @agenda = agenda
+    def execute
+      validate_courses
+      validate_leaves
     end
 
-    def execute
+    def validate_courses
       if courses.empty?
         errors.add(:courses, :blank)
       elsif courses_mismatch?
@@ -23,25 +24,24 @@ class AgendaCoursesValidator < ActiveModel::Validator
       end
     end
 
-    private
-
-    attr_reader :agenda
-    delegate :errors, to: :agenda
+    def validate_leaves
+      errors.add(:leaves, :invalid) if leaves.map(&:invalid?).any?
+    end
 
     def courses_mismatch?
-      courses.size < agenda.courses_per_schedule
+      courses.size < courses_per_schedule
     end
 
     def mandatory_courses_overflow?
-      mandatory_courses.size > agenda.courses_per_schedule
+      mandatory_courses.size > courses_per_schedule
     end
 
     def mandatory_courses_redundant?
-      mandatory_courses.size == agenda.courses_per_schedule && optional_courses.present?
+      mandatory_courses.size == courses_per_schedule && optional_courses.present?
     end
 
     def courses
-      @courses ||= agenda.courses.reject(&:marked_for_destruction?)
+      @courses ||= super.reject(&:marked_for_destruction?)
     end
   end
 end

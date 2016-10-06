@@ -17,7 +17,7 @@ describe Agenda do
 
   it { is_expected.to validate_presence_of(:courses) }
   it { is_expected.to validate_inclusion_of(:courses_per_schedule).in_range(1..5) }
-  it { is_expected.to validate_with(AgendaCoursesValidator) }
+  it { is_expected.to validate_with(Agenda::Validator) }
 
   its(:courses_per_schedule) { is_expected.to eq(1) }
   its(:processing) { is_expected.to eq(false) }
@@ -31,28 +31,6 @@ describe Agenda do
     end
   end
 
-  describe "#combine" do
-    subject(:agenda) { create(:combined_agenda) }
-
-    it "resets the combined timestamp" do
-      expect { agenda.combine }.to change { agenda.combined_at }.to(nil)
-    end
-
-    it "sets processing to true" do
-      expect { agenda.combine }.to change { agenda.processing }.from(false).to(true)
-    end
-
-    context "when it was not able to save" do
-      before { agenda.courses_per_schedule = 0 }
-
-      specify { expect(agenda.combine).to eq(false) }
-    end
-
-    context "when it saved" do
-      specify { expect(agenda.combine).to eq(true) }
-    end
-  end
-
   describe "#mark_as_finished_processing" do
     before do
       Timecop.freeze(2016, 1, 1)
@@ -62,44 +40,6 @@ describe Agenda do
 
     its(:processing) { is_expected.to eq(false) }
     its(:combined_at) { is_expected.to eq(Time.zone.now) }
-  end
-
-  describe "mandatory_course_ids=" do
-    subject { build(:agenda, mandatory_course_ids: [nil, "1", "", "2"]) }
-
-    its(:mandatory_course_ids) { [1, 2] }
-  end
-
-  describe "validating leaves" do
-    context "when any leave is invalid" do
-      before do
-        agenda.leaves = [
-          Leave.new(starts_at: 2000, ends_at: 1000),
-          Leave.new(starts_at: 2000, ends_at: 1000),
-        ]
-        agenda.valid?
-      end
-
-      it "sets the agenda to be invalid" do
-        expect(agenda).not_to be_valid
-      end
-
-      it "adds an error on agenda" do
-        expect(agenda.errors).to be_added(:leaves, :invalid)
-      end
-
-      it "sets an error on leaves" do
-        expect(agenda.leaves.all?(&:invalid?)).to eq(true)
-      end
-    end
-
-    context "when all leaves are valid" do
-      before { agenda.valid? }
-
-      it "adds no errors on leaves" do
-        expect(agenda.errors).not_to be_added(:leaves, :invalid)
-      end
-    end
   end
 
   define :validate_with do |validator|

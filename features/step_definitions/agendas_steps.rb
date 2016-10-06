@@ -23,8 +23,20 @@ Lorsque /^je (?:dé-)?sélectionne les cours (.+)$/ do |courses_list|
   courses.each { |course| find("label", text: course).click }
 end
 
+Lorsque /^je dé-sélectionne les groupes:$/ do |groups|
+  table_headers = all(".group-selection-table thead th").map(&:text)
+  groups.hashes.each do |group|
+    index = table_headers.index { |header| header == group["Cours"] }
+    find(".group-selection-table:nth-of-type(#{index + 1}) tbody th label", text: group["Groupe"]).click
+  end
+end
+
 Lorsque /^je sélectionne (\d) comme étant le nombre de cours par horaire$/ do |courses_per_schedule|
   within(".courses-per-schedule-group") { find("label", text: courses_per_schedule).click }
+end
+
+Lorsque /^je décide de vouloir filtrer les groupes des cours possibles$/ do
+  check "Filtrer les groupes comme prochaine étape"
 end
 
 Lorsque /^je soumets l'agenda$/ do

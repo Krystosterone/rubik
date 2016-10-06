@@ -1,8 +1,7 @@
 # frozen_string_literal: true
 class AgendaDecorator < Draper::Decorator
-  include MemoizedCourseScopes
-
   delegate_all
+  decorates_association :courses, with: Agenda::CourseDecorator
   decorates_association :term
 
   delegate :name, to: :academic_degree, prefix: true

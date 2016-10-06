@@ -5,16 +5,20 @@ class AgendasController < ApplicationController
                 :instantiate_agenda, only: [:new, :create]
   before_action :find_agenda,
                 :ensure_not_processing, only: [:edit, :update]
-  before_action :assign_attributes,
-                :combine, only: [:create, :update]
+  before_action :assign_attributes, only: [:create, :update]
+  before_action :set_step
+  before_action :save, only: [:create, :update]
 
   decorates_assigned :agenda
+  delegate :step, to: :agenda_creation_process
+  helper_method :step
 
   def new
-    render :edit
+    render step
   end
 
   def edit
+    render step
   end
 
   def create
@@ -36,15 +40,16 @@ class AgendasController < ApplicationController
   def find_agenda
     @agenda =
       Agenda
-      .joins(:academic_degree_term, :courses, academic_degree_term_courses: :course)
+      .includes(courses: :academic_degree_term_course)
       .find_by!(token: agenda_token)
   end
 
   def agenda_params
     params.require(:agenda).permit(
       :courses_per_schedule,
-      courses_attributes: [:_destroy, :academic_degree_term_course_id, :id, :mandatory],
-      leaves_attributes: [:starts_at, :ends_at, :_destroy]
+      :filter_groups,
+      courses_attributes: [:_destroy, :academic_degree_term_course_id, :id, :mandatory, { group_numbers: [] }],
+      leaves_attributes: [:_destroy, :ends_at, :starts_at]
     )
   end
 
@@ -56,12 +61,16 @@ class AgendasController < ApplicationController
     @agenda.assign_attributes(agenda_params)
   end
 
-  def combine
-    if @agenda.combine
-      redirect_to processing_agenda_schedules_path(@agenda)
-    else
-      render :edit
-    end
+  def set_step
+    agenda_creation_process.step = params[:step]
+  end
+
+  def agenda_creation_process
+    @agenda_creation_process ||= AgendaCreationProcess.new(@agenda)
+  end
+
+  def save
+    agenda_creation_process.save ? redirect_to(agenda_creation_process.path) : render(step)
   end
 
   def ensure_not_processing

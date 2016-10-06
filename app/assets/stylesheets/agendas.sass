@@ -57,3 +57,27 @@
 
   .leave
     margin-bottom: 15px
+
+  .group-selection-table
+    @extend .table
+    @extend .table-bordered
+    @extend .table-condensed
+    table-layout: fixed
+
+    > tbody > tr
+      > th, > td
+        padding: 0
+
+        label
+          display: block
+          height: 100%
+          margin: 0
+          overflow: auto
+          width: 100%
+
+          .label-content
+            padding: 5px
+
+  .back
+    padding-bottom: 6px
+    padding-top: 6px

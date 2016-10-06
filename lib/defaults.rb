@@ -7,16 +7,13 @@ module Defaults
   end
 
   def set_default_values
-    computed_defaults.each do |attribute, value|
+    self.class.runtime_defaults.each do |attribute, block|
+      public_send("#{attribute}=", instance_eval(&block)) if public_send(attribute).nil?
+    end
+
+    self.class.defaults.each do |attribute, value|
       public_send("#{attribute}=", value) if public_send(attribute).nil?
     end
-  end
-
-  def computed_defaults
-    defaults = self.class.runtime_defaults.each_with_object({}) do |(attribute, block), runtime_defaults|
-      runtime_defaults[attribute] = instance_eval(&block)
-    end
-    defaults.merge(self.class.defaults)
   end
 
   class_methods do

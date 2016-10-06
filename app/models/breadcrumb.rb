@@ -1,10 +1,26 @@
 # frozen_string_literal: true
 class Breadcrumb
-  ORDER = %w(terms agendas schedules).freeze
+  CRUMBS = [
+    {
+      controller_name: :terms,
+      path: proc { root_path },
+    },
+    {
+      additional_current_condition: proc { step == AgendaCreationProcess::STEP_COURSE_SELECTION },
+      key: "agendas.course_selection",
+      path: proc { edit_agenda_path(agenda, step: AgendaCreationProcess::STEP_COURSE_SELECTION) },
+    },
+    {
+      additional_current_condition: proc { step == AgendaCreationProcess::STEP_GROUP_SELECTION },
+      key: "agendas.group_selection",
+      path: proc { edit_agenda_path(agenda, step: AgendaCreationProcess::STEP_GROUP_SELECTION) },
+      visible: proc { agenda.filter_groups? }
+    },
+    { controller_name: :schedules },
+  ].freeze
 
-  def initialize(view_context, current_handle)
+  def initialize(view_context)
     @view_context = view_context
-    @current_handle = current_handle
   end
 
   def render(&block)
@@ -12,39 +28,37 @@ class Breadcrumb
   end
 
   def current_name
-    breadcrumb_t(@current_handle)
+    breadcrumb_t(current_crumb.key)
   end
 
-  def links
-    link_names.collect { |name| yield breadcrumb_link(name) }
+  def links(&block)
+    current_crumbs.select(&:visible?).collect(&method(:breadcrumb_link)).each(&block)
   end
 
   private
 
-  def link_names
-    ending = current_index - 1
-    ending.negative? ? [] : ORDER[0..ending]
+  def current_crumb
+    crumbs[current_index]
   end
 
   def current_index
-    ORDER.index(@current_handle)
+    crumbs.index(&:current?)
   end
 
-  def breadcrumb_link(name)
-    link_to breadcrumb_t(name), breadcrumb_path(name)
+  def current_crumbs
+    crumbs[0..[current_index - 1, 0].max]
   end
 
-  def breadcrumb_path(name)
-    case name
-    when "terms"
-      root_path
-    when "agendas"
-      new_academic_degree_term_agenda_path(agenda.academic_degree_term)
-    end
+  def crumbs
+    @crumbs ||= CRUMBS.map { |attributes| Crumb.new(attributes.merge(view_context: @view_context)) }
   end
 
-  def breadcrumb_t(name)
-    t ".#{name}"
+  def breadcrumb_t(key)
+    t ".#{key}"
+  end
+
+  def breadcrumb_link(crumb)
+    link_to breadcrumb_t(crumb.key), crumb.path
   end
 
   def respond_to_missing?(method_name, *_arguments, &_block)
