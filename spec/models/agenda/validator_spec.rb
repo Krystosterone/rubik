@@ -3,12 +3,15 @@ require "rails_helper"
 
 describe Agenda::Validator do
   subject(:validator) { described_class.new }
-  let(:agenda) { Agenda.new }
+  let(:agenda) { build(:agenda) }
 
   describe "#validate" do
-    context "with a record that has no error" do
-      before { agenda.assign_attributes(courses: build_list(:agenda_course, 2), courses_per_schedule: 2) }
+    it "validates courses" do
+      agenda.courses { |course| allow(course).to receive(:validate) }
+      validator.validate(agenda)
+    end
 
+    context "with a record that has no error" do
       it "does not add an error on the record" do
         expect { validator.validate(agenda) }
           .not_to change { agenda.errors.added?(:courses) }
@@ -16,6 +19,8 @@ describe Agenda::Validator do
     end
 
     context "with a record that has no courses" do
+      before { agenda.assign_attributes(courses: []) }
+
       it "adds and error on the record" do
         expect { validator.validate(agenda) }.to change { agenda.errors.added?(:courses, :blank) }.to(true)
       end

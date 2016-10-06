@@ -8,6 +8,7 @@ class Agenda::Validator < ActiveModel::Validator
     include MemoizedCourseScopes
 
     def execute
+      courses.each(&:validate)
       validate_courses
       validate_leaves
     end

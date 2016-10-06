@@ -40,7 +40,6 @@ class Agenda::Course < ActiveRecord::Base
   end
 
   def selected?(group)
-    # TODO: Add test for filter_groups?
     !agenda.filter_groups? || group.number.in?(group_numbers)
   end
 
