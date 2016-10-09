@@ -15,6 +15,7 @@ class EtsPdf::Etl::Transform::PeriodUpdater
     "TP" => "TP",
     "TP/2" => "TP/2",
     "TP A" => "TP",
+    "TP A + B" => "TP A+B",
     "TP A+B" => "TP A+B",
     "TP B" => "TP",
     "TP/Labo" => "TP/Labo",

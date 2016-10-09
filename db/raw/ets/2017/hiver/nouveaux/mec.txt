@@ -1,0 +1,231 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+                                                                                   7684 : Baccalauréat en génie mécanique
+Bureau des services académiques
+
+
+                           HORAIRE D'INSCRIPTION DES NOUVEAUX ÉTUDIANTS
+                                                           HIVER 2017
+                           DU 28 OCTOBRE AU 16 DÉCEMBRE 2016 À L'AIDE DE CHEMINOT
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                              Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                              Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS       GR     JOUR         HEURE           ACTIVITÉ   LOCAL               ENSEIGNANT              PRÉALABLES
+
+
+ATE050      RÉUSSIR EN GÉNIE
+            01     Mar        18:00 - 20:00     Atelier
+
+
+CHM131      CHIMIE ET MATÉRIAUX
+            01     Lun        09:00 - 12:30     C
+                   Mer        09:00 - 12:00     TP
+            02     Mar        09:00 - 12:30     C
+                   Jeu        09:00 - 12:00     TP
+            03     Jeu        09:00 - 12:30     C
+                   Mar        09:00 - 12:00     TP
+            04     Lun        13:30 - 17:00     C
+                   Jeu        13:30 - 16:30     TP
+            05     Mar        13:30 - 17:00     C
+                   Ven        13:30 - 16:30     TP
+            06     Mer        13:30 - 17:00     C
+                   Ven        09:00 - 12:00     TP
+            07     Mer        18:00 - 21:30     C
+                   Ven        18:00 - 21:00     TP
+            08     Jeu        18:00 - 21:30     C
+                   Mar        18:00 - 21:00     TP
+            09     Ven        09:00 - 12:30     C
+                   Mer        13:30 - 16:30     TP
+            10     Jeu        13:30 - 17:00     C
+                   Lun        13:30 - 16:30     TP
+            11     Ven        13:30 - 17:00     C
+                   Mar        13:30 - 16:30     TP
+            12     Mer        09:00 - 12:30     C
+                   Lun        09:00 - 12:00     TP
+            13     Mar        13:30 - 17:00     C
+                   Ven        13:30 - 16:30     TP
+            14     Lun        09:00 - 12:30     C
+                   Mer        09:00 - 12:00     TP
+            15     Mar        09:00 - 12:30     C
+                   Jeu        09:00 - 12:00     TP
+            16     Mer        13:30 - 17:00     C
+                   Ven        09:00 - 12:00     TP
+            17     Sam        08:30 - 12:00     C
+                   Sam        13:00 - 16:00     TP
+
+
+COM129      MÉTHODES DE COMMUNICATION EN GÉNIE MÉCANIQUE
+            01     Lun        13:30 - 17:00     C
+                   Jeu        13:30 - 17:30     TP A+B
+            02     Mar        18:00 - 21:30     C
+                   Jeu        18:00 - 22:00     TP A+B
+
+
+FRA150      FRANÇAIS ÉCRIT
+            01     Lun        18:00 - 21:30     C
+                   Mer        18:00 - 20:00     TP
+
+
+FRA151      FRANÇAIS ÉCRIT
+            01     Lun        18:00 - 21:30     C
+                   Mer        18:00 - 22:00     TP
+
+
+MAT144      INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE (HORS PROG.)
+            01     Mar        09:00 - 12:30     C
+                   Jeu        09:00 - 12:00     TP
+            03     Lun        18:00 - 21:30     C
+                   Mer        18:00 - 21:00     TP
+
+
+
+
+         04 octobre 2016
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+                                                                                     7684 : Baccalauréat en génie mécanique
+Bureau des services académiques
+
+
+                           HORAIRE D'INSCRIPTION DES NOUVEAUX ÉTUDIANTS
+                                                                HIVER 2017
+                           DU 28 OCTOBRE AU 16 DÉCEMBRE 2016 À L'AIDE DE CHEMINOT
+                                                 Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS       GR     JOUR           HEURE           ACTIVITÉ      LOCAL            ENSEIGNANT              PRÉALABLES
+
+
+MAT145      CALCUL DIFFÉRENTIEL ET INTÉGRAL
+            01     Mar          09:00 - 12:30     C
+                   Jeu          09:00 - 12:00     TP
+            08     Lun          18:00 - 21:30     C
+                   Mer          18:00 - 21:00     TP
+
+
+MATEST      ACCUEIL EN MATHÉMATIQUES
+            01     Mar          09:00 - 12:30     C
+                   Jeu          09:00 - 12:00     TP
+            03     Lun          18:00 - 21:30     C
+                   Mer          18:00 - 21:00     TP
+
+
+MEC111      STATIQUE DE L'INGÉNIEUR
+            01     Mer          08:45 - 12:15     C
+                   Lun          08:30 - 11:30     TP/Labo             , A-2304
+            02     Jeu          18:00 - 21:30     C
+                   Mar          18:00 - 21:00     TP/Labo             , A-2304
+            03     Lun          08:30 - 12:00     C
+                   Mer          08:45 - 11:45     TP/Labo             , A-2304
+
+
+MEC129      DÉVELOPPEMENT DE PRODUITS ASSISTÉ PAR ORDINATEUR
+            01     Mer          13:30 - 17:00     C
+                   Ven          08:45 - 11:45     Labo          A-1222
+            02     Lun          18:00 - 21:30     C
+                   Mer          18:00 - 21:00     Labo          A-1222
+
+
+PHY144      INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS PROGRAMME)
+            01     Lun          09:00 - 12:30     C
+                   Mer          09:00 - 12:00     TP
+            02     Mar          18:00 - 21:30     C
+                   Jeu          18:00 - 21:00     TP
+
+
+PHYEST      ACCUEIL EN PHYSIQUE
+            01     Lun          09:00 - 12:30     C
+                   Mer          09:00 - 12:00     TP
+            02     Mar          18:00 - 21:30     C
+                   Jeu          18:00 - 21:00     TP
+
+
+PRE010      INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 3 et 4 février 2017
+            01     Ven          18:00 - 21:00     Atelier       A-1300
+                   Sam          09:00 - 16:00     Atelier       A-1300
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 13, 14 et 15 février 2017
+            02     Lun          18:00 - 21:00     Atelier       A-1300
+                   Mar          18:00 - 21:00     Atelier       A-1300
+                   Mer          18:00 - 21:00     Atelier       A-1300
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 3 et 4 février 2017
+            03     Ven          18:00 - 21:00     Atelier       A-1302
+                   Sam          09:00 - 16:00     Atelier       A-1302
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 13, 14 et 15 février 2017
+            04     Lun          18:00 - 21:00     Atelier       A-1302
+                   Mar          18:00 - 21:00     Atelier       A-1302
+                   Mer          18:00 - 21:00     Atelier       A-1302
+
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 3 et 4 mars 2017
+            05     Ven          18:00 - 21:00     Atelier       A-1300
+                   Sam          09:00 - 16:00     Atelier       A-1300
+
+
+
+
+         04 octobre 2016
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+                                                                                                                 7684 : Baccalauréat en génie mécanique
+Bureau des services académiques
+
+
+                            HORAIRE D'INSCRIPTION DES NOUVEAUX ÉTUDIANTS
+                                                                         HIVER 2017
+                           DU 28 OCTOBRE AU 16 DÉCEMBRE 2016 À L'AIDE DE CHEMINOT
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                   Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                   Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS       GR      JOUR             HEURE             ACTIVITÉ          LOCAL                            ENSEIGNANT                                 PRÉALABLES
+
+
+PRE010      INIT. AU MILIEU INDUS., SANTÉ ET SÉCURITÉ AU TRAVAIL
+            Volet stages - activité à compléter en ligne
+            Volet intensif santé sécurité 9 h - 3 et 4 mars 2017
+            06      Ven            18:00 - 21:00       Atelier           A-1302
+                    Sam            09:00 - 16:00       Atelier           A-1302
+
+            Volet stages - activité à compléter en ligne
+            07      Activité en ligne                  Atelier
+NOTES
+a)          Programmes d'études
+            B:                baccalauréat
+            GAQ :             certificat en gestion et assurance de la qualité
+            GC :              certificat en gestion de la construction
+            GE :              certificat et programme court de 1er cycle en gestion des établissements
+            PI :              certificat en production industrielle
+            CT :              certificat en télécommunication
+            TS :              certificat spécialisé en génie des technologie de la santé
+b)          Activités
+            C : cours         TP : travaux pratiques                                                      LABO : laboratoires
+                              TP/2 : travaux pratiques aux deux (2) semaines                              LABO/2 : laboratoires aux deux (2) semaines
+            TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+            présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+            trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+            pratiques (TP).
+c)          À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+            Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+            Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+ Modalités des ateliers PRE010 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf
+ ceux détenant une carte ASP. Pour les étudiants du programme 7622 en génie de la construction ou tout autre
+  étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité sur présentation de votre
+ carte ASP au Service de l'enseignement coopératif). - VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL):
+   obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de l'enseignement
+   coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent
+                                            s'inscrire dans le groupe 07.
+
+
+
+
+         04 octobre 2016
+
