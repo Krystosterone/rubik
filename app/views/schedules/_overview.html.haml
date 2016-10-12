@@ -13,6 +13,8 @@
           = course.code
           - if course.mandatory?
             %i.fa.fa-lock
+          - else
+            %i.fa.fa-unlock
         - if agenda.filter_groups?
           - course.group_numbers.each do |group_numbers|
             %span.label.label-default= group_numbers
