@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 class AgendasController < ApplicationController
-  before_action :expires_now
+  before_action :set_cache_headers
   before_action :assign_academic_degree_term,
                 :instantiate_agenda, only: [:new, :create]
   before_action :find_agenda,
@@ -75,5 +75,11 @@ class AgendasController < ApplicationController
 
   def ensure_not_processing
     redirect_to(processing_agenda_schedules_path(@agenda)) if @agenda.processing?
+  end
+
+  def set_cache_headers
+    response.headers['Cache-Control'] = 'no-cache, no-store'
+    response.headers['Pragma'] = 'no-cache'
+    response.headers['Expires'] = 'Fri, 01 Jan 1990 00:00:00 GMT'
   end
 end
