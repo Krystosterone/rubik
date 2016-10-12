@@ -1,10 +1,13 @@
 # frozen_string_literal: true
 class AgendasController < ApplicationController
+  include AgendaEagerLoading
+
   before_action :set_cache_headers
   before_action :assign_academic_degree_term,
                 :instantiate_agenda, only: [:new, :create]
   before_action :find_agenda,
                 :ensure_not_processing, only: [:edit, :update]
+  before_action :eager_load_courses
   before_action :assign_attributes, only: [:create, :update]
   before_action :set_step
   before_action :save, only: [:create, :update]
@@ -35,13 +38,6 @@ class AgendasController < ApplicationController
 
   def instantiate_agenda
     @agenda = @academic_degree_term.agendas.new
-  end
-
-  def find_agenda
-    @agenda =
-      Agenda
-      .includes(courses: :academic_degree_term_course)
-      .find_by!(token: agenda_token)
   end
 
   def agenda_params

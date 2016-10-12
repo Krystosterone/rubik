@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 class SchedulesController < ApplicationController
+  include AgendaEagerLoading
   include ScheduleHelper
 
   before_action :find_agenda
@@ -29,16 +30,8 @@ class SchedulesController < ApplicationController
     params.require(:agenda_token)
   end
 
-  def find_agenda
-    @agenda = Agenda.left_outer_joins(:schedules).find_by!(token: agenda_token)
-  end
-
   def find_schedules
     @agenda.schedules.page(params[:page]).per(SCHEDULES_PER_PAGE).presence
-  end
-
-  def eager_load_courses
-    @agenda.courses = @agenda.courses.includes(academic_degree_term_course: :course)
   end
 
   def ensure_schedules_present
