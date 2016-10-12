@@ -26,7 +26,7 @@ end
 Lorsque /^je dé-sélectionne les groupes:$/ do |groups|
   table_headers = all(".group-selection-table thead th").map(&:text)
   groups.hashes.each do |group|
-    index = table_headers.index { |header| header == group["Cours"] }
+    index = table_headers.index { |header| header == "#{group['Cours']} |" }
     find(".group-selection-table:nth-of-type(#{index + 1}) tbody th label", text: group["Groupe"]).click
   end
 end
