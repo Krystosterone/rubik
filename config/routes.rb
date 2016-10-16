@@ -2,8 +2,14 @@
 require "sidekiq/web"
 
 Rails.application.routes.draw do
-  mount Sidekiq::Web, at: "/sidekiq"
+  get "/auth/#{SidekiqAuthentication::AUTH_PROVIDER_NAME}/callback" => "sidekiq_sessions#create"
+  get "/auth/failure", to: redirect("/401", 302)
+
+  get "/sidekiq/signin", to: redirect("/auth/#{SidekiqAuthentication::AUTH_PROVIDER_NAME}", 302)
+  get "/sidekiq/signout" => "sidekiq_sessions#destroy"
+
   mount LetterOpenerWeb::Engine, at: "/letter_opener" if Rails.env.development?
+  mount Sidekiq::Web, at: "/sidekiq"
 
   resources :academic_degree_terms, only: [] do
     resources :agendas, except: :show, param: :token, shallow: true do
@@ -30,7 +36,7 @@ Rails.application.routes.draw do
   end
 
   ErrorsController::MAPPED_ERRORS.each do |status, code|
-    get "/#{code}", to: "errors##{status}"
+    get "/#{code}", to: "errors##{status}", as: status
   end
 
   root "terms#index"

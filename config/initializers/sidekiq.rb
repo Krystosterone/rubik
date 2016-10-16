@@ -5,11 +5,9 @@ require "sidekiq/web"
 if Rails.env.development? && ENV["INLINE_JOBS"] != "0"
   require "sidekiq/testing"
   Sidekiq::Testing.inline!
-elsif Rails.env.production?
-  Sidekiq::Web.use(Rack::Auth::Basic) do |user, password|
-    [user, password] == [ENV.fetch("SIDEKIQ_USERNAME"), ENV.fetch("SIDEKIQ_PASSWORD")]
-  end
+end
 
+if Rails.env.production?
   Sidekiq.default_worker_options = {
     unique: :until_executing,
     unique_args: ->(args) { args.first.except("job_id") }
@@ -17,3 +15,5 @@ elsif Rails.env.production?
 
   SidekiqUniqueJobs.config.unique_args_enabled = true
 end
+
+Sidekiq::Web.use(SidekiqAuthentication) if ENV["SIDEKIQ_GOOGLE_AUTH"] || Rails.env.production?

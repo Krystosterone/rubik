@@ -69,9 +69,10 @@ fr:
     show:
       title: "Erreur %{code}"
       message:
-        not_found: Page introuvable
-        unprocessable_entity: Erreur d'entité
         internal_server_error: Erreur interne
+        not_found: Page introuvable
+        unauthorized: Accès non autorisé
+        unprocessable_entity: Erreur d'entité
   faqs:
     show:
       title: Foire aux questions

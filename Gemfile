@@ -21,6 +21,8 @@ gem "airbrake"
 gem "sidekiq-unique-jobs"
 gem "browserify-rails"
 gem "bullet"
+gem "omniauth"
+gem "omniauth-google-oauth2"
 
 # Sidekiq
 gem "sidekiq"

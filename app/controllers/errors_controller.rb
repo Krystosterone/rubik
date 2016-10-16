@@ -3,9 +3,10 @@ class ErrorsController < ApplicationController
   skip_before_action :show_navigation
 
   MAPPED_ERRORS = Rack::Utils::SYMBOL_TO_STATUS_CODE.slice(
+    :internal_server_error,
     :not_found,
-    :unprocessable_entity,
-    :internal_server_error
+    :unauthorized,
+    :unprocessable_entity
   )
 
   MAPPED_ERRORS.each do |status, code|
