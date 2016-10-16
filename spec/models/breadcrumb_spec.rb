@@ -29,11 +29,15 @@ describe Breadcrumb do
         allow(view_context).to receive(:controller_name).and_return(controller_name)
       end
 
-      its(:current_name) { is_expected.to eq(".#{controller_name}") }
+      describe "#current_name" do
+        it "outputs the current name" do
+          expect(breadcrumb.render { current_name }).to eq(".#{controller_name}")
+        end
+      end
 
       describe "#links" do
         specify do
-          expect { |block| breadcrumb.links(&block) }.to yield_successive_args(*links)
+          expect { |block| breadcrumb.render { links(&block) } }.to yield_successive_args(*links)
         end
       end
     end
@@ -49,11 +53,15 @@ describe Breadcrumb do
         allow(view_context).to receive(:step).and_return(AgendaCreationProcess::STEP_COURSE_SELECTION)
       end
 
-      its(:current_name) { is_expected.to eq(".agendas.#{AgendaCreationProcess::STEP_COURSE_SELECTION}") }
+      describe "#current_name" do
+        it "outputs the current name" do
+          expect(breadcrumb.render { current_name }).to eq(".agendas.#{AgendaCreationProcess::STEP_COURSE_SELECTION}")
+        end
+      end
 
       describe "#links" do
         specify do
-          expect { |block| breadcrumb.links(&block) }.to yield_successive_args(".terms_root_path")
+          expect { |block| breadcrumb.render { links(&block) } }.to yield_successive_args(".terms_root_path")
         end
       end
     end
@@ -66,12 +74,43 @@ describe Breadcrumb do
       allow(view_context).to receive(:step).and_return(AgendaCreationProcess::STEP_GROUP_SELECTION)
     end
 
-    its(:current_name) { is_expected.to eq(".agendas.#{AgendaCreationProcess::STEP_GROUP_SELECTION}") }
+    describe "#current_name" do
+      it "outputs the current name" do
+        expect(breadcrumb.render { current_name }).to eq(".agendas.#{AgendaCreationProcess::STEP_GROUP_SELECTION}")
+      end
+    end
 
     describe "#links" do
       specify do
-        expect { |block| breadcrumb.links(&block) }
+        expect { |block| breadcrumb.render { links(&block) } }
           .to yield_successive_args(".terms_root_path", ".agendas.course_selection_agenda_course_selection_path")
+      end
+    end
+  end
+
+  context "with controller 'schedules' and group filtering" do
+    before do
+      allow(agenda).to receive(:filter_groups?).and_return(true)
+      allow(view_context).to receive(:controller_name).and_return("schedules")
+    end
+
+    describe "#current_name" do
+      it "outputs the current name" do
+        expect(breadcrumb.render { current_name }).to eq(".schedules")
+      end
+    end
+
+    describe "#links" do
+      let(:expected_links) do
+        [
+          ".terms_root_path",
+          ".agendas.course_selection_agenda_course_selection_path",
+          ".agendas.group_selection_agenda_group_selection_path",
+        ]
+      end
+
+      specify do
+        expect { |block| breadcrumb.render { links(&block) } }.to yield_successive_args(*expected_links)
       end
     end
   end
