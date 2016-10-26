@@ -1,0 +1,13 @@
+= link_to "mailto:krystian@shopify.com?subject=[Shopify] Je veux faire partie de l'équipe Shopify&body=Je veux aider à réinventer le commerce et en savoir plus sur Shopify!", class: 'shopify-banner', onclick: "javascript:ga('send', 'event', 'button', 'click', 'shopify-banner');" do
+  .logo= shopify_logo
+  .glyph= shopify_glyph
+  .pitch
+    .content
+      %ul
+        %li Un stage captivant
+        %li Une carrière stimulante
+.shopify-more
+  %p En savoir plus:
+  - %w(http://notable.ca/shopify-moves-into-massive-new-offices-in-montreal https://fr.shopify.ca).each_with_index do |link, index|
+    = link_to "[#{index + 1}]", link, target: '_blank', onclick: "javascript:ga('send', 'event', 'button', 'click', 'shopify-more-#{index + 1}');"
+.clearfix
