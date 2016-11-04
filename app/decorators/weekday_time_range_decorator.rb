@@ -12,6 +12,10 @@ class WeekdayTimeRangeDecorator < Draper::Decorator
     "#{starts_at.time} - #{ends_at.time}"
   end
 
+  def weekday_time_span
+    "#{starts_at.weekday_time} - #{ends_at.weekday_time}"
+  end
+
   def to_partial_path
     "schedules/#{object.class.name.underscore}"
   end

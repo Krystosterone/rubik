@@ -11,6 +11,17 @@ shared_examples "WeekdayTimeRangeDecorator" do |decorated_class:|
     end
   end
 
+  describe "#weekday_time_span" do
+    subject(:decorator) { described_class.new(weekday_time_range) }
+    let(:weekday_time_range) do
+      instance_double(decorated_class, starts_at: WeekTime.new(50), ends_at: WeekTime.new(4680))
+    end
+
+    it "returns a concatenated starts_at time and ends_at time" do
+      expect(decorator.weekday_time_span).to eq("Dimanche 0:50 - Mercredi 6:00")
+    end
+  end
+
   describe "#starts_at" do
     subject(:decorator) { described_class.new(weekday_time_range) }
     let(:weekday_time_range) { instance_double(decorated_class, starts_at: WeekTime.new(50)) }
