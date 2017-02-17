@@ -102,17 +102,29 @@ fr:
       noscript_warning: Veuillez activer Javascript pour utiliser le site
   newsletter_subscription_mailer:
     update_available_email:
-      body: |
-        Bonjour,
+      body:
+        one: |
+          Bonjour,
 
-        vous recevez ce courriel car vous vous êtes inscrit aux mises à jour du planificateur d'horaire Rubik.
+          vous recevez ce courriel car vous vous êtes inscrit aux mises à jour du planificateur d'horaire Rubik.
 
-        Des nouveaux trimestres ont été rajoutés:
-        %{trimesters}
+          Un nouveau trimestre a été rajouté:
+          %{trimesters}
 
-        Vous pouvez maintenant générer vos combinaisons d'horaires au: http://ets.rubik.co
+          Vous pouvez maintenant générer vos combinaisons d'horaires au: http://ets.rubik.co
 
-        Bonnes études!
+          Bonnes études!
+        other: |
+          Bonjour,
+
+          vous recevez ce courriel car vous vous êtes inscrit aux mises à jour du planificateur d'horaire Rubik.
+
+          Des nouveaux trimestres ont été rajoutés:
+          %{trimesters}
+
+          Vous pouvez maintenant générer vos combinaisons d'horaires au: http://ets.rubik.co
+
+          Bonnes études!
       subject:
         one: Nouveau Trimestre Disponible
         other: Nouveaux Trimestres Disponibles
