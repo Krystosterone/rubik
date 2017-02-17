@@ -5,11 +5,11 @@ class Schedule < ActiveRecord::Base
   serialize :course_groups, CourseGroupsSerializer
 
   def starts_at
-    @starts_at ||= weekdays.reject(&:empty?).min { |a, b| a.starts_at <=> b.starts_at }.starts_at
+    @starts_at ||= weekdays.reject(&:empty?).min_by(&:starts_at).starts_at
   end
 
   def ends_at
-    @ends_at ||= weekdays.reject(&:empty?).max { |a, b| a.ends_at <=> b.ends_at }.ends_at
+    @ends_at ||= weekdays.reject(&:empty?).max_by(&:ends_at).ends_at
   end
 
   def duration

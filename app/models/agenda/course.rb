@@ -18,7 +18,7 @@ class Agenda::Course < ActiveRecord::Base
   default :mandatory, false
 
   def groups
-    academic_degree_term_course.try!(:groups) || []
+    academic_degree_term_course&.groups || []
   end
 
   def group_numbers

@@ -25,7 +25,7 @@ describe Maintenance do
 
       context "when the maintainer ips do not include the request ip" do
         let(:env) { {} }
-        let(:maintenance_page) { File.read(Rails.root.join("public/maintenance.html")) }
+        let(:maintenance_page) { File.read(Rails.root.join("public", "maintenance.html")) }
 
         it "shows the maintenance page" do
           expect(middleware.call(env)).to eq([200, {}, [maintenance_page]])

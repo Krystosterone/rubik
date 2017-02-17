@@ -6,7 +6,7 @@ describe EtsPdf::Parser do
     subject(:parser) { described_class.new(path) }
     let(:lines) { %w(first_line second_line last_line) }
     let(:file_content) { lines.join("\n") + "\n" }
-    let(:path) { Rails.root.join("tmp/file.txt") }
+    let(:path) { Rails.root.join("tmp", "file.txt") }
     let(:actual_lines) { parser.execute }
 
     before { File.write(path, file_content) }

@@ -3,7 +3,7 @@ shared_examples "SerializedRecord::FormBuilderHelper" do
   subject(:helper) { TestFormBuilder.new("test_professor", professor, view_context, {}) }
   let(:students) { Array.new(3) { TestStudent.new } }
   let(:professor) { TestProfessor.new(test_students: students) }
-  let(:view_path) { Rails.root.join("spec/fixtures/views") }
+  let(:view_path) { Rails.root.join("spec", "fixtures", "views") }
   let(:view_context) { ActionView::Base.new(view_path) }
 
   describe "#nested_form" do

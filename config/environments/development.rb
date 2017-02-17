@@ -11,7 +11,7 @@ Rails.application.configure do
   config.assets.digest = true
   config.assets.raise_runtime_errors = true
 
-  if Rails.root.join("tmp/caching-dev.txt").exist?
+  if Rails.root.join("tmp", "caching-dev.txt").exist?
     config.action_controller.perform_caching = true
     config.cache_store = :memory_store
     config.public_file_server.headers = {
@@ -28,7 +28,7 @@ Rails.application.configure do
   end
 
   reload_models_for_serialization = proc do
-    Dir[Rails.root.join("app/models/**/*.rb")].each { |file| require_dependency(file) }
+    Dir[Rails.root.join("app", "models", "**", "*.rb")].each { |file| require_dependency(file) }
   end
 
   config.after_initialize(&reload_models_for_serialization)

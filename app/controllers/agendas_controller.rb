@@ -25,11 +25,9 @@ class AgendasController < ApplicationController
     render step
   end
 
-  def create
-  end
+  def create; end
 
-  def update
-  end
+  def update; end
 
   private
 

@@ -18,7 +18,7 @@ class ScheduleGeneratorTestCase
   ).freeze
 
   mattr_accessor :folder_path, instance_accessor: false do
-    Rails.root.join("spec/support/schedule_generator_test_cases")
+    Rails.root.join("spec", "support", "schedule_generator_test_cases")
   end
 
   class << self

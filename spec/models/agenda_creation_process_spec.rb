@@ -95,10 +95,11 @@ describe AgendaCreationProcess do
 
   describe "#step" do
     context "with a single step" do
-      before { agenda.filter_groups = false }
-
       [:one, :two].each do |step|
-        before { process.step = step }
+        before do
+          agenda.filter_groups = false
+          process.step = step
+        end
         specify { expect(process.step).to eq(AgendaCreationProcess::STEP_COURSE_SELECTION) }
       end
     end

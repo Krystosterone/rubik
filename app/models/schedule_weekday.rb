@@ -7,11 +7,11 @@ class ScheduleWeekday
   delegate :empty?, to: :periods
 
   def starts_at
-    @starts_at ||= periods.min { |a, b| a.starts_at <=> b.starts_at }.starts_at
+    @starts_at ||= periods.min_by(&:starts_at).starts_at
   end
 
   def ends_at
-    @ends_at ||= periods.max { |a, b| a.ends_at <=> b.ends_at }.ends_at
+    @ends_at ||= periods.max_by(&:ends_at).ends_at
   end
 
   def weekend?

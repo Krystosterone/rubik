@@ -4,7 +4,7 @@ require "rails_helper"
 describe ScheduleGeneratorTestCase do
   before(:all) do
     @current_folder_path = described_class.folder_path
-    @tmp_folder_path = Rails.root.join("tmp/schedule_generator_test_cases")
+    @tmp_folder_path = Rails.root.join("tmp", "schedule_generator_test_cases")
     described_class.folder_path = @tmp_folder_path
   end
   after(:all) { described_class.folder_path = @current_folder_path }
