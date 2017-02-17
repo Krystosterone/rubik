@@ -80,6 +80,10 @@ FactoryGirl.define do
     ends_at 400
   end
 
+  factory :newsletter_subscription do
+    email { generate(:email) }
+  end
+
   factory :schedule do
     course_groups { build_list(:course_group, 4) }
   end

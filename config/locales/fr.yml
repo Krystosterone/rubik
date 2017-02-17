@@ -100,6 +100,22 @@ fr:
     application:
       title: Rubik
       noscript_warning: Veuillez activer Javascript pour utiliser le site
+  newsletter_subscription_mailer:
+    update_available_email:
+      body: |
+        Bonjour,
+
+        vous recevez ce courriel car vous vous êtes inscrit aux mises à jour du planificateur d'horaire Rubik.
+
+        Des nouveaux trimestres ont été rajoutés:
+        %{trimesters}
+
+        Vous pouvez maintenant générer vos combinaisons d'horaires au: http://ets.rubik.co
+
+        Bonnes études!
+      subject:
+        one: Nouveau Trimestre Disponible
+        other: Nouveaux Trimestres Disponibles
   shared:
     breadcrumb:
       terms: Trimestres
