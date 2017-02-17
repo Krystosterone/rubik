@@ -18,6 +18,10 @@ if ENV["DEBUG_BROWSER_TESTS"] == "1"
 else
   require "capybara/poltergeist"
 
+  Capybara.register_driver :poltergeist do |app|
+    Capybara::Poltergeist::Driver.new(app, timeout: 60)
+  end
+
   Capybara.default_driver = :poltergeist
   Capybara.javascript_driver = :poltergeist
 end
