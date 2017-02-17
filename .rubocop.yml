@@ -11,31 +11,13 @@ AllCops:
     - features/support/_circleci_formatter.rb
     - spec/support/extensions/its.rb
 
-Metrics/LineLength:
-  Max: 120
-
-Style/Documentation:
-  Enabled: false
-
-Style/ClassAndModuleChildren:
-  Enabled: false
-
-Style/TrailingCommaInLiteral:
-  Enabled: false
-
-Style/StringLiterals:
-  EnforcedStyle: double_quotes
-
 Lint/AmbiguousRegexpLiteral:
   Exclude:
     - features/step_definitions/**/*
 
-Style/AsciiIdentifiers:
-  Exclude:
-    - features/step_definitions/**/*
 
-Style/IndentArray:
-  EnforcedStyle: consistent
+Metrics/LineLength:
+  Max: 120
 
 Rails:
   Enabled: true
@@ -75,3 +57,22 @@ RSpec/MultipleExpectations:
 # TODO: Fix once Rubocop-Rspec is fixed (https://github.com/backus/rubocop-rspec/pull/207)
 RSpec/NestedGroups:
   Enabled: false
+
+Style/AsciiIdentifiers:
+  Exclude:
+    - features/step_definitions/**/*
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/IndentArray:
+  EnforcedStyle: consistent
+
+Style/TrailingCommaInLiteral:
+  Enabled: false
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
