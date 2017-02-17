@@ -31,7 +31,7 @@ class SchedulesController < ApplicationController
   end
 
   def find_schedules
-    @agenda.schedules.page(params[:page]).per(SCHEDULES_PER_PAGE).presence
+    @agenda.schedules.includes(:agenda).page(params[:page]).per(SCHEDULES_PER_PAGE).presence
   end
 
   def ensure_schedules_present
