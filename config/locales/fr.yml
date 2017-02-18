@@ -57,8 +57,9 @@ fr:
       title: Choix de groupes
   comments:
     new:
+      notice: Vous avez un commentaire? Une suggestion? Êtes-vous tombé sur un bogue? Veuillez nous le partager via le formulaire ci-dessous!
       title: Laisser un commentaire
-      text: Vous avez un commentaire? Une suggestion? Êtes-vous tombé sur un bogue? Veuillez nous le partager via le formulaire ci-dessous!
+      text: "Plutôt que d'envoyer un commentaire pour un bogue ou une suggestion, considérez plutôt ouvrir un <a title=\"ticket\" href=\"https://github.com/Krystosterone/rubik/issues\" target=\"_blank\">ticket</a> ou d'implémenter la suggestion et ouvrir une <a title=\"Pull Request\" href=\"https://github.com/Krystosterone/rubik/pulls\" target=\"_blank\">Pull Request</a>."
     create:
       success: Votre commentaire a été envoyé avec succès!
   comment_mailer:
@@ -79,7 +80,7 @@ fr:
       introduction: |
         Bonjour,
 
-        je me nomme <a title="Github" href="https://github.com/Krystosterone" target="_blank">Krystian</a> et je suis le créateur de <b>Rubik</b>: un outil facile, pratique et intuitif afin de générer des combinaisons d'horaires pour différents trimestres.
+        je me nomme <a title="Github" href="https://github.com/Krystosterone" target="_blank">Krystian</a> et je suis le créateur de <b><a title="Rubik" href="https://github.com/Krystosterone/rubik" target="_blank">Rubik</a></b>: un outil facile, pratique et intuitif afin de générer des combinaisons d'horaires pour différents trimestres.
 
         J'ai créé ce site comme projet de fin d'études au trimestre d'automne 2013 et le maintiens jusqu'à ce jour. Je vous prierais donc de garder cela en tête avant de m'écrire tout commentaire désobligeant ou me faire part de vos frustrations.
 

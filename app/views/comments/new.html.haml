@@ -5,7 +5,9 @@
 
 = form_for @comment, html: { class: "form-horizontal" } do |f|
   .well
-    .container= t(".text")
+    .container= t(".notice")
+
+  .container= simple_format t(".text")
 
   .container
     .form-group{ class: ("has-error" if f.object.errors.key?(:user_email)) }
