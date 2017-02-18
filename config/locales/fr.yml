@@ -136,7 +136,7 @@ fr:
         group_selection: Choix de groupes
       schedules: Horaires
     footer:
-      message_html: "&copy; Krystian Czesak | <a title=\"Github\" href=\"https://github.com/Krystosterone\" target=\"_blank\">Github</a>"
+      message_html: "&copy; Krystian Czesak | <a title=\"Github\" href=\"https://github.com/Krystosterone/rubik\" target=\"_blank\">Github</a>"
       donate: Contribuer
     navbar:
       comments: Commentaires
