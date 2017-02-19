@@ -7,11 +7,11 @@ describe "Sidekiq Authentication", type: :request do
   after { OmniAuth.config.mock_auth[:google_oauth2] = nil }
 
   it "redirects to the sidekiq root page" do
-    get admin_signin_path
+    get admin_login_path
     2.times { follow_redirect! }
     expect(response).to redirect_to(admin_sidekiq_web_path)
 
-    get admin_signout_path
+    get admin_logout_path
     expect(response).to redirect_to(root_path)
   end
 end

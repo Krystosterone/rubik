@@ -10,7 +10,7 @@ class SidekiqAuthentication
     if active_sidekiq_session?(env)
       @app.call(env)
     else
-      redirect_to admin_signin_path
+      redirect_to admin_login_path
     end
   end
 

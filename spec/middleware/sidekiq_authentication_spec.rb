@@ -10,7 +10,7 @@ describe SidekiqAuthentication do
   describe "#call" do
     context "when no sidekiq session is active" do
       let(:env) { {} }
-      specify { expect(middleware.call(env)).to eq([302, { "Location" => admin_signin_path }, []]) }
+      specify { expect(middleware.call(env)).to eq([302, { "Location" => admin_login_path }, []]) }
     end
 
     context "when a sidekiq session is active" do
