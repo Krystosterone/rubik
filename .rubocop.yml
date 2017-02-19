@@ -49,7 +49,7 @@ RSpec/InstanceVariable:
   Exclude:
     - spec/lib/schedule_generator_test_case_spec.rb
     - spec/helpers/google_analytics_helper_spec.rb
-    - spec/middleware/maintenance_spec.rb
+    - spec/middlewares/maintenance_spec.rb
 
 RSpec/MultipleExpectations:
   Exclude:
