@@ -24,7 +24,7 @@ describe Admin::SessionsController do
       end
 
       specify { expect(session[AdminSession::NAME]).to eq(true) }
-      it { is_expected.to redirect_to(admin_sidekiq_web_path) }
+      it { is_expected.to redirect_to(admin_root_path) }
     end
   end
 

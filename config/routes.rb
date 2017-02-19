@@ -10,6 +10,8 @@ Rails.application.routes.draw do
     get "/logout" => "sessions#destroy"
 
     mount Sidekiq::Web, at: "/sidekiq"
+
+    root to: redirect("/admin/sidekiq", 302)
   end
 
   mount LetterOpenerWeb::Engine, at: "/letter_opener" if Rails.env.development?

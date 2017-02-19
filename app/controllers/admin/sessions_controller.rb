@@ -7,7 +7,7 @@ module Admin
 
     def create
       session[AdminSession::NAME] = true
-      redirect_to admin_sidekiq_web_path
+      redirect_to admin_root_path
     end
 
     def destroy

@@ -9,7 +9,7 @@ describe "Sidekiq Authentication", type: :request do
   it "redirects to the sidekiq root page" do
     get admin_login_path
     2.times { follow_redirect! }
-    expect(response).to redirect_to(admin_sidekiq_web_path)
+    expect(response).to redirect_to(admin_root_path)
 
     get admin_logout_path
     expect(response).to redirect_to(root_path)
