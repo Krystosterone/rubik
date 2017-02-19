@@ -7,7 +7,7 @@ class SidekiqAuthentication
   end
 
   def call(env)
-    if active_sidekiq_session?(env)
+    if active_admin_session?(env)
       @app.call(env)
     else
       redirect_to admin_login_path
@@ -16,7 +16,7 @@ class SidekiqAuthentication
 
   private
 
-  def active_sidekiq_session?(env)
+  def active_admin_session?(env)
     Rack::Request.new(env).session[AdminSession::NAME]
   end
 
