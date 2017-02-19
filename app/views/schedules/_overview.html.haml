@@ -4,6 +4,11 @@
     .col-sm-8
       = f.text_field :courses_per_schedule, disabled: true, readonly: true, class: 'form-control'
 
+  .form-group
+    = f.label :schedules_count, class: 'col-sm-4 control-label'
+    .col-sm-8
+      = f.text_field :schedules_count, disabled: true, readonly: true, class: 'form-control'
+
   .row
     .col-sm-offset-4.col-sm-8
       %table.table.courses-selected

@@ -19,6 +19,7 @@ fr:
         filter_groups: Filtrer les groupes
         leaves: Congés
         mandatory_course_ids: Cours obligatoires
+        schedules_count: Nombre d'horaires générés
         term_title: Trimestre
       comment:
         user_email: Courriel
