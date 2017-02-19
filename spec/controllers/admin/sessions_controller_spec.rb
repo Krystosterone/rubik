@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 require "rails_helper"
 
-describe Admin::SidekiqSessionsController do
+describe Admin::SessionsController do
   describe "#create" do
     context "when not passing through omniauth" do
       before { get :create }
@@ -17,24 +17,24 @@ describe Admin::SidekiqSessionsController do
     end
 
     context "when the user is permitted" do
-      let(:permitted_user) { Rails.application.config.sidekiq_user_emails.first }
+      let(:permitted_user) { Rails.application.config.admin_emails.first }
       before do
         request.env["omniauth.auth"] = { "info" => { "email" => permitted_user } }
         get :create
       end
 
-      specify { expect(session[SidekiqSession::NAME]).to eq(true) }
+      specify { expect(session[AdminSession::NAME]).to eq(true) }
       it { is_expected.to redirect_to(admin_sidekiq_web_path) }
     end
   end
 
   describe "#destroy" do
     before do
-      session[SidekiqSession::NAME] = true
+      session[AdminSession::NAME] = true
       get :destroy
     end
 
-    specify { expect(session[SidekiqSession::NAME]).to eq(false) }
+    specify { expect(session[AdminSession::NAME]).to eq(false) }
     it { is_expected.to redirect_to(root_path) }
   end
 end

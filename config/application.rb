@@ -25,9 +25,9 @@ module Rubik
 
     config.exceptions_app = routes
     config.action_view.field_error_proc = proc { |html_tag, _instance| html_tag }
+    config.admin_emails = ENV.fetch("ADMIN_EMAILS").split(",")
     config.ga_tracking_id = ENV.fetch("GA_ANALYTICS_ID")
     config.comment_email_recipient = ENV.fetch("COMMENT_EMAIL_RECIPIENT")
-    config.sidekiq_user_emails = ENV.fetch("SIDEKIQ_USERS").split(",")
 
     config.after_initialize do
       Bullet.enable = true

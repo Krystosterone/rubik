@@ -2,19 +2,16 @@
 require "rails_helper"
 
 describe "Sidekiq Authentication", type: :request do
-  let(:permitted_user) { Rails.application.config.sidekiq_user_emails.first }
-  before do
-    OmniAuth.config.mock_auth[SidekiqAuthentication::AUTH_PROVIDER_NAME.to_sym] =
-      OmniAuth::AuthHash.new("info" => { "email" => permitted_user })
-  end
-  after { OmniAuth.config.mock_auth[SidekiqAuthentication::AUTH_PROVIDER_NAME] = nil }
+  let(:permitted_user) { Rails.application.config.admin_emails.first }
+  before { OmniAuth.config.mock_auth[:google_oauth2] = OmniAuth::AuthHash.new("info" => { "email" => permitted_user }) }
+  after { OmniAuth.config.mock_auth[:google_oauth2] = nil }
 
   it "redirects to the sidekiq root page" do
-    get admin_sidekiq_signin_path
+    get admin_signin_path
     2.times { follow_redirect! }
     expect(response).to redirect_to(admin_sidekiq_web_path)
 
-    get admin_sidekiq_signout_path
+    get admin_signout_path
     expect(response).to redirect_to(root_path)
   end
 end

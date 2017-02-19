@@ -2,8 +2,6 @@
 class SidekiqAuthentication
   include Rails.application.routes.url_helpers
 
-  AUTH_PROVIDER_NAME = "sidekiq"
-
   def initialize(app)
     @app = app
   end
@@ -12,14 +10,14 @@ class SidekiqAuthentication
     if active_sidekiq_session?(env)
       @app.call(env)
     else
-      redirect_to admin_sidekiq_signin_path
+      redirect_to admin_signin_path
     end
   end
 
   private
 
   def active_sidekiq_session?(env)
-    Rack::Request.new(env).session[SidekiqSession::NAME]
+    Rack::Request.new(env).session[AdminSession::NAME]
   end
 
   def redirect_to(path)

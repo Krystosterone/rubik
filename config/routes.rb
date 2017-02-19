@@ -3,11 +3,11 @@ require "sidekiq/web"
 
 Rails.application.routes.draw do
   namespace :admin do
-    get "/auth/#{SidekiqAuthentication::AUTH_PROVIDER_NAME}/callback" => "sidekiq_sessions#create"
+    get "/auth/google_oauth2/callback" => "sessions#create"
     get "/auth/failure", to: redirect("/401", 302)
 
-    get "/sidekiq/signin", to: redirect("/admin/auth/#{SidekiqAuthentication::AUTH_PROVIDER_NAME}", 302)
-    get "/sidekiq/signout" => "sidekiq_sessions#destroy"
+    get "/signin", to: redirect("/admin/auth/google_oauth2", 302)
+    get "/signout" => "sessions#destroy"
 
     mount Sidekiq::Web, at: "/sidekiq"
   end
