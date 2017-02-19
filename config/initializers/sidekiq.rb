@@ -15,5 +15,3 @@ if Rails.env.production?
 
   SidekiqUniqueJobs.config.unique_args_enabled = true
 end
-
-Sidekiq::Web.use(SidekiqAuthentication) if ENV["SIDEKIQ_GOOGLE_AUTH"] || Rails.env.production?

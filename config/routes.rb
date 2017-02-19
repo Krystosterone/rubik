@@ -9,9 +9,11 @@ Rails.application.routes.draw do
     get "/login", to: redirect("/admin/auth/google_oauth2", 302)
     get "/logout" => "sessions#destroy"
 
-    mount Sidekiq::Web, at: "/sidekiq"
+    constraints AdminConstraint.new do
+      mount Sidekiq::Web, at: "/sidekiq"
 
-    root to: redirect("/admin/sidekiq", 302)
+      root to: redirect("/admin/sidekiq", 302)
+    end
   end
 
   mount LetterOpenerWeb::Engine, at: "/letter_opener" if Rails.env.development?
