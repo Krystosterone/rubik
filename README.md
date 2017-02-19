@@ -2,7 +2,7 @@
 
 Rubik is a tool for students to easily and intuitively generate schedule combinations for different school trimesters.
 
-**For now**, Rubik is only used for [l'École de Technologie Supérieure](https://www.etsmtl.ca/) at [ets.rubik.co](http://ets.rubik.co). The hopes is to eventually expand the platform to other schools and/or organizations. As such, the code is writting in a way that it does not do make assumptions on a specific domain language. Apart for some hardcoding of banners and translations, the software _should_ be re-usable for other schools fairly easily.
+**For now**, Rubik is only used for [l'École de Technologie Supérieure](https://www.etsmtl.ca/) at [ets.rubik.co](http://ets.rubik.co). The hopes is to eventually expand the platform to other schools and/or organizations. As such, the code is written in a way that it does not do make assumptions on a specific domain language. Apart for some hardcoding of banners and translations, the software _should_ be re-usable for other schools fairly easily.
 
 ## Dependencies
 
