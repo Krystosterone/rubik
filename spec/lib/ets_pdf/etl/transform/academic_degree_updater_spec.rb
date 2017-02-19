@@ -74,11 +74,6 @@ describe EtsPdf::Etl::Transform::AcademicDegreeUpdater do
 
       it "populates the correct data" do
         expect(actual_academic_degree_term_courses_attributes).to eq(expected_academic_degree_term_courses_attributes)
-        # expect(log120.course.code).to eq("LOG120")
-        # expect(log120.groups).to eq(log120_groups)
-        #
-        # expect(log240.course.code).to eq("LOG240")
-        # expect(log240.groups).to eq(log240_groups)
       end
     end
 
