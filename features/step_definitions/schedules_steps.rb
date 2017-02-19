@@ -7,7 +7,7 @@ end
 
 Alors /^je vois (.+) comme étant les cours sélectionnés$/ do |courses_list|
   courses = courses_list.split(/, | et /)
-  courses.each { |course| expect(page).to have_css(".label", text: course) }
+  courses.each { |course| expect(page).to have_css(".courses-selected td", text: course) }
 end
 
 Alors(/^je vois (\d+) possibilités? d'horaires?$/) do |count|

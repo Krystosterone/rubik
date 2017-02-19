@@ -4,18 +4,22 @@
     .col-sm-8
       = f.text_field :courses_per_schedule, disabled: true, readonly: true, class: 'form-control'
 
-  .form-group
-    .col-sm-4.control-label
-      = f.label :courses
-    .col-sm-8.courses-list
-      - agenda.courses.each do |course|
-        %span.label.label-info
-          = course.code
-          - if course.mandatory?
-            %i.fa.fa-lock
-          - else
-            %i.fa.fa-unlock
-        - if agenda.filter_groups?
-          - course.group_numbers.each do |group_numbers|
-            %span.label.label-default= group_numbers
-          %br
+  .row
+    .col-sm-offset-4.col-sm-8
+      %table.table.courses-selected
+        %thead
+          %tr
+            %th{colspan: 2}= t('.courses_selected')
+            %th= t('.course_groups')
+        %tbody
+          - agenda.courses.each do |course|
+            %tr
+              %td
+                - if course.mandatory?
+                  %i.fa.fa-lock
+                - else
+                  %i.fa.fa-unlock
+              %td= course.code
+              %td
+                - course.group_numbers.each do |group_numbers|
+                  %span.label.label-default= group_numbers

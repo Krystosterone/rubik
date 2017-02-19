@@ -142,6 +142,9 @@ fr:
     navbar:
       comments: Commentaires
       faq: FAQ
+    overview:
+      course_groups: Groupes
+      courses_selected: Cours sélectionnés
   schedules:
     index:
       blank_agenda: Veuillez choisir une nouvelle combinaison de cours; aucune combinaison n'a pu être trouvée
