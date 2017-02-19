@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 require "rails_helper"
 
-describe SidekiqSessionsController do
+describe Admin::SidekiqSessionsController do
   describe "#create" do
     context "when not passing through omniauth" do
       before { get :create }
@@ -24,7 +24,7 @@ describe SidekiqSessionsController do
       end
 
       specify { expect(session[SidekiqSession::NAME]).to eq(true) }
-      it { is_expected.to redirect_to(sidekiq_web_path) }
+      it { is_expected.to redirect_to(admin_sidekiq_web_path) }
     end
   end
 

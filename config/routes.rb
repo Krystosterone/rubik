@@ -2,14 +2,17 @@
 require "sidekiq/web"
 
 Rails.application.routes.draw do
-  get "/auth/#{SidekiqAuthentication::AUTH_PROVIDER_NAME}/callback" => "sidekiq_sessions#create"
-  get "/auth/failure", to: redirect("/401", 302)
+  namespace :admin do
+    get "/auth/#{SidekiqAuthentication::AUTH_PROVIDER_NAME}/callback" => "sidekiq_sessions#create"
+    get "/auth/failure", to: redirect("/401", 302)
 
-  get "/sidekiq/signin", to: redirect("/auth/#{SidekiqAuthentication::AUTH_PROVIDER_NAME}", 302)
-  get "/sidekiq/signout" => "sidekiq_sessions#destroy"
+    get "/sidekiq/signin", to: redirect("/admin/auth/#{SidekiqAuthentication::AUTH_PROVIDER_NAME}", 302)
+    get "/sidekiq/signout" => "sidekiq_sessions#destroy"
+
+    mount Sidekiq::Web, at: "/sidekiq"
+  end
 
   mount LetterOpenerWeb::Engine, at: "/letter_opener" if Rails.env.development?
-  mount Sidekiq::Web, at: "/sidekiq"
 
   resources :academic_degree_terms, only: [] do
     resources :agendas, except: :show, param: :token, shallow: true do
