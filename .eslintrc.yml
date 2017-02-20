@@ -7,14 +7,14 @@ parserOptions:
   sourceType: module
 rules:
   indent:
-    - error
+    - 2
     - 2
   linebreak-style:
-    - error
+    - 2
     - unix
   quotes:
-    - error
+    - 2
     - double
   semi:
-    - error
+    - 2
     - always
