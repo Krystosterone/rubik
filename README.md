@@ -9,7 +9,7 @@ Rubik is a tool for students to easily and intuitively generate schedule combina
 - Airbrake
 - Chromium
 - MySQL
-- Node and NPM
+- Node and Yarn
 - PhantomJS 2.1.1
 - Redis
 - Sendgrid
@@ -18,14 +18,15 @@ Rubik is a tool for students to easily and intuitively generate schedule combina
 
 1. Clone the repository
 2. `bundle install`
-3. `bundle exec rails db:create db:migrate db:test:prepare db:seed`
+3. `yarn install`
+4. `bundle exec rails db:create db:migrate db:test:prepare db:seed`
 
 ## Useful commands
 
 - **Run all specs:** `bundle exec rspec`
 - **Run all feature tests:** `bundle exec cucumber`
 - **Run the ruby linter:** `bundle exec rubocop`
-- **Run the javascript linter:** `npm run eslint app/assets/javascripts/**/*`
+- **Run the javascript linter:** `yarn run eslint app/assets/javascripts/**/*`
 
 ## Adding a new trimester
 
