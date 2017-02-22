@@ -2,8 +2,6 @@
 class TermsController < ApplicationController
   before_action :assign_terms
 
-  decorates_assigned :terms
-
   def index
     @newsletter_subscription = NewsletterSubscription.new
   end

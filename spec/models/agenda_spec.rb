@@ -23,6 +23,9 @@ describe Agenda do
   its(:processing) { is_expected.to eq(false) }
   its(:token) { is_expected.to be_present }
 
+  it { is_expected.to delegate_method(:count).to(:schedules).with_prefix }
+  it { is_expected.to delegate_method(:name).to(:academic_degree).with_prefix }
+
   describe "#to_param" do
     before { agenda.token = "a_token" }
 

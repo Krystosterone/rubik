@@ -25,6 +25,9 @@ class Agenda < ActiveRecord::Base
   default :processing, false
   default(:token) { SecureRandom.hex }
 
+  delegate :count, to: :schedules, prefix: true
+  delegate :name, to: :academic_degree, prefix: true
+
   alias_attribute :to_param, :token
 
   def mark_as_finished_processing

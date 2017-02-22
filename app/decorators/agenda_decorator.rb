@@ -2,9 +2,4 @@
 class AgendaDecorator < Draper::Decorator
   delegate_all
   decorates_association :courses, with: Agenda::CourseDecorator
-  decorates_association :term
-
-  delegate :count, to: :schedules, prefix: true
-  delegate :name, to: :academic_degree, prefix: true
-  delegate :title, to: :term, prefix: true
 end

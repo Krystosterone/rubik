@@ -13,14 +13,12 @@ fr:
   activerecord:
     attributes:
       agenda:
-        academic_degree_name: Baccalauréat
         courses: Cours
         courses_per_schedule: Nombre de cours par horaire
         filter_groups: Filtrer les groupes
         leaves: Congés
         mandatory_course_ids: Cours obligatoires
         schedules_count: Nombre d'horaires générés
-        term_title: Trimestre
       comment:
         user_email: Courriel
         body: Commentaire
@@ -144,8 +142,10 @@ fr:
       comments: Commentaires
       faq: FAQ
     overview:
+      academic_degree_name: Baccalauréat
       course_groups: Groupes
       courses_selected: Cours sélectionnés
+      term_title: Trimestre
   schedules:
     index:
       blank_agenda: Veuillez choisir une nouvelle combinaison de cours; aucune combinaison n'a pu être trouvée
