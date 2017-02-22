@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 class WeekdayTimeRangeDecorator < Draper::Decorator
+  include WeekdayTimesHelper
+
   delegate_all
   decorates_association :starts_at
   decorates_association :ends_at
@@ -9,12 +11,12 @@ class WeekdayTimeRangeDecorator < Draper::Decorator
   end
 
   def time_span
-    "#{starts_at.time} - #{ends_at.time}"
+    "#{weekday_time_format(starts_at)} - #{weekday_time_format(ends_at)}"
   end
 
   def weekday_time_span
     if single_day_span?
-      "#{starts_at.weekday} #{starts_at.time} - #{ends_at.time}"
+      "#{starts_at.weekday} #{weekday_time_format(starts_at)} - #{weekday_time_format(ends_at)}"
     else
       "#{starts_at.weekday_time} - #{ends_at.weekday_time}"
     end
