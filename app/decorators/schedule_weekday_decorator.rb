@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 class ScheduleWeekdayDecorator < Draper::Decorator
   delegate_all
-  decorates_association :periods
 
   def collapsible?
     empty?

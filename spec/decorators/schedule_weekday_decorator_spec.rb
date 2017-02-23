@@ -6,7 +6,6 @@ describe ScheduleWeekdayDecorator do
     subject(:decorator) { described_class.new(schedule_weekday) }
     let(:schedule_weekday) { build(:schedule_weekday) }
 
-    specify { expect(decorator.periods).to be_decorated }
     specify { expect(decorator.periods).to eq(schedule_weekday.periods) }
   end
 
