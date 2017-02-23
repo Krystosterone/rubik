@@ -11,7 +11,7 @@
   = render "overview", f: f
 
 .container-fluid.schedules
-  - schedules.each_slice(2).with_index do |schedules_slice, slice_index|
+  - @schedules.each_slice(2).with_index do |schedules_slice, slice_index|
     .row
       - schedules_slice.each_with_index do |schedule, index|
         .col-lg-6

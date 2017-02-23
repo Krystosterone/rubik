@@ -3,7 +3,7 @@
 
 .container
   .row
-    = render schedule, index: schedule_index + 1
+    = render @schedule, index: schedule_index + 1
   .row
     = link_to agenda_schedules_path(page: schedule_page, anchor: "schedule-#{schedule_index + 1}") do
       %i.glyphicon.glyphicon-chevron-left
