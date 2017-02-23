@@ -10,7 +10,7 @@
         = f.collection_select :starts_at,
                               leave_times,
                               :total_minutes,
-                              :weekday_time,
+                              ->(leave) { week_time_format(leave) },
                               {},
                               class: 'form-control',
                               data: { "leave-starts-at" => f.index }
@@ -21,7 +21,7 @@
         = f.collection_select :ends_at,
                               leave_times,
                               :total_minutes,
-                              :weekday_time,
+                              ->(leave) { week_time_format(leave) },
                               {},
                               class: 'form-control',
                               data: { "leave-ends-at" => f.index }
