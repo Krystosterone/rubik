@@ -146,6 +146,9 @@ fr:
       course_groups: Groupes
       courses_selected: Cours sélectionnés
       term_title: Trimestre
+  schedule_leaves:
+    schedule_leave:
+      title: Congé
   schedules:
     index:
       blank_agenda: Veuillez choisir une nouvelle combinaison de cours; aucune combinaison n'a pu être trouvée
@@ -155,8 +158,6 @@ fr:
       message: Combinaisons en cours…
     schedule:
       title: "Horaire - %{index}"
-    schedule_leave:
-      title: Congé
     show:
       back: Retour aux résultats
   terms:
