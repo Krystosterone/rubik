@@ -12,15 +12,21 @@ describe EtsPdf::Etl::PreProcess do
     before do
       (1..6).each { |index| FileUtils.mkdir_p(Rails.root.join(pdf_folder, "#{index}.pdf")) }
       (4..6).each { |index| FileUtils.mkdir_p(Rails.root.join(pdf_folder, "#{index}.txt")) }
+
+      allow(Kernel).to receive(:system)
     end
     after { FileUtils.rm_rf(pdf_folder) }
 
-    it "converts every pdf to txt, unless it already exists" do
+    it "converts every pdf to txt" do
+      pre_process_etl.execute
+
       (1..3).each do |index|
         pdf_path = Rails.root.join(pdf_folder, "#{index}.pdf").to_s
-        allow(IO).to receive(:popen).with("pdftotext -enc UTF-8 -layout #{pdf_path}")
+        expect(Kernel).to have_received(:system).with("pdftotext", "-enc", "UTF-8", "-layout", pdf_path)
       end
+    end
 
+    it "returns the argument" do
       expect(pre_process_etl.execute).to eq(pdf_pattern)
     end
   end

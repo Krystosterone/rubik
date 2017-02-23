@@ -10,6 +10,7 @@ Rubik is a tool for students to easily and intuitively generate schedule combina
 - Chromium
 - MySQL
 - Node and Yarn
+- The `pdftotext` command line utility
 - PhantomJS 2.1.1
 - Redis
 - Sendgrid
