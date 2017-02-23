@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 class Group
   include ActiveModel::Model
-  include Draper::Decoratable
   include SerializedRecord::FindOrInitializeFor
 
   serialized_find_or_initialize_for :periods

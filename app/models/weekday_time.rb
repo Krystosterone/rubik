@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 class WeekdayTime
-  include Draper::Decoratable
-
   def initialize(total_minutes)
     @total_minutes = total_minutes
   end
