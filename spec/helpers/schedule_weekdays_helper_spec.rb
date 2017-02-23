@@ -1,76 +1,66 @@
 # frozen_string_literal: true
 require "rails_helper"
 
-describe ScheduleWeekdayDecorator do
-  describe "#periods" do
-    subject(:decorator) { described_class.new(schedule_weekday) }
-    let(:schedule_weekday) { build(:schedule_weekday) }
-
-    specify { expect(decorator.periods).to eq(schedule_weekday.periods) }
-  end
-
-  describe "#collapsible?" do
+describe ScheduleWeekdaysHelper do
+  describe "#schedule_weekday_collapsible??" do
     context "when it is empty" do
-      subject(:decorator) { described_class.new(schedule_weekday) }
       let(:schedule_weekday) { instance_double(ScheduleWeekday, empty?: true) }
 
-      specify { expect(decorator).to be_collapsible }
+      specify { expect(helper.schedule_weekday_collapsible?(schedule_weekday)).to eq(true) }
     end
 
     context "when there are some periods" do
-      subject(:decorator) { described_class.new(schedule_weekday) }
       let(:schedule_weekday) { instance_double(ScheduleWeekday, empty?: false) }
 
-      specify { expect(decorator).not_to be_collapsible }
+      specify { expect(helper.schedule_weekday_collapsible?(schedule_weekday)).to eq(false) }
     end
   end
 
-  describe "#backdrop_class" do
+  describe "#schedule_weekday_backdrop_class" do
     context "when the weekday is not a weekend" do
-      subject(:decorator) { described_class.new(schedule_weekday) }
       let(:schedule_weekday) { instance_double(ScheduleWeekday, weekend?: false) }
 
       it "returns nothing" do
-        expect(decorator.backdrop_class).to be_nil
+        expect(helper.schedule_weekday_backdrop_class(schedule_weekday)).to be_nil
       end
     end
 
     context "when the weekday is a weekend weekday" do
-      subject(:decorator) { described_class.new(schedule_weekday) }
       let(:schedule_weekday) { instance_double(ScheduleWeekday, weekend?: true) }
 
       it "returns the backdrop class" do
-        expect(decorator.backdrop_class).to eq("weekend")
+        expect(helper.schedule_weekday_backdrop_class(schedule_weekday)).to eq("weekend")
       end
     end
   end
 
-  describe "#css_class" do
+  describe "#schedule_weekday_css_class" do
     context "for a weekend weekday with index 0" do
-      subject { described_class.new(schedule_weekday) }
       let(:schedule_weekday) { instance_double(ScheduleWeekday, index: 0, weekend?: true) }
 
-      its(:css_class) { is_expected.to eq("weekday-0 weekend") }
+      it "returns the css class" do
+        expect(helper.schedule_weekday_css_class(schedule_weekday)).to eq("weekday-0 weekend")
+      end
     end
 
     (1..3).each do |index|
       context "for weekday of index #{index}" do
-        subject { described_class.new(schedule_weekday) }
         let(:schedule_weekday) { instance_double(ScheduleWeekday, index: index, weekend?: false) }
 
-        its(:css_class) { is_expected.to eq("weekday-#{index}") }
+        it "returns the css class" do
+          expect(helper.schedule_weekday_css_class(schedule_weekday)).to eq("weekday-#{index}")
+        end
       end
     end
   end
 
-  describe "#name" do
+  describe "#schedule_weekday_name" do
     %w(Dimanche Lundi Mardi Mercredi Jeudi Vendredi Samedi).each_with_index do |name, index|
       context "for index #{index}" do
-        subject(:decorator) { described_class.new(schedule_weekday) }
         let(:schedule_weekday) { instance_double(ScheduleWeekday, index: index) }
 
         it "returns the #{name}" do
-          expect(decorator.name).to eq(name)
+          expect(helper.schedule_weekday_name(schedule_weekday)).to eq(name)
         end
       end
     end
