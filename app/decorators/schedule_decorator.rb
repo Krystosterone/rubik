@@ -1,7 +1,8 @@
 # frozen_string_literal: true
 class ScheduleDecorator < Draper::Decorator
+  include ScheduleWeekdaysHelper
+
   delegate_all
-  decorates_association :weekdays
 
   def css_class
     classes = %W(from-#{from} duration-#{duration})
@@ -24,7 +25,7 @@ class ScheduleDecorator < Draper::Decorator
   end
 
   def collapsible?
-    weekdays.select(&:weekend?).all?(&:collapsible?)
+    weekdays.select(&:weekend?).all?(&method(:schedule_weekday_collapsible?))
   end
 
   def restricted_ends_at
