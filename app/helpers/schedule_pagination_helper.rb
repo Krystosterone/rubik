@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-module ScheduleHelper
+module SchedulePaginationHelper
   SCHEDULES_PER_PAGE = 20
 
   def schedule_page_index

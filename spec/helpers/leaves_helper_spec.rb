@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 require "rails_helper"
 
-describe LeaveHelper do
+describe LeavesHelper do
   describe "#leave_times" do
     let(:result) do
       leaves = Array.new(7) do |day|

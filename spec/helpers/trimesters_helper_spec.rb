@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 require "rails_helper"
 
-describe TrimesterHelper do
+describe TrimestersHelper do
   describe "#trimesters_list" do
     context "with only one trimester" do
       before { assign(:trimesters, ["One"]) }

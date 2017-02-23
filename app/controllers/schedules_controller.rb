@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 class SchedulesController < ApplicationController
   include AgendaEagerLoading
-  include ScheduleHelper
+  include SchedulePaginationHelper
 
   before_action :find_agenda
   before_action :ensure_not_processing,

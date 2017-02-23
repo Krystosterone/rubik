@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 class NewsletterSubscriptionMailer < ApplicationMailer
   default from: "no-reply@rubik.co"
-  helper TrimesterHelper
+  helper TrimestersHelper
 
   def update_available_email(to:, trimesters:)
     @trimesters = trimesters

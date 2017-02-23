@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-module TrimesterHelper
+module TrimestersHelper
   def trimesters_list
     if @trimesters.size == 1
       "  - #{@trimesters.first}"

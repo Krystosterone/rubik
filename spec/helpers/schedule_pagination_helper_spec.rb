@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 require "rails_helper"
 
-describe ScheduleHelper do
+describe SchedulePaginationHelper do
   describe "#schedule_page_index" do
     before { @schedules = instance_double("Schedules", current_page: 3, limit_value: 50) }
 
