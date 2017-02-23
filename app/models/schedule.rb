@@ -28,10 +28,10 @@ class Schedule < ActiveRecord::Base
   private
 
   def weekday_courses
-    @weekday_courses ||= ScheduleCourse.group_by_weekday_index(course_groups)
+    @weekday_courses ||= ScheduleCourseBuilder.new(course_groups).call
   end
 
   def weekday_leaves
-    @weekday_leaves ||= ScheduleLeave.group_by_weekday_index(agenda.leaves)
+    @weekday_leaves ||= ScheduleLeaveBuilder.new(agenda.leaves).call
   end
 end
