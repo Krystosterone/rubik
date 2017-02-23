@@ -1,4 +1,4 @@
-.period{class: schedule_course.css_class}
-  %div= schedule_course.time_span
-  %div= schedule_course.course
+.period{class: schedule_course_css_class(schedule_course)}
+  %div= weekday_time_time_span(schedule_course)
+  %div= schedule_course_format(schedule_course)
   %div= schedule_course.type
