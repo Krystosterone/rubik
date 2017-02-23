@@ -4,7 +4,7 @@
 
   - if @agenda.errors.any?
     .alert.alert-danger{role: "alert"}
-      - agenda.errors.each do |_, error|
+      - @agenda.errors.each do |_, error|
         %span.glyphicon.glyphicon-exclamation-sign{"aria-hidden" => true}
         = error
         %br
