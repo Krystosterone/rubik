@@ -2,7 +2,7 @@
   = render "shared/breadcrumb"
   = render "shared/flash_messages"
 
-  - if agenda.errors.any?
+  - if @agenda.errors.any?
     .alert.alert-danger{role: "alert"}
       - agenda.errors.each do |_, error|
         %span.glyphicon.glyphicon-exclamation-sign{"aria-hidden" => true}
@@ -11,7 +11,7 @@
 
   %h1.page-header= t(".title")
 
-= form_for [@academic_degree_term, agenda] do |agenda_fields|
+= form_for [@academic_degree_term, @agenda] do |agenda_fields|
   = hidden_field_tag :step, step
   = render "shared/overview", f: agenda_fields
 
@@ -57,6 +57,6 @@
       .col-sm-4.col-sm-push-8
         = agenda_fields.submit class: "btn btn-primary btn-block"
       .col-sm-8.col-sm-pull-4.back
-        = link_to edit_agenda_path(agenda, step: :course_selection) do
+        = link_to edit_agenda_path(@agenda, step: :course_selection) do
           %i.glyphicon.glyphicon-chevron-left
           = t(".back")

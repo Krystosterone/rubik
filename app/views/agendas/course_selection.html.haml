@@ -2,16 +2,16 @@
   = render "shared/breadcrumb"
   = render "shared/flash_messages"
 
-  - if agenda.errors.any?
+  - if @agenda.errors.any?
     .alert.alert-danger{role: "alert"}
-      - agenda.errors.each do |_, error|
+      - @agenda.errors.each do |_, error|
         %span.glyphicon.glyphicon-exclamation-sign{"aria-hidden" => true}
         = error
         %br
 
   %h1.page-header= t(".title")
 
-= form_for [@academic_degree_term, agenda] do |f|
+= form_for [@academic_degree_term, @agenda] do |f|
   = hidden_field_tag :step, step
   = render "shared/overview", f: f
 
@@ -20,8 +20,8 @@
       %legend= f.label :courses
       %p= t(".mandatory_courses_explication_html")
 
-      - agenda.academic_degree_term_courses.each_with_index do |academic_degree_term_course, index|
-        - agenda_course = agenda.courses.find { |course| course.academic_degree_term_course == academic_degree_term_course }
+      - @agenda.academic_degree_term_courses.each_with_index do |academic_degree_term_course, index|
+        - agenda_course = @agenda.courses.find { |course| course.academic_degree_term_course == academic_degree_term_course }
 
         .course-checkbox-button.btn-group.btn-group-justified{ role: "group" }
           = hidden_field_tag "agenda[courses_attributes][#{index}][id]", agenda_course.id, id: nil unless agenda_course.nil?
