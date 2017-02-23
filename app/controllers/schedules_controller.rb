@@ -11,7 +11,6 @@ class SchedulesController < ApplicationController
   skip_before_action :show_navigation, only: :processing
 
   decorates_assigned :schedule, :schedules
-  helper_method :agenda
 
   def index
     @schedules = find_schedules || raise(ActiveRecord::RecordNotFound)
@@ -26,8 +25,6 @@ class SchedulesController < ApplicationController
   end
 
   private
-
-  attr_reader :agenda
 
   def agenda_token
     params.require(:agenda_token)

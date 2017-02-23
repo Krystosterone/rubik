@@ -8,13 +8,13 @@ class Breadcrumb
     {
       additional_current_condition: proc { step == AgendaCreationProcess::STEP_COURSE_SELECTION },
       key: "agendas.course_selection",
-      path: proc { edit_agenda_path(agenda, step: AgendaCreationProcess::STEP_COURSE_SELECTION) },
+      path: proc { edit_agenda_path(@agenda, step: AgendaCreationProcess::STEP_COURSE_SELECTION) },
     },
     {
       additional_current_condition: proc { step == AgendaCreationProcess::STEP_GROUP_SELECTION },
       key: "agendas.group_selection",
-      path: proc { edit_agenda_path(agenda, step: AgendaCreationProcess::STEP_GROUP_SELECTION) },
-      visible: proc { agenda.filter_groups? }
+      path: proc { edit_agenda_path(@agenda, step: AgendaCreationProcess::STEP_GROUP_SELECTION) },
+      visible: proc { @agenda.filter_groups? }
     },
     { controller_name: :schedules },
   ].freeze

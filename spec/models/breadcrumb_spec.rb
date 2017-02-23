@@ -16,7 +16,8 @@ describe Breadcrumb do
         .to receive(:edit_agenda_path)
         .with(agenda, step: AgendaCreationProcess::STEP_GROUP_SELECTION).and_return("agenda_group_selection_path")
       allow(view_context).to receive(:link_to) { |name, path| "#{name}_#{path}" }
-      allow(view_context).to receive(:agenda).and_return(agenda)
+
+      view_context.instance_variable_set(:@agenda, agenda)
     end
   end
 

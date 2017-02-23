@@ -14,7 +14,7 @@ class AgendasController < ApplicationController
   before_action :save, only: [:create, :update]
 
   delegate :step, to: :agenda_creation_process
-  helper_method :agenda, :step
+  helper_method :step
 
   def new
     render step
@@ -29,8 +29,6 @@ class AgendasController < ApplicationController
   def update; end
 
   private
-
-  attr_reader :agenda
 
   def assign_academic_degree_term
     @academic_degree_term = AcademicDegreeTerm.enabled.find(params[:academic_degree_term_id])

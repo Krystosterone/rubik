@@ -17,7 +17,7 @@
             %th{colspan: 2}= t('.courses_selected')
             %th= t('.course_groups')
         %tbody
-          - agenda.courses.each do |course|
+          - @agenda.courses.each do |course|
             %tr
               %td
                 - if course.mandatory?
