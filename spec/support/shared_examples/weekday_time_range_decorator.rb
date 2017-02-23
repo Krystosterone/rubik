@@ -34,19 +34,11 @@ shared_examples "WeekdayTimeRangeDecorator" do |decorated_class:|
     it "is a time" do
       expect(decorator.starts_at).to eq(weekday_time_range.starts_at)
     end
-
-    it "is decorated" do
-      expect(decorator.starts_at).to be_decorated
-    end
   end
 
   describe "#ends_at" do
     it "is a time" do
       expect(decorator.ends_at).to eq(weekday_time_range.ends_at)
-    end
-
-    it "is decorated" do
-      expect(decorator.ends_at).to be_decorated
     end
   end
 

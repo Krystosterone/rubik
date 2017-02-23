@@ -4,6 +4,6 @@ module LeaveHelper
     leaves = Array.new(7) do |day|
       (0..23).collect { |hour| WeekTime.on(day, hour) }
     end
-    WeekTimeDecorator.decorate_collection(leaves.reduce(:concat))
+    leaves.reduce(:concat)
   end
 end

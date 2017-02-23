@@ -10,7 +10,6 @@ describe LeaveHelper do
       leaves.flatten
     end
 
-    specify { expect(leave_times).to be_decorated }
     specify { expect(leave_times).to eq(result) }
   end
 end
