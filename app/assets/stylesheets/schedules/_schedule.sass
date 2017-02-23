@@ -6,7 +6,6 @@ $from-hour: 0
 $to-hour: 24
 $column-width: percentage(1 / 7)
 $minimized-column-width: percentage(1 / 5)
-$period-colors: #ed8464, #f2b457, #6ddade, #8dd184, #b39ed9
 
 @mixin period($index-hour, $quarter-nb)
   $minutes: $quarter-nb * 15
@@ -152,17 +151,10 @@ $period-colors: #ed8464, #f2b457, #6ddade, #8dd184, #b39ed9
             &.leave
               z-index: 0
               background-image: asset_url('leave-pattern.png')
-              border-color: darken(#3E52B3, 10%)
+              border-color: #2544a2
 
             @media screen and (max-width: $schedule-max-width)
               font-size: 9px
-
-            @for $index from 0 to length($period-colors)
-              $period-color: nth($period-colors, $index + 1)
-
-              &.course-#{$index + 1}
-                background-color: $period-color
-                border-color: darken($period-color, 10%)
 
             @for $index-hour from $from-hour to $to-hour
               @for $quarter-nb from 0 to 4

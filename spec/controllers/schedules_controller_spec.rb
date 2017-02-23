@@ -44,6 +44,10 @@ describe SchedulesController do
         expect(assigned_schedules).to eq(agenda.schedules)
       end
 
+      it "assigns course colors" do
+        expect(controller.helpers.course_colors.to_h).to be_present
+      end
+
       it { is_expected.to render_template(:index) }
     end
 
@@ -88,6 +92,7 @@ describe SchedulesController do
     end
 
     context "when passing in an index" do
+      let(:assigned_course_colors) { assigns(:course_colors) }
       let(:assigned_schedule) { assigns(:schedule) }
       before do
         get :show, params: { agenda_token: agenda.token, index: 3 }
@@ -97,6 +102,10 @@ describe SchedulesController do
 
       it "assigns the correct schedule" do
         expect(assigned_schedule).to eq(agenda.schedules[2])
+      end
+
+      it "assigns course colors" do
+        expect(controller.helpers.course_colors.to_h).to be_present
       end
     end
   end

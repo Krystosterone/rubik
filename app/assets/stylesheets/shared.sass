@@ -32,3 +32,10 @@ noscript .well
 
   p
     text-align: center
+
+@for $hue from 0 to 360
+  .course-color-#{$hue}
+    $color: hsl($hue, 63%, 49%)
+
+    background-color: $color
+    border-color: darken($color, 10%)

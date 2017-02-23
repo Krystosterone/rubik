@@ -24,7 +24,8 @@
                   %i.fa.fa-lock
                 - else
                   %i.fa.fa-unlock
-              %td= course.code
+              %td
+                %span.label.label-default{class: course_color_css_class(course_colors, course.code)}= course.code
               %td
                 - course.group_numbers.each do |group_numbers|
-                  %span.label.label-default= group_numbers
+                  %span.label.label-default{class: course_color_css_class(course_colors, course.code)}= group_numbers

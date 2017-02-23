@@ -10,6 +10,8 @@ class SchedulesController < ApplicationController
   before_action :eager_load_courses, except: :processing
   skip_before_action :show_navigation, only: :processing
 
+  helper_method :course_colors
+
   def index
     @schedules = find_schedules || raise(ActiveRecord::RecordNotFound)
   end
@@ -43,5 +45,9 @@ class SchedulesController < ApplicationController
 
   def ensure_processing
     redirect_to action: :index unless @agenda.processing?
+  end
+
+  def course_colors
+    @course_colors ||= CourseColorMap.new(@agenda.courses)
   end
 end
