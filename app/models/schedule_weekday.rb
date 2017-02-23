@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 class ScheduleWeekday
-  include Draper::Decoratable
   include ActiveModel::Model
 
   attr_accessor :index, :periods

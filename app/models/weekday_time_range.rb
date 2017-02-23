@@ -2,7 +2,6 @@
 class WeekdayTimeRange
   include ActiveModel::Model
   include ActiveModel::Validations
-  include Draper::Decoratable
 
   validate :time_correctness
 
