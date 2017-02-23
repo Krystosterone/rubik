@@ -3,8 +3,8 @@ class WeekdayTimeRangeDecorator < Draper::Decorator
   include WeekdayTimesHelper
 
   delegate_all
-  decorates_association :starts_at
-  decorates_association :ends_at
+  decorates_association :starts_at, with: WeekTimeDecorator
+  decorates_association :ends_at, with: WeekTimeDecorator
 
   def css_class
     "from-#{starts_at} duration-#{duration}"
