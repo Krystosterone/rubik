@@ -20,19 +20,19 @@
         %thead
           %tr
             - schedule.weekdays.each do |weekday|
-              %th.weekday{ class: weekday.backdrop_class }
-                %span= weekday.name[0..2]
-                %span.post= weekday.name[3..-1]
+              %th.weekday{class: schedule_weekday_backdrop_class(weekday)}
+                %span= schedule_weekday_name(weekday)[0..2]
+                %span.post= schedule_weekday_name(weekday)[3..-1]
         %tbody
           - schedule.hours.each do
             %tr.hour
               - schedule.weekdays.each do |weekday|
-                %td.empty{class: weekday.backdrop_class}
+                %td.empty{class: schedule_weekday_backdrop_class(weekday)}
             %tr.half-hour
               - schedule.weekdays.each do |weekday|
-                %td.empty{class: weekday.backdrop_class}
+                %td.empty{class: schedule_weekday_backdrop_class(weekday)}
 
       .week
         - schedule.weekdays.each do |weekday|
-          .weekday{class: weekday.css_class}
+          .weekday{class: schedule_weekday_css_class(weekday)}
             = render weekday.periods
