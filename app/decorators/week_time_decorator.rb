@@ -1,6 +1,8 @@
 # frozen_string_literal: true
-class WeekTimeDecorator < WeekdayTimeDecorator
+class WeekTimeDecorator < Draper::Decorator
   include WeekdayTimesHelper
+
+  delegate_all
 
   def weekday
     I18n.t("date.day_names")[weekday_index].capitalize
