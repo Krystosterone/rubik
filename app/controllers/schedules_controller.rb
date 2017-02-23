@@ -10,8 +10,6 @@ class SchedulesController < ApplicationController
   before_action :eager_load_courses, except: :processing
   skip_before_action :show_navigation, only: :processing
 
-  decorates_assigned :schedule, :schedules
-
   def index
     @schedules = find_schedules || raise(ActiveRecord::RecordNotFound)
   end
