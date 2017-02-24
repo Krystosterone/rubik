@@ -3,9 +3,9 @@
   = render "shared/flash_messages"
 
   - if @agenda.errors.any?
-    .alert.alert-danger{role: "alert"}
+    .alert.alert-danger{ role: "alert" }
       - @agenda.errors.each do |_, error|
-        %span.glyphicon.glyphicon-exclamation-sign{"aria-hidden" => true}
+        %span.glyphicon.glyphicon-exclamation-sign{ "aria-hidden" => true }
         = error
         %br
 
@@ -21,19 +21,25 @@
       %p= t(".mandatory_courses_explication_html")
 
       - @agenda.academic_degree_term_courses.each_with_index do |academic_degree_term_course, index|
-        - agenda_course = @agenda.courses.find { |course| course.academic_degree_term_course == academic_degree_term_course }
+        :ruby
+          agenda_course = @agenda.courses.find do |course|
+            course.academic_degree_term_course == academic_degree_term_course
+          end
 
         .course-checkbox-button.btn-group.btn-group-justified{ role: "group" }
-          = hidden_field_tag "agenda[courses_attributes][#{index}][id]", agenda_course.id, id: nil unless agenda_course.nil?
-          = hidden_field_tag "agenda[courses_attributes][#{index}][academic_degree_term_course_id]", academic_degree_term_course.id, id: nil
+          - unless agenda_course.nil?
+            = hidden_field_tag "agenda[courses_attributes][#{index}][id]", agenda_course.id, id: nil
+          = hidden_field_tag "agenda[courses_attributes][#{index}][academic_degree_term_course_id]",
+            academic_degree_term_course.id, id: nil
           = hidden_field_tag "agenda[courses_attributes][#{index}][mandatory]", false, id: nil
           = hidden_field_tag "agenda[courses_attributes][#{index}][_destroy]", true, id: nil
 
-          = check_box_tag "agenda[courses_attributes][#{index}][_destroy]", false, agenda_course.present?, data: { "child-checkbox" => "agenda_courses_attributes_#{index}_mandatory" }
+          = check_box_tag "agenda[courses_attributes][#{index}][_destroy]", false, agenda_course.present?,
+            data: { "child-checkbox" => "agenda_courses_attributes_#{index}_mandatory" }
           = label_tag "agenda_courses_attributes_#{index}__destroy", class: "btn btn-default" do
             = academic_degree_term_course.code
 
-          = check_box_tag "agenda[courses_attributes][#{index}][mandatory]", true, agenda_course.try!(:mandatory?)
+          = check_box_tag "agenda[courses_attributes][#{index}][mandatory]", true, agenda_course&.mandatory?
           = label_tag "agenda_courses_attributes_#{index}_mandatory", class: "btn btn-default" do
             %i.checked.fa.fa-lock
             %i.unchecked.fa.fa-unlock-alt
@@ -50,7 +56,7 @@
           = ff.radio_button
           = ff.label(class: "btn btn-default")
 
-    %a.schedules-anchor{name: "leaves"}
+    %a.schedules-anchor{ name: "leaves" }
     %fieldset.form-horizontal
       %legend= f.label :leaves
       = f.nested_form :leaves

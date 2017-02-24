@@ -3,9 +3,9 @@
   = render "shared/flash_messages"
 
   - if @agenda.errors.any?
-    .alert.alert-danger{role: "alert"}
+    .alert.alert-danger{ role: "alert" }
       - @agenda.errors.each do |_, error|
-        %span.glyphicon.glyphicon-exclamation-sign{"aria-hidden" => true}
+        %span.glyphicon.glyphicon-exclamation-sign{ "aria-hidden" => true }
         = error
         %br
 
@@ -22,8 +22,8 @@
       = agenda_fields.fields_for :courses do |course_fields|
         %table.group-selection-table
           %thead
-            %tr{class: ("danger" if course_fields.object.errors.any?)}
-              %th{colspan: 3}
+            %tr{ class: ("danger" if course_fields.object.errors.any?) }
+              %th{ colspan: 3 }
                 = course_fields.hidden_field :id
                 = course_fields.object.code
                 |
@@ -34,12 +34,13 @@
 
           %tbody
             - group_index = 0
-            = course_fields.collection_check_boxes :group_numbers, course_fields.object.groups, :number, :number do |group_fields|
+            = course_fields.collection_check_boxes :group_numbers,
+              course_fields.object.groups, :number, :number do |group_fields|
               - group_index += 1
               - group_fields.object.periods.each_with_index do |period, index|
-                %tr{class: ("active" if group_index % 2 == 1)}
+                %tr{ class: ("active" if group_index.odd?) }
                   - if index.zero?
-                    %th{rowspan: group_fields.object.periods.size}
+                    %th{ rowspan: group_fields.object.periods.size }
                       = group_fields.label do
                         .label-content
                           = group_fields.check_box

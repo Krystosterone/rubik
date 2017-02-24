@@ -1,8 +1,8 @@
 !!!
-%html{class: "#{controller_name}-controller #{action_name}-action"}
+%html{ class: "#{controller_name}-controller #{action_name}-action" }
   %head
     %title= t(".title")
-    %meta{name: "viewport", content: "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"}
+    %meta{ name: "viewport", content: "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" }
 
     = stylesheet_link_tag "application", media: "all"
     = javascript_include_tag "application"

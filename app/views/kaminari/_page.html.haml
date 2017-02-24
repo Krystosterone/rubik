@@ -1,5 +1,8 @@
-%li{class: ('active' if page.current?)}
-  -if page.current?
+%li{ class: ("active" if page.current?) }
+  - if page.current?
     %a= page
-  -else
-    = link_to page, url, rel: (page.next? ? 'next' : page.prev? ? 'prev' : nil)
+  - else
+    - rel = nil
+    - rel = "next" if page.next?
+    - rel = "prev" if page.prev?
+    = link_to page, url, rel: rel

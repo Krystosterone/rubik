@@ -1,29 +1,29 @@
-.leave.row{class: ('has-error' if f.object.errors.any?)}
+.leave.row{ class: ("has-error" if f.object.errors.any?) }
   - if f.object.errors.any?
     .col-xs-12
       - f.object.errors.each do |_, error|
         .help-block= error
   .col-sm-5
     .form-group
-      = f.label :starts_at, class: 'col-sm-2 control-label'
+      = f.label :starts_at, class: "col-sm-2 control-label"
       .col-sm-10
         = f.collection_select :starts_at,
                               leave_times,
                               :total_minutes,
                               ->(leave) { week_time_format(leave) },
                               {},
-                              class: 'form-control',
+                              class: "form-control",
                               data: { "leave-starts-at" => f.index }
   .col-sm-5
     .form-group
-      = f.label :ends_at, class: 'col-sm-2 control-label'
+      = f.label :ends_at, class: "col-sm-2 control-label"
       .col-sm-10
         = f.collection_select :ends_at,
                               leave_times,
                               :total_minutes,
                               ->(leave) { week_time_format(leave) },
                               {},
-                              class: 'form-control',
+                              class: "form-control",
                               data: { "leave-ends-at" => f.index }
   .col-xs-4.col-sm-2.pull-right
-    = f.destroy_button '-', class: 'btn btn-default btn-block'
+    = f.destroy_button "-", class: "btn btn-default btn-block"

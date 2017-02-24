@@ -1,9 +1,10 @@
 .hero-jumbotron
   .container
-    %h1= t('.title')
-    %p= t('.subtitle')
+    %h1= t(".title")
+    %p= t(".subtitle")
 
-= form_for @newsletter_subscription, url: create_newsletter_subscription_terms_path, html: { class: "form-horizontal" } do |f|
+= form_for @newsletter_subscription, url: create_newsletter_subscription_terms_path,
+  html: { class: "form-horizontal" } do |f|
   .container
     = render "shared/flash_messages"
 
@@ -12,7 +13,7 @@
         %i.fa.fa-bell-o
         = t(".newsletter_subscription_message")
 
-  #newsletter-subscription-collapse.collapse{ class: ("in" if f.object.errors.present?) }
+  .collapse#newsletter-subscription-collapse{ class: ("in" if f.object.errors.present?) }
     .well
       .container
         .form-group{ class: ("has-error" if f.object.errors.key?(:email)) }
@@ -26,4 +27,4 @@
 
 .container
   - @terms.each_slice(2) do |terms_slice|
-    .row= render partial: 'term', collection: terms_slice
+    .row= render partial: "term", collection: terms_slice

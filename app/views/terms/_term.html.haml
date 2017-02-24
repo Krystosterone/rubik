@@ -5,4 +5,5 @@
 
     .list-group
       - term.academic_degree_terms.each do |academic_degree_term|
-        = link_to academic_degree_term.name, new_academic_degree_term_agenda_path(academic_degree_term), class: 'list-group-item'
+        = link_to academic_degree_term.name, new_academic_degree_term_agenda_path(academic_degree_term),
+          class: "list-group-item"

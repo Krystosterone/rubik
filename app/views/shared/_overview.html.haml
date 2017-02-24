@@ -2,13 +2,14 @@
   .container
     .form-horizontal
       .form-group
-        = label_tag :term_title, t(".term_title"), class: 'col-sm-4 control-label'
+        = label_tag :term_title, t(".term_title"), class: "col-sm-4 control-label"
         .col-sm-8
-          = text_field_tag :term_title, term_title(@agenda.term), disabled: true, readonly: true, class: 'form-control'
+          = text_field_tag :term_title, term_title(@agenda.term), disabled: true, readonly: true, class: "form-control"
 
       .form-group
-        = label_tag :academic_degree_name, t(".academic_degree_name"), class: 'col-sm-4 control-label'
+        = label_tag :academic_degree_name, t(".academic_degree_name"), class: "col-sm-4 control-label"
         .col-sm-8
-          = text_field_tag :academic_degree_name, @agenda.academic_degree_name, disabled: true, readonly: true, class: 'form-control'
+          = text_field_tag :academic_degree_name, @agenda.academic_degree_name, disabled: true, readonly: true,
+            class: "form-control"
 
       = yield

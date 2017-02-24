@@ -1,4 +1,4 @@
 - flash.each do |type, _|
-  .alert{class: alert_class(type), role: 'alert'}
-    %span.glyphicon.glyphicon-exclamation-sign{'aria-hidden' => true}
+  .alert{ class: alert_class(type), role: "alert" }
+    %span.glyphicon.glyphicon-exclamation-sign{ "aria-hidden" => true }
     = flash.now[type]

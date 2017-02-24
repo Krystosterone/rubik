@@ -1,5 +1,5 @@
-%a{id: "schedule-#{index}"}
-%fieldset.schedule{class: schedule_css_class(schedule)}
+%a{ id: "schedule-#{index}" }
+%fieldset.schedule{ class: schedule_css_class(schedule) }
   %legend
     = link_to t(".title", index: index), agenda_schedule_path(@agenda, index)
 
@@ -20,19 +20,19 @@
         %thead
           %tr
             - schedule.weekdays.each do |weekday|
-              %th.weekday{class: schedule_weekday_backdrop_class(weekday)}
+              %th.weekday{ class: schedule_weekday_backdrop_class(weekday) }
                 %span= schedule_weekday_name(weekday)[0..2]
                 %span.post= schedule_weekday_name(weekday)[3..-1]
         %tbody
           - schedule_hours(schedule).each do
             %tr.hour
               - schedule.weekdays.each do |weekday|
-                %td.empty{class: schedule_weekday_backdrop_class(weekday)}
+                %td.empty{ class: schedule_weekday_backdrop_class(weekday) }
             %tr.half-hour
               - schedule.weekdays.each do |weekday|
-                %td.empty{class: schedule_weekday_backdrop_class(weekday)}
+                %td.empty{ class: schedule_weekday_backdrop_class(weekday) }
 
       .week
         - schedule.weekdays.each do |weekday|
-          .weekday{class: schedule_weekday_css_class(weekday)}
+          .weekday{ class: schedule_weekday_css_class(weekday) }
             = render weekday.periods

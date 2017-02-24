@@ -19,4 +19,5 @@ machine:
 test:
   post:
     - bundle exec rubocop
+    - bundle exec haml-lint app/views
     - yarn run eslint app/assets/javascripts/**/*

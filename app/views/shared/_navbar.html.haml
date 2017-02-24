@@ -1,9 +1,9 @@
 %nav.navbar.navbar-inverse
   .container
     .navbar-header
-      %button.navbar-toggle.collapsed{"aria-expanded" => false,
+      %button.navbar-toggle.collapsed{ "aria-expanded" => false,
                                       data: { toggle: "collapse", target: "#main-navigation" },
-                                      type: "button"}
+                                      type: "button" }
         %span.sr-only Toggle navigation
         %span.icon-bar
         %span.icon-bar
@@ -12,7 +12,7 @@
         %i.glyphicon.glyphicon-th-large
         Rubik
 
-    #main-navigation.navbar-collapse.collapse
+    .navbar-collapse.collapse#main-navigation
       %ul.nav.navbar-nav
         %li= link_to t(".comments"), new_comment_path
         %li= link_to t(".faq"), faq_path

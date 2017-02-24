@@ -167,3 +167,10 @@ fr:
       newsletter_subscription_message: Je veux être notifié à la prochaine mise à jour des trimestres
     create_newsletter_subscription:
       success: Vous serez notifié à la prochaine mise à jour des trimestres
+  views:
+    pagination:
+      first_html: "&laquo; Premier"
+      last_html: Dernier &raquo;
+      next_html: Suivant &rsaquo;
+      previous_html: "&lsaquo; Précédent"
+      truncate_html: "&hellip;"
