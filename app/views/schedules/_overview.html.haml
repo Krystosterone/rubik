@@ -27,5 +27,6 @@
               %td
                 %span.label.label-default{ class: course_color_css_class(course_colors, course.code) }= course.code
               %td
-                - course.group_numbers.each do |group_numbers|
-                  %span.label.label-default{ class: course_color_css_class(course_colors, course.code) }= group_numbers
+                - group_numbers = @agenda.filter_groups? ? course.group_numbers : course.groups.map(&:number)
+                - group_numbers.each do |group_number|
+                  %span.label.label-default{ class: course_color_css_class(course_colors, course.code) }= group_number
