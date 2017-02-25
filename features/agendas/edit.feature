@@ -60,3 +60,5 @@ Fonctionnalité: Édition d'un agenda
       | 2                | Jeudi    | 9:00 - 12:00  | MATEST-1  | TP     |
       | 2                | Jeudi    | 18:00 - 21:00 | PHYEST-2  | TP     |
       | 2                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
+
+# TODO: Add test when editing back and forth with groups

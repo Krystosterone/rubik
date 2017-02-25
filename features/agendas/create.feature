@@ -38,6 +38,7 @@ Fonctionnalité: Création d'un agenda
     Et je vois le baccalauréat "Génie logiciel" d'affiché
     Et je vois 4 comme étant le nombre de cours par horaire affiché
     Et je vois FRA150, INFTEST, MATEST et PHYEST comme étant les cours sélectionnés
+    # TODO: Assert group numbers
     Et je vois 2 possibilités d'horaires
     Et je vois les horaires:
       | Numéro d'horaire | Jour     | Période       | Cours     | Type   |
@@ -82,3 +83,5 @@ Fonctionnalité: Création d'un agenda
       | 1                | Mercredi | 18:00 - 20:00 | FRA150-1  | TP     |
       | 1                | Jeudi    | 9:00 - 12:00  | MATEST-1  | TP     |
       | 1                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
+
+# TODO: Add test with obligatory courses
