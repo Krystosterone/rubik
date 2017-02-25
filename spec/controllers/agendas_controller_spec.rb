@@ -286,7 +286,7 @@ describe AgendasController do
       end
 
       context "when the agenda was saved" do
-        let(:group_numbers) { Array(agenda.courses.first.groups.first.number) }
+        let(:group_numbers) { Array(agenda.courses.first.group_numbers.first) }
         before do
           put :update, params: {
             agenda: {

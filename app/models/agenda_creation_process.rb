@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 class AgendaCreationProcess
+  extend ActiveModel::Callbacks
   include Rails.application.routes.url_helpers
 
   STEPS = [
@@ -7,6 +8,10 @@ class AgendaCreationProcess
     :group_selection,
   ].freeze
   STEP_COURSE_SELECTION, STEP_GROUP_SELECTION = STEPS
+
+  define_model_callbacks(*STEPS, only: :before)
+
+  before_course_selection :reset_course_group_numbers
 
   attr_writer :step
 
@@ -19,7 +24,7 @@ class AgendaCreationProcess
   end
 
   def save
-    last_step? ? combine : @agenda.save
+    run_callbacks(step) { last_step? ? combine : @agenda.save }
   end
 
   def step
@@ -53,10 +58,10 @@ class AgendaCreationProcess
   end
 
   def after_combine(save_result)
-    if save_result
-      ScheduleGeneratorJob.perform_later(@agenda)
-    else
-      @agenda.restore_attributes([:processing, :combined_at])
-    end
+    ScheduleGeneratorJob.perform_later(@agenda) if save_result
+  end
+
+  def reset_course_group_numbers
+    @agenda.courses.each(&:reset_group_numbers) if @agenda.new_record? || !@agenda.filter_groups?
   end
 end

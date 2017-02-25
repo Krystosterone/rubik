@@ -11,6 +11,7 @@ class ScheduleGeneratorTestCase
   ).freeze
   AGENDA_COURSE_ATTRIBUTES = %w(
     academic_degree_term_course_id
+    group_numbers
     mandatory
   ).freeze
   COURSE_ATTRIBUTES = %w(

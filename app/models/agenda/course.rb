@@ -15,14 +15,11 @@ class Agenda::Course < ActiveRecord::Base
   scope :mandatory, -> { where(mandatory: true) }
   scope :optional, -> { where(mandatory: false) }
 
+  default :group_numbers, []
   default :mandatory, false
 
-  def groups
+  def academic_degree_term_course_groups
     academic_degree_term_course&.groups || []
-  end
-
-  def group_numbers
-    super || groups.map(&:number)
   end
 
   def group_numbers=(value)
@@ -33,14 +30,14 @@ class Agenda::Course < ActiveRecord::Base
     selected_groups.reject(&method(:overlaps_leaves?))
   end
 
+  def reset_group_numbers
+    self.group_numbers = academic_degree_term_course.group_numbers
+  end
+
   private
 
   def selected_groups
-    groups.select(&method(:selected?))
-  end
-
-  def selected?(group)
-    !agenda.filter_groups? || group.number.in?(group_numbers)
+    academic_degree_term_course_groups.select { |group| group.number.in?(group_numbers) }
   end
 
   def overlaps_leaves?(group)

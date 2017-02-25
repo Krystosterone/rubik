@@ -22,6 +22,7 @@ FactoryGirl.define do
       build_list(:agenda_course, 4).map do |course|
         course.academic_degree_term_course =
           build(:academic_degree_term_course, academic_degree_term: academic_degree_term)
+        course.reset_group_numbers
         course
       end
     end
@@ -44,6 +45,8 @@ FactoryGirl.define do
   end
 
   factory :agenda_course, class: "Agenda::Course" do
+    after(:build, &:reset_group_numbers)
+
     academic_degree_term_course
     agenda { Agenda.new }
 

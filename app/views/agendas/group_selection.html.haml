@@ -35,7 +35,7 @@
           %tbody
             - group_index = 0
             = course_fields.collection_check_boxes :group_numbers,
-              course_fields.object.groups, :number, :number do |group_fields|
+              course_fields.object.academic_degree_term_course_groups, :number, :number do |group_fields|
               - group_index += 1
               - group_fields.object.periods.each_with_index do |period, index|
                 %tr{ class: ("active" if group_index.odd?) }

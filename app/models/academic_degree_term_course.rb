@@ -13,4 +13,8 @@ class AcademicDegreeTermCourse < ActiveRecord::Base
 
   default_scope { includes(:course).order("courses.code") }
   delegate :code, to: :course
+
+  def group_numbers
+    groups.map(&:number)
+  end
 end

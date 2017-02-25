@@ -3,7 +3,7 @@ require "rails_helper"
 
 describe AgendaCreationProcess do
   subject(:process) { described_class.new(agenda) }
-  let(:agenda) { create(:combined_agenda) }
+  let(:agenda) { build(:agenda) }
 
   describe "#path" do
     context "with a single step" do
@@ -27,55 +27,77 @@ describe AgendaCreationProcess do
   end
 
   describe "#save" do
-    shared_examples "a process capable of handling an unsuccessful save" do
+    shared_examples "an unsuccessful save" do
       before { agenda.courses_per_schedule = 99 }
-
       specify { expect(process.save).to eq(false) }
+    end
+
+    shared_examples "a successful save with no generation" do
+      specify { expect(process.save).to eq(true) }
       specify { expect { process.save }.not_to change { agenda.processing } }
       specify { expect { process.save }.not_to change { agenda.combined_at } }
     end
 
-    shared_examples "a process capable of handling the last step" do
-      it_behaves_like "a process capable of handling an unsuccessful save"
+    shared_examples "a successful agenda generation" do
+      specify { expect(process.save).to eq(true) }
+      specify { expect { process.save }.to change { agenda.processing }.to eq(true) }
 
-      context "with a successful save" do
-        specify { expect(process.save).to eq(true) }
-        specify { expect { process.save }.to change { agenda.processing }.to eq(true) }
-        specify { expect { process.save }.to change { agenda.combined_at }.to be_nil }
+      it "sets the combined at timestamp to nil" do
+        process.save
+        expect(agenda.combined_at).to be_nil
+      end
 
-        it "enqueues the generator job" do
-          process.save
+      it "enqueues the generator job" do
+        process.save
+        expect(ScheduleGeneratorJob).to have_been_enqueued.with(global_id(agenda))
+      end
+    end
 
-          expect(ScheduleGeneratorJob).to have_been_enqueued.with(global_id(agenda))
-        end
+    shared_examples "a reset of course group numbers" do
+      let(:group_numbers) { agenda.courses.map { |course| course.academic_degree_term_course.group_numbers } }
+      before { agenda.courses.each { |course| course.group_numbers = [] } }
+
+      it "resets the group numbers of the courses" do
+        expect { process.save }.to change { agenda.courses.map(&:group_numbers) }.to eq(group_numbers)
       end
     end
 
     context "with a single step" do
       before { agenda.filter_groups = false }
 
-      it_behaves_like "a process capable of handling the last step"
+      it_behaves_like "an unsuccessful save"
+      it_behaves_like "a reset of course group numbers"
+      it_behaves_like "a successful agenda generation"
     end
 
     context "with multiple steps" do
-      before { agenda.filter_groups = true }
-
       context "on the first step" do
         before { process.step = AgendaCreationProcess::STEP_COURSE_SELECTION }
 
-        it_behaves_like "a process capable of handling an unsuccessful save"
+        context "with a new agenda" do
+          let(:agenda) { build(:agenda, filter_groups: true) }
 
-        context "with a successful save" do
-          specify { expect(process.save).to eq(true) }
-          specify { expect { process.save }.not_to change { agenda.processing } }
-          specify { expect { process.save }.not_to change { agenda.combined_at } }
+          it_behaves_like "an unsuccessful save"
+          it_behaves_like "a successful save with no generation"
+          it_behaves_like "a reset of course group numbers"
+        end
+
+        context "with an existing agenda" do
+          let(:agenda) { create(:combined_agenda, filter_groups: true) }
+
+          it_behaves_like "an unsuccessful save"
+          it_behaves_like "a successful save with no generation"
         end
       end
 
       context "on the last step" do
-        before { process.step = AgendaCreationProcess::STEP_GROUP_SELECTION }
+        before do
+          process.step = AgendaCreationProcess::STEP_GROUP_SELECTION
+          agenda.filter_groups = true
+        end
 
-        it_behaves_like "a process capable of handling the last step"
+        it_behaves_like "an unsuccessful save"
+        it_behaves_like "a successful agenda generation"
       end
     end
   end

@@ -30,4 +30,13 @@ describe AcademicDegreeTermCourse do
       expect(described_class.all).to eq(default_scope)
     end
   end
+
+  describe "#group_numbers" do
+    subject(:academic_degree_term_course) { build(:academic_degree_term_course, groups: groups) }
+    let(:groups) { build_list(:group, 3) }
+
+    it "returns the numbers of all groups" do
+      expect(academic_degree_term_course.group_numbers).to eq(groups.map(&:number))
+    end
+  end
 end
