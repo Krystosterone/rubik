@@ -11,9 +11,9 @@
 /log/*
 !/log/.keep
 /tmp
-.ruby-gemset
+/.ruby-gemset
 coverage
 /node_modules/
 .DS_Store
 dump.rdb
-.byebug_history
+/.byebug_history
