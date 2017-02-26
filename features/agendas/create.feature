@@ -37,8 +37,12 @@ Fonctionnalité: Création d'un agenda
     Et je vois le trimestre "Hiver 2016 - Nouveaux Étudiants" d'affiché
     Et je vois le baccalauréat "Génie logiciel" d'affiché
     Et je vois 4 comme étant le nombre de cours par horaire affiché
-    Et je vois FRA150, INFTEST, MATEST et PHYEST comme étant les cours sélectionnés
-    # TODO: Assert group numbers
+    Et je vois les cours sélectionnés:
+      | Obligatoire | Cours   | Groupes |
+      | non         | FRA150  | 1       |
+      | non         | INFTEST | 1       |
+      | non         | MATEST  | 1, 3    |
+      | non         | PHYEST  | 1, 2    |
     Et je vois 2 possibilités d'horaires
     Et je vois les horaires:
       | Numéro d'horaire | Jour     | Période       | Cours     | Type   |
@@ -72,6 +76,12 @@ Fonctionnalité: Création d'un agenda
       | PHYEST | 2      |
     Et je soumets l'agenda
     Alors je me retrouve sur la page "Horaires"
+    Et je vois les cours sélectionnés:
+      | Obligatoire | Cours   | Groupes |
+      | non         | FRA150  | 1       |
+      | non         | INFTEST | 1       |
+      | non         | MATEST  | 1       |
+      | non         | PHYEST  | 1       |
     Et je vois 1 possibilité d'horaire
     Et je vois les horaires:
       | Numéro d'horaire | Jour     | Période       | Cours     | Type   |

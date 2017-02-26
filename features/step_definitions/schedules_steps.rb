@@ -5,9 +5,20 @@ Alors /^je vois (\d+) comme étant le nombre de cours par horaire affiché$/ do 
   expect(page).to have_field("Nombre de cours par horaire", with: courses_per_schedule, disabled: true)
 end
 
-Alors /^je vois (.+) comme étant les cours sélectionnés$/ do |courses_list|
-  courses = courses_list.split(/, | et /)
-  courses.each { |course| expect(page).to have_css(".courses-selected td", text: course) }
+Alors /^je vois les cours sélectionnés:$/ do |table|
+  document = Nokogiri::HTML(html)
+  courses = document.css(".courses-selected tbody tr")
+
+  table.hashes.each do |row|
+    actual_course = courses.find do |course|
+      columns = course.css("td")
+
+      columns[0].css("i").attr("class").value.include?(row["Obligatoire"] == "oui" ? "fa-lock" : "fa-unlock") &&
+        columns[1].text.strip == row["Cours"] &&
+        columns[2].text.strip.split("\n") == row["Groupes"].split(",").map(&:strip)
+    end
+    raise "Unable to find course #{row}" if actual_course.nil?
+  end
 end
 
 Alors(/^je vois (\d+) possibilités? d'horaires?$/) do |count|

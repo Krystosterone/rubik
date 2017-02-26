@@ -41,7 +41,12 @@ Fonctionnalité: Édition d'un agenda
     Et je vois le trimestre "Hiver 2016 - Nouveaux Étudiants" d'affiché
     Et je vois le baccalauréat "Génie logiciel" d'affiché
     Et je vois 4 comme étant le nombre de cours par horaire affiché
-    Et je vois FRA151, INFTEST, MATEST et PHYEST comme étant les cours sélectionnés
+    Et je vois les cours sélectionnés:
+      | Obligatoire | Cours   | Groupes |
+      | non         | FRA151  | 1       |
+      | non         | MATEST  | 1, 3    |
+      | non         | PHYEST  | 1, 2    |
+      | non         | FRA151  | 1       |
     Et je vois les horaires:
       | Numéro d'horaire | Jour     | Période       | Cours     | Type   |
       | 1                | Lundi    | 9:00 - 12:30  | PHYEST-1  | C      |
