@@ -94,4 +94,31 @@ Fonctionnalité: Création d'un agenda
       | 1                | Jeudi    | 9:00 - 12:00  | MATEST-1  | TP     |
       | 1                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
 
-# TODO: Add test with obligatory courses
+Scénario: Une combinaison d'horaire avec des cours obligatoires
+  Lorsque je sélectionne le trimestre "Génie logiciel"
+  Et je sélectionne les cours MAT144, INFTEST, MATEST et LOG100
+  Et je sélectionne INFTEST et MATEST comme étant obligatoires
+  Et je sélectionne 3 comme étant le nombre de cours par horaire
+  Lorsque je soumets l'agenda
+  Alors je me retrouve sur la page "Horaires"
+  Et je vois les cours sélectionnés:
+    | Obligatoire | Cours   | Groupes |
+    | non         | MAT144  | 1, 3    |
+    | oui         | INFTEST | 1       |
+    | oui         | MATEST  | 1, 3    |
+    | non         | LOG100  | 1, 2    |
+  Et je vois 2 possibilités d'horaires
+  Et je vois les horaires:
+    | Numéro d'horaire | Jour     | Période       | Cours     | Type   |
+    | 1                | Lundi    | 18:00 - 21:30 | MAT144-3  | C      |
+    | 1                | Mardi    | 9:00 - 12:30  | MATEST-1  | C      |
+    | 1                | Mercredi | 13:30 - 17:00 | INFTEST-1 | C      |
+    | 1                | Mercredi | 18:00 - 21:00 | MAT144-3  | TP     |
+    | 1                | Jeudi    | 9:00 - 12:00  | MATEST-1  | TP     |
+    | 1                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
+    | 2                | Lundi    | 18:00 - 21:30 | MATEST-3  | C      |
+    | 2                | Mardi    | 9:00 - 12:30  | MAT144-1  | C      |
+    | 2                | Mercredi | 13:30 - 17:00 | INFTEST-1 | C      |
+    | 2                | Mercredi | 18:00 - 21:00 | MATEST-3  | TP     |
+    | 2                | Jeudi    | 9:00 - 12:00  | MAT144-1  | TP     |
+    | 2                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |

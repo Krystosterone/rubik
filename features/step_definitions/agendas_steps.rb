@@ -23,6 +23,18 @@ Lorsque /^je (?:dé-)?sélectionne les cours (.+)$/ do |courses_list|
   courses.each { |course| find("label", text: course).click }
 end
 
+Lorsque /^je (?:dé-)?sélectionne (.+) comme étant obligatoires$/ do |courses_list|
+  course_codes = courses_list.split(/, | et /)
+  courses = all(".course-checkbox-button")
+
+  course_codes.each do |course_code|
+    actual_course = courses.find { |course| course.text == course_code }
+    raise "Unable to find course for #{row}" if actual_course.nil?
+
+    actual_course.find("label:nth-of-type(2)").click
+  end
+end
+
 Lorsque /^je dé-sélectionne les groupes:$/ do |groups|
   table_headers = all(".group-selection-table thead th").map(&:text)
   groups.hashes.each do |group|
