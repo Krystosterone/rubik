@@ -18,6 +18,14 @@ describe Agenda::Validator do
       end
     end
 
+    context "with a record that has no courses per schedule" do
+      before { agenda.assign_attributes(courses_per_schedule: nil) }
+
+      it "does not add an error on the record" do
+        expect { validator.validate(agenda) }.not_to change { agenda.errors.added?(:courses) }
+      end
+    end
+
     context "with a record that has no courses" do
       before { agenda.assign_attributes(courses: []) }
 

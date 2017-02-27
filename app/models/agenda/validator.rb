@@ -30,11 +30,11 @@ class Agenda::Validator < ActiveModel::Validator
     end
 
     def courses_mismatch?
-      courses.size < courses_per_schedule
+      courses_per_schedule.present? && courses.size < courses_per_schedule
     end
 
     def mandatory_courses_overflow?
-      mandatory_courses.size > courses_per_schedule
+      courses_per_schedule.present? && mandatory_courses.size > courses_per_schedule
     end
 
     def mandatory_courses_redundant?
