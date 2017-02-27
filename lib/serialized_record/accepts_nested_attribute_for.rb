@@ -8,7 +8,7 @@ module SerializedRecord::AcceptsNestedAttributeFor
 
       define_method "#{column}_attributes=" do |attributes|
         members = attributes.values.collect { |member_attributes| klass.new(member_attributes) }.reject(&:_destroy)
-        update column => members
+        assign_attributes column => members
       end
     end
   end
