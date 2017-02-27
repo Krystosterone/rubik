@@ -51,6 +51,10 @@ Lorsque /^je décide de vouloir filtrer les groupes des cours possibles$/ do
   check "Filtrer les groupes comme prochaine étape"
 end
 
+Lorsque /^je décide de ne pas vouloir filtrer les groupes des cours possibles$/ do
+  uncheck "Filtrer les groupes comme prochaine étape"
+end
+
 Lorsque /^je soumets l'agenda$/ do
   click_button "Soumettre"
 end

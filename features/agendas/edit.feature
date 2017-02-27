@@ -5,11 +5,13 @@ Fonctionnalité: Édition d'un agenda
   Je veux être en mesure d'éditer un agenda,
   Afin de parfaire les possibilités d'horaires possible.
 
-  Scénario: Éditer un horaire existant
+  Contexte:
     Étant donné qu'il existe des cours pour nouveaux étudiants de la session d'Hiver 2016
     Et que je suis sur la page des trimestres
+
+  Scénario: Éditer un horaire existant
     Lorsque je sélectionne le trimestre "Génie logiciel"
-    Lorsque je sélectionne les cours FRA150, INFTEST, MATEST et PHYEST
+    Et je sélectionne les cours FRA150, INFTEST, MATEST et PHYEST
     Et je sélectionne 4 comme étant le nombre de cours par horaire
     Et je soumets l'agenda
     Et que j'édite l'agenda
@@ -66,4 +68,46 @@ Fonctionnalité: Édition d'un agenda
       | 2                | Jeudi    | 18:00 - 21:00 | PHYEST-2  | TP     |
       | 2                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
 
-# TODO: Add test when editing back and forth with groups
+  Scénario: Éditer les groupes-cours d'un horaire existant
+    Lorsque je sélectionne le trimestre "Génie logiciel"
+    Et je sélectionne les cours FRA150, INFTEST, MATEST et PHYEST
+    Et je sélectionne 4 comme étant le nombre de cours par horaire
+    Et je décide de vouloir filtrer les groupes des cours possibles
+    Lorsque je soumets l'agenda
+    Alors je me retrouve sur la page "Choix de groupes"
+    Lorsque je dé-sélectionne les groupes:
+      | Cours  | Groupe |
+      | MATEST | 3      |
+      | PHYEST | 2      |
+    Et je soumets l'agenda
+    Alors je me retrouve sur la page "Horaires"
+    Et que j'édite l'agenda
+    Alors je me retrouve sur la page "Choix de cours"
+    Et je décide de ne pas vouloir filtrer les groupes des cours possibles
+    Et je soumets l'agenda
+    Alors je me retrouve sur la page "Horaires"
+    Et je vois les cours sélectionnés:
+      | Obligatoire | Cours   | Groupes |
+      | non         | FRA150  | 1       |
+      | non         | INFTEST | 1       |
+      | non         | MATEST  | 1, 3    |
+      | non         | PHYEST  | 1, 2    |
+    Et je vois 2 possibilités d'horaires
+    Et je vois les horaires:
+      | Numéro d'horaire | Jour     | Période       | Cours     | Type   |
+      | 1                | Lundi    | 9:00 - 12:30  | PHYEST-1  | C      |
+      | 1                | Lundi    | 18:00 - 21:30 | FRA150-1  | C      |
+      | 1                | Mardi    | 9:00 - 12:30  | MATEST-1  | C      |
+      | 1                | Mercredi | 9:00 - 12:00  | PHYEST-1  | TP     |
+      | 1                | Mercredi | 13:30 - 17:00 | INFTEST-1 | C      |
+      | 1                | Mercredi | 18:00 - 20:00 | FRA150-1  | TP     |
+      | 1                | Jeudi    | 9:00 - 12:00  | MATEST-1  | TP     |
+      | 1                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
+      | 2                | Lundi    | 18:00 - 21:30 | FRA150-1  | C      |
+      | 2                | Mardi    | 9:00 - 12:30  | MATEST-1  | C      |
+      | 2                | Mardi    | 18:00 - 21:30 | PHYEST-2  | C      |
+      | 2                | Mercredi | 13:30 - 17:00 | INFTEST-1 | C      |
+      | 2                | Mercredi | 18:00 - 20:00 | FRA150-1  | TP     |
+      | 2                | Jeudi    | 9:00 - 12:00  | MATEST-1  | TP     |
+      | 2                | Jeudi    | 18:00 - 21:00 | PHYEST-2  | TP     |
+      | 2                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
