@@ -5,3 +5,7 @@
 
 import "agendas";
 import "schedules/processing";
+
+window.onpageshow = function(event) {
+  if (event.persisted) { window.location.reload(); }
+};
