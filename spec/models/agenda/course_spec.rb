@@ -19,7 +19,7 @@ describe Agenda::Course do
   end
 
   it { is_expected.to belong_to(:academic_degree_term_course) }
-  it { is_expected.to belong_to(:agenda).inverse_of(:courses) }
+  it { is_expected.to belong_to(:agenda).inverse_of(:courses).touch(true) }
 
   it { is_expected.to validate_presence_of(:academic_degree_term_course) }
   describe "presence validation of selected groups" do

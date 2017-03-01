@@ -5,7 +5,7 @@ class Agenda::Course < ActiveRecord::Base
   delegate :code, to: :academic_degree_term_course
 
   belongs_to :academic_degree_term_course
-  belongs_to :agenda, inverse_of: :courses
+  belongs_to :agenda, inverse_of: :courses, touch: true
 
   serialize :group_numbers, JSON
 
