@@ -17,3 +17,4 @@ coverage
 .DS_Store
 dump.rdb
 /.byebug_history
+/.env.development.local
