@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-class AcademicDegreeTermCourse < ActiveRecord::Base
+class AcademicDegreeTermCourse < ApplicationRecord
   include SerializedRecord::FindOrInitializeFor
 
   belongs_to :academic_degree_term

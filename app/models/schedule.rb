@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-class Schedule < ActiveRecord::Base
+class Schedule < ApplicationRecord
   belongs_to :agenda
 
   serialize :course_groups, CourseGroupsSerializer

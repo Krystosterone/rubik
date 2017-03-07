@@ -1,4 +1,4 @@
 # frozen_string_literal: true
-class NewsletterSubscription < ActiveRecord::Base
+class NewsletterSubscription < ApplicationRecord
   validates :email, email: true, uniqueness: true
 end

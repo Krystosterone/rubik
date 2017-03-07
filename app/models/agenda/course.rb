@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-class Agenda::Course < ActiveRecord::Base
+class Agenda::Course < ApplicationRecord
   include Defaults
 
   delegate :code, to: :academic_degree_term_course

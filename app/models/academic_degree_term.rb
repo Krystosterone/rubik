@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-class AcademicDegreeTerm < ActiveRecord::Base
+class AcademicDegreeTerm < ApplicationRecord
   belongs_to :academic_degree
   belongs_to :term
   has_many :academic_degree_term_courses, dependent: :delete_all

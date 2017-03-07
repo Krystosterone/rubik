@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-class Comment < ActiveRecord::Base
+class Comment < ApplicationRecord
   after_commit :send_email, on: :create
 
   validates :user_email, email: true

@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-class Agenda < ActiveRecord::Base
+class Agenda < ApplicationRecord
   include Defaults
   include SerializedRecord::AcceptsNestedAttributeFor
 
