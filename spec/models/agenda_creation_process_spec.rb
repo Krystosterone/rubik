@@ -3,7 +3,7 @@ require "rails_helper"
 
 describe AgendaCreationProcess do
   subject(:process) { described_class.new(agenda) }
-  let(:agenda) { build(:combined_agenda) }
+  let(:agenda) { create(:combined_agenda) }
 
   describe "#path" do
     context "with a single step" do
@@ -27,26 +27,34 @@ describe AgendaCreationProcess do
   end
 
   describe "#save" do
+    shared_examples "a process capable of handling an unsuccessful save" do
+      before { agenda.courses_per_schedule = 99 }
+
+      specify { expect(process.save).to eq(false) }
+      specify { expect { process.save }.not_to change { agenda.processing } }
+      specify { expect { process.save }.not_to change { agenda.combined_at } }
+    end
+
+    shared_examples "a process capable of handling the last step" do
+      it_behaves_like "a process capable of handling an unsuccessful save"
+
+      context "with a successful save" do
+        specify { expect(process.save).to eq(true) }
+        specify { expect { process.save }.to change { agenda.processing }.to eq(true) }
+        specify { expect { process.save }.to change { agenda.combined_at }.to be_nil }
+
+        it "enqueues the generator job" do
+          process.save
+
+          expect(ScheduleGeneratorJob).to have_been_enqueued.with(global_id(agenda))
+        end
+      end
+    end
+
     context "with a single step" do
       before { agenda.filter_groups = false }
 
-      context "with a failed save" do
-        let(:save_result) { process.save }
-        before { agenda.courses_per_schedule = 99 }
-
-        specify { expect(save_result).to eq(false) }
-        specify { expect(agenda.processing).to eq(false) }
-        specify { expect(agenda.combined_at).to be_present }
-      end
-
-      context "with a successful save" do
-        let!(:save_result) { process.save }
-
-        specify { expect(save_result).to eq(true) }
-        specify { expect(agenda.processing).to eq(true) }
-        specify { expect(agenda.combined_at).to be_nil }
-        specify { expect(ScheduleGeneratorJob).to have_been_enqueued.with(global_id(agenda)) }
-      end
+      it_behaves_like "a process capable of handling the last step"
     end
 
     context "with multiple steps" do
@@ -55,40 +63,19 @@ describe AgendaCreationProcess do
       context "on the first step" do
         before { process.step = AgendaCreationProcess::STEP_COURSE_SELECTION }
 
-        context "with a failed save" do
-          let(:save_result) { process.save }
-          before { agenda.courses_per_schedule = 99 }
-
-          specify { expect(save_result).to eq(false) }
-          specify { expect(agenda.processing).to eq(false) }
-          specify { expect(agenda.combined_at).to be_present }
-        end
+        it_behaves_like "a process capable of handling an unsuccessful save"
 
         context "with a successful save" do
           specify { expect(process.save).to eq(true) }
+          specify { expect { process.save }.not_to change { agenda.processing } }
+          specify { expect { process.save }.not_to change { agenda.combined_at } }
         end
       end
 
       context "on the last step" do
         before { process.step = AgendaCreationProcess::STEP_GROUP_SELECTION }
 
-        context "with a failed save" do
-          let(:save_result) { process.save }
-          before { agenda.courses_per_schedule = 99 }
-
-          specify { expect(save_result).to eq(false) }
-          specify { expect(agenda.processing).to eq(false) }
-          specify { expect(agenda.combined_at).to be_present }
-        end
-
-        context "with a successful save" do
-          let!(:save_result) { process.save }
-
-          specify { expect(save_result).to eq(true) }
-          specify { expect(agenda.processing).to eq(true) }
-          specify { expect(agenda.combined_at).to be_nil }
-          specify { expect(ScheduleGeneratorJob).to have_been_enqueued.with(global_id(agenda)) }
-        end
+        it_behaves_like "a process capable of handling the last step"
       end
     end
   end

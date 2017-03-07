@@ -34,6 +34,7 @@ FactoryGirl.define do
 
     factory :combined_agenda do
       combined_at { Time.zone.now }
+      processing false
       schedules { build_list(:schedule, 4) }
     end
 
