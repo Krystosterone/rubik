@@ -6,10 +6,20 @@
   :courses_attributes:
   - :academic_degree_term_course_id: 3051
     :mandatory: false
+    :group_numbers:
+    - 1
+    - 2
   - :academic_degree_term_course_id: 3052
     :mandatory: false
+    :group_numbers:
+    - 1
+    - 2
+    - 3
+    - 4
   - :academic_degree_term_course_id: 3055
     :mandatory: false
+    :group_numbers:
+    - 1
 :generated_course_groups:
 - - !ruby/object:CourseGroup
     code: LOG100

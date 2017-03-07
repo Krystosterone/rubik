@@ -6,26 +6,50 @@
   :courses_attributes:
   - :academic_degree_term_course_id: 4415
     :mandatory: false
+    :group_numbers:
+    - 1
   - :academic_degree_term_course_id: 4423
     :mandatory: false
+    :group_numbers:
+    - 1
   - :academic_degree_term_course_id: 4427
     :mandatory: false
+    :group_numbers:
+    - 80
   - :academic_degree_term_course_id: 4430
     :mandatory: false
+    :group_numbers:
+    - 1
   - :academic_degree_term_course_id: 4432
     :mandatory: false
+    :group_numbers:
+    - 1
+    - 2
   - :academic_degree_term_course_id: 4435
     :mandatory: false
+    :group_numbers:
+    - 1
   - :academic_degree_term_course_id: 4437
     :mandatory: false
+    :group_numbers:
+    - 1
   - :academic_degree_term_course_id: 4438
     :mandatory: false
+    :group_numbers:
+    - 1
   - :academic_degree_term_course_id: 4441
     :mandatory: false
+    :group_numbers:
+    - 1
   - :academic_degree_term_course_id: 4442
     :mandatory: false
+    :group_numbers:
+    - 1
   - :academic_degree_term_course_id: 4449
     :mandatory: false
+    :group_numbers:
+    - 1
+    - 2
 :generated_course_groups:
 - - !ruby/object:CourseGroup
     code: ENT202

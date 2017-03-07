@@ -44,7 +44,7 @@ describe ScheduleGeneratorTestCase do
         {
           course_attributes: { code: course.code },
           id: course.academic_degree_term_course_id,
-          groups: course.groups,
+          groups: course.academic_degree_term_course.groups,
         }
       end
     end
@@ -52,6 +52,7 @@ describe ScheduleGeneratorTestCase do
       agenda.courses.map do |course|
         {
           academic_degree_term_course_id: course.academic_degree_term_course_id,
+          group_numbers: course.academic_degree_term_course.groups.map(&:number),
           mandatory: course.mandatory?,
         }
       end
