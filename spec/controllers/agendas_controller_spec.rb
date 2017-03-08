@@ -269,8 +269,10 @@ describe AgendasController do
           put :update, params: {
             agenda: {
               courses_attributes: {
-                id: agenda.courses.first.id,
-                group_numbers: [""],
+                0 => {
+                  id: agenda.courses.first.id,
+                  group_numbers: [""],
+                }
               }
             },
             token: agenda.token,
@@ -291,8 +293,10 @@ describe AgendasController do
           put :update, params: {
             agenda: {
               courses_attributes: {
-                id: agenda.courses.first.id,
-                group_numbers: group_numbers,
+                0 => {
+                  id: agenda.courses.first.id,
+                  group_numbers: group_numbers,
+                }
               },
             },
             token: agenda.token,
