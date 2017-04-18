@@ -18,6 +18,7 @@ machine:
 
 test:
   post:
+    - bundle exec rails ets_pdf:etl
     - bundle exec rubocop
     - bundle exec haml-lint app/views
     - yarn run eslint app/assets/javascripts/**/*
