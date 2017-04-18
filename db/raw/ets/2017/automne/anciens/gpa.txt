@@ -1,0 +1,1181 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                  7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                                HORAIRE AUTOMNE 2017
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL        ENSEIGNANT              PRÉALABLES
+
+ANG010          ANGLAIS POUR INGÉNIEURS I
+
+                01      Lun           18:00 - 21:30   C
+                        Ven           18:00 - 20:00   TP
+
+
+
+ATE050          RÉUSSIR EN GÉNIE
+
+                01      Mar           08:30 - 10:30   Atelier
+
+
+
+CHM131          CHIMIE ET MATÉRIAUX
+
+                01      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                02      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                03      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                04      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                05      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                06      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                07      Mer           18:00 - 21:30   C
+                        Lun           18:00 - 21:00   TP
+
+                08      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 21:00   TP
+
+                09      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                10      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                11      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                12      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                13      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+                14      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+
+
+COM110          MÉTHODES DE COMMUNICATION                                                               TEST DE FRANCAIS OU FRA150 OU
+                                                                                                        FRA151
+                01      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 17:30   TP A+B
+
+                02      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 17:30   TP A+B
+
+                03      Mar           09:00 - 12:30   C
+                        Jeu           08:30 - 12:30   TP A+B
+
+                04      Jeu           09:00 - 12:30   C
+                        Mar           08:30 - 12:30   TP A+B
+
+                05      Mer           13:30 - 17:00   C
+                        Ven           08:30 - 12:30   TP A+B
+
+                06      Lun           09:00 - 12:30   C
+                        Mer           08:30 - 12:30   TP A+B
+
+                07      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 17:30   TP A+B
+
+                08      Mer           18:00 - 21:30   C
+                        Ven           18:00 - 22:00   TP A+B
+
+                09      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 17:30   TP A+B
+
+                10      Lun           18:00 - 21:30   C
+                        Ven           18:00 - 22:00   TP A+B
+
+                11      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 22:00   TP A+B
+
+
+                         Date : 2017-04-13 19:58:24                                                       Page : 1/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                 7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                           HORAIRE AUTOMNE 2017
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ    LOCAL        ENSEIGNANT              PRÉALABLES
+
+COM110          MÉTHODES DE COMMUNICATION                                                              TEST DE FRANCAIS OU FRA150 OU
+                                                                                                       FRA151
+                12      Jeu           09:00 - 12:30   C
+                        Mar           08:30 - 12:30   TP A+B
+
+                13      Mer           09:00 - 12:30   C
+                        Lun           08:30 - 12:30   TP A+B
+
+                14      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 17:00   TP A+B
+
+
+
+COM115          COMMUNICATION INTERCULTURELLE
+
+                01      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 17:30   TP A+B
+
+                02      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 22:00   TP A+B
+
+
+
+ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                        GIA400 ou GIA410
+
+                01      Mer           18:00 - 21:30   C
+                        Lun           18:00 - 20:00   TP
+
+                02      Mer           09:00 - 12:30   C
+                        Lun           10:30 - 12:30   TP
+
+                03      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 15:00   TP
+
+
+
+ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
+
+                01      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 20:00   TP
+
+                02      Mer           13:30 - 17:00   C
+                        Jeu           18:00 - 20:00   TP
+
+
+
+FRA150          FRANÇAIS ÉCRIT
+
+                01      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 20:00   TP
+
+
+
+FRA151          FRANÇAIS ÉCRIT
+
+                01      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 22:00   TP
+
+
+
+GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                01      Mer           09:00 - 12:30   C
+                        Lun           10:30 - 12:30   TP
+
+                02      Jeu           09:00 - 12:30   C
+                        Mar           10:30 - 12:30   TP
+
+                03      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 15:30   TP
+
+                04      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 15:30   TP
+
+                05      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 15:30   TP
+
+                06      Mer           18:00 - 21:30   C
+                        Ven           18:00 - 20:00   TP
+
+                07      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 20:00   TP
+
+                08      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 15:00   TP
+
+                09      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 15:30   TP
+
+                10      Mar           09:00 - 12:30   C
+                        Jeu           10:30 - 12:30   TP
+
+                11      Mer           13:30 - 17:00   C
+
+                         Date : 2017-04-13 19:58:24                                                      Page : 2/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                      7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                              HORAIRE AUTOMNE 2017
+                                                       Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                       Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                       Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE          ACTIVITÉ         LOCAL                  ENSEIGNANT                                PRÉALABLES
+
+GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                11      Ven           10:30 - 12:30    TP
+
+
+
+GIA601          ERGONOMIE ET SÉCURITÉ EN MILIEU DE
+                TRAVAIL
+                01      Mar           13:30 - 17:00    C
+                        Jeu           15:30 - 17:30    TP/Labo           A-1220, A-2230
+
+                02      Mer           18:00 - 21:30    C
+                        Jeu           18:00 - 20:00    TP/Labo           A-1226, A-2230
+
+
+
+GPA141          AUTOMATES PROGRAMMABLES:
+                LANGAGES ET MISE EN OEUVRE
+                01      Ven           13:30 - 17:00    C                                       V. Duchaine
+                        Mar           10:30 - 12:30    Labo A+B         A-3602
+
+                02      Jeu           18:00 - 21:30    C                                       A. Joubair
+                        Mar           18:00 - 20:00    Labo A+B         A-3602
+
+
+
+GPA205          CONCEPTION DE SYSTÈMES DE
+                PRODUCTION
+                01      Mar           13:30 - 17:00    C                A-3608                 S. Assal
+                        Ven           13:30 - 17:30    Labo A+B         A-3728
+
+                02      Ven           13:30 - 17:00    C                                       S. Assal
+                        Mar           13:30 - 17:30    Labo A+B         A-3726
+
+
+
+GPA210          ÉLÉMENTS DE FABRICATION MÉCANIQUE
+
+                01      Ven           08:30 - 12:00    C                A-3726                 L. Trottier
+                        Mer           13:30 - 16:30    Labo A           A-3726
+                        Sam           08:30 - 12:00    Labo B           B-2206
+                        Sam           13:00 - 16:00    Labo C           B-2206
+                        Pour la journée du samedi, les périodes de laboratoire d'usinage seront déterminées au début de la session avec l'enseignant.
+
+
+GPA220          ANALYSE DES CIRCUITS ÉLECTRIQUES
+
+                01      Lun           08:45 - 12:15    C                                       V. Duchaine
+                        Mer           08:30 - 11:30    Labo             A-3564, A-3608
+
+
+
+GPA305          ÉLÉMENTS DE RÉSISTANCE DES                                                                                               ING150
+                MATÉRIAUX
+                01      Ven           08:30 - 12:00    C                                       S. Joncas
+                        Lun           13:30 - 17:30    TP A+B           A-3726
+
+
+
+GPA325          INTRODUCTION À L'ÉLECTRONIQUE                                                                                            GPA220
+
+                01      Mar           08:30 - 12:00    C                                       M. Toews
+                        Jeu           13:30 - 16:30    Labo             A-3608
+
+
+
+GPA430          TECHNIQUES D'OPTIMISATION EN                                                                                             MAT165
+                PRODUCTION AUTOMATISÉE
+                01      Ven           13:30 - 17:00    C                                       S. Krau
+                        Mar           13:30 - 17:30    TP A+B           A-4516
+
+
+
+GPA435          SYSTÈMES D'EXPLOITATION ET                                                                                               INF155
+                PROGRAMMATION DE SYSTÈMES
+                01      Mer           08:30 - 12:00    C                                       T. Wong
+                        Ven           08:30 - 11:30    Labo             A-3608
+
+
+
+GPA445          CONCEPTION ASSISTÉE PAR ORDINATEUR                                                                                       INF155
+
+                01      Lun           08:45 - 12:15    C                                       S. Lessard
+                        Jeu           13:30 - 16:30    Labo             A-3726, A-3728
+
+
+
+
+                         Date : 2017-04-13 19:58:24                                                                                        Page : 3/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                 7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                             HORAIRE AUTOMNE 2017
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ    LOCAL            ENSEIGNANT          PRÉALABLES
+
+GPA535          SYSTÈMES ASSERVIS                                                                      MAT165 et MAT265
+
+                01      Ven           08:30 - 12:00   C                            M.M. Dodo Amadou
+                        Mar           08:30 - 11:30   Labo        A-3726, A-3728
+
+
+
+GPA546          ROBOTS INDUSTRIELS                                                                     MAT165 et MAT265
+
+                01      Mer           18:00 - 21:30   C           A-3336           A. Joubair
+                        Jeu           18:00 - 21:00   Labo        A-0610, A-3608
+
+
+
+GPA548          GESTION DE LA PRODUCTION                                                               GPA205, GPA430
+                                                                                                       Pr. P: GPA430
+                01      Mar           13:30 - 17:00   C                            D. Désilets
+                        Jeu           08:45 - 12:45   TP A+B      A-4516
+
+
+
+GPA659          VISION ARTIFICIELLE
+
+                01      Lun           08:45 - 12:15   C                            I. Ben Ayed
+                        Mar           08:30 - 11:30   Labo        A-3612
+
+
+
+GPA662          MODÉLISATION ET SIMULATION DE                                                          GPA205 - P
+                SYSTÈMES DE PRODUCTION
+                01      Lun           13:30 - 17:00   C                            A. Gharbi
+                        Jeu           13:30 - 16:30   Labo        A-3602
+
+
+
+GPA664          FABRICATION ASSISTÉE PAR ORDINATEUR                                                    GPA445
+
+                01      Mer           18:00 - 21:30   C           A-3728           S. Bérubé
+                        Jeu           18:00 - 21:00   Labo        A-0634, A-3726
+
+
+
+GPA741          SYSTÈMES DE COMMANDE DES AVIONS                                                        GPA535
+
+                01      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 21:00   Labo        A-3608
+
+
+
+GPA745          INTRODUCTION À L'AVIONIQUE
+
+                01      Mar           18:00 - 21:30   C                            R. Botez
+                        Jeu           18:00 - 21:00   Labo        A-3602
+
+
+
+GPA754          CELLULES DE PRODUCTION ROBOTISÉE                                                       GPA546
+
+                01      Mar           13:30 - 17:00   C           A-0610, A-3602   J. Brouillard
+                        Ven           13:30 - 17:30   Labo A+B    A-0610, A-3602
+
+
+
+GPA759          RÉSEAUX DE NEURONES ET INTELLIGENCE
+                ARTIFICIELLE
+                01      Mar           13:30 - 17:00   C                            É. Granger
+                        Ven           13:30 - 16:30   Labo        A-3608
+
+
+
+GPA770          MICROÉLECTRONIQUE APPLIQUÉE                                                            GPA325
+
+                01      Lun           13:30 - 17:00   C                            M. Tremblay
+                        Jeu           08:45 - 11:45   Labo A      A-3564
+                        Jeu           13:30 - 16:30   Labo B      A-3564
+
+
+
+GPA772          CONCEPTION DE MACHINES                                                                 Pr. E: GPA305, ING150
+                                                                                                       Pr. I, M, P: ING150
+                01      Mer           18:00 - 21:30   C                            S. Joncas
+                        Lun           18:00 - 22:00   TP A+B      A-4516
+
+
+
+GPA782          HYDRAULIQUE ET PNEUMATIQUE                                                             ING160
+
+                01      Mer           08:30 - 12:00   C                            S. Lessard
+                        Lun           08:45 - 10:45   Labo A      A-3728
+
+
+
+                         Date : 2017-04-13 19:58:24                                                      Page : 4/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                 7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                               HORAIRE AUTOMNE 2017
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ    LOCAL        ENSEIGNANT              PRÉALABLES
+
+GPA782          HYDRAULIQUE ET PNEUMATIQUE                                                             ING160
+
+                01      Lun           10:45 - 12:45   Labo B      A-3728
+
+
+
+GPA783          ASSERVISSEMENT NUMÉRIQUE EN TEMPS                                                      GPA535
+                RÉEL
+                01      Mer           13:30 - 17:00   C                        P. Hamelin
+                        Mar           08:30 - 11:30   Labo        A-3608
+
+
+
+GPA789          ANALYSE ET CONCEPTION ORIENTÉES                                                        GPA665
+                OBJET
+                01      Mar           18:00 - 21:30   C           A-3728       J.C. Demers
+                        Jeu           18:00 - 22:00   Labo A+B    A-3728
+
+
+
+GPA791          PROJETS SPÉCIAUX                                                                       Autorisation du directeur de département
+
+                01      Ven           08:30 - 12:00   C           A-4516
+
+
+
+GPA793          PROJET DE FIN D’ÉTUDES EN GÉNIE DE LA
+                PRODUCTION AUTOMATISÉE
+                01      Ven           08:30 - 12:00   Projet      A-4516
+
+
+
+GTS501          INGÉNIERIE DES SYSTÈMES HUMAINS
+
+                01      Jeu           13:30 - 17:00   C                        N. Hagemeister
+                        Mer           08:45 - 10:45   TP A        A-3728
+                        Mer           10:45 - 12:45   TP B        A-3728
+
+
+
+GTS502          RISQUES SECTEUR SANTÉ: SOURCES ET
+                TECHN D'ÉVALUATION
+                01      Lun           18:00 - 21:30   C
+                        Ven           18:00 - 20:00   TP
+
+
+
+GTS504          INTRODUCTION À L'INGÉNIERIE DE LA
+                RÉADAPTATION
+                01      Lun           13:30 - 17:00   C                        R. Aissaoui
+                        Jeu           13:30 - 17:30   Labo A+B    A-4516
+
+
+
+GTS610          MODÉLISATION ET TRAITEMENT DES
+                SIGNAUX BIOMÉDICAUX
+                01      Jeu           18:00 - 21:30   C                        J.M. Lina
+                        Mer           18:00 - 22:00   Labo/2      A-2500
+
+
+
+GTS792          PROJET DE FIN D'ÉTUDES EN                                                              STA351 et 6 cr. obtenus en Conc.
+                TECHNOLOGIES DE LA SANTÉ                                                               Technologie de la santé
+                01      Ven           08:30 - 12:00   C           A-4516
+
+
+
+INF155          INTRODUCTION À LA PROGRAMMATION
+
+                01      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   Labo        E-4022
+
+                02      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   Labo        E-4022
+
+
+
+ING150          STATIQUE ET DYNAMIQUE
+
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+                        Préalable : PHYEST-01
+                02      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+                        Préalable : PHYEST-02
+                03      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+                        Préalable : PHYEST-03
+
+
+
+                         Date : 2017-04-13 19:58:24                                                      Page : 5/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                 7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                           HORAIRE AUTOMNE 2017
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ    LOCAL        ENSEIGNANT              PRÉALABLES
+
+ING150          STATIQUE ET DYNAMIQUE
+
+                04      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 21:00   TP
+                        Préalable : PHYEST-04
+                05      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+                06      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+
+
+ING160          THERMODYNAMIQUE ET MÉCANIQUE DES                                                       ING150
+                FLUIDES
+                01      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                02      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                03      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 21:00   TP
+
+                04      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+
+
+ING500          OUTILS DE DÉVELOPPEMENT DURABLE
+                POUR L'INGÉNIEUR
+                01      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 17:30   Labo A+B    E-4021
+
+                02      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 22:00   Labo A+B    E-4023
+
+
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
+                GÉNIE (HORS PROG.)
+                01      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+                        Préalable : MATEST-01
+                02      Mar          09:00 - 12:30    C
+                        Jeu          09:00 - 12:00    TP
+                        Préalable : MATEST-02
+                03      Mer          13:30 - 17:00    C
+                        Ven          09:00 - 12:00    TP
+                        Préalable : MATEST-03
+                04      Lun          13:30 - 17:00    C
+                        Jeu          13:30 - 16:30    TP
+                        Préalable : MATEST-04
+                05      Mar          13:30 - 17:00    C
+                        Ven          13:30 - 16:30    TP
+                        Préalable : MATEST-05
+                06      Mer          18:00 - 21:30    C
+                        Lun          18:00 - 21:00    TP
+                        Préalable : MATEST-06
+                07      Mar          18:00 - 21:30    C
+                        Jeu          18:00 - 21:00    TP
+                        Préalable : MATEST-07
+
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                01      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+                        Préalable : MATEST-01
+                02      Mer          09:00 - 12:30    C
+                        Lun          09:00 - 12:00    TP
+                        Préalable : MATEST-01
+                03      Mar          09:00 - 12:30    C
+                        Jeu          09:00 - 12:00    TP
+                        Préalable : MATEST-02
+                04      Mar          09:00 - 12:30    C
+                        Jeu          09:00 - 12:00    TP
+                        Préalable : MATEST-02
+                05      Mer          13:30 - 17:00    C
+                        Ven          09:00 - 12:00    TP
+                        Préalable : MATEST-03
+                06      Mer          13:30 - 17:00    C
+                        Ven          09:00 - 12:00    TP
+                        Préalable : MATEST-03
+                07      Lun          13:30 - 17:00    C
+
+
+                         Date : 2017-04-13 19:58:24                                                      Page : 6/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                 7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                           HORAIRE AUTOMNE 2017
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ    LOCAL        ENSEIGNANT              PRÉALABLES
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                07      Jeu           13:30 - 16:30   TP
+                        Préalable : MATEST-04
+                08      Lun          13:30 - 17:00    C
+                        Jeu          13:30 - 16:30    TP
+                        Préalable : MATEST-04
+                09      Mar          13:30 - 17:00    C
+                        Ven          13:30 - 16:30    TP
+                        Préalable : MATEST-05
+                10      Mar          13:30 - 17:00    C
+                        Ven          13:30 - 16:30    TP
+                        Préalable : MATEST-05
+                11      Mer          18:00 - 21:30    C
+                        Lun          18:00 - 21:00    TP
+                        Préalable : MATEST-06
+                12      Mer          18:00 - 21:30    C
+                        Lun          18:00 - 21:00    TP
+                        Préalable : MATEST-06
+                13      Mar          18:00 - 21:30    C
+                        Jeu          18:00 - 21:00    TP
+                        Préalable : MATEST-07
+                14      Mar          18:00 - 21:30    C
+                        Jeu          18:00 - 21:00    TP
+                        Préalable : MATEST-07
+                22      Sam          08:30 - 12:00    C
+                        Sam          13:00 - 16:00    TP
+
+
+
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                                            MAT145
+                VECTORIELLE
+                01      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                02      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                03      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                04      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                05      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 21:00   TP
+
+                06      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                07      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                08      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                              MAT145
+
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                02      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                03      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                04      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                05      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                06      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                07      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                08      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 21:00   TP
+
+                09      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                10      Mer           09:00 - 12:30   C
+
+
+
+                         Date : 2017-04-13 19:58:24                                                      Page : 7/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                   7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                            HORAIRE AUTOMNE 2017
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ        LOCAL                ENSEIGNANT    PRÉALABLES
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                MAT145
+
+                10      Lun           09:00 - 12:00   TP
+
+                11      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+                12      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 21:00   TP
+
+
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                             MAT145
+
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                02      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                03      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                04      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                05      Mer           18:00 - 21:30   C
+                        Ven           18:00 - 21:00   TP
+
+                06      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 21:00   TP
+
+                07      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                08      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                09      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                10      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                11      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+
+
+MATEST          ACCUEIL EN MATHÉMATIQUES
+
+                01      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                02      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                03      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                04      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                05      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                06      Mer           18:00 - 21:30   C
+                        Lun           18:00 - 21:00   TP
+
+                07      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 21:00   TP
+
+
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
+                (HORS PROGRAMME)
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+                        Préalable : PHYEST-01. Pour le programme 7684, le préalable est : PHYEST-05
+                02      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+                         Préalable : PHYEST-02. Pour le programme 7684, le préalable est : PHYEST-08
+                03      Lun           13:30 - 17:00    C
+                        Jeu           13:30 - 16:30    TP
+                        Préalable : PHYEST-03. Pour le programme 7684, le préalable est : PHYEST-06
+                04      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 21:00   TP
+                        Préalable : PHYEST-04. Pour le programme 7684, le préalable est : PHYEST-07
+                05      Lun           09:00 - 12:30   C
+
+
+
+
+                         Date : 2017-04-13 19:58:25                                                        Page : 8/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                   7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                            HORAIRE AUTOMNE 2017
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ       LOCAL                 ENSEIGNANT    PRÉALABLES
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
+                (HORS PROGRAMME)
+                05      Mer           09:00 - 12:00   TP
+                        Préalable : PHYEST-01. Pour le programme 7684, le préalable est : PHYEST-05
+
+
+PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                CTN258 / ING150
+
+                01      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                02      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                03      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                04      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                05      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                06      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 21:00   TP
+
+                07      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                08      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                09      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+
+
+PHY335          PHYSIQUE DES ONDES                                                                       CTN258 / ING150
+
+                01      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                02      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                03      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                04      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                05      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                06      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                07      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+                08      Mer           18:00 - 21:30   C
+                        Lun           18:00 - 21:00   TP
+
+
+
+PHYEST          ACCUEIL EN PHYSIQUE
+
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                02      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                03      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                04      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 21:00   TP
+
+                05      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                06      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                07      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 21:00   TP
+
+                08      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+
+
+
+                         Date : 2017-04-13 19:58:25                                                        Page : 9/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                  7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                                HORAIRE AUTOMNE 2017
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL               ENSEIGNANT                           PRÉALABLES
+
+PRE010          INIT. AU MILIEU INDUS., SANTÉ ET
+                SÉCURITÉ AU TRAVAIL
+                Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 9 h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+                ateliers PRE010 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les
+                étudiants du programme 7622 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-
+                sécurité en suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+                (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+                l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
+                groupe réservé.
+                01      Ven           18:00 - 21:00   Atelier      A-1340
+                        Sam           09:00 - 16:00   TP           A-1340
+                        22 septembre 2017
+                        23 septembre 2017
+
+                02      Ven         18:00 - 21:00     Atelier      A-1302
+                        Sam         09:00 - 16:00     TP           A-1302
+                        22 septembre 2017
+                        23 septembre 2017
+
+                03      Ven           18:00 - 21:00   Atelier      A-1340
+                        Sam           09:00 - 16:00   TP           A-1340
+                        29 septembre 2017
+                        30 septembre 2017
+
+                04      Ven           18:00 - 21:00   Atelier      A-1302
+                        Sam           09:00 - 16:00   TP           A-1302
+                        29 septembre 2017
+                        30 septembre 2017
+
+                05      Lun           18:00 - 21:00   Atelier      A-1340
+                        Mar           18:00 - 21:00   TP A         A-1340
+                        Mer           18:00 - 21:00   TP B         A-1340
+                        02 octobre 2017
+                        03 octobre 2017
+                        04 octobre 2017
+
+                06      Lun           18:00 - 21:00   Atelier      A-1302
+                        Mar           18:00 - 21:00   TP A         A-1302
+                        Mer           18:00 - 21:00   TP B         A-1302
+                        02 octobre 2017
+                        03 octobre 2017
+                        04 octobre 2017
+
+                07      Ven           18:00 - 21:00   Atelier      A-1340
+                        Sam           09:00 - 16:00   TP           A-1340
+                        13 octobre 2017
+                        14 octobre 2017
+
+                08      Ven           18:00 - 21:00   Atelier      A-1302
+                        Sam           09:00 - 16:00   TP           A-1302
+                        13 octobre 2017
+                        14 octobre 2017
+
+                09      Ven           18:00 - 21:00   Atelier      A-1340
+                        Sam           09:00 - 16:00   TP           A-1340
+                        20 octobre 2017
+                        21 octobre 2017
+
+                10      Ven           18:00 - 21:00   Atelier      A-1302
+                        Sam           09:00 - 16:00   TP           A-1302
+                        20 octobre 2017
+                        21 octobre 2017
+
+                11      Lun           18:00 - 21:00   Atelier      A-1340
+                        Mar           18:00 - 21:00   TP A         A-1340
+                        Mer           18:00 - 21:00   TP B         A-1340
+                        23 octobre 2017
+                        24 octobre 2017
+                        25 octobre 2017
+
+                12      Lun           18:00 - 21:00   Atelier      A-1302
+                        Mar           18:00 - 21:00   TP A         A-1302
+                        Mer           18:00 - 21:00   TP B         A-1302
+                        23 octobre 2017
+                        24 octobre 2017
+                        25 octobre 2017
+
+                13      Ven           18:00 - 21:00   Atelier      A-1340
+
+
+
+
+                         Date : 2017-04-13 19:58:25                                                                          Page : 10/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                     7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                                 HORAIRE AUTOMNE 2017
+                                                       Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                       Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                       Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE          ACTIVITÉ         LOCAL                 ENSEIGNANT                       PRÉALABLES
+
+PRE010          INIT. AU MILIEU INDUS., SANTÉ ET
+                SÉCURITÉ AU TRAVAIL
+                Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 9 h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+                ateliers PRE010 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les
+                étudiants du programme 7622 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-
+                sécurité en suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+                (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+                l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
+                groupe réservé.
+                13      Sam           09:00 - 16:00    TP               A-1340
+                        10 novembre 2017
+                        11 novembre 2017
+
+                14      Ven           18:00 - 21:00    Atelier          A-1302
+                        Sam           09:00 - 16:00    TP               A-1302
+                        10 novembre 2017
+                        11 novembre 2017
+
+                15      Lun           18:00 - 21:00    Atelier          A-1340
+                        Mar           18:00 - 21:00    TP A             A-1340
+                        Mer           18:00 - 21:00    TP B             A-1340
+                        13 novembre 2017
+                        14 novembre 2017
+                        15 novembre 2017
+
+                16      Lun           18:00 - 21:00    Atelier          A-1302
+                        Mar           18:00 - 21:00    TP A             A-1302
+                        Mer           18:00 - 21:00    TP B             A-1302
+                        13 novembre 2017
+                        14 novembre 2017
+                        15 novembre 2017
+
+                17      Ven           18:00 - 21:00    Atelier          A-1340
+                        Sam           09:00 - 16:00    TP               A-1340
+                        24 novembre 2017
+                        25 novembre 2017
+
+                18      Ven           18:00 - 21:00    Atelier          A-1302
+                        Sam           09:00 - 16:00    TP               A-1302
+                        24 novembre 2017
+                        25 novembre 2017
+
+                19      Mer           22:00 - 22:15    Atelier
+                        Activité en ligne. Cours-groupe réservé aux étudiants du programme 7622 en génie de la construction.
+
+
+TIN501          ENVIRONNEMENT, TECHNOLOGIE ET                                                                                  Minimum 70 Cr
+                SOCIÉTÉ
+                01      Mer           09:00 - 12:30    C
+                        Lun           08:30 - 12:30    TP A+B
+
+                02      Jeu           09:00 - 12:30    C
+                        Mar           08:30 - 12:30    TP A+B
+
+                03      Mer           13:30 - 17:00    C
+                        Ven           08:30 - 12:30    TP A+B
+
+                04      Mer           18:00 - 21:30    C
+                        Ven           18:00 - 20:00    TP
+
+                05      Lun           18:00 - 21:30    C
+                        Ven           18:00 - 20:00    TP
+
+                06      Ven           13:30 - 17:00    C
+                        Mar           13:30 - 17:30    TP A+B
+
+                07      Sam           08:30 - 12:00    C
+                        Sam           13:00 - 17:00    TP A+B
+
+                08      Jeu           13:30 - 17:00    C
+
+
+
+
+                         Date : 2017-04-13 19:58:25                                                                             Page : 11/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                                    HORAIRE AUTOMNE 2017
+                                                            Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                            Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                            Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR               HEURE            ACTIVITÉ            LOCAL             ENSEIGNANT                              PRÉALABLES
+
+TIN501          ENVIRONNEMENT, TECHNOLOGIE ET                                                                                             Minimum 70 Cr
+                SOCIÉTÉ
+                08      Lun             13:30 - 17:30       TP A+B
+
+
+NOTES
+
+a)              Programmes d'études
+
+                B:                   baccalauréat
+
+                GAQ :                certificat en gestion et assurance de la qualité
+
+                GC :                 certificat en gestion de la construction
+
+                GE :                 certificat et programme court de 1er cycle en gestion des établissements
+
+                PI :                 certificat en production industrielle
+
+                CT :                 certificat en télécommunication
+
+                TS :                 certificat spécialisé en génie des technologie de la santé
+
+b)              Activités
+
+                C : cours            TP : travaux pratiques                                       LABO : laboratoires
+
+                                     TP/2 : travaux pratiques aux deux (2) semaines               LABO/2 : laboratoires aux deux (2) semaines
+
+                TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+                présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+                trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+                pratiques (TP).
+
+c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+                Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+
+                Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+
+                            Date : 2017-04-13 19:58:25                                                                                      Page : 12/12
+
