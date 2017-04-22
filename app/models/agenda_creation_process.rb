@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 class AgendaCreationProcess
   extend ActiveModel::Callbacks
+  include ActiveModel::Model
   include Rails.application.routes.url_helpers
 
   STEPS = [
@@ -13,18 +14,15 @@ class AgendaCreationProcess
 
   before_course_selection :reset_course_group_numbers
 
+  attr_accessor :agenda
   attr_writer :step
 
-  def initialize(agenda)
-    @agenda = agenda
-  end
-
   def path
-    last_step? ? processing_agenda_schedules_path(@agenda) : edit_agenda_path(@agenda, step: next_step)
+    last_step? ? processing_agenda_schedules_path(agenda) : edit_agenda_path(agenda, step: next_step)
   end
 
   def save
-    run_callbacks(step) { last_step? ? combine : @agenda.save }
+    run_callbacks(step) { last_step? ? combine : agenda.save }
   end
 
   def step
@@ -34,7 +32,7 @@ class AgendaCreationProcess
   private
 
   def steps
-    @agenda.filter_groups? ? STEPS : Array(STEP_COURSE_SELECTION)
+    agenda.filter_groups? ? STEPS : Array(STEP_COURSE_SELECTION)
   end
 
   def next_step
@@ -46,22 +44,22 @@ class AgendaCreationProcess
   end
 
   def combine
-    @agenda
+    agenda
       .tap(&method(:before_combine))
       .save
       .tap(&method(:after_combine))
   end
 
   def before_combine(*)
-    @agenda.processing = true
-    @agenda.combined_at = nil
+    agenda.processing = true
+    agenda.combined_at = nil
   end
 
   def after_combine(save_result)
-    ScheduleGeneratorJob.perform_later(@agenda) if save_result
+    ScheduleGeneratorJob.perform_later(agenda) if save_result
   end
 
   def reset_course_group_numbers
-    @agenda.courses.each(&:reset_group_numbers) if @agenda.new_record? || !@agenda.filter_groups?
+    agenda.courses.each(&:reset_group_numbers) if agenda.new_record? || !agenda.filter_groups?
   end
 end

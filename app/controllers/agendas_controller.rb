@@ -10,7 +10,6 @@ class AgendasController < ApplicationController
                 :ensure_not_processing, only: [:edit, :update]
   before_action :eager_load_courses
   before_action :assign_attributes, only: [:create, :update]
-  before_action :set_step
   before_action :save, only: [:create, :update]
 
   delegate :step, to: :agenda_creation_process
@@ -55,12 +54,8 @@ class AgendasController < ApplicationController
     @agenda.assign_attributes(agenda_params)
   end
 
-  def set_step
-    agenda_creation_process.step = params[:step]
-  end
-
   def agenda_creation_process
-    @agenda_creation_process ||= AgendaCreationProcess.new(@agenda)
+    @agenda_creation_process ||= AgendaCreationProcess.new(agenda: @agenda, step: params[:step])
   end
 
   def save

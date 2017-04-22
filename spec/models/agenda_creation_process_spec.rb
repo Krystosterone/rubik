@@ -2,7 +2,7 @@
 require "rails_helper"
 
 describe AgendaCreationProcess do
-  subject(:process) { described_class.new(agenda) }
+  subject(:process) { described_class.new(agenda: agenda) }
   let(:agenda) { build(:agenda) }
 
   describe "#path" do
