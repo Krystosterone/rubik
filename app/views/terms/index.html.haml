@@ -6,6 +6,7 @@
 = form_for @newsletter_subscription, url: create_newsletter_subscription_terms_path,
   html: { class: "form-horizontal" } do |f|
   .container
+    = render "shared/google_adsense"
     = render "shared/flash_messages"
 
     %p
