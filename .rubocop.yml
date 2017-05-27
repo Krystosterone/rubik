@@ -48,7 +48,7 @@ RSpec/FilePath:
 RSpec/InstanceVariable:
   Exclude:
     - spec/lib/schedule_generator_test_case_spec.rb
-    - spec/helpers/google_analytics_helper_spec.rb
+    - spec/helpers/google_services_helper_spec.rb
     - spec/middlewares/maintenance_spec.rb
 
 RSpec/MultipleExpectations:
