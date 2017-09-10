@@ -54,7 +54,7 @@ group :test do
   gem "rspec-activejob"
   gem "rspec-rails"
   gem "selenium-webdriver"
-  gem "shoulda-matchers", require: false
+  gem "shoulda-matchers", git: "https://github.com/thoughtbot/shoulda-matchers.git", branch: "rails-5"
   gem "simplecov", require: false
   gem "timecop"
 end

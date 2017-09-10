@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/thoughtbot/shoulda-matchers.git
+  revision: edaf9cb926ee9c59c59729e7a4f8c206b44da8a1
+  branch: rails-5
+  specs:
+    shoulda-matchers (3.1.2)
+      activesupport (>= 4.2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -318,8 +326,6 @@ GEM
       rubyzip (~> 1.0)
       websocket (~> 1.0)
     sexp_processor (4.8.0)
-    shoulda-matchers (3.1.1)
-      activesupport (>= 4.0.0)
     sidekiq (4.2.9)
       concurrent-ruby (~> 1.0)
       connection_pool (~> 2.2, >= 2.2.0)
@@ -408,7 +414,7 @@ DEPENDENCIES
   rubocop-rspec
   sass-rails (~> 5.0)
   selenium-webdriver
-  shoulda-matchers
+  shoulda-matchers!
   sidekiq
   sidekiq-unique-jobs
   simplecov
