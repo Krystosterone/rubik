@@ -54,9 +54,10 @@ ELE104      PRINCIPES FONDAMENTAUX DES CIRCUITS ÉLECTRIQUES
                     Jeu      08:30 - 10:30    Labo/2      A-2408
 
 
-ELE116      ENVIRONNEMENT DE DÉVELOPPEMENT DE LOGICIELS
-            01      Ven      13:30 - 17:00    C
-                    Lun      10:45 - 12:45    Labo        A-3334
+ELE116          ENVIRONNEMENT DE DÉVELOPPEMENT DE
+                LOGICIELS
+                01      Ven           08:30 - 12:00   C                            R. Noumeir
+                        Lun           10:45 - 12:45   Labo        A-3334
 
 
 ELE140      CONCEPTION DES SYSTÈMES NUMÉRIQUES

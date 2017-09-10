@@ -433,7 +433,7 @@ MAT265 ÉQUATIONS DIFFÉRENTIELLES                                              
         03   Mer           13:30 - 17:00   C
              Ven           09:00 - 12:00   TP
         04   Ven           13:30 - 17:00   C
-#            Mar           13:30 - 16:30   TP
+             Mar           13:30 - 16:30   TP
         05   Lun           13:30 - 17:00   C
              Jeu           13:30 - 16:30   TP
         06   Mer           18:00 - 21:30   C

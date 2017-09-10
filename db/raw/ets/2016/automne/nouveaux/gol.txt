@@ -28,15 +28,15 @@ FRA151      FRANÇAIS ÉCRIT
 
 GIA400      ANALYSE DE RENTABILITÉ DE PROJETS
             01     Mer       09:00 - 12:30   C
-                   Lun       08:30 - 12:30   TP A+B
+                   Lun       08:30 - 12:30   TP
             02     Jeu       09:00 - 12:30   C
-                   Mar       08:30 - 12:30   TP A+B
+                   Mar       08:30 - 12:30   TP
             03     Ven       13:30 - 17:00   C
-                   Mar       13:30 - 17:30   TP A+B
+                   Mar       13:30 - 17:30   TP
             04     Jeu       13:30 - 17:00   C
-                   Lun       13:30 - 17:30   TP A+B
+                   Lun       13:30 - 17:30   TP
             05     Ven       09:00 - 12:30   C
-                   Mer       13:30 - 17:30   TP A+B
+                   Mer       13:30 - 17:30   TP
             06     Mer       18:00 - 21:30   C
                    Ven       18:00 - 20:00   TP
             07     Mar       18:00 - 21:30   C
@@ -44,9 +44,9 @@ GIA400      ANALYSE DE RENTABILITÉ DE PROJETS
             08     Sam       13:00 - 16:30   C
                    Sam       10:00 - 12:00   TP
             09     Mar       13:30 - 17:00   C
-                   Ven       13:30 - 17:30   TP A+B
+                   Ven       13:30 - 17:30   TP
             10     Mar       09:00 - 12:30   C
-                   Jeu       08:30 - 12:30   TP A+B
+                   Jeu       08:30 - 12:30   TP
 
 
 GOL102      ORGANISATION SCIENTIFIQUE DU TRAVAIL

@@ -93,6 +93,7 @@ COURS      GR     JOUR        HEURE         ACTIVITÉ       LOCAL               
 
 ENT201     GESTION FINANCIÈRE D'ENTREPRISE                                        GIA400 ou GIA410
            01     Lun       18:00 - 21:30   C
+                  Mer       18:00 - 20:00   TP
            02     Mer       09:00 - 12:30   C
                   Lun       09:00 - 11:00   TP
 
