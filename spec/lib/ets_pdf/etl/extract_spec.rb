@@ -4,13 +4,13 @@ require "rails_helper"
 describe EtsPdf::Etl::Extract do
   it_behaves_like "Pipeline"
 
-  TXT_SUBSET = "db/raw/ets/2014/hiver/**/*"
+  TXT_SUBSET = "db/raw/ets/2015/hiver/**/*"
 
   describe "#execute" do
     subject(:extract_etl) { described_class.new(TXT_SUBSET) }
     let(:expected_data) do
       {
-        "2014" => {
+        "2015" => {
           "hiver" => {
             "anciens" => {
               "ctn" => txt_matching(:anciens, :ctn),
@@ -29,7 +29,6 @@ describe EtsPdf::Etl::Extract do
               "gti" => txt_matching(:nouveaux, :gti),
               "log" => txt_matching(:nouveaux, :log),
               "mec" => txt_matching(:nouveaux, :mec),
-              "seg" => txt_matching(:nouveaux, :seg),
             }
           }
         }
