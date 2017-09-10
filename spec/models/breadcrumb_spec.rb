@@ -11,6 +11,9 @@ describe Breadcrumb do
       allow(view_context).to receive(:root_path).and_return("root_path")
       allow(view_context)
         .to receive(:edit_agenda_path)
+        .with(agenda, step: AgendaCreationProcess::STEP_FILTER_SELECTION).and_return("agenda_filter_selection_path")
+      allow(view_context)
+        .to receive(:edit_agenda_path)
         .with(agenda, step: AgendaCreationProcess::STEP_COURSE_SELECTION).and_return("agenda_course_selection_path")
       allow(view_context)
         .to receive(:edit_agenda_path)
@@ -23,7 +26,11 @@ describe Breadcrumb do
 
   {
     "terms" => %w(.terms_root_path),
-    "schedules" => %w(.terms_root_path .agendas.course_selection_agenda_course_selection_path),
+    "schedules" => %w(
+      .terms_root_path
+      .agendas.filter_selection_agenda_filter_selection_path
+      .agendas.course_selection_agenda_course_selection_path
+    ),
   }.each do |controller_name, links|
     context "with controller '#{controller_name}'" do
       before do
@@ -45,6 +52,7 @@ describe Breadcrumb do
   end
 
   [
+    AgendaCreationProcess::STEP_FILTER_SELECTION,
     AgendaCreationProcess::STEP_COURSE_SELECTION,
     AgendaCreationProcess::STEP_GROUP_SELECTION,
   ].each do |step|
@@ -62,7 +70,8 @@ describe Breadcrumb do
 
       describe "#links" do
         specify do
-          expect { |block| breadcrumb.render { links(&block) } }.to yield_successive_args(".terms_root_path")
+          expect { |block| breadcrumb.render { links(&block) } }
+            .to yield_successive_args(".terms_root_path", ".agendas.filter_selection_agenda_filter_selection_path")
         end
       end
     end
@@ -84,7 +93,11 @@ describe Breadcrumb do
     describe "#links" do
       specify do
         expect { |block| breadcrumb.render { links(&block) } }
-          .to yield_successive_args(".terms_root_path", ".agendas.course_selection_agenda_course_selection_path")
+          .to yield_successive_args(
+            ".terms_root_path",
+            ".agendas.filter_selection_agenda_filter_selection_path",
+            ".agendas.course_selection_agenda_course_selection_path",
+          )
       end
     end
   end
@@ -102,16 +115,14 @@ describe Breadcrumb do
     end
 
     describe "#links" do
-      let(:expected_links) do
-        [
-          ".terms_root_path",
-          ".agendas.course_selection_agenda_course_selection_path",
-          ".agendas.group_selection_agenda_group_selection_path",
-        ]
-      end
-
       specify do
-        expect { |block| breadcrumb.render { links(&block) } }.to yield_successive_args(*expected_links)
+        expect { |block| breadcrumb.render { links(&block) } }
+          .to yield_successive_args(
+            ".terms_root_path",
+            ".agendas.filter_selection_agenda_filter_selection_path",
+            ".agendas.course_selection_agenda_course_selection_path",
+            ".agendas.group_selection_agenda_group_selection_path",
+          )
       end
     end
   end

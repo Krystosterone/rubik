@@ -92,8 +92,7 @@ class AgendasController < ApplicationController
         .fetch(:agenda_term_tags_attributes, {})
         .permit!
         .to_h
-        .map { |_, value| value[:term_tag_id] }
-        .compact
+        .map { |_, value| value.with_indifferent_access[:term_tag_id] }
         .map { |value| Base64.decode64(value) }
         .map { |value| value.split("\;") }
         .map { |value| value.map { |attribute| attribute.split(":") } }

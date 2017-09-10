@@ -105,9 +105,10 @@ FactoryGirl.define do
   end
 
   factory :term do
-    year { generate(:year) }
-    name { generate(:name) }
     enabled_at { Time.zone.now }
+    name { generate(:name) }
+    tags { generate(:tags) }
+    year { generate(:year) }
   end
 
   sequence(:body) { |n| "Body #{n}" }
@@ -115,6 +116,7 @@ FactoryGirl.define do
   sequence(:email) { |n| "email#{n}@domain.com" }
   sequence(:name) { |n| "Name #{n}" }
   sequence(:number) { |n| n }
+  sequence(:tags) { |n| n.to_s }
   sequence(:type) { |n| "Type #{n}" }
   sequence(:year) { |n| n }
 end

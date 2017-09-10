@@ -19,13 +19,6 @@ describe "Application Routing" do
     end
   end
 
-  describe "agendas#show", type: :request do
-    it "redirects GET /agendas/<token> to /agendas/<token>/schedules" do
-      get("/agendas/a_token")
-      expect(response).to redirect_to("/agendas/a_token/schedules")
-    end
-  end
-
   describe "schedules#index" do
     it "routes GET /agendas/<token>/schedules" do
       expect(get: "/agendas/a_token/schedules").to route_to("schedules#index", agenda_token: "a_token")

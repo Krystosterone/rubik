@@ -24,7 +24,10 @@ describe SchedulesController do
       let(:agenda) { create(:combined_empty_agenda) }
       before { get :index, params: { agenda_token: agenda.token } }
 
-      it { is_expected.to redirect_to(edit_agenda_path(token: agenda.token)) }
+      it do
+        is_expected
+          .to redirect_to(edit_agenda_path(token: agenda.token, step: AgendaCreationProcess::STEP_COURSE_SELECTION))
+      end
 
       it "has a blank flash notice" do
         expect(flash[:notice]).to eq(I18n.t("schedules.index.blank_agenda"))

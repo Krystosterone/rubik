@@ -77,11 +77,11 @@ describe Agenda::Validator do
           Leave.new(starts_at: 2000, ends_at: 1000),
           Leave.new(starts_at: 2000, ends_at: 1000),
         ])
-        agenda.valid?
+        validator.validate(agenda)
       end
 
       it "sets the agenda to be invalid" do
-        expect(agenda).not_to be_valid
+        expect(agenda.errors).not_to be_empty
       end
 
       it "adds an error on agenda" do
