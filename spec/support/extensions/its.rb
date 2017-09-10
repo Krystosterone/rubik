@@ -1,4 +1,4 @@
-# Look into if rails 5 will be supported
+# frozen_string_literal: true
 
 module RSpec
   module Its
