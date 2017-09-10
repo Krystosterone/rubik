@@ -28,15 +28,19 @@ fr:
       models:
         agenda:
           attributes:
+            academic_degree:
+              blank: Veuillez sélectionner un baccalauréat
             courses:
               blank: Veuillez sélectionner au moins un cours
               greater_than_or_equal_to_courses_per_schedule: Veuillez sélectionner un nombre de cours supérieur ou égal au nombre de cours par horaire
               mandatory_courses_less_than_or_equal_to_courses_per_schedule: Veuillez sélectionner un nombre de cours obligatoires égal ou inférieur au nombre de cours par horaire
-              mandatory_courses_redundant: Le nombre de cours obligatoires équivaut au nombre de cours par horaire; Votre sélection de cours non-obligatoire sera donc ignorée.
+              mandatory_courses_redundant: Le nombre de cours obligatoires équivaut au nombre de cours par horaire; Votre sélection de cours non-obligatoire sera donc ignorée
             courses_per_schedule:
               inclusion: Le nombre de cours par horaire "%{value}" est interdit
             leaves:
               invalid: Veuillez corriger les congés spécifiés
+            term:
+              blank: Veuillez sélectionner un trimestre
         agenda/course:
           attributes:
             selected_groups:
@@ -47,9 +51,15 @@ fr:
               taken: a déjà été enregistré
   agendas:
     course_selection:
+      back: Retour à la sélection des filtres
       filter_groups: Filtrer les groupes comme prochaine étape
       mandatory_courses_explication_html: Sélectionnez le "<i class="fa fa-lock"></i>" à côté d'un cours pour le rendre obligatoire.
       title: Choix de cours
+    filter_selection:
+      back: Retour à la sélection du trimestre
+      academic_degree: Baccalauréat
+      term: Trimestre
+      title: Choix des filtres
     group_selection:
       back: Retour à la sélection des groupes
       groups: Groupes
@@ -133,6 +143,7 @@ fr:
       terms: Trimestres
       agendas:
         course_selection: Choix de cours
+        filter_selection: Choix de filtres
         group_selection: Choix de groupes
       schedules: Horaires
     footer:

@@ -1,0 +1,44 @@
+.container
+  = render "shared/breadcrumb"
+  = render "shared/flash_messages"
+
+  - if @agenda.errors.any?
+    .alert.alert-danger{ role: "alert" }
+      - @agenda.errors.each do |_, error|
+        %span.glyphicon.glyphicon-exclamation-sign{ "aria-hidden" => true }
+        = error
+        %br
+
+  %h1.page-header= t(".title")
+
+= form_for @agenda do |f|
+  = hidden_field_tag :step, step
+  = hidden_field_tag :term_name, agenda_term_name(@agenda)
+  = hidden_field_tag :term_year, agenda_term_year(@agenda)
+
+  .container
+    - agenda_term_tags(@academic_degree_terms).group_by(&:scope).each_slice(2) do |term_tags_slice|
+      .row
+        - term_tags_slice.each_with_index do |(scope, term_tags), index|
+          .col-sm-6
+            %fieldset
+              %legend= t(".#{scope}")
+
+              - term_tags.each_with_index do |term_tag|
+                - agenda_term_tag = agenda_term_tag(@agenda, term_tag)
+
+                .radio
+                  %label
+                    - unless agenda_term_tag.nil?
+                      = hidden_field_tag "agenda[agenda_term_tags_attributes][#{index}][id]", agenda_term_tag.id, id: nil
+
+                    = radio_button_tag "agenda[agenda_term_tags_attributes][#{index}][term_tag_id]", term_tag.id, agenda_term_tag.present?
+                    = term_tag.label
+
+    .row
+      .col-sm-4.col-sm-push-8
+        = f.submit class: "btn btn-primary btn-block"
+      .col-sm-8.col-sm-pull-4.back
+        = link_to terms_path do
+          %i.glyphicon.glyphicon-chevron-left
+          = t(".back")

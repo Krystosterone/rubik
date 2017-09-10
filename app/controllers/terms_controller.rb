@@ -19,7 +19,7 @@ class TermsController < ApplicationController
   private
 
   def assign_terms
-    @terms = Term.includes(:academic_degree_terms, academic_degree_terms: :academic_degree).enabled.all
+    @terms = Term.enabled.all
   end
 
   def newsletter_subscription_params

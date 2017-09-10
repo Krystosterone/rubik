@@ -6,6 +6,11 @@ class Breadcrumb
       path: proc { root_path },
     },
     {
+      additional_current_condition: proc { step == AgendaCreationProcess::STEP_FILTER_SELECTION },
+      key: "agendas.filter_selection",
+      path: proc { edit_agenda_path(@agenda, step: AgendaCreationProcess::STEP_FILTER_SELECTION) },
+    },
+    {
       additional_current_condition: proc { step == AgendaCreationProcess::STEP_COURSE_SELECTION },
       key: "agendas.course_selection",
       path: proc { edit_agenda_path(@agenda, step: AgendaCreationProcess::STEP_COURSE_SELECTION) },
