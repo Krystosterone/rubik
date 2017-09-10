@@ -26,7 +26,7 @@ gem "uglifier", ">= 1.3.0"
 
 # Sidekiq
 gem "sidekiq"
-gem "sinatra", "2.0.0.beta2"
+gem "sinatra"
 
 group :development do
   gem "better_errors"
