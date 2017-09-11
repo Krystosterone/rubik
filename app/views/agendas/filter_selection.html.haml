@@ -30,9 +30,13 @@
                 .radio
                   %label
                     - unless agenda_term_tag.nil?
-                      = hidden_field_tag "agenda[agenda_term_tags_attributes][#{index}][id]", agenda_term_tag.id, id: nil
+                      = hidden_field_tag "agenda[agenda_term_tags_attributes][#{index}][id]",
+                        agenda_term_tag.id,
+                        id: nil
 
-                    = radio_button_tag "agenda[agenda_term_tags_attributes][#{index}][term_tag_id]", term_tag.id, agenda_term_tag.present?
+                    = radio_button_tag "agenda[agenda_term_tags_attributes][#{index}][term_tag_id]",
+                      term_tag.id,
+                      agenda_term_tag.present?
                     = term_tag.label
 
     .row
