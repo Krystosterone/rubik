@@ -91,14 +91,15 @@ describe Breadcrumb do
     end
 
     describe "#links" do
-      specify do
-        expect { |block| breadcrumb.render { links(&block) } }
-          .to yield_successive_args(
-            ".terms_root_path",
-            ".agendas.filter_selection_agenda_filter_selection_path",
-            ".agendas.course_selection_agenda_course_selection_path",
-          )
+      let(:links) do
+        [
+          ".terms_root_path",
+          ".agendas.filter_selection_agenda_filter_selection_path",
+          ".agendas.course_selection_agenda_course_selection_path",
+        ]
       end
+
+      specify { expect { |block| breadcrumb.render { links(&block) } }.to yield_successive_args(*links) }
     end
   end
 
@@ -115,15 +116,16 @@ describe Breadcrumb do
     end
 
     describe "#links" do
-      specify do
-        expect { |block| breadcrumb.render { links(&block) } }
-          .to yield_successive_args(
-            ".terms_root_path",
-            ".agendas.filter_selection_agenda_filter_selection_path",
-            ".agendas.course_selection_agenda_course_selection_path",
-            ".agendas.group_selection_agenda_group_selection_path",
-          )
+      let(:links) do
+        [
+          ".terms_root_path",
+          ".agendas.filter_selection_agenda_filter_selection_path",
+          ".agendas.course_selection_agenda_course_selection_path",
+          ".agendas.group_selection_agenda_group_selection_path",
+        ]
       end
+
+      specify { expect { |block| breadcrumb.render { links(&block) } }.to yield_successive_args(*links) }
     end
   end
 end

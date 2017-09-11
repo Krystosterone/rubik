@@ -67,14 +67,14 @@ class AgendasController < ApplicationController
   def assign_academic_degree_terms
     @academic_degree_terms =
       AcademicDegreeTerm
-        .enabled
-        .includes(:academic_degree, :term)
-        .where(
-          terms: {
-            name: agenda_term_name(@agenda),
-            year: agenda_term_year(@agenda),
-          },
-        )
+      .enabled
+      .includes(:academic_degree, :term)
+      .where(
+        terms: {
+          name: agenda_term_name(@agenda),
+          year: agenda_term_year(@agenda),
+        }
+      )
   end
 
   def term_params
@@ -85,24 +85,25 @@ class AgendasController < ApplicationController
     step == AgendaCreationProcess::STEP_FILTER_SELECTION
   end
 
+  # rubocop:disable Metrics/AbcSize, Metrics/MethodLength
   def assign_first_step_attributes
     agenda_term_tags_attributes =
       params
-        .fetch(:agenda, {})
-        .fetch(:agenda_term_tags_attributes, {})
-        .permit!
-        .to_h
-        .map { |_, value| value.with_indifferent_access[:term_tag_id] }
-        .map { |value| Base64.decode64(value) }
-        .map { |value| value.split("\;") }
-        .map { |value| value.map { |attribute| attribute.split(":") } }
-        .map { |value| value.to_h.with_indifferent_access }
-        .each_with_object({}) { |value, memo| memo[value[:scope]] = value[:value] }
-        .with_indifferent_access
+      .fetch(:agenda, {})
+      .fetch(:agenda_term_tags_attributes, {})
+      .permit!
+      .to_h
+      .map { |_, value| value.with_indifferent_access[:term_tag_id] }
+      .map { |value| Base64.decode64(value) }
+      .map { |value| value.split("\;") }
+      .map { |value| value.map { |attribute| attribute.split(":") } }
+      .map { |value| value.to_h.with_indifferent_access }
+      .each_with_object({}) { |value, memo| memo[value[:scope]] = value[:value] }
+      .with_indifferent_access
 
     academic_degree_term_attributes =
       term_params
-        .each_with_object({}) { |(key, value), memo| memo[key.to_s.sub("term_", "")] = value }
+      .each_with_object({}) { |(key, value), memo| memo[key.to_s.sub("term_", "")] = value }
 
     academic_degree_attributes = { code: agenda_term_tags_attributes[:academic_degree] }
     term_attributes = academic_degree_term_attributes.merge(tags: agenda_term_tags_attributes[:term])
@@ -113,4 +114,5 @@ class AgendasController < ApplicationController
 
     render(step) if @agenda.errors.present?
   end
+  # rubocop:enable Metrics/AbcSize, Metrics/MethodLength
 end

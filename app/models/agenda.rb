@@ -39,10 +39,10 @@ class Agenda < ApplicationRecord
   end
 
   def assign_academic_degree_term(academic_degree:, term:)
-    self.errors.add(:academic_degree, :blank) if academic_degree.nil?
-    self.errors.add(:term, :blank) if term.nil?
+    errors.add(:academic_degree, :blank) if academic_degree.nil?
+    errors.add(:term, :blank) if term.nil?
 
     return if term.nil? || academic_degree.nil?
-    self.academic_degree_term = AcademicDegreeTerm.where(academic_degree: academic_degree, term: term).first
+    self.academic_degree_term = AcademicDegreeTerm.find_by(academic_degree: academic_degree, term: term)
   end
 end

@@ -116,7 +116,7 @@ FactoryGirl.define do
   sequence(:email) { |n| "email#{n}@domain.com" }
   sequence(:name) { |n| "Name #{n}" }
   sequence(:number) { |n| n }
-  sequence(:tags) { |n| n.to_s }
+  sequence(:tags, &:to_s)
   sequence(:type) { |n| "Type #{n}" }
   sequence(:year) { |n| n }
 end

@@ -1,21 +1,23 @@
 # frozen_string_literal: true
 module AgendasHelper
+  # rubocop:disable Metrics/MethodLength
   def agenda_term_tags(academic_degree_terms)
     term_tags =
       academic_degree_terms
-        .map(&:term)
-        .each_with_object([], &method(:agenda_term_reducer))
-        .map(&method(:agenda_term_decorator))
-        .uniq
+      .map(&:term)
+      .each_with_object([], &method(:agenda_term_reducer))
+      .map(&method(:agenda_term_decorator))
+      .uniq
 
     academic_degree_term_tags =
       academic_degree_terms
-        .map(&:academic_degree)
-        .map(&method(:agenda_academic_degree_decorator))
-        .uniq
+      .map(&:academic_degree)
+      .map(&method(:agenda_academic_degree_decorator))
+      .uniq
 
     term_tags + academic_degree_term_tags
   end
+  # rubocop:enable Metrics/MethodLength
 
   def agenda_term_tag(agenda, term_tag)
     academic_degree_term = agenda.academic_degree_term
@@ -49,7 +51,7 @@ module AgendasHelper
     OpenStruct.new(
       id: agenda_term_tag_id(scope: "term", value: term.tags),
       label: term.tags,
-      scope: "term",
+      scope: "term"
     )
   end
 
