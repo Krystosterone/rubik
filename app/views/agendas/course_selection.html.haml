@@ -62,4 +62,10 @@
       = f.nested_form :leaves
       = f.create_button :leaves, "+", class: "btn btn-default col-xs-12 col-sm-4 pull-right"
 
-    = f.submit class: "col-xs-12 col-sm-4 pull-right btn btn-primary"
+    .row
+      .col-sm-4.col-sm-push-8
+        = f.submit class: "btn btn-primary btn-block"
+      .col-sm-8.col-sm-pull-4.back
+        = link_to edit_agenda_path(@agenda, step: :filter_selection) do
+          %i.glyphicon.glyphicon-chevron-left
+          = t(".back")

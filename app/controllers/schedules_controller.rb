@@ -36,7 +36,8 @@ class SchedulesController < ApplicationController
 
   def ensure_schedules_present
     return unless @agenda.schedules.empty?
-    redirect_to edit_agenda_path(token: @agenda.token), flash: { notice: t(".blank_agenda") }
+    redirect_to edit_agenda_path(token: @agenda.token, step: AgendaCreationProcess::STEP_COURSE_SELECTION),
+                flash: { notice: t(".blank_agenda") }
   end
 
   def ensure_not_processing

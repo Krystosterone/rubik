@@ -15,9 +15,22 @@ describe Agenda do
   it { is_expected.to serialize(:leaves).as(LeavesSerializer) }
   it { is_expected.to accept_nested_attributes_for_serialized(:leaves, attributes: { starts_at: 0, ends_at: 100 }) }
 
-  it { is_expected.to validate_presence_of(:courses) }
-  it { is_expected.to validate_inclusion_of(:courses_per_schedule).in_range(1..5) }
-  it { is_expected.to validate_with(Agenda::Validator) }
+  it { is_expected.to validate_presence_of(:academic_degree_term) }
+
+  it { is_expected.to validate_presence_of(:courses).on(AgendaCreationProcess::STEP_COURSE_SELECTION) }
+  it { is_expected.to validate_presence_of(:courses).on(AgendaCreationProcess::STEP_GROUP_SELECTION) }
+
+  it do
+    is_expected
+      .to validate_inclusion_of(:courses_per_schedule).in_range(1..5).on(AgendaCreationProcess::STEP_COURSE_SELECTION)
+  end
+  it do
+    is_expected
+      .to validate_inclusion_of(:courses_per_schedule).in_range(1..5).on(AgendaCreationProcess::STEP_GROUP_SELECTION)
+  end
+
+  it { is_expected.to validate_with(Agenda::Validator, on: AgendaCreationProcess::STEP_COURSE_SELECTION) }
+  it { is_expected.to validate_with(Agenda::Validator, on: AgendaCreationProcess::STEP_GROUP_SELECTION) }
 
   its(:courses_per_schedule) { is_expected.to eq(1) }
   its(:processing) { is_expected.to eq(false) }
@@ -45,10 +58,10 @@ describe Agenda do
     its(:combined_at) { is_expected.to eq(Time.zone.now) }
   end
 
-  define :validate_with do |validator|
+  define :validate_with do |validator, on:|
     match do |actual|
       expect_any_instance_of(validator).to receive(:validate).with(actual)
-      actual.valid?
+      actual.valid?(on)
       true
     end
   end

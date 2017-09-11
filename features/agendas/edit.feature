@@ -8,10 +8,13 @@ Fonctionnalité: Édition d'un agenda
   Contexte:
     Étant donné qu'il existe des cours pour nouveaux étudiants de la session d'Hiver 2016
     Et que je suis sur la page des trimestres
+    Lorsque je sélectionne le trimestre "Hiver"
+    Et je sélectionne l'option "Nouveaux Étudiants"
+    Et je sélectionne l'option "Génie logiciel"
+    Et je soumets l'agenda
 
   Scénario: Éditer un horaire existant
-    Lorsque je sélectionne le trimestre "Génie logiciel"
-    Et je sélectionne les cours FRA150, INFTEST, MATEST et PHYEST
+    Lorsque je sélectionne les cours FRA150, INFTEST, MATEST et PHYEST
     Et je sélectionne 4 comme étant le nombre de cours par horaire
     Et je soumets l'agenda
     Et que j'édite l'agenda
@@ -69,8 +72,7 @@ Fonctionnalité: Édition d'un agenda
       | 2                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
 
   Scénario: Éditer les groupes-cours d'un horaire existant
-    Lorsque je sélectionne le trimestre "Génie logiciel"
-    Et je sélectionne les cours FRA150, INFTEST, MATEST et PHYEST
+    Lorsque je sélectionne les cours FRA150, INFTEST, MATEST et PHYEST
     Et je sélectionne 4 comme étant le nombre de cours par horaire
     Et je décide de vouloir filtrer les groupes des cours possibles
     Lorsque je soumets l'agenda

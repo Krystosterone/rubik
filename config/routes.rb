@@ -18,17 +18,10 @@ Rails.application.routes.draw do
 
   mount LetterOpenerWeb::Engine, at: "/letter_opener" if Rails.env.development?
 
-  resources :academic_degree_terms, only: [] do
-    resources :agendas, except: :show, param: :token, shallow: true do
-      get "/", to: redirect("/agendas/%{agenda_token}/schedules", 302)
-
-      resources :schedules, only: :index, constraints: ->(r) { r.params.fetch(:page, "1") =~ /^[1-9]\d*$/ } do
-        get :processing, on: :collection
-      end
+  resources :agendas, except: :show, param: :token do
+    resources :schedules, only: :index, constraints: ->(r) { r.params.fetch(:page, "1") =~ /^[1-9]\d*$/ } do
+      get :processing, on: :collection
     end
-  end
-
-  resources :agendas, param: :token, only: [] do
     resources :schedules, only: :show, param: :index, constraints: { index: /[1-9]\d*/ }
   end
 

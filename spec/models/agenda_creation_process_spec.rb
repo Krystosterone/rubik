@@ -6,15 +6,29 @@ describe AgendaCreationProcess do
   let(:agenda) { build(:agenda) }
 
   describe "#path" do
-    context "with a single step" do
+    context "with a no group filtering" do
       before { agenda.filter_groups = false }
-      specify { expect(process.path).to eq("/agendas/#{agenda.token}/schedules/processing") }
+
+      context "on the first step" do
+        before { process.step = AgendaCreationProcess::STEP_FILTER_SELECTION }
+        specify { expect(process.path).to eq("/agendas/#{agenda.token}/edit?step=course_selection") }
+      end
+
+      context "on the last step" do
+        before { process.step = AgendaCreationProcess::STEP_COURSE_SELECTION }
+        specify { expect(process.path).to eq("/agendas/#{agenda.token}/schedules/processing") }
+      end
     end
 
-    context "with multiple steps" do
+    context "with group filtering" do
       before { agenda.filter_groups = true }
 
       context "on the first step" do
+        before { process.step = AgendaCreationProcess::STEP_FILTER_SELECTION }
+        specify { expect(process.path).to eq("/agendas/#{agenda.token}/edit?step=course_selection") }
+      end
+
+      context "on the second step" do
         before { process.step = AgendaCreationProcess::STEP_COURSE_SELECTION }
         specify { expect(process.path).to eq("/agendas/#{agenda.token}/edit?step=group_selection") }
       end
@@ -28,7 +42,7 @@ describe AgendaCreationProcess do
 
   describe "#save" do
     shared_examples "an unsuccessful save" do
-      before { agenda.courses_per_schedule = 99 }
+      before { agenda.academic_degree_term = nil }
       specify { expect(process.save).to eq(false) }
     end
 
@@ -54,35 +68,57 @@ describe AgendaCreationProcess do
     end
 
     shared_examples "a reset of course group numbers" do
-      let(:group_numbers) { agenda.courses.map { |course| course.academic_degree_term_course.group_numbers } }
-      before { agenda.courses.each { |course| course.group_numbers = [] } }
+      let(:courses) do
+        build_list(:agenda_course, 3).map do |course|
+          course.group_numbers = []
+          course
+        end
+      end
+      let(:group_numbers) { courses.map(&:academic_degree_term_course).map(&:group_numbers) }
+      before { agenda.courses = courses }
 
       it "resets the group numbers of the courses" do
-        expect { process.save }.to change { agenda.courses.map(&:group_numbers) }.to eq(group_numbers)
+        expect { process.save }.to change { agenda.courses.map(&:group_numbers) }.to(group_numbers)
       end
     end
 
-    context "with a single step" do
+    context "with no group filtering" do
       before { agenda.filter_groups = false }
 
-      it_behaves_like "an unsuccessful save"
-      it_behaves_like "a reset of course group numbers"
-      it_behaves_like "a successful agenda generation"
-    end
-
-    context "with multiple steps" do
       context "on the first step" do
+        before { process.step = AgendaCreationProcess::STEP_FILTER_SELECTION }
+
+        it_behaves_like "an unsuccessful save"
+      end
+
+      context "on the last step" do
         before { process.step = AgendaCreationProcess::STEP_COURSE_SELECTION }
 
-        context "with a new agenda" do
-          let(:agenda) { build(:agenda, filter_groups: true) }
+        it_behaves_like "an unsuccessful save"
+        it_behaves_like "a reset of course group numbers"
+        it_behaves_like "a successful agenda generation"
+      end
+    end
 
+    context "with group filtering" do
+      before { agenda.filter_groups = true }
+
+      context "on the first step" do
+        before { process.step = AgendaCreationProcess::STEP_FILTER_SELECTION }
+
+        it_behaves_like "an unsuccessful save"
+      end
+
+      context "on the second step" do
+        before { process.step = AgendaCreationProcess::STEP_COURSE_SELECTION }
+
+        context "with an agenda with new courses" do
           it_behaves_like "an unsuccessful save"
           it_behaves_like "a successful save with no generation"
           it_behaves_like "a reset of course group numbers"
         end
 
-        context "with an existing agenda" do
+        context "with an agenda with existing courses" do
           let(:agenda) { create(:combined_agenda, filter_groups: true) }
 
           it_behaves_like "an unsuccessful save"
@@ -91,10 +127,7 @@ describe AgendaCreationProcess do
       end
 
       context "on the last step" do
-        before do
-          process.step = AgendaCreationProcess::STEP_GROUP_SELECTION
-          agenda.filter_groups = true
-        end
+        before { process.step = AgendaCreationProcess::STEP_GROUP_SELECTION }
 
         it_behaves_like "an unsuccessful save"
         it_behaves_like "a successful agenda generation"
@@ -103,21 +136,22 @@ describe AgendaCreationProcess do
   end
 
   describe "#step" do
-    context "with a single step" do
+    context "with a no group filtering" do
       [:one, :two].each do |step|
         before do
           agenda.filter_groups = false
           process.step = step
         end
-        specify { expect(process.step).to eq(AgendaCreationProcess::STEP_COURSE_SELECTION) }
+        specify { expect(process.step).to eq(AgendaCreationProcess::STEP_FILTER_SELECTION) }
       end
     end
 
-    context "with multiple steps" do
+    context "with group filtering" do
       before { agenda.filter_groups = true }
 
       {
-        one: AgendaCreationProcess::STEP_COURSE_SELECTION,
+        one: AgendaCreationProcess::STEP_FILTER_SELECTION,
+        AgendaCreationProcess::STEP_FILTER_SELECTION => AgendaCreationProcess::STEP_FILTER_SELECTION,
         AgendaCreationProcess::STEP_COURSE_SELECTION => AgendaCreationProcess::STEP_COURSE_SELECTION,
         AgendaCreationProcess::STEP_GROUP_SELECTION => AgendaCreationProcess::STEP_GROUP_SELECTION,
       }.each do |step, expected_step|

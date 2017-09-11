@@ -27,5 +27,16 @@
         = f.submit class: "col-xs-12 col-sm-4 pull-right btn btn-primary btn-sm"
 
 .container
-  - @terms.each_slice(2) do |terms_slice|
-    .row= render partial: "term", collection: terms_slice
+  - term_iterator(@terms).group_by(&:year).each_slice(3) do |terms_slice|
+    .row
+      - terms_slice.each do |year, terms|
+        .col-sm-4
+          .panel.panel-default
+            .panel-heading= year
+
+            .list-group
+              - terms.each do |term|
+                = link_to term.name,
+                  new_agenda_path(term_name: term.name, term_year: term.year),
+                  class: "list-group-item"
+
