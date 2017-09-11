@@ -1,6 +1,10 @@
 # encoding: utf-8
 # frozen_string_literal: true
 
+Alors /^je sélectionne l'option "(.+)"$/ do |option|
+  choose option
+end
+
 Alors /^je vois les cours:$/ do |courses_table|
   courses = courses_table.hashes.collect(&:values).reduce(:concat)
   courses.each { |code| expect(page).to have_selector(:checkbox, code, visible: false) }

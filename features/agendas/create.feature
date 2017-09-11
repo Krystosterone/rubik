@@ -10,7 +10,11 @@ Fonctionnalité: Création d'un agenda
     Et que je suis sur la page des trimestres
 
   Scénario: Une simple combinaison d'horaire
-    Lorsque je sélectionne le trimestre "Génie logiciel"
+    Lorsque je sélectionne le trimestre "Hiver"
+    Alors je me retrouve sur la page "Choix des filtres"
+    Lorsque je sélectionne l'option "Nouveaux Étudiants"
+    Et je sélectionne l'option "Génie logiciel"
+    Et je soumets l'agenda
     Alors je me retrouve sur la page "Choix de cours"
     Et je vois le trimestre "Hiver 2016 - Nouveaux Étudiants" d'affiché
     Et je vois le baccalauréat "Génie logiciel" d'affiché
@@ -64,7 +68,10 @@ Fonctionnalité: Création d'un agenda
       | 2                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
 
   Scénario: Une combinaison d'horaire avec des groupes cours
-    Lorsque je sélectionne le trimestre "Génie logiciel"
+    Lorsque je sélectionne le trimestre "Hiver"
+    Et je sélectionne l'option "Nouveaux Étudiants"
+    Et je sélectionne l'option "Génie logiciel"
+    Et je soumets l'agenda
     Et je sélectionne les cours FRA150, INFTEST, MATEST et PHYEST
     Et je sélectionne 4 comme étant le nombre de cours par horaire
     Et je décide de vouloir filtrer les groupes des cours possibles
@@ -95,7 +102,10 @@ Fonctionnalité: Création d'un agenda
       | 1                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
 
 Scénario: Une combinaison d'horaire avec des cours obligatoires
-  Lorsque je sélectionne le trimestre "Génie logiciel"
+  Lorsque je sélectionne le trimestre "Hiver"
+  Et je sélectionne l'option "Nouveaux Étudiants"
+  Et je sélectionne l'option "Génie logiciel"
+  Et je soumets l'agenda
   Et je sélectionne les cours MAT144, INFTEST, MATEST et LOG100
   Et je sélectionne INFTEST et MATEST comme étant obligatoires
   Et je sélectionne 3 comme étant le nombre de cours par horaire
