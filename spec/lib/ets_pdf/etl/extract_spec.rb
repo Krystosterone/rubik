@@ -2,12 +2,9 @@
 require "rails_helper"
 
 describe EtsPdf::Etl::Extract do
-  it_behaves_like "Pipeline"
-
   TXT_SUBSET = "db/raw/ets/2015/hiver/**/*"
 
-  describe "#execute" do
-    subject(:extract_etl) { described_class.new(TXT_SUBSET) }
+  describe ".call" do
     let(:expected_data) do
       {
         "2015" => {
@@ -37,7 +34,7 @@ describe EtsPdf::Etl::Extract do
     before { allow(EtsPdf::Parser).to receive(:new) { |path| instance_double(EtsPdf::Parser, execute: path) } }
 
     it "returns a comprehensible data structure" do
-      expect(extract_etl.execute).to match(expected_data)
+      expect(described_class.call(TXT_SUBSET)).to match(expected_data)
     end
   end
 

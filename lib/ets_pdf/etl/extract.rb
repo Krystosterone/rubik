@@ -1,10 +1,12 @@
 # frozen_string_literal: true
-class EtsPdf::Etl::Extract < Pipeline
+class EtsPdf::Etl::Extract < SimpleClosure
   TXT_EXTENSION = ".txt"
 
-  alias txt_folder input
+  def initialize(txt_folder)
+    @txt_folder = txt_folder
+  end
 
-  def execute
+  def call
     terms = {}
     Dir.glob(txt_paths).each do |txt_path|
       parsed_lines = EtsPdf::Parser.new(txt_path).execute
@@ -16,7 +18,7 @@ class EtsPdf::Etl::Extract < Pipeline
   private
 
   def txt_paths
-    Rails.root.join("#{txt_folder}#{TXT_EXTENSION}")
+    Rails.root.join("#{@txt_folder}#{TXT_EXTENSION}")
   end
 
   def assign_to_hash(terms, path, parsed_lines)

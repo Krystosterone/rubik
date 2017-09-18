@@ -1,10 +1,12 @@
 # frozen_string_literal: true
-class EtsPdf::Etl::Transform < Pipeline
-  alias terms input
+class EtsPdf::Etl::Transform < SimpleClosure
+  def initialize(terms)
+    @terms = terms
+  end
 
-  def execute
+  def call
     ActiveRecord::Base.transaction do
-      terms.each { |arguments| TermUpdater.new(*arguments).execute }
+      @terms.each { |arguments| TermUpdater.new(*arguments).execute }
     end
   end
 end

@@ -7,8 +7,7 @@ describe "ets_pdf:etl" do
   after { ENV.delete("PDF_FOLDER") }
 
   it "executes with the pdf folder parameter" do
-    allow(EtsPdf::Etl).to receive(:new).with("another/path/**/*").and_return(etl)
-    allow(etl).to receive(:execute)
+    allow(EtsPdf::Etl).to receive(:call).with("another/path/**/*")
 
     rake_task.execute
   end

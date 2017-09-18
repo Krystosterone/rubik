@@ -2,10 +2,7 @@
 require "rails_helper"
 
 describe EtsPdf::Etl::Transform do
-  it_behaves_like "Pipeline"
-
-  describe "#execute" do
-    subject(:transform_etl) { described_class.new(terms) }
+  describe ".call" do
     let(:terms) { { 2016 => :arguments, 2015 => :more_arguments } }
     let(:term_updaters) { terms.map { instance_double(EtsPdf::Etl::Transform::TermUpdater) } }
     before do
@@ -17,7 +14,7 @@ describe EtsPdf::Etl::Transform do
     it "updates the database for every term passed in" do
       term_updaters.each { |term_updater| allow(term_updater).to receive(:execute) }
 
-      transform_etl.execute
+      described_class.call(terms)
     end
   end
 end

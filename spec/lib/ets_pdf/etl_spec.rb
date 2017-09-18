@@ -14,11 +14,11 @@ describe EtsPdf::Etl do
     end
 
     it "executes in order each pipeline" do
-      allow(pre_process_pipe).to receive(:execute).and_return(:output_1)
-      allow(extract_pipe).to receive(:execute).and_return(:output_2)
-      allow(transform_pipe).to receive(:execute).and_return(:last_output)
+      allow(pre_process_pipe).to receive(:call).and_return(:output_1)
+      allow(extract_pipe).to receive(:call).and_return(:output_2)
+      allow(transform_pipe).to receive(:call).and_return(:last_output)
 
-      etl.execute
+      etl.call
     end
   end
 end

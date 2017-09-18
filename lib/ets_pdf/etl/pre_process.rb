@@ -1,12 +1,14 @@
 # frozen_string_literal: true
-class EtsPdf::Etl::PreProcess < Pipeline
+class EtsPdf::Etl::PreProcess < SimpleClosure
   PDF_EXTENSION = ".pdf"
 
-  alias pdf_pattern input
+  def initialize(pdf_pattern)
+    @pdf_pattern = pdf_pattern
+  end
 
-  def execute
+  def call
     convert
-    pdf_pattern
+    @pdf_pattern
   end
 
   private
@@ -19,7 +21,7 @@ class EtsPdf::Etl::PreProcess < Pipeline
   end
 
   def pdfs_path
-    Rails.root.join("#{pdf_pattern}#{PDF_EXTENSION}")
+    Rails.root.join("#{@pdf_pattern}#{PDF_EXTENSION}")
   end
 
   def txt_exists?(pdf_path)
