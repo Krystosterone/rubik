@@ -88,6 +88,47 @@ FactoryGirl.define do
     email { generate(:email) }
   end
 
+  factory :unparsed_line, class: "EtsPdf::Parser::ParsedLine" do
+    skip_create
+
+    transient do
+      line { "" }
+    end
+
+    factory :parsed_course_line do
+      transient do
+        code { generate(:course_code) }
+
+        line { code }
+      end
+    end
+
+    factory :parsed_group_line do
+      transient do
+        number { generate(:group_number) }
+        weekday { generate(:short_weekday) }
+        start_time { generate(:time) }
+        end_time { generate(:time) }
+        type { "C" }
+
+        line { "#{number} #{weekday} #{start_time} - #{end_time} #{type}" }
+      end
+    end
+
+    factory :parsed_period_line do
+      transient do
+        weekday { generate(:short_weekday) }
+        start_time { generate(:time) }
+        end_time { generate(:time) }
+        type { "C" }
+
+        line { "#{weekday} #{start_time} - #{end_time} #{type}" }
+      end
+    end
+
+    initialize_with { new(line) }
+  end
+
   factory :schedule do
     course_groups { build_list(:course_group, 4) }
   end
@@ -112,9 +153,13 @@ FactoryGirl.define do
 
   sequence(:body) { |n| "Body #{n}" }
   sequence(:code) { |n| "Code #{n}" }
+  sequence(:course_code) { |n| "COD#{n.to_s.rjust(3, '0')}" }
   sequence(:email) { |n| "email#{n}@domain.com" }
+  sequence(:group_number) { |n| (n % 100).to_s[0..2].rjust(2, "0") }
   sequence(:name) { |n| "Name #{n}" }
   sequence(:number) { |n| n }
+  sequence(:short_weekday) { |n| I18n.t("date.abbr_day_names")[n % 7].titleize }
+  sequence(:time) { |n| "#{(n / 60).to_s.rjust(2, '0')}:#{(n % 60).to_s.rjust(2, '0')}" }
   sequence(:type) { |n| "Type #{n}" }
   sequence(:year) { |n| n }
 end

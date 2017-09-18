@@ -2,16 +2,12 @@
 require "rails_helper"
 
 describe AcademicDegreeTermCourse do
-  # rubocop:disable RSpec/RepeatedExample
   it { is_expected.to belong_to(:academic_degree_term) }
   it { is_expected.to belong_to(:course) }
 
   it { is_expected.to validate_presence_of(:academic_degree_term) }
   it { is_expected.to validate_presence_of(:course) }
-
-  it { is_expected.to validate_presence_of(:academic_degree_term) }
-  it { is_expected.to validate_presence_of(:course) }
-  # rubocop:enable RSpec/RepeatedExample
+  it { is_expected.to validate_presence_of(:groups) }
 
   it { is_expected.to serialize(:groups).as(GroupsSerializer) }
   it { is_expected.to find_or_initialize_for_serialized(:groups, attributes: { number: 1 }) }
