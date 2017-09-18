@@ -9,7 +9,7 @@ class EtsPdf::Etl::Extract < SimpleClosure
   def call
     terms = {}
     Dir.glob(txt_paths).each do |txt_path|
-      parsed_lines = EtsPdf::Parser.new(txt_path).execute
+      parsed_lines = EtsPdf::Parser.call(txt_path)
       assign_to_hash(terms, txt_path, parsed_lines)
     end
     terms

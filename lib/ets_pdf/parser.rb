@@ -1,10 +1,10 @@
 # frozen_string_literal: true
-class EtsPdf::Parser
+class EtsPdf::Parser < SimpleClosure
   def initialize(path)
     @path = path
   end
 
-  def execute
+  def call
     File.readlines(@path).collect { |line| ParsedLine.new(line) }
   end
 end
