@@ -8,7 +8,6 @@ end
 SimpleCov.start("rails") do
   add_filter "lib/tasks/cucumber.rake"
 
-  add_group "Decorators", "app/decorators"
   add_group "Middleware", "app/middlewares"
 end
 
