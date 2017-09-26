@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 require "rails_helper"
 
-describe EtsPdf::Etl::PreProcess do
+describe EtsPdf::Etl::PdfConverter do
   describe ".call" do
     let(:pdf_folder) { "tmp/pdf_directory" }
     let(:pdf_pattern) { "#{pdf_folder}/**/*" }

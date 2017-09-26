@@ -2,23 +2,19 @@
 require "rails_helper"
 
 describe EtsPdf::Etl do
-  describe "#execute" do
+  describe "#call" do
     subject(:etl) { described_class.new("some/directory/**/*") }
-    let(:pre_process_pipe) { instance_double(EtsPdf::Etl::PreProcess) }
-    let(:extract_pipe) { instance_double(EtsPdf::Etl::Extract) }
-    let(:transform_pipe) { instance_double(EtsPdf::Etl::Transform) }
+    let(:pdf_converter) { ->(value) { "#{value}+pdf_converter" } }
+    let(:pdf_parser) { ->(value) { "#{value}+pdf_parser" } }
+    let(:domain_builder) { ->(value) { "#{value}+domain_builder" } }
     before do
-      allow(EtsPdf::Etl::PreProcess).to receive(:new).with("some/directory/**/*").and_return(pre_process_pipe)
-      allow(EtsPdf::Etl::Extract).to receive(:new).with(:output_1).and_return(extract_pipe)
-      allow(EtsPdf::Etl::Transform).to receive(:new).with(:output_2).and_return(transform_pipe)
+      allow(EtsPdf::Etl::PdfConverter).to receive(:call, &pdf_converter)
+      allow(EtsPdf::Etl::PdfParser).to receive(:call, &pdf_parser)
+      allow(EtsPdf::Etl::DomainBuilder).to receive(:call, &domain_builder)
     end
 
-    it "executes in order each pipeline" do
-      allow(pre_process_pipe).to receive(:call).and_return(:output_1)
-      allow(extract_pipe).to receive(:call).and_return(:output_2)
-      allow(transform_pipe).to receive(:call).and_return(:last_output)
-
-      etl.call
+    it "executes in order each service" do
+      expect(etl.call).to eq("some/directory/**/*+pdf_converter+pdf_parser+domain_builder")
     end
   end
 end

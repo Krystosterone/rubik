@@ -5,10 +5,6 @@ class EtsPdf::Etl < SimpleClosure
   end
 
   def call
-    Pipe
-      .bind(PreProcess)
-      .bind(Extract)
-      .bind(Transform)
-      .call(@pdf_folder)
+    Pipe.bind(PdfConverter).bind(PdfParser).bind(DomainBuilder).call(@pdf_folder)
   end
 end

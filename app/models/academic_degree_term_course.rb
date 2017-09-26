@@ -7,6 +7,7 @@ class AcademicDegreeTermCourse < ApplicationRecord
 
   validates :academic_degree_term, presence: true
   validates :course, presence: true
+  validates :groups, presence: true
 
   serialize :groups, GroupsSerializer
   serialized_find_or_initialize_for :groups

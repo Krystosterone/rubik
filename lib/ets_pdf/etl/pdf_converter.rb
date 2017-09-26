@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-class EtsPdf::Etl::PreProcess < SimpleClosure
+class EtsPdf::Etl::PdfConverter < SimpleClosure
   PDF_EXTENSION = ".pdf"
 
   def initialize(pdf_pattern)
