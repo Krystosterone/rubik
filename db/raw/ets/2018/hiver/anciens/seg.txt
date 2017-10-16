@@ -1,0 +1,941 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                          Service des enseignements généraux
+
+
+                                                                HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ    LOCAL      ENSEIGNANT               PRÉALABLES
+
+ANG010          ANGLAIS POUR INGÉNIEURS I
+
+                01      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 15:00   TP
+
+
+
+ATE050          RÉUSSIR EN GÉNIE
+
+                01      Mar           18:00 - 20:00   Atelier
+
+
+
+CHM131          CHIMIE ET MATÉRIAUX
+
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                02      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                03      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                04      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                05      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                06      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                07      Mer           18:00 - 21:30   C
+                        Ven           18:00 - 21:00   TP
+
+                08      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 21:00   TP
+
+                09      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                10      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                11      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                12      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                13      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                14      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+                15      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+
+
+COM110          MÉTHODES DE COMMUNICATION                                                             TEST DE FRANCAIS OU FRA150 OU
+                                                                                                      FRA151
+                01      Jeu           09:00 - 12:30   C
+                        Mar           08:30 - 12:30   TP A+B
+
+                02      Mer           09:00 - 12:30   C
+                        Lun           08:30 - 12:30   TP A+B
+
+                03      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 17:30   TP A+B
+
+                04      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 22:00   TP A+B
+
+                05      Lun           18:00 - 21:30   C
+                        Ven           18:00 - 22:00   TP A+B
+
+                06      Mer           13:30 - 17:00   C
+                        Ven           08:30 - 12:30   TP A+B
+
+                07      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 17:00   TP A+B
+
+                08      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 17:30   TP A+B
+
+
+
+COM115          COMMUNICATION INTERCULTURELLE
+
+                01      Jeu           13:30 - 17:00   C
+
+                         Date : 2017-10-12 15:00:13                                                     Page : 1/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                          Service des enseignements généraux
+
+
+                                                               HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ   LOCAL       ENSEIGNANT               PRÉALABLES
+
+COM115          COMMUNICATION INTERCULTURELLE
+
+                01      Lun           13:30 - 17:30   TP A+B     E-4021
+
+                02      Mer           18:00 - 21:30   C
+                        Lun           18:00 - 22:00   TP A+B     E-4021
+
+
+
+COM129          MÉTHODES DE COMMUNICATION EN GÉNIE
+                MÉCANIQUE
+                01      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 17:30   TP A+B
+
+                02      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 22:00   TP A+B
+
+
+
+COM800          COMMUNICATION TECHNIQUE
+
+                01      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 20:00   TP
+
+
+
+DST202          INTÉGRATION SCIENCE ET TECHNOLOGIE
+
+                01      Ven           09:00 - 12:30   C
+                        Ven           13:30 - 15:30   TP
+
+
+
+DST802          PROJET TECHNOLOGIQUE
+
+                01      Mer           18:00 - 21:30   C
+
+
+
+ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                       GIA400 ou GIA410
+
+                01      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 20:00   TP
+
+                02      Mer           09:00 - 12:30   C
+                        Lun           10:00 - 12:00   TP
+
+
+
+ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
+
+                01      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 20:00   TP
+
+                02      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 20:00   TP
+
+
+
+FRA150          FRANÇAIS ÉCRIT
+
+                01      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 20:00   TP
+
+
+
+FRA151          FRANÇAIS ÉCRIT
+
+                01      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 22:00   TP
+
+
+
+FRA800          FRANÇAIS ÉLÉMENTAIRE
+
+                01      Mer           09:00 - 12:30   C
+                        Lun           10:00 - 12:00   TP
+
+
+
+GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                01      Lun           09:00 - 12:30   C
+                        Mer           10:30 - 12:30   TP
+
+                02      Jeu           09:00 - 12:30   C
+                        Mar           10:30 - 12:30   TP
+
+                03      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 15:30   TP
+
+
+
+                         Date : 2017-10-12 15:00:13                                                      Page : 2/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                      Service des enseignements généraux
+
+
+                                                                  HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ        LOCAL                ENSEIGNANT          PRÉALABLES
+
+GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                04      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 15:30   TP
+
+                05      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 15:30   TP
+
+                06      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 20:00   TP
+
+                07      Mer           09:00 - 12:30   C
+                        Lun           10:30 - 12:30   TP
+
+                08      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 15:30   TP
+
+                09      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 15:00   TP
+
+                10      Mer           18:00 - 21:30   C
+                        Lun           18:00 - 20:00   TP
+
+
+
+GIA410          GESTION ET ÉCONOMIE DES PROJETS
+                D’INGÉNIERIE
+                01      Mer           09:00 - 12:30   C
+                        Lun           10:30 - 12:30   TP
+
+                02      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 15:30   TP
+
+                03      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 20:00   TP
+
+
+
+GIA450          PLANIFICATION ET CONTRÔLE DE PROJETS
+
+                01      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 15:30   TP
+
+
+
+INF111          PROGRAMMATION ORIENTÉE-OBJET (HORS
+                PROGRAMME)
+                01      Mar           08:30 - 12:00   C
+                        Jeu           09:00 - 12:00   Labo            B-2402
+                        Cours-groupe réservé au programme 5994.
+                02      Lun         08:30 - 12:00     C
+                        Mer         09:00 - 12:00     Labo            B-2402
+                        Cours-groupe réservé au programme 5994.
+                03      Mer         13:00 - 16:30     C
+                        Ven         09:00 - 12:00     Labo            B-2402
+                        Cours-groupe réservé au programme 5994.
+                04      Ven         09:00 - 12:30     C
+                        Mer         13:30 - 16:30     Labo            E-4023
+                        Préalable : INFTEST-01. Prendre note que le groupe est exclu du progamme 5994.
+
+
+INF130          ORDINATEURS ET PROGRAMMATION
+
+                01      Jeu           09:00 - 12:30   C               E-4023
+                        Mar           09:00 - 12:00   Labo            E-4022
+
+                02      Jeu           13:30 - 17:00   C               E-4023
+                        Lun           13:30 - 16:30   Labo            E-4022
+
+                03      Sam           08:30 - 12:00   C               E-4021
+                        Sam           13:00 - 16:00   Labo            E-4021
+
+                04      Mar           13:30 - 17:00   C               E-4023
+                        Ven           13:30 - 16:30   Labo            E-4022
+
+                05      Lun           18:00 - 21:30   C               E-4022
+                        Mer           18:00 - 21:00   Labo            E-4022
+
+                06      Mar           18:00 - 21:30   C               E-4023
+                        Jeu           18:00 - 21:00   Labo            E-4023
+
+                07      Mer           13:30 - 17:00   C               E-4022
+                        Ven           09:00 - 12:00   Labo            E-4023
+                        ???
+
+
+INF135          INTRODUCTION À LA PROGRAMMATION EN
+                GÉNIE MÉCANIQUE
+                01      Lun           09:00 - 12:30   C               E-4021
+                        Mer           09:00 - 12:00   Labo            E-4022
+
+                         Date : 2017-10-12 15:00:13                                                              Page : 3/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                            Service des enseignements généraux
+
+
+                                                                 HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL       ENSEIGNANT             PRÉALABLES
+
+INF135          INTRODUCTION À LA PROGRAMMATION EN
+                GÉNIE MÉCANIQUE
+                02      Jeu           18:00 - 21:30   C            E-4021
+                        Mar           18:00 - 21:00   Labo         E-4022
+
+                03      Ven           13:30 - 17:00   C            E-4023
+                        Mar           13:30 - 16:30   Labo         E-4022
+
+                04      Mer           09:00 - 12:30   C            E-4021
+                        Lun           09:00 - 12:00   Labo         E-4023
+
+                05      Lun           13:30 - 17:00   C            E-4023
+                        Jeu           13:30 - 16:30   Labo         E-4021
+
+
+
+INF145          PROGRAMMATION AVANCÉE ET LANGAGE C
+
+                01      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   Labo         E-4022
+
+                02      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 21:00   Labo         E-4021
+
+
+
+INF155          INTRODUCTION À LA PROGRAMMATION
+
+                01      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   Labo         E-4022
+                        ???
+                02      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   Labo         E-4021
+
+
+
+INFTEST         ACCUEIL EN INFORMATIQUE
+
+                01      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   Labo
+
+
+
+ING150          STATIQUE ET DYNAMIQUE
+
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+                        Préalable: PHYEST-01
+                02      Ven          13:30 - 17:00    C
+                        Mar          13:30 - 16:30    TP
+
+                03      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                04      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 21:00   TP
+                        Préalable : PHYEST-02
+                05      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                06      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+
+
+ING160          THERMODYNAMIQUE ET MÉCANIQUE DES                                                      ING150
+                FLUIDES
+                01      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                02      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                03      Mer           18:00 - 21:30   C
+                        Lun           18:00 - 21:00   TP
+
+                04      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                05      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+
+
+ING500          OUTILS DE DÉVELOPPEMENT DURABLE
+                POUR L'INGÉNIEUR
+                01      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 22:00   Labo A+B     E-4023
+
+                02      Sam           08:30 - 12:00   C
+
+
+                         Date : 2017-10-12 15:00:13                                                     Page : 4/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                            Service des enseignements généraux
+
+
+                                                                 HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL       ENSEIGNANT             PRÉALABLES
+
+ING500          OUTILS DE DÉVELOPPEMENT DURABLE
+                POUR L'INGÉNIEUR
+                02      Sam           13:00 - 17:00   Labo A+B     E-4022
+
+
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
+                GÉNIE (HORS PROG.)
+                01      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+                        Préalable : MATEST-01
+                02      Lun          13:30 - 17:00    C
+                        Jeu          13:30 - 16:30    TP
+                        Préalable : MATEST-02
+                03      Lun          18:00 - 21:30    C
+                        Mer          18:00 - 21:00    TP
+                        Préalable : MATEST-03
+                04      Lun          13:30 - 17:00    C
+                        Jeu          13:30 - 16:30    TP
+
+
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                01      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+                        Préalable : MATEST-01
+                02      Mar          09:00 - 12:30    C
+                        Jeu          09:00 - 12:00    TP
+
+                03      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+                        Préalable : MATEST-02
+                04      Lun          13:30 - 17:00    C
+                        Jeu          13:30 - 16:30    TP
+
+                05      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                06      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                07      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 21:00   TP
+
+                08      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 21:00   TP
+                        Préalable : MATEST-03
+                09      Jeu          09:00 - 12:30    C
+                        Mar          09:00 - 12:00    TP
+
+                10      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                11      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                12      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                13      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                14      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                15      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+
+
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                                           MAT145
+                VECTORIELLE
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                02      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                03      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                04      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                05      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                06      Sam           08:30 - 12:00   C
+
+
+
+                         Date : 2017-10-12 15:00:13                                                     Page : 5/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                          Service des enseignements généraux
+
+
+                                                             HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ   LOCAL       ENSEIGNANT               PRÉALABLES
+
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                                           MAT145
+                VECTORIELLE
+                06      Sam           13:00 - 16:00   TP
+
+                07      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                08      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                09      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                10      Mer           18:00 - 21:30   C
+                        Lun           18:00 - 21:00   TP
+
+                11      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+
+
+MAT210          LOGIQUE ET MATHÉMATIQUES DISCRÈTES                                                    MAT145
+
+                01      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                02      Mer           18:00 - 21:30   C
+                        Lun           18:00 - 21:00   TP
+
+
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                             MAT145
+
+                01      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                02      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                03      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                04      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                05      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                06      Mer           18:00 - 21:30   C
+                        Ven           18:00 - 21:00   TP
+
+                07      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                08      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                09      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                10      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                11      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                12      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+
+
+MAT321          INFORMATIQUE ET STATISTIQUES
+                APPLIQUÉES
+                01      Mer           18:00 - 21:30   C
+                        Ven           18:00 - 20:00   TP
+
+
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                          MAT145
+
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                02      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                03      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                04      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                05      Jeu           13:30 - 17:00   C
+
+                         Date : 2017-10-12 15:00:13                                                     Page : 6/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                          Service des enseignements généraux
+
+
+                                                             HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ   LOCAL       ENSEIGNANT               PRÉALABLES
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                          MAT145
+
+                05      Lun           13:30 - 16:30   TP
+
+                06      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                07      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 21:00   TP
+
+                08      Mer           18:00 - 21:30   C
+                        Ven           18:00 - 21:00   TP
+
+                09      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                10      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                11      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                12      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+
+
+MAT415          MATHÉMATIQUES DU GÉNIE DES TI                                                         MAT145
+
+                01      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                02      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+
+
+MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE                                                      MAT145
+                L'ESPACE
+                01      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                02      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+
+
+MATEST          ACCUEIL EN MATHÉMATIQUES
+
+                01      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                02      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                03      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 21:00   TP
+
+
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
+                (HORS PROGRAMME)
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+                        Préalable : PHYEST-01
+                02      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 21:00   TP
+                        Préalable : PHYEST-02
+                03      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                04      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                05      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+
+
+PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                             CTN258 / ING150
+
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                02      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                03      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                04      Jeu           13:30 - 17:00   C
+
+
+                         Date : 2017-10-12 15:00:13                                                      Page : 7/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                            Service des enseignements généraux
+
+
+                                                                 HORAIRE HIVER 2018
+                                                       Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                       Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                       Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR              HEURE        ACTIVITÉ    LOCAL       ENSEIGNANT              PRÉALABLES
+
+PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                              CTN258 / ING150
+
+                04      Lun            13:30 - 16:30   TP
+
+                05      Lun            18:00 - 21:30   C
+                        Ven            18:00 - 21:00   TP
+
+                06      Ven            13:30 - 17:00   C
+                        Mar            13:30 - 16:30   TP
+
+                07      Sam            08:30 - 12:00   C
+                        Sam            13:00 - 16:00   TP
+
+                08      Mer            09:00 - 12:30   C
+                        Lun            09:00 - 12:00   TP
+
+
+
+PHY335          PHYSIQUE DES ONDES                                                                     CTN258 / ING150
+
+                01      Mer            13:30 - 17:00   C
+                        Ven            09:00 - 12:00   TP
+
+                02      Jeu            09:00 - 12:30   C
+                        Mar            09:00 - 12:00   TP
+
+                03      Ven            09:00 - 12:30   C
+                        Mer            13:30 - 16:30   TP
+
+                04      Lun            13:30 - 17:00   C
+                        Jeu            13:30 - 16:30   TP
+
+                05      Mar            13:30 - 17:00   C
+                        Ven            13:30 - 16:30   TP
+
+                06      Lun            18:00 - 21:30   C
+                        Ven            18:00 - 21:00   TP
+
+                07      Lun            09:00 - 12:30   C
+                        Mer            09:00 - 12:00   TP
+
+                08      Sam            08:30 - 12:00   C
+                        Sam            13:00 - 16:00   TP
+
+
+
+PHYEST          ACCUEIL EN PHYSIQUE
+
+                01      Lun            09:00 - 12:30   C
+                        Mer            09:00 - 12:00   TP
+
+                02      Mar            18:00 - 21:30   C
+                        Jeu            18:00 - 21:00   TP
+
+
+
+PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
+                INITIATION À LA SANTÉ ET SÉCURITÉ
+                01      Ven            18:00 - 21:00   Atelier     A-1302
+                        Sam            09:00 - 16:00   TP          A-1302
+                        02 février 2018
+                        03 février 2018
+
+                02      Lun            18:00 - 21:00   Atelier     A-1302
+                        Mar            18:00 - 21:00   TP A        A-1302
+                        Mer            18:00 - 21:00   TP B        A-1302
+                        12 février 2018
+                        13 février 2018
+                        14 février 2018
+
+                03      Ven            18:00 - 21:00   Atelier     A-1340
+                        Sam            09:00 - 16:00   TP          A-1340
+                        02 février 2018
+                        03 février 2018
+
+                04      Lun            18:00 - 21:00   Atelier     A-1340
+                        Mar            18:00 - 21:00   TP A        A-1340
+                        Mer            18:00 - 21:00   TP B        A-1340
+                        12 février 2018
+                        13 février 2018
+                        14 février 2018
+
+                05      Ven            18:00 - 21:00   Atelier     A-1302
+                        Sam            09:00 - 16:00   TP          A-1302
+                        02 mars 2018
+                        03 mars 2018
+
+                06      Ven            18:00 - 21:00   Atelier     A-1340
+
+                         Date : 2017-10-12 15:00:13                                                       Page : 8/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                              Service des enseignements généraux
+
+
+                                                                         HORAIRE HIVER 2018
+                                                            Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                            Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                            Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR               HEURE            ACTIVITÉ            LOCAL             ENSEIGNANT                              PRÉALABLES
+
+PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
+                INITIATION À LA SANTÉ ET SÉCURITÉ
+                06      Sam          09:00 - 16:00          TP                  A-1340
+                        02 mars 2018
+                        03 mars 2018
+
+                07                                          Atelier
+
+
+
+TIN501          ENVIRONNEMENT, TECHNOLOGIE ET                                                                                             Minimum 70 Cr
+                SOCIÉTÉ
+                01      Jeu             09:00 - 12:30       C
+                        Mar             08:30 - 12:30       TP A+B
+
+                02      Mer             13:30 - 17:00       C
+                        Ven             08:30 - 12:30       TP A+B
+
+                03      Ven             13:30 - 17:00       C
+                        Mar             13:30 - 17:30       TP A+B
+
+                04      Jeu             18:00 - 21:30       C
+                        Mar             18:00 - 22:00       TP A+B
+
+                05      Mer             18:00 - 21:30       C
+                        Ven             18:00 - 22:00       TP A+B
+
+                06      Lun             09:00 - 12:30       C
+                        Mer             08:30 - 12:30       TP A+B
+
+                07      Mar             09:00 - 12:30       C
+                        Jeu             08:30 - 12:30       TP A+B
+
+                08      Jeu             13:30 - 17:00       C
+                        Lun             13:30 - 17:30       TP A+B
+
+                09      Sam             08:30 - 12:00       C
+                        Sam             13:00 - 15:00       TP
+
+
+
+TIN502          SANTÉ, TECHNOLOGIE ET SOCIÉTÉ                                                                                             Minimum 70 Cr
+
+                01      Mar             18:00 - 21:30       C
+                        Jeu             18:00 - 20:00       TP
+
+
+NOTES
+
+a)              Programmes d'études
+
+                B:                   baccalauréat
+
+                GAQ :                certificat en gestion et assurance de la qualité
+
+                GC :                 certificat en gestion de la construction
+
+                GE :                 certificat et programme court de 1er cycle en gestion des établissements
+
+                PI :                 certificat en production industrielle
+
+                CT :                 certificat en télécommunication
+
+                TS :                 certificat spécialisé en génie des technologie de la santé
+
+b)              Activités
+
+                C : cours            TP : travaux pratiques                                       LABO : laboratoires
+
+                                     TP/2 : travaux pratiques aux deux (2) semaines               LABO/2 : laboratoires aux deux (2) semaines
+
+                TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+                présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+                trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+                pratiques (TP).
+
+c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+                Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+
+                Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+
+                            Date : 2017-10-12 15:00:13                                                                                          Page : 9/9
+

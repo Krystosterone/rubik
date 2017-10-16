@@ -1,0 +1,911 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                 7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL        ENSEIGNANT               PRÉALABLES
+
+ANG010          ANGLAIS POUR INGÉNIEURS I
+
+                01      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 15:00   TP
+
+
+
+ATE050          RÉUSSIR EN GÉNIE
+
+                01      Mar           18:00 - 20:00   Atelier
+
+
+
+CHM131          CHIMIE ET MATÉRIAUX
+
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                02      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                03      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                04      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                05      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                06      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                07      Mer           18:00 - 21:30   C
+                        Ven           18:00 - 21:00   TP
+
+                08      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 21:00   TP
+
+                09      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                10      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                11      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                12      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                13      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                14      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+                15      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+
+
+COM110          MÉTHODES DE COMMUNICATION                                                                TEST DE FRANCAIS OU FRA150 OU
+                                                                                                         FRA151
+                01      Jeu           09:00 - 12:30   C
+                        Mar           08:30 - 12:30   TP A+B
+
+                02      Mer           09:00 - 12:30   C
+                        Lun           08:30 - 12:30   TP A+B
+
+                03      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 17:30   TP A+B
+
+                04      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 22:00   TP A+B
+
+                05      Lun           18:00 - 21:30   C
+                        Ven           18:00 - 22:00   TP A+B
+
+                06      Mer           13:30 - 17:00   C
+                        Ven           08:30 - 12:30   TP A+B
+
+                07      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 17:00   TP A+B
+
+                08      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 17:30   TP A+B
+
+
+
+COM115          COMMUNICATION INTERCULTURELLE
+
+                01      Jeu           13:30 - 17:00   C
+
+                         Date : 2017-10-12 15:00:38                                                        Page : 1/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                  7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                  HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ      LOCAL            ENSEIGNANT           PRÉALABLES
+
+COM115          COMMUNICATION INTERCULTURELLE
+
+                01      Lun           13:30 - 17:30   TP A+B        E-4021
+
+                02      Mer           18:00 - 21:30   C
+                        Lun           18:00 - 22:00   TP A+B        E-4021
+
+
+
+ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                           GIA400 ou GIA410
+
+                01      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 20:00   TP
+
+                02      Mer           09:00 - 12:30   C
+                        Lun           10:00 - 12:00   TP
+
+
+
+ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
+
+                01      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 20:00   TP
+
+                02      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 20:00   TP
+
+
+
+FRA150          FRANÇAIS ÉCRIT
+
+                01      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 20:00   TP
+
+
+
+FRA151          FRANÇAIS ÉCRIT
+
+                01      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 22:00   TP
+
+
+
+GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                01      Lun           09:00 - 12:30   C
+                        Mer           10:30 - 12:30   TP
+
+                02      Jeu           09:00 - 12:30   C
+                        Mar           10:30 - 12:30   TP
+
+                03      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 15:30   TP
+
+                04      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 15:30   TP
+
+                05      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 15:30   TP
+
+                06      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 20:00   TP
+
+                07      Mer           09:00 - 12:30   C
+                        Lun           10:30 - 12:30   TP
+
+                08      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 15:30   TP
+
+                09      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 15:00   TP
+
+                10      Mer           18:00 - 21:30   C
+                        Lun           18:00 - 20:00   TP
+
+
+
+GIA601          ERGONOMIE ET SÉCURITÉ EN MILIEU DE
+                TRAVAIL
+                01      Ven           08:45 - 12:15   C
+                        Lun           13:30 - 15:30   TP-Labo A     A-1226, A-2230
+                        Lun           15:30 - 17:30   TP-Labo B     A-1226, A-2230
+
+                02      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 15:30   TP-Labo A     A-1222, A-2230
+                        Jeu           15:30 - 17:30   TP-Labo B     A-1222, A-2230
+
+                03      Mar           18:00 - 21:30   C
+                        Mer           18:00 - 20:00   TP-Labo A     A-1226, A-2230
+                        Mer           20:00 - 22:00   TP-Labo B     A-1226, A-2230
+
+
+
+
+                         Date : 2017-10-12 15:00:38                                                          Page : 2/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                 7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                               HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL            ENSEIGNANT           PRÉALABLES
+
+GOL102          ORGANISATION SCIENTIFIQUE DU TRAVAIL
+
+                01      Mer           13:30 - 17:00   C
+                        Ven           08:45 - 10:45   TP A         A-3612
+                        Ven           10:45 - 12:45   TP B         A-3612
+
+
+
+GOL110          COMPORTEMENT ORGANISATIONNEL ET
+                MANAGEMENT
+                01      Mar           08:30 - 12:00   C            A-1562
+                        Jeu           08:45 - 10:45   TP A         A-1562
+                        Jeu           10:45 - 12:45   TP B         A-1562
+
+
+
+GOL203          OUTILS DE CONCEPTION ET D'ANALYSE DE
+                PROD. ET SERV.
+                01      Ven           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   Labo         A-3602, A-3608
+
+
+
+GOL302          AMÉNAG., MANUT. ET CIRCUL. DES BIENS &                                                   Pr. AD: GOL102 et GOL203
+                DES PERSONNES                                                                            Pr. G: GOL203
+                                                                                                         Pr. I, R: GOL102 et GOL203
+                01      Lun           08:45 - 12:15   C
+                        Mer           08:30 - 11:30   TP           A-3612
+
+
+
+GOL405          MÉTHODES QUANTITATIVES EN                                                                MAT165
+                LOGISTIQUE
+                01      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 21:00   TP           A-3602, A-3608
+
+
+
+GOL450          MAÎTRISE STATISTIQUE DES PROCÉDÉS                                                        MAT350
+
+                01      Jeu           08:45 - 12:15   C
+                        Ven           13:30 - 16:30   TP           A-3612
+
+
+
+GOL455          GESTION DES OPÉRATIONS, DES FLUX ET                                                      GOL405 et MAT350
+                DES STOCKS
+                01      Mar           08:30 - 12:00   C                             T. Boukherroub
+                        Mar           13:30 - 16:30   TP           A-3612
+
+
+
+GOL460          CHAÎNES LOGISTIQUES ET                                                                   GOL405
+                D'APPROVISIONNEMENT
+                01      Mar           18:00 - 21:30   C
+                        Lun           18:00 - 21:00   TP           A-3726, A-4516
+
+
+
+GOL465          SIMULATION DES OPÉRATIONS ET DES                                                         Pr. AD: GOL102 et MAT350
+                ACTIVITÉS DE SERVICES                                                                    Pr. G: MAT350
+                                                                                                         Pr. I, R: GOL102 et MAT350
+                01      Lun           18:00 - 21:30   C            A-3612
+                        Mer           18:00 - 21:00   Labo         A-3612
+
+
+
+GOL470          SYSTÈMES DE DISTRIBUTION                                                                 GOL405
+
+                01      Jeu           08:45 - 12:15   C            A-3728           M. Ouhimmou
+                        Jeu           13:30 - 15:30   Labo A       A-3728
+                        Jeu           15:30 - 17:30   Labo B       A-3728
+
+
+
+GOL503          SPÉCIFICITÉS SECTORIELLES.: SANTÉ,                                                       Minimum 60 Cr
+                BANQUES, COMMUNICATION
+                01      Mer           13:30 - 17:00   C
+                        Lun           13:30 - 15:30   TP A         A-3612
+                        Lun           15:30 - 17:30   TP B         A-3612
+
+
+
+GOL610          GESTION DES PARCS D'ÉQUIPEMENT                                                           MAT350
+
+                01      Lun           18:00 - 21:30   C
+                        Mar           18:00 - 20:00   TP A         A-4516
+                        Mar           20:00 - 22:00   TP B         A-4516
+
+
+
+
+                         Date : 2017-10-12 15:00:38                                                         Page : 3/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                 7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                             HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL        ENSEIGNANT               PRÉALABLES
+
+GOL615          MANAGEMENT DE LA QUALITÉ                                                                 Conc. PR, SE: GOL450
+
+                01      Jeu           18:00 - 21:30   C
+                        Mer           18:00 - 20:00   TP A         A-3726
+                        Mer           20:00 - 22:00   TP B         A-3726
+
+
+
+GOL675          PLANIFICATION ET OPTIMISATION                                                            MAT350
+                D'EXPÉRIENCES
+                01      Mar           13:30 - 17:00   C            A-3728       M. Rioux
+                        Ven           13:30 - 15:30   TP A         A-3728
+                        Ven           15:30 - 17:30   TP B         A-3728
+
+
+
+GOL711          GESTION DE PROJET DANS LES PRODUITS
+                ET SERVICES
+                01      Mer           08:30 - 12:00   C                         M. Gardoni
+                        Ven           13:30 - 15:30   TP A         A-4516
+                        Ven           15:30 - 17:30   TP B         A-4516
+
+
+
+GOL720          IMPLANTATION SYST. INTÉGRÉS DE
+                GESTION D'ENTREPRISE
+                01      Mar           08:30 - 12:00   C            A-3726       M. Ouhimmou
+                        Mar           13:30 - 15:30   TP A         A-4516
+                        Mar           15:30 - 17:30   TP B         A-4516
+
+
+
+GOL725          RÉSEAUX DE TRANSPORT                                                                     GOL405
+
+                01      Lun           08:45 - 12:15   C                         M. Ouhimmou
+                        Mer           08:30 - 10:30   TP A         A-3728
+                        Mer           10:30 - 12:30   TP B         A-3728
+
+
+
+GOL791          PROJETS SPÉCIAUX                                                                         Autorisation du directeur de département
+
+                01      Ven           08:30 - 12:00   C            A-4516
+
+
+
+GOL793          PROJET FIN D’ÉTUDES EN GÉNIE DES                                                         Minimum 99 Cr
+                OPÉRATIONS ET DE LA LOGISTIQUE
+                01      Ven           08:30 - 12:00   C            A-4516
+
+
+
+GOL794          PROJET INTERNATIONAL DE FIN D’ÉTUDES                                                     Minimum 99 Cr
+                EN GÉNIE DES OPÉRATIONS ET D
+                01      Ven           08:30 - 12:00   C            A-4516
+
+
+
+GPE450          GESTION DU PERSONNEL ET RELATIONS
+                INDUSTRIELLES
+                01      Mer           13:30 - 17:00   C
+                        Lun           15:30 - 17:30   TP
+
+                02      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 20:00   TP
+
+
+
+INF130          ORDINATEURS ET PROGRAMMATION
+
+                01      Jeu           09:00 - 12:30   C            E-4023
+                        Mar           09:00 - 12:00   Labo         E-4022
+
+                02      Jeu           13:30 - 17:00   C            E-4023
+                        Lun           13:30 - 16:30   Labo         E-4022
+
+                03      Sam           08:30 - 12:00   C            E-4021
+                        Sam           13:00 - 16:00   Labo         E-4021
+
+                04      Mar           13:30 - 17:00   C            E-4023
+                        Ven           13:30 - 16:30   Labo         E-4022
+
+                05      Lun           18:00 - 21:30   C            E-4022
+                        Mer           18:00 - 21:00   Labo         E-4022
+
+                06      Mar           18:00 - 21:30   C            E-4023
+                        Jeu           18:00 - 21:00   Labo         E-4023
+
+                07      Mer           13:30 - 17:00   C            E-4022
+                        Ven           09:00 - 12:00   Labo         E-4023
+                        ???
+
+                         Date : 2017-10-12 15:00:38                                                         Page : 4/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                 7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                 HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL        ENSEIGNANT               PRÉALABLES
+
+ING150          STATIQUE ET DYNAMIQUE
+
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+                        Préalable: PHYEST-01
+                02      Ven          13:30 - 17:00    C
+                        Mar          13:30 - 16:30    TP
+
+                03      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                04      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 21:00   TP
+                        Préalable : PHYEST-02
+                05      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                06      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+
+
+ING160          THERMODYNAMIQUE ET MÉCANIQUE DES                                                         ING150
+                FLUIDES
+                01      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                02      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                03      Mer           18:00 - 21:30   C
+                        Lun           18:00 - 21:00   TP
+
+                04      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                05      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+
+
+ING500          OUTILS DE DÉVELOPPEMENT DURABLE
+                POUR L'INGÉNIEUR
+                01      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 22:00   Labo A+B     E-4023
+
+                02      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 17:00   Labo A+B     E-4022
+
+
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
+                GÉNIE (HORS PROG.)
+                01      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+                        Préalable : MATEST-01
+                02      Lun          13:30 - 17:00    C
+                        Jeu          13:30 - 16:30    TP
+                        Préalable : MATEST-02
+                03      Lun          18:00 - 21:30    C
+                        Mer          18:00 - 21:00    TP
+                        Préalable : MATEST-03
+                04      Lun          13:30 - 17:00    C
+                        Jeu          13:30 - 16:30    TP
+
+
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                01      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+                        Préalable : MATEST-01
+                02      Mar          09:00 - 12:30    C
+                        Jeu          09:00 - 12:00    TP
+
+                03      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+                        Préalable : MATEST-02
+                04      Lun          13:30 - 17:00    C
+                        Jeu          13:30 - 16:30    TP
+
+                05      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                06      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                07      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 21:00   TP
+
+
+                         Date : 2017-10-12 15:00:38                                                        Page : 5/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                 7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                             HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL        ENSEIGNANT               PRÉALABLES
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                08      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 21:00   TP
+                        Préalable : MATEST-03
+                09      Jeu          09:00 - 12:30    C
+                        Mar          09:00 - 12:00    TP
+
+                10      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                11      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                12      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                13      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                14      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                15      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+
+
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                                              MAT145
+                VECTORIELLE
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                02      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                03      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                04      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                05      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                06      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+                07      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                08      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                09      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                10      Mer           18:00 - 21:30   C
+                        Lun           18:00 - 21:00   TP
+
+                11      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                MAT145
+
+                01      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                02      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                03      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                04      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                05      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                06      Mer           18:00 - 21:30   C
+                        Ven           18:00 - 21:00   TP
+
+                07      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                08      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                09      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                         Date : 2017-10-12 15:00:38                                                        Page : 6/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                 7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                             HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL        ENSEIGNANT               PRÉALABLES
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                MAT145
+
+                10      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                11      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                12      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                             MAT145
+
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+
+                02      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                03      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                04      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                05      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                06      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                07      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 21:00   TP
+
+                08      Mer           18:00 - 21:30   C
+                        Ven           18:00 - 21:00   TP
+
+                09      Mar           13:30 - 17:00   C
+                        Ven           13:30 - 16:30   TP
+
+                10      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                11      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                12      Sam           08:30 - 12:00   C
+                        Sam           13:00 - 16:00   TP
+
+
+
+MATEST          ACCUEIL EN MATHÉMATIQUES
+
+                01      Mar           09:00 - 12:30   C
+                        Jeu           09:00 - 12:00   TP
+
+                02      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP
+
+                03      Lun           18:00 - 21:30   C
+                        Mer           18:00 - 21:00   TP
+
+
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
+                (HORS PROGRAMME)
+                01      Lun           09:00 - 12:30   C
+                        Mer           09:00 - 12:00   TP
+                        Préalable : PHYEST-01
+                02      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 21:00   TP
+                        Préalable : PHYEST-02
+                03      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                04      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                05      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+
+
+PHY335          PHYSIQUE DES ONDES                                                                       CTN258 / ING150
+
+                01      Mer           13:30 - 17:00   C
+                        Ven           09:00 - 12:00   TP
+
+                02      Jeu           09:00 - 12:30   C
+                        Mar           09:00 - 12:00   TP
+
+                         Date : 2017-10-12 15:00:38                                                         Page : 7/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                  7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                 HORAIRE HIVER 2018
+                                                       Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                       Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                       Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR              HEURE        ACTIVITÉ     LOCAL        ENSEIGNANT               PRÉALABLES
+
+PHY335          PHYSIQUE DES ONDES                                                                        CTN258 / ING150
+
+                03      Ven            09:00 - 12:30   C
+                        Mer            13:30 - 16:30   TP
+
+                04      Lun            13:30 - 17:00   C
+                        Jeu            13:30 - 16:30   TP
+
+                05      Mar            13:30 - 17:00   C
+                        Ven            13:30 - 16:30   TP
+
+                06      Lun            18:00 - 21:30   C
+                        Ven            18:00 - 21:00   TP
+
+                07      Lun            09:00 - 12:30   C
+                        Mer            09:00 - 12:00   TP
+
+                08      Sam            08:30 - 12:00   C
+                        Sam            13:00 - 16:00   TP
+
+
+
+PHYEST          ACCUEIL EN PHYSIQUE
+
+                01      Lun            09:00 - 12:30   C
+                        Mer            09:00 - 12:00   TP
+
+                02      Mar            18:00 - 21:30   C
+                        Jeu            18:00 - 21:00   TP
+
+
+
+PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
+                INITIATION À LA SANTÉ ET SÉCURITÉ
+                01      Ven            18:00 - 21:00   Atelier      A-1302
+                        Sam            09:00 - 16:00   TP           A-1302
+                        02 février 2018
+                        03 février 2018
+
+                02      Lun           18:00 - 21:00    Atelier      A-1302
+                        Mar           18:00 - 21:00    TP A         A-1302
+                        Mer           18:00 - 21:00    TP B         A-1302
+                        12 février 2018
+                        13 février 2018
+                        14 février 2018
+
+                03      Ven           18:00 - 21:00    Atelier      A-1340
+                        Sam           09:00 - 16:00    TP           A-1340
+                        02 février 2018
+                        03 février 2018
+
+                04      Lun            18:00 - 21:00   Atelier      A-1340
+                        Mar            18:00 - 21:00   TP A         A-1340
+                        Mer            18:00 - 21:00   TP B         A-1340
+                        12 février 2018
+                        13 février 2018
+                        14 février 2018
+
+                05      Ven            18:00 - 21:00   Atelier      A-1302
+                        Sam            09:00 - 16:00   TP           A-1302
+                        02 mars 2018
+                        03 mars 2018
+
+                06      Ven            18:00 - 21:00   Atelier      A-1340
+                        Sam            09:00 - 16:00   TP           A-1340
+                        02 mars 2018
+                        03 mars 2018
+
+                07                                     Atelier
+
+
+
+TIN501          ENVIRONNEMENT, TECHNOLOGIE ET                                                             Minimum 70 Cr
+                SOCIÉTÉ
+                01      Jeu            09:00 - 12:30   C
+                        Mar            08:30 - 12:30   TP A+B
+
+                02      Mer            13:30 - 17:00   C
+                        Ven            08:30 - 12:30   TP A+B
+
+                03      Ven            13:30 - 17:00   C
+                        Mar            13:30 - 17:30   TP A+B
+
+                04      Jeu            18:00 - 21:30   C
+                        Mar            18:00 - 22:00   TP A+B
+
+                05      Mer            18:00 - 21:30   C
+
+                         Date : 2017-10-12 15:00:38                                                          Page : 8/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                         HORAIRE HIVER 2018
+                                                            Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                            Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                            Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR               HEURE            ACTIVITÉ            LOCAL             ENSEIGNANT                              PRÉALABLES
+
+TIN501          ENVIRONNEMENT, TECHNOLOGIE ET                                                                                             Minimum 70 Cr
+                SOCIÉTÉ
+                05      Ven             18:00 - 22:00       TP A+B
+
+                06      Lun             09:00 - 12:30       C
+                        Mer             08:30 - 12:30       TP A+B
+
+                07      Mar             09:00 - 12:30       C
+                        Jeu             08:30 - 12:30       TP A+B
+
+                08      Jeu             13:30 - 17:00       C
+                        Lun             13:30 - 17:30       TP A+B
+
+                09      Sam             08:30 - 12:00       C
+                        Sam             13:00 - 15:00       TP
+
+
+NOTES
+
+a)              Programmes d'études
+
+                B:                   baccalauréat
+
+                GAQ :                certificat en gestion et assurance de la qualité
+
+                GC :                 certificat en gestion de la construction
+
+                GE :                 certificat et programme court de 1er cycle en gestion des établissements
+
+                PI :                 certificat en production industrielle
+
+                CT :                 certificat en télécommunication
+
+                TS :                 certificat spécialisé en génie des technologie de la santé
+
+b)              Activités
+
+                C : cours            TP : travaux pratiques                                       LABO : laboratoires
+
+                                     TP/2 : travaux pratiques aux deux (2) semaines               LABO/2 : laboratoires aux deux (2) semaines
+
+                TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+                présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+                trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+                pratiques (TP).
+
+c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+                Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+
+                Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+
+                            Date : 2017-10-12 15:00:38                                                                                          Page : 9/9
+
