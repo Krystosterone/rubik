@@ -104,7 +104,7 @@ COM115          COMMUNICATION INTERCULTURELLE
 
                 01      Jeu           13:30 - 17:00   C
 
-                         Date : 2017-10-12 15:00:42                                                        Page : 1/9
+                         Date : 2017-10-20 09:48:03                                                        Page : 1/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                   7610 : Baccalauréat en génie des technologies de l'information
@@ -211,7 +211,7 @@ GIA601          ERGONOMIE ET SÉCURITÉ EN MILIEU DE
 
 
 
-                         Date : 2017-10-12 15:00:42                                                          Page : 2/9
+                         Date : 2017-10-20 09:48:03                                                          Page : 2/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7610 : Baccalauréat en génie des technologies de l'information
@@ -316,7 +316,7 @@ GTI745          INTERFACES UTILISATEURS AVANCÉES                               
                         Ven           08:45 - 12:45   Labo A+B     A-3322
 
 
-                         Date : 2017-10-12 15:00:42                                                         Page : 3/9
+                         Date : 2017-10-20 09:48:03                                                         Page : 3/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                   7610 : Baccalauréat en génie des technologies de l'information
@@ -420,7 +420,7 @@ ING160          THERMODYNAMIQUE ET MÉCANIQUE DES                               
 
 
 
-                         Date : 2017-10-12 15:00:42                                                          Page : 4/9
+                         Date : 2017-10-20 09:48:03                                                          Page : 4/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7610 : Baccalauréat en génie des technologies de l'information
@@ -431,7 +431,7 @@ Bureau du registraire - logistique académique
                                                       Locaux B: bâtiment nord, 1111, Notre-Dame O.
                                                       Locaux E: bâtiment ouest, 1220, Notre-Dame O.
 
-COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL         ENSEIGNANT              PRÉALABLES
+COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL            ENSEIGNANT           PRÉALABLES
 
 ING500          OUTILS DE DÉVELOPPEMENT DURABLE
                 POUR L'INGÉNIEUR
@@ -461,6 +461,9 @@ LOG210          ANALYSE ET CONCEPTION DE LOGICIELS                              
                 01      Ven           08:45 - 12:15   C
                         Jeu           13:30 - 16:30   Labo         A-3324
 
+                02      Mer           18:00 - 21:30   C
+                        Mar           18:00 - 21:00   Labo         A-3326
+
 
 
 LOG430          ARCHITECTURE LOGICIELLE                                                                  LOG210
@@ -482,6 +485,13 @@ LOG710          PRINCIPES SYSTÈMES D'EXPL. ET                                  
                 01      Lun           18:00 - 21:30   C
                         Ven           18:00 - 20:00   Labo A       A-3324
                         Ven           18:00 - 20:00   Labo B       A-3450
+
+
+
+LOG725          INGÉNIERIE ET CONCEPTION DE JEUX
+                VIDÉO
+                01      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 22:00   Labo A+B     A-3446, A-3450
 
 
 
@@ -513,18 +523,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
                         Jeu           13:30 - 16:30   TP
                         Préalable : MATEST-02
                 04      Lun          13:30 - 17:00    C
-                        Jeu          13:30 - 16:30    TP
-
-                05      Mer           09:00 - 12:30   C
-                        Lun           09:00 - 12:00   TP
-
-                06      Ven           09:00 - 12:30   C
-                        Mer           13:30 - 16:30   TP
-
-                07      Mar           18:00 - 21:30   C
-
-
-                         Date : 2017-10-12 15:00:42                                                         Page : 5/9
+                         Date : 2017-10-20 09:48:03                                                         Page : 5/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7610 : Baccalauréat en génie des technologies de l'information
@@ -539,7 +538,16 @@ COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL       
 
 MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
-                07      Jeu           18:00 - 21:00   TP
+                04      Jeu           13:30 - 16:30   TP
+
+                05      Mer           09:00 - 12:30   C
+                        Lun           09:00 - 12:00   TP
+
+                06      Ven           09:00 - 12:30   C
+                        Mer           13:30 - 16:30   TP
+
+                07      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 21:00   TP
 
                 08      Lun           18:00 - 21:30   C
                         Mer           18:00 - 21:00   TP
@@ -621,18 +629,9 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
                 04      Mer           09:00 - 12:30   C
                         Lun           09:00 - 12:00   TP
 
-                05      Jeu           13:30 - 17:00   C
-                        Lun           13:30 - 16:30   TP
-
-                06      Ven           13:30 - 17:00   C
-                        Mar           13:30 - 16:30   TP
-
-                07      Jeu           18:00 - 21:30   C
-                        Mar           18:00 - 21:00   TP
 
 
-
-                         Date : 2017-10-12 15:00:42                                                        Page : 6/9
+                         Date : 2017-10-20 09:48:03                                                        Page : 6/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7610 : Baccalauréat en génie des technologies de l'information
@@ -646,6 +645,15 @@ Bureau du registraire - logistique académique
 COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL         ENSEIGNANT              PRÉALABLES
 
 MAT350          PROBABILITÉS ET STATISTIQUES                                                             MAT145
+
+                05      Jeu           13:30 - 17:00   C
+                        Lun           13:30 - 16:30   TP
+
+                06      Ven           13:30 - 17:00   C
+                        Mar           13:30 - 16:30   TP
+
+                07      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 21:00   TP
 
                 08      Mer           18:00 - 21:30   C
                         Ven           18:00 - 21:00   TP
@@ -728,17 +736,8 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
                         Ven           09:00 - 12:00   TP
 
                 04      Jeu           13:30 - 17:00   C
-                        Lun           13:30 - 16:30   TP
 
-                05      Lun           18:00 - 21:30   C
-                        Ven           18:00 - 21:00   TP
-
-                06      Ven           13:30 - 17:00   C
-                        Mar           13:30 - 16:30   TP
-
-                07      Sam           08:30 - 12:00   C
-
-                         Date : 2017-10-12 15:00:42                                                         Page : 7/9
+                         Date : 2017-10-20 09:48:03                                                         Page : 7/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                   7610 : Baccalauréat en génie des technologies de l'information
@@ -753,7 +752,16 @@ COURS           GR      JOUR              HEURE        ACTIVITÉ     LOCAL      
 
 PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                 CTN258 / ING150
 
-                07      Sam            13:00 - 16:00   TP
+                04      Lun            13:30 - 16:30   TP
+
+                05      Lun            18:00 - 21:30   C
+                        Ven            18:00 - 21:00   TP
+
+                06      Ven            13:30 - 17:00   C
+                        Mar            13:30 - 16:30   TP
+
+                07      Sam            08:30 - 12:00   C
+                        Sam            13:00 - 16:00   TP
 
                 08      Mer            09:00 - 12:30   C
                         Lun            09:00 - 12:00   TP
@@ -829,17 +837,9 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
                         02 mars 2018
                         03 mars 2018
 
-                06      Ven          18:00 - 21:00     Atelier      A-1340
-                        Sam          09:00 - 16:00     TP           A-1340
-                        02 mars 2018
-                        03 mars 2018
+                06      Ven            18:00 - 21:00   Atelier      A-1340
 
-                07                                     Atelier
-
-
-
-
-                         Date : 2017-10-12 15:00:43                                                          Page : 8/9
+                         Date : 2017-10-20 09:48:03                                                          Page : 8/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7610 : Baccalauréat en génie des technologies de l'information
@@ -851,6 +851,16 @@ Bureau du registraire - logistique académique
                                                             Locaux E: bâtiment ouest, 1220, Notre-Dame O.
 
 COURS           GR      JOUR               HEURE            ACTIVITÉ            LOCAL             ENSEIGNANT                              PRÉALABLES
+
+PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
+                INITIATION À LA SANTÉ ET SÉCURITÉ
+                06      Sam          09:00 - 16:00          TP                  A-1340
+                        02 mars 2018
+                        03 mars 2018
+
+                07                                          Atelier
+
+
 
 TIN501          ENVIRONNEMENT, TECHNOLOGIE ET                                                                                             Minimum 70 Cr
                 SOCIÉTÉ
@@ -920,5 +930,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                            Date : 2017-10-12 15:00:43                                                                                          Page : 9/9
+                            Date : 2017-10-20 09:48:03                                                                                          Page : 9/9
 

@@ -104,7 +104,7 @@ COM115          COMMUNICATION INTERCULTURELLE
 
                 01      Jeu           13:30 - 17:00   C
 
-                         Date : 2017-10-12 15:00:35                                                      Page : 1/10
+                         Date : 2017-10-20 09:47:56                                                      Page : 1/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7485 : Baccalauréat en génie de la production automatisée
@@ -211,7 +211,7 @@ GIA601          ERGONOMIE ET SÉCURITÉ EN MILIEU DE
 
 
 
-                         Date : 2017-10-12 15:00:35                                                        Page : 2/10
+                         Date : 2017-10-20 09:47:56                                                        Page : 2/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7485 : Baccalauréat en génie de la production automatisée
@@ -226,7 +226,7 @@ COURS           GR      JOUR            HEURE         ACTIVITÉ    LOCAL        
 
 GPA141          AUTOMATES PROGRAMMABLES:
                 LANGAGES ET MISE EN OEUVRE
-                01      Jeu           08:45 - 12:15   C
+                01      Jeu           08:45 - 12:15   C                            A. Joubair
                         Mar           08:30 - 10:30   Labo A      A-3602
                         Mar           10:30 - 12:30   Labo B      A-3602
 
@@ -251,7 +251,7 @@ GPA210          ÉLÉMENTS DE FABRICATION MÉCANIQUE
 
 GPA220          ANALYSE DES CIRCUITS ÉLECTRIQUES
 
-                01      Mar           13:30 - 17:00   C
+                01      Mar           13:30 - 17:00   C                            J.P. Roberge
                         Ven           13:30 - 16:30   Labo        A-3564, A-3608
 
 
@@ -302,8 +302,8 @@ GPA535          SYSTÈMES ASSERVIS                                              
 
 GPA546          ROBOTS INDUSTRIELS                                                                     MAT165 et MAT265
 
-                01      Jeu           08:45 - 12:15   C           A-3336           I. Bonev
-                        Mar           08:30 - 11:30   Labo        A-0610, A-3612
+                01      Mar           08:30 - 12:00   C           A-3336           I. Bonev
+                        Jeu           08:30 - 11:30   Labo        A-0610, A-3612
 
 
 
@@ -316,7 +316,7 @@ GPA548          GESTION DE LA PRODUCTION                                        
 
 
 
-                         Date : 2017-10-12 15:00:35                                                      Page : 3/10
+                         Date : 2017-10-20 09:47:56                                                      Page : 3/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7485 : Baccalauréat en génie de la production automatisée
@@ -374,7 +374,7 @@ GPA754          CELLULES DE PRODUCTION ROBOTISÉE                               
 
 GPA770          MICROÉLECTRONIQUE APPLIQUÉE                                                            GPA325
 
-                01      Lun           08:45 - 12:15   C
+                01      Lun           08:45 - 12:15   C                            M. Tremblay
                         Mar           08:30 - 11:30   Labo A      A-3564
                         Mar           13:30 - 16:30   Labo B      A-3564
 
@@ -421,7 +421,7 @@ GTS602          CONCEPTION D'ORTHÈSES ET DE
 
 
 
-                         Date : 2017-10-12 15:00:35                                                      Page : 4/10
+                         Date : 2017-10-20 09:47:56                                                      Page : 4/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                   7485 : Baccalauréat en génie de la production automatisée
@@ -522,7 +522,7 @@ ING500          OUTILS DE DÉVELOPPEMENT DURABLE
 
 
 
-                         Date : 2017-10-12 15:00:35                                                       Page : 5/10
+                         Date : 2017-10-20 09:47:56                                                       Page : 5/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7485 : Baccalauréat en génie de la production automatisée
@@ -627,7 +627,7 @@ MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                   
                         Jeu           09:00 - 12:00   TP
 
 
-                         Date : 2017-10-12 15:00:35                                                      Page : 6/10
+                         Date : 2017-10-20 09:47:56                                                      Page : 6/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7485 : Baccalauréat en génie de la production automatisée
@@ -734,7 +734,7 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
 
 
 
-                         Date : 2017-10-12 15:00:35                                                      Page : 7/10
+                         Date : 2017-10-20 09:47:56                                                      Page : 7/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7485 : Baccalauréat en génie de la production automatisée
@@ -840,7 +840,7 @@ PHYEST          ACCUEIL EN PHYSIQUE
                 01      Lun           09:00 - 12:30   C
                         Mer           09:00 - 12:00   TP
 
-                         Date : 2017-10-12 15:00:35                                                      Page : 8/10
+                         Date : 2017-10-20 09:47:56                                                      Page : 8/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                   7485 : Baccalauréat en génie de la production automatisée
@@ -938,7 +938,7 @@ TIN502          SANTÉ, TECHNOLOGIE ET SOCIÉTÉ                                
 
 
 
-                         Date : 2017-10-12 15:00:35                                                       Page : 9/10
+                         Date : 2017-10-20 09:47:56                                                       Page : 9/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7485 : Baccalauréat en génie de la production automatisée
@@ -994,5 +994,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                            Date : 2017-10-12 15:00:35                                                                                      Page : 10/10
+                            Date : 2017-10-20 09:47:56                                                                                      Page : 10/10
 

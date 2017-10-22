@@ -101,7 +101,7 @@ COM129          MÉTHODES DE COMMUNICATION EN GÉNIE
                 01      Lun           13:30 - 17:00   C
                         Jeu           13:30 - 17:30   TP A+B
 
-                         Date : 2017-10-12 15:00:50                                                        Page : 1/12
+                         Date : 2017-10-20 09:48:11                                                        Page : 1/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             7684 : Baccalauréat en génie mécanique
@@ -207,7 +207,7 @@ GPO602          ÉVALUATION ET CONTRÔLE DE
 
 
 
-                         Date : 2017-10-12 15:00:50                                                         Page : 2/12
+                         Date : 2017-10-20 09:48:11                                                         Page : 2/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             7684 : Baccalauréat en génie mécanique
@@ -308,7 +308,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
 
 
 
-                         Date : 2017-10-12 15:00:50                                                         Page : 3/12
+                         Date : 2017-10-20 09:48:11                                                         Page : 3/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                          7684 : Baccalauréat en génie mécanique
@@ -414,7 +414,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
 
                 02      Jeu           09:00 - 12:30   C
 
-                         Date : 2017-10-12 15:00:50                                                      Page : 4/12
+                         Date : 2017-10-20 09:48:11                                                      Page : 4/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                          7684 : Baccalauréat en génie mécanique
@@ -522,7 +522,7 @@ MEC029          COMMUNICATION GRAPHIQUE ET
 
 
 
-                         Date : 2017-10-12 15:00:51                                                      Page : 5/12
+                         Date : 2017-10-20 09:48:11                                                      Page : 5/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                            7684 : Baccalauréat en génie mécanique
@@ -629,7 +629,7 @@ MEC300          TECHNOLOGIE DE FABRICATION                                      
 
 
 
-                         Date : 2017-10-12 15:00:51                                                        Page : 6/12
+                         Date : 2017-10-20 09:48:11                                                        Page : 6/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                            7684 : Baccalauréat en génie mécanique
@@ -733,7 +733,7 @@ MEC528          ÉLÉMENTS DE MACHINE                                           
 
 
 
-                         Date : 2017-10-12 15:00:51                                                        Page : 7/12
+                         Date : 2017-10-20 09:48:12                                                        Page : 7/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                            7684 : Baccalauréat en génie mécanique
@@ -839,7 +839,7 @@ MEC733          GESTION D'ÉNERGIE DANS LES BÂTIMENTS                          
 
 
 
-                         Date : 2017-10-12 15:00:51                                                        Page : 8/12
+                         Date : 2017-10-20 09:48:12                                                        Page : 8/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             7684 : Baccalauréat en génie mécanique
@@ -943,7 +943,7 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
 
                 01      Lun           09:00 - 12:30   C
 
-                         Date : 2017-10-12 15:00:51                                                         Page : 9/12
+                         Date : 2017-10-20 09:48:12                                                         Page : 9/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                            7684 : Baccalauréat en génie mécanique
@@ -1046,7 +1046,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
 
 
 
-                         Date : 2017-10-12 15:00:51                                                       Page : 10/12
+                         Date : 2017-10-20 09:48:12                                                       Page : 10/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             7684 : Baccalauréat en génie mécanique
@@ -1118,7 +1118,7 @@ TIN502          SANTÉ, TECHNOLOGIE ET SOCIÉTÉ                                
 
 
 
-                         Date : 2017-10-12 15:00:51                                                        Page : 11/12
+                         Date : 2017-10-20 09:48:12                                                        Page : 11/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                         7684 : Baccalauréat en génie mécanique
@@ -1174,5 +1174,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                            Date : 2017-10-12 15:00:51                                                                                      Page : 12/12
+                            Date : 2017-10-20 09:48:12                                                                                      Page : 12/12
 

@@ -104,7 +104,7 @@ COM115          COMMUNICATION INTERCULTURELLE
 
                 01      Jeu           13:30 - 17:00   C
 
-                         Date : 2017-10-12 15:00:46                                                     Page : 1/11
+                         Date : 2017-10-20 09:48:07                                                     Page : 1/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                          7622 : Baccalauréat en génie de la construction
@@ -140,6 +140,9 @@ CTN103          ÉLÉMENTS DE CONSTRUCTION DE
                 BÂTIMENT
                 01      Ven           08:30 - 12:00   C
                         Ven           13:30 - 16:30   TP/Labo       A-4524
+
+                02      Mer           13:30 - 17:00   C
+                        Mer           08:30 - 11:30   TP/Labo       A-4524
 
 
 
@@ -207,11 +210,8 @@ CTN300          ESTIMATION                                                      
                 03      Mar           13:30 - 17:00   C
                         Mer           13:30 - 16:30   TP/Labo       A-1432
 
-                04      Mar           08:30 - 12:00   C
-                        Lun           08:45 - 11:45   TP/Labo       A-1560
 
-
-                         Date : 2017-10-12 15:00:46                                                          Page : 2/11
+                         Date : 2017-10-20 09:48:07                                                          Page : 2/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                         7622 : Baccalauréat en génie de la construction
@@ -227,6 +227,9 @@ COURS           GR      JOUR            HEURE         ACTIVITÉ    LOCAL        
 CTN300          ESTIMATION                                                                                Pr. AU: CTN100 et CTN103
                                                                                                           Pr. B: CTN100
                                                                                                           Pr. C: CTN100 et cTN103
+                04      Mar           08:30 - 12:00   C
+                        Lun           08:45 - 11:45   TP/Labo     A-1560
+
                 05      Lun           18:00 - 21:30   C
                         Ven           18:00 - 21:00   TP/Labo     A-1214
 
@@ -315,11 +318,8 @@ CTN426          HYDRAULIQUE ET HYDROLOGIE                                       
                 01      Jeu           13:30 - 17:00   C
                         Lun           13:30 - 16:30   TP/Labo     A-1472
 
-                02      Lun           13:30 - 17:00   C
-                        Jeu           13:30 - 16:30   TP/Labo     A-1472
 
-
-                         Date : 2017-10-12 15:00:46                                                         Page : 3/11
+                         Date : 2017-10-20 09:48:07                                                         Page : 3/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                          7622 : Baccalauréat en génie de la construction
@@ -333,6 +333,9 @@ Bureau du registraire - logistique académique
 COURS           GR      JOUR            HEURE         ACTIVITÉ      LOCAL            ENSEIGNANT            PRÉALABLES
 
 CTN426          HYDRAULIQUE ET HYDROLOGIE                                                                  CTN326 et MAT350*
+
+                02      Lun           13:30 - 17:00   C
+                        Jeu           13:30 - 16:30   TP/Labo       A-1472
 
                 03      Mer           08:30 - 12:00   C
                         Lun           08:45 - 11:45   TP/Labo       A-1472
@@ -420,13 +423,8 @@ CTN701          RÉALISATION DES PROJETS DE                                     
 
 
 
-CTN702          CONTRÔLE ET PERFORMANCE DES                                                                CTN200
-                PROJETS DE CONSTRUCTION
-                01      Mar           18:00 - 21:30   C
 
-
-
-                         Date : 2017-10-12 15:00:46                                                          Page : 4/11
+                         Date : 2017-10-20 09:48:07                                                          Page : 4/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                          7622 : Baccalauréat en génie de la construction
@@ -441,7 +439,8 @@ COURS           GR      JOUR            HEURE         ACTIVITÉ      LOCAL      
 
 CTN702          CONTRÔLE ET PERFORMANCE DES                                                                CTN200
                 PROJETS DE CONSTRUCTION
-                01      Jeu           18:00 - 22:00   TP-Labo/2     A-1552, A-1560
+                01      Mar           18:00 - 21:30   C
+                        Jeu           18:00 - 22:00   TP-Labo/2     A-1552, A-1560
 
 
 
@@ -526,8 +525,11 @@ CTN765          PROJETS D'EXPÉRIMENTATION EN                                   
 
 
 
+CTN768          DOMAINES ÉMERGENTS EN GÉNIE DE
+                L'ENVIRONNEMENT
+                01      Lun           18:00 - 21:30   C
 
-                         Date : 2017-10-12 15:00:46                                                          Page : 5/11
+                         Date : 2017-10-20 09:48:07                                                          Page : 5/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                          7622 : Baccalauréat en génie de la construction
@@ -542,8 +544,7 @@ COURS           GR      JOUR            HEURE         ACTIVITÉ      LOCAL      
 
 CTN768          DOMAINES ÉMERGENTS EN GÉNIE DE
                 L'ENVIRONNEMENT
-                01      Lun           18:00 - 21:30   C
-                        Ven           18:00 - 21:00   TP
+                01      Ven           18:00 - 21:00   TP
 
 
 
@@ -633,7 +634,8 @@ GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
 
                 08      Ven           09:00 - 12:30   C
 
-                         Date : 2017-10-12 15:00:46                                                          Page : 6/11
+
+                         Date : 2017-10-20 09:48:07                                                          Page : 6/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                       7622 : Baccalauréat en génie de la construction
@@ -737,7 +739,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
                 12      Mer           13:30 - 17:00   C
 
 
-                         Date : 2017-10-12 15:00:46                                                      Page : 7/11
+                         Date : 2017-10-20 09:48:07                                                      Page : 7/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7622 : Baccalauréat en génie de la construction
@@ -843,7 +845,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
 
 
 
-                         Date : 2017-10-12 15:00:46                                                    Page : 8/11
+                         Date : 2017-10-20 09:48:07                                                    Page : 8/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7622 : Baccalauréat en génie de la construction
@@ -950,7 +952,7 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
 
                 07      Sam           08:30 - 12:00   C
 
-                         Date : 2017-10-12 15:00:46                                                     Page : 9/11
+                         Date : 2017-10-20 09:48:07                                                     Page : 9/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                         7622 : Baccalauréat en génie de la construction
@@ -1051,7 +1053,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
 
 
 
-                         Date : 2017-10-12 15:00:47                                                        Page : 10/11
+                         Date : 2017-10-20 09:48:07                                                        Page : 10/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7622 : Baccalauréat en génie de la construction
@@ -1132,5 +1134,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                            Date : 2017-10-12 15:00:47                                                                                      Page : 11/11
+                            Date : 2017-10-20 09:48:07                                                                                      Page : 11/11
 

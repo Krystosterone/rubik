@@ -104,7 +104,7 @@ COM115          COMMUNICATION INTERCULTURELLE
 
                 01      Jeu           13:30 - 17:00   C
 
-                         Date : 2017-10-12 15:00:38                                                        Page : 1/9
+                         Date : 2017-10-20 09:47:59                                                        Page : 1/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                   7495 : Baccalauréat en génie des opérations et de la logistique
@@ -211,7 +211,7 @@ GIA601          ERGONOMIE ET SÉCURITÉ EN MILIEU DE
 
 
 
-                         Date : 2017-10-12 15:00:38                                                          Page : 2/9
+                         Date : 2017-10-20 09:47:59                                                          Page : 2/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7495 : Baccalauréat en génie des opérations et de la logistique
@@ -301,7 +301,7 @@ GOL470          SYSTÈMES DE DISTRIBUTION                                       
 
 GOL503          SPÉCIFICITÉS SECTORIELLES.: SANTÉ,                                                       Minimum 60 Cr
                 BANQUES, COMMUNICATION
-                01      Mer           13:30 - 17:00   C
+                01      Mer           13:30 - 17:00   C                             S. Assal
                         Lun           13:30 - 15:30   TP A         A-3612
                         Lun           15:30 - 17:30   TP B         A-3612
 
@@ -316,7 +316,7 @@ GOL610          GESTION DES PARCS D'ÉQUIPEMENT                                 
 
 
 
-                         Date : 2017-10-12 15:00:38                                                         Page : 3/9
+                         Date : 2017-10-20 09:47:59                                                         Page : 3/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7495 : Baccalauréat en génie des opérations et de la logistique
@@ -421,7 +421,7 @@ INF130          ORDINATEURS ET PROGRAMMATION
                         Ven           09:00 - 12:00   Labo         E-4023
                         ???
 
-                         Date : 2017-10-12 15:00:38                                                         Page : 4/9
+                         Date : 2017-10-20 09:47:59                                                         Page : 4/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7495 : Baccalauréat en génie des opérations et de la logistique
@@ -525,7 +525,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
                         Jeu           18:00 - 21:00   TP
 
 
-                         Date : 2017-10-12 15:00:38                                                        Page : 5/9
+                         Date : 2017-10-20 09:47:59                                                        Page : 5/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7495 : Baccalauréat en génie des opérations et de la logistique
@@ -632,7 +632,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
                 09      Jeu           09:00 - 12:30   C
                         Mar           09:00 - 12:00   TP
 
-                         Date : 2017-10-12 15:00:38                                                        Page : 6/9
+                         Date : 2017-10-20 09:47:59                                                        Page : 6/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                  7495 : Baccalauréat en génie des opérations et de la logistique
@@ -738,7 +738,7 @@ PHY335          PHYSIQUE DES ONDES                                              
                 02      Jeu           09:00 - 12:30   C
                         Mar           09:00 - 12:00   TP
 
-                         Date : 2017-10-12 15:00:38                                                         Page : 7/9
+                         Date : 2017-10-20 09:48:00                                                         Page : 7/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                   7495 : Baccalauréat en génie des opérations et de la logistique
@@ -839,7 +839,7 @@ TIN501          ENVIRONNEMENT, TECHNOLOGIE ET                                   
 
                 05      Mer            18:00 - 21:30   C
 
-                         Date : 2017-10-12 15:00:38                                                          Page : 8/9
+                         Date : 2017-10-20 09:48:00                                                          Page : 8/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7495 : Baccalauréat en génie des opérations et de la logistique
@@ -907,5 +907,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                            Date : 2017-10-12 15:00:38                                                                                          Page : 9/9
+                            Date : 2017-10-20 09:48:00                                                                                          Page : 9/9
 

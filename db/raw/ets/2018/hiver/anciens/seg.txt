@@ -104,7 +104,7 @@ COM115          COMMUNICATION INTERCULTURELLE
 
                 01      Jeu           13:30 - 17:00   C
 
-                         Date : 2017-10-12 15:00:13                                                     Page : 1/9
+                         Date : 2017-10-20 09:47:35                                                     Page : 1/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                           Service des enseignements généraux
@@ -210,7 +210,7 @@ GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
 
 
 
-                         Date : 2017-10-12 15:00:13                                                      Page : 2/9
+                         Date : 2017-10-20 09:47:35                                                      Page : 2/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                       Service des enseignements généraux
@@ -314,7 +314,7 @@ INF135          INTRODUCTION À LA PROGRAMMATION EN
                 01      Lun           09:00 - 12:30   C               E-4021
                         Mer           09:00 - 12:00   Labo            E-4022
 
-                         Date : 2017-10-12 15:00:13                                                              Page : 3/9
+                         Date : 2017-10-20 09:47:35                                                              Page : 3/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             Service des enseignements généraux
@@ -419,7 +419,7 @@ ING500          OUTILS DE DÉVELOPPEMENT DURABLE
                 02      Sam           08:30 - 12:00   C
 
 
-                         Date : 2017-10-12 15:00:13                                                     Page : 4/9
+                         Date : 2017-10-20 09:47:35                                                     Page : 4/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             Service des enseignements généraux
@@ -524,7 +524,7 @@ MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                   
 
 
 
-                         Date : 2017-10-12 15:00:13                                                     Page : 5/9
+                         Date : 2017-10-20 09:47:35                                                     Page : 5/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                           Service des enseignements généraux
@@ -631,7 +631,7 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
 
                 05      Jeu           13:30 - 17:00   C
 
-                         Date : 2017-10-12 15:00:13                                                     Page : 6/9
+                         Date : 2017-10-20 09:47:35                                                     Page : 6/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                           Service des enseignements généraux
@@ -737,7 +737,7 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
                 04      Jeu           13:30 - 17:00   C
 
 
-                         Date : 2017-10-12 15:00:13                                                      Page : 7/9
+                         Date : 2017-10-20 09:47:35                                                      Page : 7/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             Service des enseignements généraux
@@ -839,7 +839,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
 
                 06      Ven            18:00 - 21:00   Atelier     A-1340
 
-                         Date : 2017-10-12 15:00:13                                                       Page : 8/9
+                         Date : 2017-10-20 09:47:35                                                       Page : 8/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                               Service des enseignements généraux
@@ -937,5 +937,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                            Date : 2017-10-12 15:00:13                                                                                          Page : 9/9
+                            Date : 2017-10-20 09:47:35                                                                                          Page : 9/9
 

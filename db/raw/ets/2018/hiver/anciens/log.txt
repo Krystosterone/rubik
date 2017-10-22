@@ -104,7 +104,7 @@ COM115          COMMUNICATION INTERCULTURELLE
 
                 01      Jeu           13:30 - 17:00   C
 
-                         Date : 2017-10-12 15:00:27                                                      Page : 1/10
+                         Date : 2017-10-20 09:47:49                                                      Page : 1/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7365 : Baccalauréat en génie logiciel
@@ -211,7 +211,7 @@ GIA601          ERGONOMIE ET SÉCURITÉ EN MILIEU DE
 
 
 
-                         Date : 2017-10-12 15:00:27                                                            Page : 2/10
+                         Date : 2017-10-20 09:47:49                                                            Page : 2/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7365 : Baccalauréat en génie logiciel
@@ -313,7 +313,7 @@ INFTEST         ACCUEIL EN INFORMATIQUE
 
 
 
-                         Date : 2017-10-12 15:00:28                                                                Page : 3/10
+                         Date : 2017-10-20 09:47:49                                                                Page : 3/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             7365 : Baccalauréat en génie logiciel
@@ -402,6 +402,9 @@ LOG210          ANALYSE ET CONCEPTION DE LOGICIELS                              
                 01      Ven           08:45 - 12:15   C
                         Jeu           13:30 - 16:30   Labo         A-3324
 
+                02      Mer           18:00 - 21:30   C
+                        Mar           18:00 - 21:00   Labo         A-3326
+
 
 
 LOG240          TESTS ET MAINTENANCE                                                                     LOG100
@@ -414,12 +417,8 @@ LOG240          TESTS ET MAINTENANCE                                            
 LOG320          STRUCTURES DE DONNÉES ET                                                                 MAT210, LOG121
                 ALGORITHMES
                 01      Mar           08:45 - 12:15   C
-                        Ven           13:30 - 16:30   Labo         A-3324
 
-
-
-
-                         Date : 2017-10-12 15:00:28                                                        Page : 4/10
+                         Date : 2017-10-20 09:47:49                                                        Page : 4/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             7365 : Baccalauréat en génie logiciel
@@ -432,10 +431,16 @@ Bureau du registraire - logistique académique
 
 COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL        ENSEIGNANT               PRÉALABLES
 
+LOG320          STRUCTURES DE DONNÉES ET                                                                 MAT210, LOG121
+                ALGORITHMES
+                01      Ven           13:30 - 16:30   Labo         A-3324
+
+
+
 LOG330          ASSURANCE DE LA QUALITÉ DES                                                              LOG121 et LOG240
                 LOGICIELS
-                01      Lun           08:30 - 12:00   C
-                        Mar           13:30 - 15:30   Labo         A-3450
+                01      Jeu           18:00 - 21:30   C
+                        Lun           18:00 - 20:00   Labo         A-3412
 
 
 
@@ -443,6 +448,9 @@ LOG410          ANALYSE DE BESOINS ET SPÉCIFICATIONS                           
 
                 01      Mar           18:00 - 21:30   C
                         Ven           18:00 - 20:00   Labo         A-3412
+
+                02      Lun           13:30 - 17:00   C
+                        Mer           08:30 - 10:30   Labo         A-3326
 
 
 
@@ -458,6 +466,13 @@ LOG515          GESTION DE PROJETS EN GÉNIE LOGICIEL                           
                 01      Mar           18:00 - 21:30   C
                         Jeu           18:00 - 21:00   Labo A       A-3326
                         Jeu           18:00 - 21:00   Labo B       A-3322
+
+
+
+LOG530          RÉINGÉNIERIE DU LOGICIEL                                                                 LOG210
+
+                01      Ven           08:45 - 12:15   C
+                        Jeu           08:30 - 10:30   Labo C       A-3450
 
 
 
@@ -504,40 +519,40 @@ LOG710          PRINCIPES SYSTÈMES D'EXPL. ET                                  
 
 
 
+
+                         Date : 2017-10-20 09:47:49                                                        Page : 5/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                7365 : Baccalauréat en génie logiciel
+
+
+                                                                 HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ     LOCAL            ENSEIGNANT               PRÉALABLES
+
 LOG725          INGÉNIERIE ET CONCEPTION DE JEUX
                 VIDÉO
-                01      Ven           08:45 - 12:15   C
-                        Jeu           08:30 - 12:30   Labo A+B     A-3446
+                01      Jeu           18:00 - 21:30   C
+                        Mar           18:00 - 22:00   Labo A+B     A-3446, A-3450
 
 
 
-LOG750          INFOGRAPHIE                                                                              MAT472
-                01      Ven           08:45 - 12:15   C                         B. Roy
+LOG750          INFOGRAPHIE                                                                                  MAT472
+                01      Ven           08:45 - 12:15   C                             B. Roy
                         Lun           13:30 - 17:30   Labo A+B     A-3322
 
 
 
-LOG791          PROJETS SPÉCIAUX                                                                         Autorisation du directeur de département
+LOG791          PROJETS SPÉCIAUX                                                                             Autorisation du directeur de département
 
                 01      Mer           22:00 - 23:00   Projet
 
 
 
-
-                         Date : 2017-10-12 15:00:28                                                        Page : 5/10
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                         7365 : Baccalauréat en génie logiciel
-
-
-                                                               HORAIRE HIVER 2018
-                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-COURS           GR      JOUR            HEURE         ACTIVITÉ   LOCAL       ENSEIGNANT               PRÉALABLES
-
-LOG795          PROJET DE FIN D'ÉTUDES EN GÉNIE                                                       Min. 99 crédits
+LOG795          PROJET DE FIN D'ÉTUDES EN GÉNIE                                                              Min. 99 crédits
                 LOGICIEL
                 01      Mer           22:00 - 23:00   Projet
 
@@ -608,6 +623,20 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
 
 
+
+                         Date : 2017-10-20 09:47:49                                                            Page : 6/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                         7365 : Baccalauréat en génie logiciel
+
+
+                                                             HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ   LOCAL       ENSEIGNANT               PRÉALABLES
+
 MAT210          LOGIQUE ET MATHÉMATIQUES DISCRÈTES                                                    MAT145
 
                 01      Ven           13:30 - 17:00   C
@@ -627,23 +656,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
                         Mar           09:00 - 12:00   TP
 
                 03      Mer           13:30 - 17:00   C
-
-                         Date : 2017-10-12 15:00:28                                                     Page : 6/10
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                         7365 : Baccalauréat en génie logiciel
-
-
-                                                             HORAIRE HIVER 2018
-                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-COURS           GR      JOUR            HEURE         ACTIVITÉ   LOCAL       ENSEIGNANT               PRÉALABLES
-
-MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                             MAT145
-
-                03      Ven           09:00 - 12:00   TP
+                        Ven           09:00 - 12:00   TP
 
                 04      Ven           13:30 - 17:00   C
                         Mar           13:30 - 16:30   TP
@@ -717,7 +730,24 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
 MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE                                                      MAT145
                 L'ESPACE
                 01      Mer           13:30 - 17:00   C
-                        Ven           09:00 - 12:00   TP
+
+
+                         Date : 2017-10-20 09:47:49                                                     Page : 7/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                         7365 : Baccalauréat en génie logiciel
+
+
+                                                             HORAIRE HIVER 2018
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+COURS           GR      JOUR            HEURE         ACTIVITÉ   LOCAL       ENSEIGNANT               PRÉALABLES
+
+MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE                                                      MAT145
+                L'ESPACE
+                01      Ven           09:00 - 12:00   TP
 
                 02      Mar           09:00 - 12:30   C
                         Jeu           09:00 - 12:00   TP
@@ -733,25 +763,7 @@ MATEST          ACCUEIL EN MATHÉMATIQUES
                         Jeu           13:30 - 16:30   TP
 
                 03      Lun           18:00 - 21:30   C
-
-
-
-                         Date : 2017-10-12 15:00:28                                                     Page : 7/10
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                         7365 : Baccalauréat en génie logiciel
-
-
-                                                             HORAIRE HIVER 2018
-                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-COURS           GR      JOUR            HEURE         ACTIVITÉ   LOCAL       ENSEIGNANT               PRÉALABLES
-
-MATEST          ACCUEIL EN MATHÉMATIQUES
-
-                03      Mer           18:00 - 21:00   TP
+                        Mer           18:00 - 21:00   TP
 
 
 
@@ -825,23 +837,8 @@ PHY335          PHYSIQUE DES ONDES                                              
                 07      Lun           09:00 - 12:30   C
                         Mer           09:00 - 12:00   TP
 
-                08      Sam           08:30 - 12:00   C
-                        Sam           13:00 - 16:00   TP
 
-
-
-PHYEST          ACCUEIL EN PHYSIQUE
-
-                01      Lun           09:00 - 12:30   C
-                        Mer           09:00 - 12:00   TP
-
-                02      Mar           18:00 - 21:30   C
-                        Jeu           18:00 - 21:00   TP
-
-
-
-
-                         Date : 2017-10-12 15:00:28                                                     Page : 8/10
+                         Date : 2017-10-20 09:47:49                                                     Page : 8/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             7365 : Baccalauréat en génie logiciel
@@ -853,6 +850,23 @@ Bureau du registraire - logistique académique
                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
 
 COURS           GR      JOUR              HEURE        ACTIVITÉ    LOCAL        ENSEIGNANT               PRÉALABLES
+
+PHY335          PHYSIQUE DES ONDES                                                                       CTN258 / ING150
+
+                08      Sam            08:30 - 12:00   C
+                        Sam            13:00 - 16:00   TP
+
+
+
+PHYEST          ACCUEIL EN PHYSIQUE
+
+                01      Lun            09:00 - 12:30   C
+                        Mer            09:00 - 12:00   TP
+
+                02      Mar            18:00 - 21:30   C
+                        Jeu            18:00 - 21:00   TP
+
+
 
 PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
                 INITIATION À LA SANTÉ ET SÉCURITÉ
@@ -885,8 +899,8 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
                         02 mars 2018
                         03 mars 2018
 
-                06      Ven            18:00 - 21:00   Atelier     A-1340
-                        Sam            09:00 - 16:00   TP          A-1340
+                06      Ven          18:00 - 21:00     Atelier     A-1340
+                        Sam          09:00 - 16:00     TP          A-1340
                         02 mars 2018
                         03 mars 2018
 
@@ -925,7 +939,7 @@ TIN501          ENVIRONNEMENT, TECHNOLOGIE ET                                   
 
 
 
-                         Date : 2017-10-12 15:00:28                                                        Page : 9/10
+                         Date : 2017-10-20 09:47:49                                                        Page : 9/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                             7365 : Baccalauréat en génie logiciel
@@ -981,5 +995,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                            Date : 2017-10-12 15:00:28                                                                                      Page : 10/10
+                            Date : 2017-10-20 09:47:49                                                                                      Page : 10/10
 
