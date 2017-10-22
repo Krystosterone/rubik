@@ -162,9 +162,10 @@ fr:
       back: Retour aux résultats
   terms:
     index:
-      title: Générateur d'horaires
-      subtitle: Faites votre choix de cours avec aisance
       newsletter_subscription_message: Je veux être notifié à la prochaine mise à jour des trimestres
+      subtitle: Faites votre choix de cours avec aisance
+      title: Générateur d'horaires
+      term_reset_notice: Les PDFs offerts par l'ÉTS ont été récemment mis-à-jour; Ainsi, les horaires précédemment générés ont été effacés de la base de données pour ne pas contenir des données erronées.
     create_newsletter_subscription:
       success: Vous serez notifié à la prochaine mise à jour des trimestres
   views:
