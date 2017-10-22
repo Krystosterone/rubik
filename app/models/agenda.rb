@@ -9,8 +9,8 @@ class Agenda < ApplicationRecord
   has_one :academic_degree, through: :academic_degree_term
   has_one :term, through: :academic_degree_term
   has_many :academic_degree_term_courses, through: :academic_degree_term
-  has_many :courses, autosave: true, dependent: :delete_all, inverse_of: :agenda
-  has_many :schedules, dependent: :delete_all
+  has_many :courses, autosave: true, dependent: :destroy, inverse_of: :agenda
+  has_many :schedules, dependent: :destroy
 
   accepts_nested_attributes_for :courses, allow_destroy: true
 

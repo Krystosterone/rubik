@@ -7,8 +7,8 @@ describe Agenda do
   it { is_expected.to have_one(:academic_degree).through(:academic_degree_term) }
   it { is_expected.to have_one(:term).through(:academic_degree_term) }
   it { is_expected.to have_many(:academic_degree_term_courses).through(:academic_degree_term) }
-  it { is_expected.to have_many(:courses).dependent(:delete_all).inverse_of(:agenda) }
-  it { is_expected.to have_many(:schedules).dependent(:delete_all) }
+  it { is_expected.to have_many(:courses).dependent(:destroy).inverse_of(:agenda) }
+  it { is_expected.to have_many(:schedules).dependent(:destroy) }
 
   it { is_expected.to accept_nested_attributes_for(:courses).allow_destroy(true) }
 

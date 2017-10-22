@@ -2,7 +2,7 @@
 class Term < ApplicationRecord
   has_many :academic_degree_terms,
            -> { joins(:academic_degree).order("academic_degrees.name DESC") },
-           dependent: :delete_all
+           dependent: :destroy
   has_many :academic_degrees, through: :academic_degree_terms
 
   validates :year, presence: true
