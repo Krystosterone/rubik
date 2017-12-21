@@ -24,7 +24,7 @@ describe CommentsController do
 
     context "when the comment cannot be saved" do
       before do
-        allow_any_instance_of(Comment).to receive(:save).and_return(false)
+        allow_any_instance_of(Comment).to receive(:save).and_return(false) # rubocop:disable RSpec/AnyInstance
         post :create, params: {
           comment: {
             user_email: "some_email",

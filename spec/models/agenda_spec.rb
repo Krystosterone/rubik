@@ -49,7 +49,7 @@ describe Agenda do
 
   define :validate_with do |validator|
     match do |actual|
-      expect_any_instance_of(validator).to receive(:validate).with(actual)
+      expect_any_instance_of(validator).to receive(:validate).with(actual) # rubocop:disable RSpec/AnyInstance
       actual.valid?
       true
     end

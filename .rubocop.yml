@@ -23,12 +23,6 @@ Metrics/LineLength:
 Rails:
   Enabled: true
 
-RSpec/AnyInstance:
-  Exclude:
-    - spec/controllers/agendas_controller_spec.rb
-    - spec/controllers/comments_controller_spec.rb
-    - spec/models/agenda_spec.rb
-
 RSpec/ExpectActual:
   Exclude:
     - spec/routing/application_routing_spec.rb
