@@ -13,7 +13,7 @@ end
 Alors /^je vois (\d+) comme étant le nombre de cours par horaire sélectionné$/ do |courses_per_schedule|
   within ".courses-per-schedule-group" do
     radio_button = find_field("", visible: false, checked: true)
-    expect(Integer(radio_button.value)).to eq(courses_per_schedule)
+    expect(radio_button.value).to eq(courses_per_schedule)
   end
 end
 
