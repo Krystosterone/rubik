@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-FactoryGirl.define do
+FactoryBot.define do
   factory :academic_degree do
     code { generate(:code) }
     name { generate(:name) }
