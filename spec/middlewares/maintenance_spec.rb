@@ -19,11 +19,10 @@ describe Maintenance do
     end
 
     context "when maintenance mode is enabled" do
-      before do
-        @maintenance_mode = ENV["MAINTENANCE_MODE"]
-        ENV["MAINTENANCE_MODE"] = "1"
-      end
-      after { ENV["MAINTENANCE_MODE"] = @maintenance_mode }
+      let!(:maintenance_mode) { ENV["MAINTENANCE_MODE"] }
+
+      before { ENV["MAINTENANCE_MODE"] = "1" }
+      after { ENV["MAINTENANCE_MODE"] = maintenance_mode }
 
       context "when the maintainer ips do not include the request ip" do
         let(:env) { {} }
@@ -36,12 +35,10 @@ describe Maintenance do
 
       context "when the maintainer ips include the request ip" do
         let(:env) { { "REMOTE_ADDR" => "123.123.123.123" } }
+        let!(:maintainer_ips) { ENV["MAINTAINER_IPS"] }
 
-        before do
-          @maintainer_ips = ENV["MAINTAINER_IPS"]
-          ENV["MAINTAINER_IPS"] = "123.123.123.123"
-        end
-        after { ENV["MAINTAINER_IPS"] = @maintainer_ips }
+        before { ENV["MAINTAINER_IPS"] = "123.123.123.123" }
+        after { ENV["MAINTAINER_IPS"] = maintainer_ips }
 
         it "calls through" do
           allow(app).to receive(:call).with(env)

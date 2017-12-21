@@ -2,7 +2,7 @@
 
 require "rails_helper"
 
-describe Rubik::Application do
+describe "maintenance initializer", type: :feature do
   it "has the Maintenance middleware" do
     expect(Rails.application.middleware).to include(Maintenance)
   end

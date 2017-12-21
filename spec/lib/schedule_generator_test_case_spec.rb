@@ -3,20 +3,20 @@
 require "rails_helper"
 
 describe ScheduleGeneratorTestCase do
-  before do
-    @current_folder_path = described_class.folder_path
-    @tmp_folder_path = Rails.root.join("tmp", "schedule_generator_test_cases")
+  let!(:current_folder_path) { described_class.folder_path }
+  let(:tmp_folder_path) { Rails.root.join("tmp", "schedule_generator_test_cases") }
 
-    FileUtils.mkdir_p(@tmp_folder_path)
-    described_class.folder_path = @tmp_folder_path
+  before do
+    FileUtils.mkdir_p(tmp_folder_path)
+    described_class.folder_path = tmp_folder_path
   end
   after do
-    FileUtils.rm_rf(@tmp_folder_path)
-    described_class.folder_path = @current_folder_path
+    FileUtils.rm_rf(tmp_folder_path)
+    described_class.folder_path = current_folder_path
   end
 
   describe ".folder_path" do
-    specify { expect(described_class.folder_path).to eq(@tmp_folder_path) }
+    specify { expect(described_class.folder_path).to eq(tmp_folder_path) }
   end
 
   describe ".all" do
@@ -31,7 +31,7 @@ describe ScheduleGeneratorTestCase do
 
     before do
       test_cases.each do |token, content|
-        File.write @tmp_folder_path.join("#{token}.yml"), content.to_yaml
+        File.write tmp_folder_path.join("#{token}.yml"), content.to_yaml
       end
     end
 
@@ -44,7 +44,7 @@ describe ScheduleGeneratorTestCase do
     subject(:generator) { described_class.new(agenda.token) }
 
     let(:agenda) { create(:combined_agenda) }
-    let(:test_case) { YAML.load_file(@tmp_folder_path.join("#{agenda.token}.yml")) }
+    let(:test_case) { YAML.load_file(tmp_folder_path.join("#{agenda.token}.yml")) }
     let(:academic_degree_term_courses_attributes) do
       agenda.courses.map do |course|
         {
