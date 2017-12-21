@@ -3,7 +3,7 @@
 require "rails_helper"
 
 # rubocop:disable RSpec/MultipleExpectations
-describe "Application Routing" do
+describe "Application Routing", type: :routing do
   describe "terms#index" do
     it "routes GET / and GET /terms" do
       expect(get: "/").to route_to("terms#index")

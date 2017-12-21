@@ -2,7 +2,7 @@
 
 require "rails_helper"
 
-describe "ets_pdf:etl" do
+describe "ets_pdf:etl", type: :feature do
   let(:etl) { instance_double(EtsPdf::Etl) }
 
   before { ENV["PDF_FOLDER"] = "another/path/**/*" }

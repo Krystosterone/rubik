@@ -23,12 +23,6 @@ Metrics/LineLength:
 Rails:
   Enabled: true
 
-RSpec/DescribeClass:
-  Exclude:
-    - spec/**/*.rake_spec.rb
-    - spec/routing/**/*_spec.rb
-    - spec/support/shared_examples/coerced_attr_accessor.rb
-
 RSpec/FilePath:
   Exclude:
     - spec/config/application_spec.rb

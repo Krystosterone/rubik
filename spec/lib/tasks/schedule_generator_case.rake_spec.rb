@@ -2,7 +2,7 @@
 
 require "rails_helper"
 
-describe "schedule_generator_case:write" do
+describe "schedule_generator_case:write", type: :feature do
   let(:schedule_generator_test_case) { instance_double(ScheduleGeneratorTestCase) }
 
   before do
