@@ -27,7 +27,7 @@ describe EtsPdf::Etl::PdfParser do
     before { allow(EtsPdf::Parser).to receive(:call) { |path| path } }
 
     it "returns a comprehensible data structure" do
-      expect(described_class.call(TXT_SUBSET)).to match(expected_data)
+      expect(described_class.call(TXT_SUBSET)).to contain_exactly(*expected_data)
     end
   end
 

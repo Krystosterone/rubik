@@ -31,7 +31,7 @@ describe ScheduleGeneratorTestCase do
     end
 
     it "returns the content of all test cases" do
-      expect(described_class.all).to eq(test_cases.collect(&:second))
+      expect(described_class.all).to contain_exactly(*test_cases.collect(&:second))
     end
   end
 
