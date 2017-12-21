@@ -1,7 +1,7 @@
 %a{ id: "schedule-#{index}" }
 %fieldset.schedule{ class: schedule_css_class(schedule) }
   %legend
-    = link_to t(".title", index: index), agenda_schedule_path(@agenda, index)
+    = link_to t(".title", index: index), agenda_schedule_path(agenda, index)
 
   .schedule-content
     %table.hours

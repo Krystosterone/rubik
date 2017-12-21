@@ -2,6 +2,7 @@
 
 require "rails_helper"
 
+# rubocop:disable RSpec/MultipleExpectations
 describe "Application Routing" do
   describe "terms#index" do
     it "routes GET / and GET /terms" do
@@ -67,3 +68,4 @@ describe "Application Routing" do
     end
   end
 end
+# rubocop:enable RSpec/MultipleExpectations

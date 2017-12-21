@@ -11,6 +11,9 @@ AllCops:
     - features/support/_circleci_formatter.rb
     - spec/support/extensions/its.rb
 
+Layout/IndentArray:
+  EnforcedStyle: consistent
+
 Lint/AmbiguousRegexpLiteral:
   Exclude:
     - features/step_definitions/**/*
@@ -42,7 +45,7 @@ RSpec/DescribeClass:
 
 RSpec/FilePath:
   Exclude:
-    - spec/config/application.rb
+    - spec/config/application_spec.rb
     - spec/config/initializers/maintenance_spec.rb
 
 RSpec/InstanceVariable:
@@ -51,26 +54,14 @@ RSpec/InstanceVariable:
     - spec/helpers/google_services_helper_spec.rb
     - spec/middlewares/maintenance_spec.rb
 
-RSpec/MultipleExpectations:
-  Exclude:
-    - spec/routing/application_routing_spec.rb
-    - spec/requests/sidekiq_auth_spec.rb
-
 RSpec/NestedGroups:
   Enabled: false
-
-Style/AsciiIdentifiers:
-  Exclude:
-    - features/step_definitions/**/*
 
 Style/ClassAndModuleChildren:
   Enabled: false
 
 Style/Documentation:
   Enabled: false
-
-Style/IndentArray:
-  EnforcedStyle: consistent
 
 Style/TrailingCommaInLiteral:
   Enabled: false

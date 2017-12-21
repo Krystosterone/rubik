@@ -8,12 +8,12 @@
       = t(".edit")
 
 = form_for @agenda do |f|
-  = render "overview", f: f
+  = render "overview", agenda: @agenda, f: f
 
 .container-fluid.schedules
   - @schedules.each_slice(2).with_index do |schedules_slice, slice_index|
     .row
       - schedules_slice.each_with_index do |schedule, index|
         .col-lg-6
-          = render schedule, index: schedule_page_index + index + slice_index * 2 + 1, cache: true
+          = render schedule, agenda: @agenda, index: schedule_page_index + index + slice_index * 2 + 1, cache: true
 = paginate @schedules, window: 2

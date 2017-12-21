@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-Étantdonnéqu /^je suis sur la page (.*)/ do |page_name|
+Étantdonnéqu /^je suis sur la page (.*)/ do |page_name| # rubocop:disable Naming/AsciiIdentifiers
   visit path_to(page_name)
 end
 

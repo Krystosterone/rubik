@@ -1,7 +1,7 @@
 .leave.row{ class: ("has-error" if f.object.errors.any?) }
   - if f.object.errors.any?
     .col-xs-12
-      - f.object.errors.each do |_, error|
+      - f.object.errors.each_value do |error|
         .help-block= error
   .col-sm-5
     .form-group

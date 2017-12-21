@@ -404,7 +404,7 @@ DEPENDENCIES
   capybara
   codecov
   coffee-rails (~> 4.1.0)
-  cucumber-rails (= 1.4.5)
+  cucumber-rails
   database_cleaner
   dotenv-rails
   email_validator

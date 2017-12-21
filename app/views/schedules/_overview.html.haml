@@ -1,4 +1,4 @@
-= render layout: "shared/overview", locals: { f: f } do
+= render layout: "shared/overview", locals: { agenda: agenda, f: f } do
   .form-group
     = f.label :courses_per_schedule, class: "col-sm-4 control-label"
     .col-sm-8
@@ -17,7 +17,7 @@
             %th{ colspan: 2 }= t(".courses_selected")
             %th= t(".course_groups")
         %tbody
-          - @agenda.courses.each do |course|
+          - agenda.courses.each do |course|
             %tr
               %td
                 - if course.mandatory?
