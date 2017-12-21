@@ -113,12 +113,12 @@ GEM
       cucumber-tag_expressions (~> 1.1.0)
       gherkin (>= 5.0.0)
     cucumber-expressions (5.0.7)
-    cucumber-rails (1.5.0)
+    cucumber-rails (1.4.5)
       capybara (>= 1.1.2, < 3)
       cucumber (>= 1.3.8, < 4)
-      mime-types (>= 1.17, < 4)
+      mime-types (>= 1.16, < 4)
       nokogiri (~> 1.5)
-      railties (>= 4, < 5.2)
+      railties (>= 3, < 5.1)
     cucumber-tag_expressions (1.1.1)
     cucumber-wire (0.0.1)
     database_cleaner (1.6.2)
@@ -404,7 +404,7 @@ DEPENDENCIES
   capybara
   codecov
   coffee-rails (~> 4.1.0)
-  cucumber-rails
+  cucumber-rails (= 1.4.5)
   database_cleaner
   dotenv-rails
   email_validator
