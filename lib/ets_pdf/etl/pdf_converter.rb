@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class EtsPdf::Etl::PdfConverter < SimpleClosure
   PDF_EXTENSION = ".pdf"
 

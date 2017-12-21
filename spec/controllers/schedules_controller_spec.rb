@@ -1,8 +1,9 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe SchedulesController do
-  [:index, :processing].each do |action|
+  %i[index processing].each do |action|
     describe "##{action}" do
       context "when the agenda is not found" do
         it "raises an exception" do
@@ -15,6 +16,7 @@ describe SchedulesController do
   describe "#index" do
     context "when the agenda is still processing" do
       let(:agenda) { create(:processing_agenda) }
+
       before { get :index, params: { agenda_token: agenda.token } }
 
       it { is_expected.to redirect_to(action: :processing) }
@@ -22,6 +24,7 @@ describe SchedulesController do
 
     context "when the agenda is empty" do
       let(:agenda) { create(:combined_empty_agenda) }
+
       before { get :index, params: { agenda_token: agenda.token } }
 
       it { is_expected.to redirect_to(edit_agenda_path(token: agenda.token)) }
@@ -34,6 +37,7 @@ describe SchedulesController do
     context "when the agenda is found" do
       let(:agenda) { create(:combined_agenda) }
       let(:assigned_schedules) { assigns(:schedules) }
+
       before { get :index, params: { agenda_token: agenda.token } }
 
       it "assigns the agenda" do
@@ -54,6 +58,7 @@ describe SchedulesController do
     context "when a page is set" do
       let(:agenda) { create(:combined_agenda) }
       let(:assigned_schedules) { assigns(:schedules) }
+
       before { get :index, params: { agenda_token: agenda.token, page: 1 } }
 
       it "assigns the schedules" do
@@ -94,6 +99,7 @@ describe SchedulesController do
     context "when passing in an index" do
       let(:assigned_course_colors) { assigns(:course_colors) }
       let(:assigned_schedule) { assigns(:schedule) }
+
       before do
         get :show, params: { agenda_token: agenda.token, index: 3 }
       end
@@ -113,6 +119,7 @@ describe SchedulesController do
   describe "#processing" do
     context "when the agenda is still processing" do
       subject { get :processing, params: { agenda_token: agenda.token } }
+
       let(:agenda) { create(:processing_agenda) }
 
       it { is_expected.to render_template(:processing) }
@@ -122,6 +129,7 @@ describe SchedulesController do
 
     context "when the agenda finished processing" do
       subject { get :processing, params: { agenda_token: agenda.token } }
+
       let(:agenda) { create(:combined_agenda) }
 
       it { is_expected.to redirect_to(action: :index) }

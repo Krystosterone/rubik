@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 module RakeTaskExampleGroup
   extend ActiveSupport::Concern
 
@@ -10,6 +11,7 @@ module RakeTaskExampleGroup
 
   included do
     subject(:rake_task) { Rake::Task[task_name] }
+
     let(:task_name) { self.class.top_level_description }
   end
 end

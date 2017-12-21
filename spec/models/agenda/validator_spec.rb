@@ -1,8 +1,10 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe Agenda::Validator do
   subject(:validator) { described_class.new }
+
   let(:agenda) { build(:agenda) }
 
   describe "#validate" do
@@ -14,7 +16,7 @@ describe Agenda::Validator do
     context "with a record that has no error" do
       it "does not add an error on the record" do
         expect { validator.validate(agenda) }
-          .not_to change { agenda.errors.added?(:courses) }
+          .not_to(change { agenda.errors.added?(:courses) })
       end
     end
 
@@ -22,7 +24,7 @@ describe Agenda::Validator do
       before { agenda.assign_attributes(courses_per_schedule: nil) }
 
       it "does not add an error on the record" do
-        expect { validator.validate(agenda) }.not_to change { agenda.errors.added?(:courses) }
+        expect { validator.validate(agenda) }.not_to(change { agenda.errors.added?(:courses) })
       end
     end
 

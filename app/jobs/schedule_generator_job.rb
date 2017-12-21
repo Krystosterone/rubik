@@ -1,5 +1,6 @@
 # frozen_string_literal: true
-class ScheduleGeneratorJob < ActiveJob::Base
+
+class ScheduleGeneratorJob < ApplicationJob
   around_perform { |_job, block| Bullet.profile { block.call } }
   around_perform { |_job, block| ActiveRecord::Base.transaction { block.call } }
 

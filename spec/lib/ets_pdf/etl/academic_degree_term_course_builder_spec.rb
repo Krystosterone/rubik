@@ -1,9 +1,11 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe EtsPdf::Etl::AcademicDegreeTermCourseBuilder do
   describe ".call" do
     let(:academic_degree_term) { build(:academic_degree_term) }
+
     before { academic_degree_term.save! }
 
     context "with an unparsed line" do
@@ -55,6 +57,7 @@ describe EtsPdf::Etl::AcademicDegreeTermCourseBuilder do
         ]
       end
       let(:parsed_lines) { course_1_lines + course_2_lines }
+
       before do
         create(:course, code: "COD001")
 

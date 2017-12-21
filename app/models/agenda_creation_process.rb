@@ -1,12 +1,13 @@
 # frozen_string_literal: true
+
 class AgendaCreationProcess
   extend ActiveModel::Callbacks
   include ActiveModel::Model
   include Rails.application.routes.url_helpers
 
-  STEPS = [
-    :course_selection,
-    :group_selection,
+  STEPS = %i[
+    course_selection
+    group_selection
   ].freeze
   STEP_COURSE_SELECTION, STEP_GROUP_SELECTION = STEPS
 

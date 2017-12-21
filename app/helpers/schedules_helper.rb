@@ -1,9 +1,10 @@
 # frozen_string_literal: true
+
 module SchedulesHelper
   include ScheduleWeekdaysHelper
 
   def schedule_css_class(schedule)
-    classes = %W(from-#{schedule_from(schedule)} duration-#{schedule_duration(schedule)})
+    classes = %W[from-#{schedule_from(schedule)} duration-#{schedule_duration(schedule)}]
     classes << "collapsible" if schedule_collapsible?(schedule)
     classes.join(" ")
   end

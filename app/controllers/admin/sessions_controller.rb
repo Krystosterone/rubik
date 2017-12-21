@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 module Admin
   class SessionsController < ApplicationController
     before_action :ensure_valid_user, only: :create

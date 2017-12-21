@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class EtsPdf::Etl < SimpleClosure
   def initialize(pdf_folder = "db/raw/ets/**/*")
     @pdf_folder = pdf_folder

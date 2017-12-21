@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 module SchedulePaginationHelper
   SCHEDULES_PER_PAGE = 20
 

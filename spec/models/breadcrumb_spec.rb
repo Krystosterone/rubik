@@ -1,8 +1,10 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe Breadcrumb do
   subject(:breadcrumb) { described_class.new(view_context) }
+
   let(:academic_degree_term) { instance_double(AcademicDegreeTerm) }
   let(:agenda) { instance_double(Agenda, academic_degree_term: academic_degree_term, filter_groups?: false) }
   let(:view_context) do
@@ -22,8 +24,8 @@ describe Breadcrumb do
   end
 
   {
-    "terms" => %w(.terms_root_path),
-    "schedules" => %w(.terms_root_path .agendas.course_selection_agenda_course_selection_path),
+    "terms" => %w[.terms_root_path],
+    "schedules" => %w[.terms_root_path .agendas.course_selection_agenda_course_selection_path],
   }.each do |controller_name, links|
     context "with controller '#{controller_name}'" do
       before do

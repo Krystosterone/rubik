@@ -1,9 +1,11 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe ScheduleLeaveBuilder do
   describe "#call" do
     subject(:service) { described_class.new(leaves) }
+
     let(:expected_result) do
       {
         0 => [

@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class LeavesSerializer < Serializer
   class << self
     def dump_as_json(leaves)

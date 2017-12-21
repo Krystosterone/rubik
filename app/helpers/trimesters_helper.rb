@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 module TrimestersHelper
   def trimesters_list
     if @trimesters.size == 1

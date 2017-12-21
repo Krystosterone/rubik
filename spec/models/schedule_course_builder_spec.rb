@@ -1,9 +1,11 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe ScheduleCourseBuilder do
   describe "#call" do
     subject(:service) { described_class.new(course_groups) }
+
     let(:course_groups) do
       [
         CourseGroup.new(

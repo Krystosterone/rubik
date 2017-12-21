@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe Term do
@@ -14,6 +15,7 @@ describe Term do
 
   describe ".enabled" do
     let(:ordered_terms) { [] }
+
     before do
       ordered_terms[0] = create(:term, year: 2015, name: "A", tags: "B")
       ordered_terms[1] = create(:term, year: 2015, name: "A", tags: "C")
@@ -28,9 +30,11 @@ describe Term do
   end
 
   describe "#academic_degree_terms" do
-    context "default scope" do
+    context "with default scope" do
       subject(:term) { create(:term) }
+
       let(:ordered) { [] }
+
       before do
         ordered[0] = create(:academic_degree_term, term: term, academic_degree: build(:academic_degree, name: "Z"))
         ordered[1] = create(:academic_degree_term, term: term, academic_degree: build(:academic_degree, name: "Y"))

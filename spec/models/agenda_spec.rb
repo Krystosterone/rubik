@@ -1,8 +1,10 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe Agenda do
   subject(:agenda) { described_class.new }
+
   it { is_expected.to belong_to(:academic_degree_term) }
   it { is_expected.to have_one(:academic_degree).through(:academic_degree_term) }
   it { is_expected.to have_one(:term).through(:academic_degree_term) }

@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe SchedulesHelper do
@@ -19,6 +20,7 @@ describe SchedulesHelper do
           ScheduleWeekday.new(index: 0, periods: []),
         ]
       end
+
       before { allow(schedule).to receive(:weekdays).and_return(weekdays) }
 
       it "returns the correct css class" do
@@ -34,6 +36,7 @@ describe SchedulesHelper do
           ScheduleWeekday.new(index: 0, periods: [Period.new]),
         ]
       end
+
       before { allow(schedule).to receive(:weekdays).and_return(weekdays) }
 
       it "returns the correct css class" do
@@ -50,7 +53,7 @@ describe SchedulesHelper do
         before { allow(schedule).to receive(:ends_at).and_return(instance_double(WeekTime, hour: 14)) }
 
         it "ranges from 12:00 to 14:00" do
-          expect(helper.schedule_hours(schedule)).to eq(%w(12:00 13:00 14:00))
+          expect(helper.schedule_hours(schedule)).to eq(%w[12:00 13:00 14:00])
         end
       end
 
@@ -58,11 +61,11 @@ describe SchedulesHelper do
         before { allow(schedule).to receive(:ends_at).and_return(instance_double(WeekTime, hour: 24)) }
 
         it "ranges from 12:00 to 23:00" do
-          expect(helper.schedule_hours(schedule)).to eq(%w(
+          expect(helper.schedule_hours(schedule)).to eq(%w[
             12:00 13:00 14:00 15:00
             16:00 17:00 18:00 19:00
             20:00 21:00 22:00 23:00
-          ))
+          ])
         end
       end
     end

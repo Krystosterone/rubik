@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class TestStudent
   extend ActiveModel::Callbacks
   define_model_callbacks :initialize, only: :after

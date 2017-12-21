@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class Comment < ApplicationRecord
   after_commit :send_email, on: :create
 

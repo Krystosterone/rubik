@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class EtsPdf::Etl::TermBuilder < SimpleClosure
   TERM_HANDLES = {
     "automne" => "Automne",

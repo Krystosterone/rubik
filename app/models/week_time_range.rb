@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class WeekTimeRange < WeekdayTimeRange
   def starts_at
     WeekTime.new(super.to_i)

@@ -1,10 +1,12 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe CourseColorMap do
   describe "#[]" do
     context "with one course" do
       subject(:course_colors) { described_class.new(courses) }
+
       let(:courses) { [instance_double(Course, code: "LOG120")] }
 
       specify { expect(course_colors["LOG120"]).to eq(0) }
@@ -12,6 +14,7 @@ describe CourseColorMap do
 
     context "with 4 courses" do
       subject(:course_colors) { described_class.new(courses) }
+
       let(:courses) do
         [
           instance_double(Course, code: "LOG120"),
@@ -29,6 +32,7 @@ describe CourseColorMap do
 
     context "with quite a few courses" do
       subject(:course_colors) { described_class.new(courses) }
+
       let(:courses) do
         [
           instance_double(Course, code: "LOG120"),
@@ -55,6 +59,7 @@ describe CourseColorMap do
 
   describe "#to_h" do
     subject(:course_colors) { described_class.new(courses) }
+
     let(:courses) do
       [
         instance_double(Course, code: "LOG120"),

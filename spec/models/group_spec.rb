@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe Group do
@@ -15,6 +16,7 @@ describe Group do
   describe "#new" do
     context "when passing in attributes" do
       subject { described_class.new(number: 1, periods: periods) }
+
       let(:periods) { [double, double] }
 
       its(:number) { is_expected.to eq(1) }
@@ -33,6 +35,7 @@ describe Group do
           ]
         )
       end
+
       let(:other) do
         described_class.new(
           number: 2,
@@ -56,6 +59,7 @@ describe Group do
           ]
         )
       end
+
       let(:other) do
         described_class.new(
           number: 2,

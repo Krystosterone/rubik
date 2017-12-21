@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class CreateAcademicDegreeTermCourse < ActiveRecord::Migration
   def change
     create_table :academic_degree_term_courses do |t|
@@ -9,7 +10,7 @@ class CreateAcademicDegreeTermCourse < ActiveRecord::Migration
     end
 
     add_index :academic_degree_term_courses,
-              [:academic_degree_term_id, :course_id],
+              %i[academic_degree_term_id course_id],
               unique: true,
               name: "academic_degree_terms_courses_index"
   end

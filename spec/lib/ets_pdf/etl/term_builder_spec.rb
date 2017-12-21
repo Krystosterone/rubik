@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe EtsPdf::Etl::TermBuilder do
@@ -26,10 +27,11 @@ describe EtsPdf::Etl::TermBuilder do
           let(:units) do
             [{ another_attribute: "value", term_handle: denormalized_term, type: denormalized_tags, year: "2015" }]
           end
+
           before { allow(EtsPdf::Etl::AcademicDegreeBuilder).to receive(:call) }
 
           {
-            "does not exist" => proc {},
+            "does not exist" => proc{},
             "already exists" => proc { create(:term, name: normalized_term, tags: normalized_tags, year: 2015) },
           }.each do |condition, setup|
             context "when the term #{condition}" do

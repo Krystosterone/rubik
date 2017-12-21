@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class CommentMailer < ActionMailer::Base
   delegate :comment_email_recipient, to: "Rails.application.config"
 

@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe EtsPdf::Etl::PdfParser do
@@ -24,6 +25,7 @@ describe EtsPdf::Etl::PdfParser do
         line(2015, "hiver", "nouveaux", "mec"),
       ]
     end
+
     before { allow(EtsPdf::Parser).to receive(:call) { |path| path } }
 
     it "returns a comprehensible data structure" do

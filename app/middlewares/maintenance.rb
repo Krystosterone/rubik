@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class Maintenance
   def initialize(app)
     @app = app
@@ -17,7 +18,7 @@ class Maintenance
   private
 
   def show_maintenance_page?(request)
-    return false unless ENV["MAINTENANCE_MODE"].present?
+    return false if ENV["MAINTENANCE_MODE"].blank?
     maintainer_ips.exclude?(request.ip)
   end
 

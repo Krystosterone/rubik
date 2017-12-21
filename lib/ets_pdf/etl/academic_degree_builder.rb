@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class EtsPdf::Etl::AcademicDegreeBuilder < SimpleClosure
   BACHELOR_HANDLES = {
     "seg" => "Enseignements généraux",

@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe AcademicDegreeTermCourse do
@@ -16,6 +17,7 @@ describe AcademicDegreeTermCourse do
 
   describe "default scope" do
     let(:default_scope) { [] }
+
     before do
       default_scope[2] = create(:academic_degree_term_course, course: create(:course, code: "B121"))
       default_scope[0] = create(:academic_degree_term_course, course: create(:course, code: "A120"))
@@ -29,6 +31,7 @@ describe AcademicDegreeTermCourse do
 
   describe "#group_numbers" do
     subject(:academic_degree_term_course) { build(:academic_degree_term_course, groups: groups) }
+
     let(:groups) { build_list(:group, 3) }
 
     it "returns the numbers of all groups" do

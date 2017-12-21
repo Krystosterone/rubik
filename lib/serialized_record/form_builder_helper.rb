@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 module SerializedRecord::FormBuilderHelper
   include ActionView::Helpers::OutputSafetyHelper
 

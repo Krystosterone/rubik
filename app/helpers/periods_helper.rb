@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 module PeriodsHelper
   include WeekdayTimesHelper
   include WeekTimesHelper

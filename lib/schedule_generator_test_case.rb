@@ -1,22 +1,23 @@
 # frozen_string_literal: true
+
 class ScheduleGeneratorTestCase
-  ACADEMIC_DEGREE_TERM_COURSE_ATTRIBUTES = %w(
+  ACADEMIC_DEGREE_TERM_COURSE_ATTRIBUTES = %w[
     id
     groups
-  ).freeze
-  AGENDA_ATTRIBUTES = %w(
+  ].freeze
+  AGENDA_ATTRIBUTES = %w[
     courses_per_schedule
     leaves
     token
-  ).freeze
-  AGENDA_COURSE_ATTRIBUTES = %w(
+  ].freeze
+  AGENDA_COURSE_ATTRIBUTES = %w[
     academic_degree_term_course_id
     group_numbers
     mandatory
-  ).freeze
-  COURSE_ATTRIBUTES = %w(
+  ].freeze
+  COURSE_ATTRIBUTES = %w[
     code
-  ).freeze
+  ].freeze
 
   mattr_accessor :folder_path, instance_accessor: false do
     Rails.root.join("spec", "support", "schedule_generator_test_cases")

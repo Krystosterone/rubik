@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe Schedule do
@@ -7,6 +8,7 @@ describe Schedule do
 
   context "with some courses and leaves" do
     subject(:schedule) { described_class.new(course_groups: course_groups, agenda: agenda) }
+
     let(:course_groups) do
       [
         CourseGroup.new(

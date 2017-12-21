@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class Breadcrumb::Crumb
   include ActiveModel::Model
 
@@ -10,13 +11,13 @@ class Breadcrumb::Crumb
     set_current_proc
   end
 
-  %w(additional_current_condition path).each do |attribute|
+  %w[additional_current_condition path].each do |attribute|
     define_method(attribute) do
       view_context.instance_eval(&instance_variable_get("@#{attribute}"))
     end
   end
 
-  %w(current visible).each do |attribute|
+  %w[current visible].each do |attribute|
     define_method("#{attribute}?") do
       view_context.instance_eval(&instance_variable_get("@#{attribute}"))
     end

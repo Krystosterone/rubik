@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe ScheduleCourse do
@@ -24,6 +25,7 @@ describe ScheduleCourse do
 
     context "when instance do match" do
       let(:other) { described_class.new(index: 3, code: "LOG320", number: 1, type: "TP") }
+
       specify { expect(schedule_course).to eq(other) }
     end
   end

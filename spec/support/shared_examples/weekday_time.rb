@@ -1,6 +1,7 @@
 # frozen_string_literal: true
+
 shared_examples "WeekdayTime" do
-  context "for 200 minutes" do
+  context "with 200 minutes" do
     subject(:time) { described_class.new(200) }
 
     its(:total_minutes) { is_expected.to eq(200) }

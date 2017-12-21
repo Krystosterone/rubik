@@ -1,8 +1,10 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe AgendaCreationProcess do
   subject(:process) { described_class.new(agenda: agenda) }
+
   let(:agenda) { build(:agenda) }
 
   describe "#path" do
@@ -14,12 +16,12 @@ describe AgendaCreationProcess do
     context "with multiple steps" do
       before { agenda.filter_groups = true }
 
-      context "on the first step" do
+      context "when on the first step" do
         before { process.step = AgendaCreationProcess::STEP_COURSE_SELECTION }
         specify { expect(process.path).to eq("/agendas/#{agenda.token}/edit?step=group_selection") }
       end
 
-      context "on the last step" do
+      context "when on the last step" do
         before { process.step = AgendaCreationProcess::STEP_GROUP_SELECTION }
         specify { expect(process.path).to eq("/agendas/#{agenda.token}/schedules/processing") }
       end
@@ -34,8 +36,8 @@ describe AgendaCreationProcess do
 
     shared_examples "a successful save with no generation" do
       specify { expect(process.save).to eq(true) }
-      specify { expect { process.save }.not_to change { agenda.processing } }
-      specify { expect { process.save }.not_to change { agenda.combined_at } }
+      specify { expect { process.save }.not_to(change { agenda.processing }) }
+      specify { expect { process.save }.not_to(change { agenda.combined_at }) }
     end
 
     shared_examples "a successful agenda generation" do
@@ -71,7 +73,7 @@ describe AgendaCreationProcess do
     end
 
     context "with multiple steps" do
-      context "on the first step" do
+      context "when on the first step" do
         before { process.step = AgendaCreationProcess::STEP_COURSE_SELECTION }
 
         context "with a new agenda" do
@@ -90,7 +92,7 @@ describe AgendaCreationProcess do
         end
       end
 
-      context "on the last step" do
+      context "when on the last step" do
         before do
           process.step = AgendaCreationProcess::STEP_GROUP_SELECTION
           agenda.filter_groups = true
@@ -104,7 +106,7 @@ describe AgendaCreationProcess do
 
   describe "#step" do
     context "with a single step" do
-      [:one, :two].each do |step|
+      %i[one two].each do |step|
         before do
           agenda.filter_groups = false
           process.step = step

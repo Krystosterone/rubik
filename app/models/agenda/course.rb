@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class Agenda::Course < ApplicationRecord
   include Defaults
 

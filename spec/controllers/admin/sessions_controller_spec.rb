@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe Admin::SessionsController do
@@ -18,6 +19,7 @@ describe Admin::SessionsController do
 
     context "when the user is permitted" do
       let(:permitted_user) { Rails.application.config.admin_emails.first }
+
       before do
         request.env["omniauth.auth"] = { "info" => { "email" => permitted_user } }
         get :create

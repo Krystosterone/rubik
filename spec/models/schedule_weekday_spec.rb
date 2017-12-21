@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe ScheduleWeekday do
@@ -7,6 +8,7 @@ describe ScheduleWeekday do
   describe "#new" do
     context "when passing in some attributes" do
       subject { described_class.new(index: 6, periods: periods) }
+
       let(:periods) { [instance_double(Period), instance_double(Period)] }
 
       its(:index) { is_expected.to eq(6) }
@@ -14,8 +16,9 @@ describe ScheduleWeekday do
     end
   end
 
-  context "for periods with a minimum starting time at 200 and ending at 800" do
+  context "with periods with a minimum starting time at 200 and ending at 800" do
     subject { described_class.new(periods: periods) }
+
     let(:periods) do
       [
         instance_double(Period, starts_at: 300, ends_at: 500),
@@ -46,13 +49,14 @@ describe ScheduleWeekday do
 
   describe "#==" do
     subject(:schedule_weekday) { described_class.new(index: 3, periods: periods) }
+
     let(:periods) { [instance_double(Period), instance_double(Period)] }
 
-    context "for non matching instances" do
+    context "with non matching instances" do
       specify { expect(schedule_weekday).not_to eq(described_class.new) }
     end
 
-    context "for matching instances" do
+    context "with matching instances" do
       specify { expect(schedule_weekday).to eq(described_class.new(index: 3, periods: periods)) }
     end
   end

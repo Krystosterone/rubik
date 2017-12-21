@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 shared_examples "WeekTimeRange" do
   it_behaves_like "WeekdayTimeRange"
   it_behaves_like "it has a coerced attr_accessor", :starts_at, WeekTime

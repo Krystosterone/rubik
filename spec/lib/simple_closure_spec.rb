@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe SimpleClosure do
@@ -10,6 +11,7 @@ describe SimpleClosure do
 
   describe ".call" do
     let(:simple_closure_impl_instance) { instance_double(SimpleClosureImpl) }
+
     before do
       allow(SimpleClosureImpl).to receive(:new).and_return(simple_closure_impl_instance)
       allow(simple_closure_impl_instance).to receive(:call).and_return(:result)

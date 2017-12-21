@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe EtsPdf::Parser::ParsedLine do
@@ -9,6 +10,7 @@ describe EtsPdf::Parser::ParsedLine do
   described_class::LINE_TYPES.each do |type, klass|
     describe "##{type}" do
       let(:mock_line) { instance_double(klass) }
+
       before { allow(klass).to receive(:new).with("some line").and_return(mock_line) }
 
       it "returns the decorated line" do
@@ -27,6 +29,7 @@ describe EtsPdf::Parser::ParsedLine do
     described_class::LINE_TYPES.each do |type, klass|
       context "when :#{type} is passed" do
         let(:mock_line) { instance_double(klass) }
+
         before { allow(klass).to receive(:new).with("some line").and_return(mock_line) }
 
         it "delegates .parsed? to the #{type} line" do
@@ -42,7 +45,7 @@ describe EtsPdf::Parser::ParsedLine do
   describe "#parsed?" do
     context "when none of the lines have been parsed" do
       before do
-        described_class::LINE_TYPES.values.each do |klass|
+        described_class::LINE_TYPES.each_value do |klass|
           mock_line(klass, parsed: false)
         end
       end
@@ -53,7 +56,7 @@ describe EtsPdf::Parser::ParsedLine do
     described_class::LINE_TYPES.each do |type, klass|
       context "when the #{type} has been parsed" do
         before do
-          described_class::LINE_TYPES.values.each do |unparsed_klass|
+          described_class::LINE_TYPES.each_value do |unparsed_klass|
             mock_line(unparsed_klass, parsed: false)
           end
           mock_line(klass, parsed: true)

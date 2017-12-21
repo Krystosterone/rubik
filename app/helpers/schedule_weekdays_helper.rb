@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 module ScheduleWeekdaysHelper
   def schedule_weekday_collapsible?(schedule_weekday)
     schedule_weekday.empty?

@@ -1,9 +1,11 @@
 # frozen_string_literal: true
-# rubocop:disable RSpec/ExampleLength, RSpec/MultipleExpectations
+
 require "rails_helper"
 
+# rubocop:disable RSpec/ExampleLength, RSpec/MultipleExpectations
 describe "Admin Authentication", type: :request do
   let(:permitted_user) { Rails.application.config.admin_emails.first }
+
   before { OmniAuth.config.mock_auth[:google_oauth2] = OmniAuth::AuthHash.new("info" => { "email" => permitted_user }) }
   after { OmniAuth.config.mock_auth[:google_oauth2] = nil }
 
@@ -35,3 +37,4 @@ describe "Admin Authentication", type: :request do
     2.times { follow_redirect! }
   end
 end
+# rubocop:enable RSpec/ExampleLength, RSpec/MultipleExpectations

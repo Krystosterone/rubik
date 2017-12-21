@@ -1,6 +1,7 @@
 # frozen_string_literal: true
+
 class EtsPdf::Parser::ParsedLine
-  LINE_TYPES = %w(course group period).map do |type|
+  LINE_TYPES = %w[course group period].map do |type|
     [type, "EtsPdf::Parser::ParsedLine::#{type.classify}".constantize]
   end.to_h
 

@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class NewsletterSubscriptionMailer < ApplicationMailer
   default from: "no-reply@rubik.co"
   helper TrimestersHelper

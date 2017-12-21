@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 shared_examples "it has a coerced attr_accessor" do |attribute, klass|
   describe "##{attribute} attr_accessor" do
     subject(:coerced_attribute_subject) { described_class.new }

@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe CommentsController do
@@ -48,6 +49,7 @@ describe CommentsController do
 
     context "when the comment was able to be saved" do
       let(:comment) { Comment.last }
+
       before do
         post :create, params: {
           comment: {

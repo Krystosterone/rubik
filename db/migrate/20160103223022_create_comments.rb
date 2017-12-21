@@ -1,4 +1,6 @@
 # frozen_string_literal: true
+
+# rubocop:disable Rails/CreateTableWithTimestamps
 class CreateComments < ActiveRecord::Migration
   def change
     create_table :comments do |t|
@@ -7,3 +9,4 @@ class CreateComments < ActiveRecord::Migration
     end
   end
 end
+# rubocop:enable Rails/CreateTableWithTimestamps

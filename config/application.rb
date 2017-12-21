@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require File.expand_path("../boot", __FILE__)
 
 require "rails/all"
@@ -16,9 +17,9 @@ module Rubik
     config.action_mailer.preview_path = Rails.root.join("spec", "mailers", "previews")
     config.active_job.queue_adapter = :sidekiq
 
-    config.autoload_paths += %W(
+    config.autoload_paths += %W[
       #{config.root}/lib
-    )
+    ]
 
     config.browserify_rails.commandline_options = "-t babelify"
     config.browserify_rails.source_map_environments << "development"

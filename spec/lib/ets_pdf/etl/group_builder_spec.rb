@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe EtsPdf::Etl::GroupBuilder do
@@ -20,6 +21,7 @@ describe EtsPdf::Etl::GroupBuilder do
         build(:parsed_period_line),
       ]
     end
+
     before { allow(EtsPdf::Etl::PeriodBuilder).to receive(:call) }
 
     it "calls the period builder with the first collection of group and periods" do

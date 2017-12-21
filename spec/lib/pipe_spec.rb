@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe Pipe do
@@ -8,6 +9,7 @@ describe Pipe do
         .bind(->(value) { value + "\nfirst_output" })
         .bind(->(value) { value + "\nlast_output" })
     end
+
     let(:expected_output) do
       <<-OUTPUT.strip_heredoc.strip
         initial_input

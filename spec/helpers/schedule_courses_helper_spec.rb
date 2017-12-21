@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe ScheduleCoursesHelper do
@@ -6,6 +7,7 @@ describe ScheduleCoursesHelper do
   let(:schedule_course) do
     instance_double(ScheduleCourse, code: "LOG430", duration: 4630, index: 2, number: 3, starts_at: WeekTime.new(50))
   end
+
   before { allow(course_colors).to receive(:[]).with("LOG430").and_return(42) }
 
   describe "#schedule_course_css_class" do

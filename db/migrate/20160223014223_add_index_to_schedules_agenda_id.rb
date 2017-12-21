@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class AddIndexToSchedulesAgendaId < ActiveRecord::Migration[5.0]
   def change
     add_index :schedules, :agenda_id

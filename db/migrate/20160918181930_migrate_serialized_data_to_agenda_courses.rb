@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require_dependency "agenda/course"
 
 class MigrateSerializedDataToAgendaCourses < ActiveRecord::Migration[5.0]

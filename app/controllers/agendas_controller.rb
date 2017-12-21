@@ -1,16 +1,17 @@
 # frozen_string_literal: true
+
 class AgendasController < ApplicationController
   include AgendaEagerLoading
   include BrowserCaching
 
   before_action :invalidate_browser_cache
   before_action :assign_academic_degree_term,
-                :instantiate_agenda, only: [:new, :create]
+                :instantiate_agenda, only: %i[new create]
   before_action :find_agenda,
-                :ensure_not_processing, only: [:edit, :update]
+                :ensure_not_processing, only: %i[edit update]
   before_action :eager_load_courses
-  before_action :assign_attributes, only: [:create, :update]
-  before_action :save, only: [:create, :update]
+  before_action :assign_attributes, only: %i[create update]
+  before_action :save, only: %i[create update]
 
   delegate :step, to: :agenda_creation_process
   helper_method :step
@@ -42,7 +43,7 @@ class AgendasController < ApplicationController
       :courses_per_schedule,
       :filter_groups,
       courses_attributes: [:_destroy, :academic_degree_term_course_id, :id, :mandatory, { group_numbers: [] }],
-      leaves_attributes: [:_destroy, :ends_at, :starts_at]
+      leaves_attributes: %i[_destroy ends_at starts_at]
     )
   end
 

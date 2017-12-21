@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 shared_examples "ParsedLine" do
   [
     "ÉCOLE DE TECHNOLOGIE SUPÉRIEURE",
@@ -8,6 +9,7 @@ shared_examples "ParsedLine" do
   ].each do |invalid_line|
     context "when the line '#{invalid_line}' is passed" do
       subject { described_class.new(invalid_line) }
+
       it { is_expected.not_to be_parsed }
     end
   end

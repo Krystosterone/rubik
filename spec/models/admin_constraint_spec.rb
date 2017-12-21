@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe AdminConstraint do
@@ -9,7 +10,7 @@ describe AdminConstraint do
       let(:request) { Rack::Request.new({}) }
 
       it "returns false" do
-        expect(contraint.matches?(request)).to be_falsy
+        expect(contraint).not_to be_matches(request)
       end
     end
 

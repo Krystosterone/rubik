@@ -1,9 +1,11 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe BreadcrumbHelper do
   describe "#breadcrumb" do
     let(:breadcrumb_instance) { instance_double(Breadcrumb) }
+
     before do
       allow(breadcrumb_instance).to receive(:render) { |&b| b.call }
       allow(Breadcrumb).to receive(:new).with(self).and_return(breadcrumb_instance)

@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "sidekiq/web"
 
 Rails.application.routes.draw do
@@ -20,7 +21,7 @@ Rails.application.routes.draw do
 
   resources :academic_degree_terms, only: [] do
     resources :agendas, except: :show, param: :token, shallow: true do
-      get "/", to: redirect("/agendas/%{agenda_token}/schedules", 302)
+      get "/", to: redirect("/agendas/%{agenda_token}/schedules", 302) # rubocop:disable Style/FormatStringToken
 
       resources :schedules, only: :index, constraints: ->(r) { r.params.fetch(:page, "1") =~ /^[1-9]\d*$/ } do
         get :processing, on: :collection
@@ -32,7 +33,7 @@ Rails.application.routes.draw do
     resources :schedules, only: :show, param: :index, constraints: { index: /[1-9]\d*/ }
   end
 
-  resources :comments, only: [:new, :create]
+  resources :comments, only: %i[new create]
 
   resource :faq, only: :show
 

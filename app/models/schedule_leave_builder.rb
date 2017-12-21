@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class ScheduleLeaveBuilder
   def initialize(leaves)
     @leaves = leaves

@@ -1,4 +1,3 @@
-# encoding: utf-8
 # frozen_string_literal: true
 
 Alors /^je vois (\d+) comme étant le nombre de cours par horaire affiché$/ do |courses_per_schedule|

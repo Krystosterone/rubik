@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class Agenda::Validator < ActiveModel::Validator
   def validate(agenda)
     MemoizedValidator.new(agenda).execute

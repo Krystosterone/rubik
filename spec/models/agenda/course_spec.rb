@@ -1,8 +1,10 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe Agenda::Course do
   subject(:course) { described_class.new(academic_degree_term_course: academic_degree_term_course, agenda: agenda) }
+
   let(:academic_degree_term_course) do
     AcademicDegreeTermCourse.new(groups: [
       Group.new(number: 1, periods: [Period.new(starts_at: 500, ends_at: 600)]),

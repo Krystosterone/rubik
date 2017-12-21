@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class CreateAgendas < ActiveRecord::Migration
   def change
     create_table :agendas do |t|

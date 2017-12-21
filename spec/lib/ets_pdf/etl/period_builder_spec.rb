@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe EtsPdf::Etl::PeriodBuilder do
@@ -6,7 +7,7 @@ describe EtsPdf::Etl::PeriodBuilder do
     let(:group) { build(:group) }
 
     context "when the weekday is invalid" do
-      [:group, :period].each do |line_type|
+      %i[group period].each do |line_type|
         context "when the line is a '#{line_type}'" do
           let(:parsed_lines) { [build("parsed_#{line_type}_line", weekday: "NOP")] }
 
@@ -18,7 +19,7 @@ describe EtsPdf::Etl::PeriodBuilder do
     end
 
     context "when the type is invalid" do
-      [:group, :period].each do |line_type|
+      %i[group period].each do |line_type|
         context "when the line is a '#{line_type}'" do
           let(:parsed_lines) { [build("parsed_#{line_type}_line", type: "NOP")] }
 
@@ -33,7 +34,7 @@ describe EtsPdf::Etl::PeriodBuilder do
       I18n.t("date.abbr_day_names").each_with_index do |weekday, weekday_index|
         weekday_start_time = weekday_index * 24 * 60
 
-        [:group, :period].each do |line_type|
+        %i[group period].each do |line_type|
           context "when the line is a '#{line_type}', with type '#{denormalized_type}' and weekday '#{weekday}'" do
             let(:parsed_lines) do
               [

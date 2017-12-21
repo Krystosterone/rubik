@@ -1,7 +1,8 @@
 # frozen_string_literal: true
+
 class EtsPdf::Parser::ParsedLine
   class Period < Base
-    %w(weekday start_time end_time type).each_with_index do |attribute_name, index|
+    %w[weekday start_time end_time type].each_with_index do |attribute_name, index|
       define_method attribute_name do
         attributes[index]
       end

@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 describe WeekdayTimeRangesHelper do
   let(:weekday_time_range) do
     instance_double(WeekdayTimeRange, duration: 4630, ends_at: WeekTime.new(4680), starts_at: WeekTime.new(50))

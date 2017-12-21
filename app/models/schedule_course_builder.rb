@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class ScheduleCourseBuilder
   def initialize(course_groups)
     @course_groups = course_groups

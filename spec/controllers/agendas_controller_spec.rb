@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe AgendasController do
@@ -23,6 +24,7 @@ describe AgendasController do
     describe "##{action}" do
       context "when the agenda is still processing" do
         let(:agenda) { create(:processing_agenda) }
+
         before { public_send method, action, params: { token: agenda.token } }
 
         it { is_expected.to redirect_to(processing_agenda_schedules_path(agenda.token)) }
@@ -40,6 +42,7 @@ describe AgendasController do
     context "when the academic degree term does exist" do
       let(:academic_degree_term) { create(:academic_degree_term) }
       let(:agenda) { assigns(:agenda) }
+
       before { get :new, params: { academic_degree_term_id: academic_degree_term.id } }
 
       it { is_expected.to render_template("agendas/course_selection") }
@@ -55,6 +58,7 @@ describe AgendasController do
   describe "#edit" do
     context "when the agenda is found with no step" do
       let(:agenda) { create(:combined_agenda) }
+
       before { get :edit, params: { token: agenda.token } }
 
       it { is_expected.to render_template("agendas/course_selection") }
@@ -66,6 +70,7 @@ describe AgendasController do
 
     context "when the agenda is found with step 'course_selection'" do
       let(:agenda) { create(:combined_agenda) }
+
       before { get :edit, params: { step: AgendaCreationProcess::STEP_COURSE_SELECTION, token: agenda.token } }
 
       it { is_expected.to render_template("agendas/course_selection") }
@@ -77,6 +82,7 @@ describe AgendasController do
 
     context "when the agenda is found with step 'group_selection'" do
       let(:agenda) { create(:combined_agenda, filter_groups: true) }
+
       before { get :edit, params: { step: AgendaCreationProcess::STEP_GROUP_SELECTION, token: agenda.token } }
 
       it { is_expected.to render_template("agendas/group_selection") }
@@ -100,6 +106,7 @@ describe AgendasController do
     context "when no group filtering was selected" do
       context "when the agenda could not be saved" do
         let(:assigned_agenda) { assigns(:agenda) }
+
         before do
           post :create, params: {
             academic_degree_term_id: academic_degree_term.id,
@@ -122,6 +129,7 @@ describe AgendasController do
         let(:academic_degree_term_course) do
           create(:academic_degree_term_course, academic_degree_term: academic_degree_term)
         end
+
         before do
           post :create, params: {
             academic_degree_term_id: academic_degree_term.id,
@@ -153,6 +161,7 @@ describe AgendasController do
     context "when group filtering was selected" do
       context "when the agenda could not be saved" do
         let(:assigned_agenda) { assigns(:agenda) }
+
         before do
           post :create, params: {
             academic_degree_term_id: academic_degree_term.id,
@@ -175,6 +184,7 @@ describe AgendasController do
         let(:academic_degree_term_course) do
           create(:academic_degree_term_course, academic_degree_term: academic_degree_term)
         end
+
         before do
           post :create, params: {
             academic_degree_term_id: academic_degree_term.id,
@@ -239,6 +249,7 @@ describe AgendasController do
           courses_attributes << { academic_degree_term_course_id: academic_degree_term_course.id, mandatory: true }
           courses_attributes.map.with_index { |attributes, index| [index, attributes] }.to_h
         end
+
         before do
           put :update, params: {
             agenda: {
@@ -289,6 +300,7 @@ describe AgendasController do
 
       context "when the agenda was saved" do
         let(:group_numbers) { Array(agenda.courses.first.group_numbers.first) }
+
         before do
           put :update, params: {
             agenda: {

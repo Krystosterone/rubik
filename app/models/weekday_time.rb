@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class WeekdayTime
   def initialize(total_minutes)
     @total_minutes = total_minutes

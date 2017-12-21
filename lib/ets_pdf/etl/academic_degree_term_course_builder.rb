@@ -1,6 +1,7 @@
 # frozen_string_literal: true
+
 class EtsPdf::Etl::AcademicDegreeTermCourseBuilder < SimpleClosure
-  SKIP_COURSES = %w(
+  SKIP_COURSES = %w[
     CTN791
     ELE791
     ELE792
@@ -17,7 +18,7 @@ class EtsPdf::Etl::AcademicDegreeTermCourseBuilder < SimpleClosure
     LOG792
     MEC791
     PRE010
-  ).freeze
+  ].freeze
 
   def initialize(academic_degree_term, parsed_lines)
     @academic_degree_term = academic_degree_term

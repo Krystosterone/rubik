@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class CreateAgendaCourses < ActiveRecord::Migration[5.0]
   def change
     create_table :agenda_courses do |t|
@@ -8,6 +9,6 @@ class CreateAgendaCourses < ActiveRecord::Migration[5.0]
       t.timestamps
     end
 
-    add_index :agenda_courses, [:academic_degree_term_course_id, :agenda_id], unique: true, name: "agenda_courses_index"
+    add_index :agenda_courses, %i[academic_degree_term_course_id agenda_id], unique: true, name: "agenda_courses_index"
   end
 end

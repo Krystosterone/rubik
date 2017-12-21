@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class CreateTerms < ActiveRecord::Migration
   def change
     create_table :terms do |t|
@@ -8,6 +9,6 @@ class CreateTerms < ActiveRecord::Migration
       t.timestamps
     end
 
-    add_index :terms, [:year, :name, :tags], unique: true
+    add_index :terms, %i[year name tags], unique: true
   end
 end

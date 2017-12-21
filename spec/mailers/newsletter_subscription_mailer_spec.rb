@@ -1,8 +1,9 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe NewsletterSubscriptionMailer do
-  context "#update_available_email" do
+  describe "#update_available_email" do
     subject { described_class.update_available_email(to: "subscription@example.com", trimesters: ["This Trimester"]) }
 
     its(:body) { is_expected.to include("This Trimester") }

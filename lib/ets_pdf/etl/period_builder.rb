@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class EtsPdf::Etl::PeriodBuilder < SimpleClosure
   MINUTES_IN_DAY = 24 * 60
   TYPES = {

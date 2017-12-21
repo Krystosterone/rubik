@@ -1,8 +1,10 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe Maintenance do
   subject(:middleware) { described_class.new(app) }
+
   let(:app) { instance_double(Rubik::Application) }
 
   describe "#call" do
@@ -34,6 +36,7 @@ describe Maintenance do
 
       context "when the maintainer ips include the request ip" do
         let(:env) { { "REMOTE_ADDR" => "123.123.123.123" } }
+
         before do
           @maintainer_ips = ENV["MAINTAINER_IPS"]
           ENV["MAINTAINER_IPS"] = "123.123.123.123"

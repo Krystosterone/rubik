@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe ScheduleWeekdaysHelper do
@@ -35,7 +36,7 @@ describe ScheduleWeekdaysHelper do
   end
 
   describe "#schedule_weekday_css_class" do
-    context "for a weekend weekday with index 0" do
+    context "with a weekend weekday with index 0" do
       let(:schedule_weekday) { instance_double(ScheduleWeekday, index: 0, weekend?: true) }
 
       it "returns the css class" do
@@ -44,7 +45,7 @@ describe ScheduleWeekdaysHelper do
     end
 
     (1..3).each do |index|
-      context "for weekday of index #{index}" do
+      context "with a weekday of index #{index}" do
         let(:schedule_weekday) { instance_double(ScheduleWeekday, index: index, weekend?: false) }
 
         it "returns the css class" do
@@ -55,8 +56,8 @@ describe ScheduleWeekdaysHelper do
   end
 
   describe "#schedule_weekday_name" do
-    %w(Dimanche Lundi Mardi Mercredi Jeudi Vendredi Samedi).each_with_index do |name, index|
-      context "for index #{index}" do
+    %w[Dimanche Lundi Mardi Mercredi Jeudi Vendredi Samedi].each_with_index do |name, index|
+      context "with an index #{index}" do
         let(:schedule_weekday) { instance_double(ScheduleWeekday, index: index) }
 
         it "returns the #{name}" do

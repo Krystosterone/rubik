@@ -1,11 +1,14 @@
 # frozen_string_literal: true
+
 require "rails_helper"
 
 describe ScheduleGeneratorJob do
   describe "#perform" do
     subject(:job) { described_class.new }
+
     let(:agenda) { create(:combined_agenda) }
     let(:schedule_generator) { instance_double(ScheduleGenerator) }
+
     before do
       Timecop.freeze(2016, 1, 1)
 

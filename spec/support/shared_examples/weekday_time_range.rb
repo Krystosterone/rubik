@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 shared_examples "WeekdayTimeRange" do
   describe "#new" do
     context "with attributes passed in" do
@@ -44,11 +45,13 @@ shared_examples "WeekdayTimeRange" do
   describe "#empty?" do
     context "when the range has no minutes" do
       subject(:time_range) { described_class.new(starts_at: 0, ends_at: 0) }
+
       specify { expect(time_range).to be_empty }
     end
 
     context "when the range has at least a minute" do
       subject(:time_range) { described_class.new(starts_at: 0, ends_at: 1) }
+
       specify { expect(time_range).not_to be_empty }
     end
   end
@@ -56,6 +59,7 @@ shared_examples "WeekdayTimeRange" do
   describe "validation on time correctness" do
     context "when the end comes after the start" do
       subject(:time_range) { described_class.new(starts_at: 0, ends_at: 100) }
+
       before { time_range.valid? }
 
       it "does not add an error on ends_at" do
@@ -65,6 +69,7 @@ shared_examples "WeekdayTimeRange" do
 
     context "when the start and end are equal" do
       subject(:time_range) { described_class.new(starts_at: 0, ends_at: 0) }
+
       before { time_range.valid? }
 
       it "does not add an error on ends_at" do
@@ -74,6 +79,7 @@ shared_examples "WeekdayTimeRange" do
 
     context "when the end comes before the start" do
       subject(:time_range) { described_class.new(starts_at: 200, ends_at: 100) }
+
       before { time_range.valid? }
 
       it "adds an error on ends_at" do
