@@ -23,10 +23,6 @@ Metrics/LineLength:
 Rails:
   Enabled: true
 
-RSpec/ExpectActual:
-  Exclude:
-    - spec/routing/application_routing_spec.rb
-
 RSpec/DescribeClass:
   Exclude:
     - spec/**/*.rake_spec.rb
