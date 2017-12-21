@@ -13,6 +13,8 @@ machine:
     PATH: "${PATH}:${HOME}/${CIRCLE_PROJECT_REPONAME}/node_modules/.bin"
     RACK_ENV: test
     RAILS_ENV: test
+  node:
+    version: 8.2.0
   pre:
     - sudo curl --output /usr/local/bin/phantomjs https://s3.amazonaws.com/circle-downloads/phantomjs-2.1.1
 
