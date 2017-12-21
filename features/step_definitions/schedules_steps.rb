@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-Alors /^je vois (\d+) comme étant le nombre de cours par horaire affiché$/ do |courses_per_schedule|
+Alors(/^je vois (\d+) comme étant le nombre de cours par horaire affiché$/) do |courses_per_schedule|
   expect(page).to have_field("Nombre de cours par horaire", with: courses_per_schedule, disabled: true)
 end
 
-Alors /^je vois les cours sélectionnés:$/ do |table|
+Alors(/^je vois les cours sélectionnés:$/) do |table|
   document = Nokogiri::HTML(html)
   courses = document.css(".courses-selected tbody tr")
 
@@ -24,7 +24,7 @@ Alors(/^je vois (\d+) possibilités? d'horaires?$/) do |count|
   expect(page).to have_selector(".schedules fieldset", count: count)
 end
 
-Alors /^je vois les horaires:$/ do |table|
+Alors(/^je vois les horaires:$/) do |table|
   document = Nokogiri::HTML(html)
   schedules = document.css(".schedules .schedule")
 
@@ -45,6 +45,6 @@ Alors /^je vois les horaires:$/ do |table|
   end
 end
 
-Lorsque /^j'édite l'agenda$/ do
+Lorsque(/^j'édite l'agenda$/) do
   click_link "Éditer"
 end

@@ -14,10 +14,6 @@ AllCops:
 Layout/IndentArray:
   EnforcedStyle: consistent
 
-Lint/AmbiguousRegexpLiteral:
-  Exclude:
-    - features/step_definitions/**/*
-
 Metrics/BlockLength:
   Enabled: false
 
