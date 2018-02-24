@@ -1,0 +1,838 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                    HORAIRE ETÉ 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+CHM131          CHIMIE ET MATÉRIAUX
+
+                01      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP              B-2622
+
+                02      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP              B-2622
+
+                03      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP              B-2622
+
+                04      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP              B-2622
+
+                05      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP              B-2622
+
+                06      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP              B-2622
+
+                07      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP              B-2622
+
+                08      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP              B-2622
+
+
+
+COM110          MÉTHODES DE COMMUNICATION                                                                              TEST DE FRANCAIS OU FRA150 OU
+                                                                                                                       FRA151
+                01      Jeu           09:00 - 12:30     C
+                        Mar           08:30 - 12:30     TP A+B
+
+                02      Mer           13:30 - 17:00     C
+                        Ven           08:30 - 12:30     TP A+B
+
+                03      Lun           09:00 - 12:30     C
+                        Mer           08:30 - 12:30     TP A+B
+
+                04      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 22:00     TP A+B
+
+                05      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 22:00     TP A+B
+
+
+
+ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                        GIA400 ou GIA410
+
+                01      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 20:00     TP
+
+
+
+ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
+
+                01      Mar           13:30 - 17:00     C
+                        Jeu           13:30 - 15:30     TP
+
+
+
+GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                01      Mer           09:00 - 12:30     C
+                        Lun           10:30 - 12:30     TP
+
+                02      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 15:30     TP
+
+                03      Mar           09:00 - 12:30     C
+                        Jeu           10:30 - 12:30     TP
+
+                04      Mer           13:30 - 17:00     C
+                        Ven           10:30 - 12:30     TP
+
+                05      Jeu           09:00 - 12:30     C
+                        Mar           10:30 - 12:30     TP
+
+                06      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 20:00     TP
+
+                07      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 20:00     TP
+
+                08      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 20:00     TP
+
+
+
+GOL203          OUTILS DE CONCEPTION ET D'ANALYSE DE
+                PROD. ET SERV.
+                01      Mar           13:30 - 17:00     C
+
+
+                 Date : 2018-02-23 13:54:20           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/11
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                    HORAIRE ETÉ 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+GOL203          OUTILS DE CONCEPTION ET D'ANALYSE DE
+                PROD. ET SERV.
+                01      Jeu           08:45 - 11:45     Labo           A-3608
+
+
+
+GOL405          MÉTHODES QUANTITATIVES EN                                                                              MAT165
+                LOGISTIQUE
+                01      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP             A-3726, A-3728
+
+
+
+GOL460          CHAÎNES LOGISTIQUES ET                                                                                 GOL405
+                D'APPROVISIONNEMENT
+                01      Mer           08:30 - 12:00     C
+                        Lun           08:45 - 11:45     TP             A-3612, A-4516
+
+
+
+GOL465          SIMULATION DES OPÉRATIONS ET DES                                                                       Pr. AD: GOL102 et MAT350
+                ACTIVITÉS DE SERVICES                                                                                  Pr. G: MAT350
+                                                                                                                       Pr. I, R: GOL102 et MAT350
+                01      Mer           18:00 - 21:30     C              A-3608
+                        Lun           18:00 - 21:00     Labo           A-3726
+
+
+
+GOL508          ORGANISATION FLEXIBLE DE LA                                                                            GOL455
+                PRODUCTION
+                01      Ven           18:00 - 21:30     C
+                        Mer           18:00 - 20:00     Labo A         A-4516
+                        Mer           20:00 - 22:00     Labo B         A-4516
+
+
+
+GOL512          INGÉNIERIE SIMULTANÉE DANS LE                                                                          GOL102
+                DÉVELOP. DE PRODUITS                                                                                   Conc. PR: GOL102
+                01      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 17:30     TP A+B         A-4516
+
+
+
+GOL605          ANALYSE DE LA PERFORMANCE                                                                              GIA400
+                FINANCIÈRE
+                01      Mar           08:30 - 12:00     C
+                        Jeu           08:45 - 12:45     TP A+B         A-3726
+
+
+
+GOL711          GESTION DE PROJET DANS LES PRODUITS
+                ET SERVICES
+                01      Mer           18:00 - 21:30     C
+                        Mar           18:00 - 22:00     TP A+B         A-4516
+
+
+
+GOL720          IMPLANTATION SYST. INTÉGRÉS DE
+                GESTION D'ENTREPRISE
+                01      Jeu           18:00 - 21:30     C              A-4516
+                        Lun           18:00 - 22:00     TP A+B         A-4516
+
+
+
+GOL791          PROJETS SPÉCIAUX                                                                                       Autorisation du directeur de département
+
+                01      Ven           08:30 - 12:00     C               A-4516
+
+
+
+GOL793          PROJET FIN D’ÉTUDES EN GÉNIE DES                                                                       Minimum 99 Cr
+                OPÉRATIONS ET DE LA LOGISTIQUE
+                01      Ven           08:30 - 12:00     C              A-4516
+
+
+
+GOL794          PROJET INTERNATIONAL DE FIN D’ÉTUDES                                                                   Minimum 99 Cr
+                EN GÉNIE DES OPÉRATIONS ET D
+                01      Ven           08:30 - 12:00     C              A-4516
+
+
+
+GPE450          GESTION DU PERSONNEL ET RELATIONS
+                INDUSTRIELLES
+                01      Mar           08:30 - 12:00     C
+                        Mer           08:30 - 10:30     TP
+
+                02      Mer           18:00 - 21:30     C
+
+
+
+
+                 Date : 2018-02-23 13:54:20           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/11
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                    HORAIRE ETÉ 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+GPE450          GESTION DU PERSONNEL ET RELATIONS
+                INDUSTRIELLES
+                02      Ven           18:00 - 20:00     TP
+
+
+
+INF130          ORDINATEURS ET PROGRAMMATION
+
+                01      Mar           09:00 - 12:30     C              E-4023
+                        Jeu           09:00 - 12:00     Labo           E-4023
+
+                02      Mer           18:00 - 21:30     C              E-4021
+                        Lun           18:00 - 21:00     Labo           E-4021
+
+                03      Jeu           13:30 - 17:00     C              E-4023
+                        Lun           13:30 - 16:30     Labo           E-4023
+
+                04      Lun           09:00 - 12:30     C              E-4023
+                        Mer           09:00 - 12:00     Labo           E-4023
+
+
+
+ING150          STATIQUE ET DYNAMIQUE
+
+                01      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                02      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                03      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                04      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+                05      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+
+
+ING160          THERMODYNAMIQUE ET MÉCANIQUE DES                                                                       ING150
+                FLUIDES
+                01      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                02      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                03      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                04      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+
+
+ING500          OUTILS DE DÉVELOPPEMENT DURABLE
+                POUR L'INGÉNIEUR
+                01      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 22:00     TP A+B         E-4022
+
+
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
+                GÉNIE (HORS PROG.)
+                80      Lun           13:30 - 17:00     C
+
+
+
+
+                 Date : 2018-02-23 13:54:20           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 3/11
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                        7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                        HORAIRE ETÉ 2018
+                                                            Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                            Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                            Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR                HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
+                GÉNIE (HORS PROG.)
+                80      Mer               13:30 - 16:30     TP
+                        28 mai 2018
+                        30 mai 2018
+                        04 juin 2018
+                        06 juin 2018
+                        11 juin 2018
+                        13 juin 2018
+                        18 juin 2018
+                        20 juin 2018
+                        26 juin 2018
+                        04 juillet 2018
+                        09 juillet 2018
+                        11 juillet 2018
+                        16 juillet 2018
+                        18 juillet 2018
+                        23 juillet 2018
+                        25 juillet 2018
+                        30 juillet 2018
+                        01 août 2018
+                        06 août 2018
+                        08 août 2018
+                        13 août 2018
+                        15 août 2018
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 10 juin 2018 / 15 juillet 2018
+                81      Mar               18:00 - 21:30     C
+
+
+
+
+                 Date : 2018-02-23 13:54:20               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 4/11
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                        7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                        HORAIRE ETÉ 2018
+                                                            Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                            Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                            Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR                HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
+                GÉNIE (HORS PROG.)
+                81      Jeu               18:00 - 21:00     TP
+                        29 mai 2018
+                        31 mai 2018
+                        05 juin 2018
+                        07 juin 2018
+                        12 juin 2018
+                        14 juin 2018
+                        19 juin 2018
+                        21 juin 2018
+                        28 juin 2018
+                        03 juillet 2018
+                        05 juillet 2018
+                        10 juillet 2018
+                        12 juillet 2018
+                        17 juillet 2018
+                        19 juillet 2018
+                        24 juillet 2018
+                        26 juillet 2018
+                        31 juillet 2018
+                        02 août 2018
+                        07 août 2018
+                        09 août 2018
+                        14 août 2018
+                        16 août 2018
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 11 juin 2018 / 16 juillet 2018
+
+
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                01      Mar               09:00 - 12:30     C
+                        Jeu               09:00 - 12:00     TP
+
+                02      Mar               13:30 - 17:00     C
+                        Ven               13:30 - 16:30     TP
+
+                03      Ven               09:00 - 12:30     C
+                        Mer               13:30 - 16:30     TP
+
+                04      Mer               18:00 - 21:30     C
+                        Lun               18:00 - 21:00     TP
+
+                05      Lun               13:30 - 17:00     C
+                        Jeu               13:30 - 16:30     TP
+
+                06      Lun               09:00 - 12:30     C
+
+
+
+
+                 Date : 2018-02-23 13:54:20               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/11
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                    HORAIRE ETÉ 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                06      Mer           09:00 - 12:00     TP
+
+                07      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+
+
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                                                            MAT145
+                VECTORIELLE
+                01      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+                02      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                03      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                04      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                05      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                06      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                07      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                08      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                              MAT145
+
+                01      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                02      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+                03      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                04      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                05      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                06      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                07      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+                08      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                09      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                10      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                           MAT145
+
+                01      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                02      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+                03      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                04      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                05      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                06      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP
+
+                07      Lun           13:30 - 17:00     C
+
+
+
+                 Date : 2018-02-23 13:54:20           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/11
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                        7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                        HORAIRE ETÉ 2018
+                                                            Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                            Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                            Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR                HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                               MAT145
+
+                07      Jeu               13:30 - 16:30     TP
+
+                08      Mer               09:00 - 12:30     C
+                        Lun               09:00 - 12:00     TP
+
+                09      Mar               09:00 - 12:30     C
+                        Jeu               09:00 - 12:00     TP
+
+                10      Mar               13:30 - 17:00     C
+                        Ven               13:30 - 16:30     TP
+
+
+
+PEP110          ENCADREMENT DE LA PROFESSION ET
+                ÉTHIQUE PROFESSIONNELLE
+                01      Mer               09:00 - 12:30     Atelier
+                        09 mai 2018
+                        16 mai 2018
+                        23 mai 2018
+                        30 mai 2018
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 22 mai 2018 / 29 mai 2018
+                02      Mer               09:00 - 12:30     Atelier
+                        06 juin 2018
+                        13 juin 2018
+                        20 juin 2018
+                        04 juillet 2018
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 juin 2018 / 03 juillet 2018
+                03      Mer               09:00 - 12:30     Atelier
+                        11 juillet 2018
+                        18 juillet 2018
+                        25 juillet 2018
+                        01 août 2018
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 24 juillet 2018 / 31 juillet 2018
+                04      Mar               13:30 - 17:00     Atelier
+                        08 mai 2018
+                        15 mai 2018
+                        29 mai 2018
+                        05 juin 2018
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 28 mai 2018 / 04 juin 2018
+                05      Mar               13:30 - 17:00     Atelier
+                        12 juin 2018
+                        19 juin 2018
+                        27 juin 2018
+                        03 juillet 2018
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 25 juin 2018 / 02 juillet 2018
+                06      Mar               13:30 - 17:00     Atelier
+                        10 juillet 2018
+                        17 juillet 2018
+                        24 juillet 2018
+                        31 juillet 2018
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 23 juillet 2018 / 30 juillet 2018
+                07      Jeu               18:00 - 21:30     Atelier
+                        10 mai 2018
+                        17 mai 2018
+                        24 mai 2018
+                        31 mai 2018
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 23 mai 2018 / 30 mai 2018
+                08      Jeu               18:00 - 21:30     Atelier
+                        07 juin 2018
+                        14 juin 2018
+                        21 juin 2018
+                        28 juin 2018
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 20 juin 2018 / 27 juin 2018
+
+
+
+
+                 Date : 2018-02-23 13:54:20               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/11
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                        7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                        HORAIRE ETÉ 2018
+                                                            Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                            Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                            Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR                HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+PEP110          ENCADREMENT DE LA PROFESSION ET
+                ÉTHIQUE PROFESSIONNELLE
+                09      Jeu               18:00 - 21:30     Atelier
+                        05 juillet 2018
+                        12 juillet 2018
+                        19 juillet 2018
+                        26 juillet 2018
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 18 juillet 2018 / 25 juillet 2018
+
+
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
+                (HORS PROGRAMME)
+                80      Lun               18:00 - 21:30     C
+                        Mer               18:00 - 21:00     TP
+                        28 mai 2018
+                        30 mai 2018
+                        04 juin 2018
+                        06 juin 2018
+                        11 juin 2018
+                        13 juin 2018
+                        18 juin 2018
+                        20 juin 2018
+                        26 juin 2018
+                        04 juillet 2018
+                        09 juillet 2018
+                        11 juillet 2018
+                        16 juillet 2018
+                        18 juillet 2018
+                        23 juillet 2018
+                        25 juillet 2018
+                        30 juillet 2018
+                        01 août 2018
+                        06 août 2018
+                        08 août 2018
+                        13 août 2018
+                        15 août 2018
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 10 juin 2018 / 15 juillet 2018
+                81      Mar               13:30 - 17:00     C
+
+
+
+
+                 Date : 2018-02-23 13:54:20               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 8/11
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                        7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                        HORAIRE ETÉ 2018
+                                                            Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                            Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                            Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR                HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
+                (HORS PROGRAMME)
+                81      Jeu               13:30 - 16:30     TP
+                        29 mai 2018
+                        31 mai 2018
+                        05 juin 2018
+                        07 juin 2018
+                        12 juin 2018
+                        14 juin 2018
+                        19 juin 2018
+                        21 juin 2018
+                        28 juin 2018
+                        03 juillet 2018
+                        05 juillet 2018
+                        10 juillet 2018
+                        12 juillet 2018
+                        17 juillet 2018
+                        19 juillet 2018
+                        24 juillet 2018
+                        26 juillet 2018
+                        31 juillet 2018
+                        02 août 2018
+                        07 août 2018
+                        09 août 2018
+                        14 août 2018
+                        16 août 2018
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 11 juin 2018 / 16 juillet 2018
+
+
+
+PHY335          PHYSIQUE DES ONDES                                                                                         CTN258 / ING150
+
+                01      Mer               09:00 - 12:30     C
+                        Lun               09:00 - 12:00     TP
+
+                02      Jeu               09:00 - 12:30     C
+                        Mar               09:00 - 12:00     TP
+
+                03      Mer               13:30 - 17:00     C
+                        Ven               09:00 - 12:00     TP
+
+                04      Mar               13:30 - 17:00     C
+                        Ven               13:30 - 16:30     TP
+
+                05      Jeu               18:00 - 21:30     C
+                        Mar               18:00 - 21:00     TP
+
+                06      Lun               13:30 - 17:00     C
+
+
+
+
+                 Date : 2018-02-23 13:54:20               L’École se réserve un droit de modifier l’horaire sans préavis     Page : 9/11
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                     7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                     HORAIRE ETÉ 2018
+                                                         Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                         Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                         Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR             HEURE           ACTIVITÉ       LOCAL                  ENSEIGNANT                   PRÉALABLES
+
+PHY335          PHYSIQUE DES ONDES                                                                                          CTN258 / ING150
+
+                06      Jeu            13:30 - 16:30     TP
+
+                07      Mar            09:00 - 12:30     C
+                        Jeu            09:00 - 12:00     TP
+
+                08      Lun            09:00 - 12:30     C
+                        Mer            09:00 - 12:00     TP
+
+
+
+PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
+                INITIATION À LA SANTÉ ET SÉCURITÉ
+                Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 9 h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+                ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les
+                étudiants du programme 7622 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-
+                sécurité en suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+                (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+                l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
+                groupe réservé.
+                01      Ven            18:00 - 21:30     Atelier
+                        Sam            09:00 - 17:30     C
+                        01 juin 2018
+                        02 juin 2018
+
+                02      Ven            18:00 - 21:30     Atelier
+                        Sam            09:00 - 17:30     C
+                        01 juin 2018
+                        02 juin 2018
+
+                03                                       Atelier
+                        Ce cours est offert en ligne. Le groupe 03 est réservé aux étudiants inscrits au programme 7622
+
+
+TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
+                SOCIÉTÉ
+                01      Jeu            09:00 - 12:30     C
+                        Mar            08:30 - 12:30     TP A+B
+
+                02      Mer            09:00 - 12:30     C
+                        Lun            08:30 - 12:30     TP A+B
+
+                03      Ven            09:00 - 12:30     C
+                        Mer            13:30 - 17:30     TP A+B
+
+                04      Mar            13:30 - 17:00     C
+                        Ven            13:30 - 17:30     TP A+B
+
+                05      Mer            18:00 - 21:30     C
+                        Lun            18:00 - 20:00     TP
+
+                06      Mar            18:00 - 21:30     C
+                        Jeu            18:00 - 20:00     TP
+
+                07      Lun            13:30 - 17:00     C
+                        Jeu            13:30 - 17:30     TP A+B
+
+                08      Mar            09:00 - 12:30     C
+
+
+
+
+                 Date : 2018-02-23 13:54:20            L’École se réserve un droit de modifier l’horaire sans préavis        Page : 10/11
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                           7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                           HORAIRE ETÉ 2018
+                                                          Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                          Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                          Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR             HEURE            ACTIVITÉ            LOCAL             ENSEIGNANT                                PRÉALABLES
+
+TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
+                SOCIÉTÉ
+                08      Jeu           08:30 - 12:30       TP A+B
+
+
+NOTES
+
+a)              Programmes d'études
+
+                B:                 baccalauréat
+
+                GAQ :              certificat en gestion et assurance de la qualité
+
+                GC :               certificat en gestion de la construction
+
+                GE :               certificat et programme court de 1er cycle en gestion des établissements
+
+                PI :               certificat en production industrielle
+
+                CT :               certificat en télécommunication
+
+                TS :               certificat spécialisé en génie des technologie de la santé
+
+b)              Activités
+
+                C : cours          TP : travaux pratiques                                       LABO : laboratoires
+
+                                   TP/2 : travaux pratiques aux deux (2) semaines               LABO/2 : laboratoires aux deux (2) semaines
+
+                TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+                présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+                trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+                pratiques (TP).
+
+c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+                Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+
+                Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+
+                 Date : 2018-02-23 13:54:20            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 11/11
+
