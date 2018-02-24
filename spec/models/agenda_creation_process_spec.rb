@@ -36,13 +36,13 @@ describe AgendaCreationProcess do
 
     shared_examples "a successful save with no generation" do
       specify { expect(process.save).to eq(true) }
-      specify { expect { process.save }.not_to(change { agenda.processing }) }
-      specify { expect { process.save }.not_to(change { agenda.combined_at }) }
+      specify { expect { process.save }.not_to(change(agenda, :processing)) }
+      specify { expect { process.save }.not_to(change(agenda, :combined_at)) }
     end
 
     shared_examples "a successful agenda generation" do
       specify { expect(process.save).to eq(true) }
-      specify { expect { process.save }.to change { agenda.processing }.to eq(true) }
+      specify { expect { process.save }.to change(agenda, :processing).to eq(true) }
 
       it "sets the combined at timestamp to nil" do
         process.save

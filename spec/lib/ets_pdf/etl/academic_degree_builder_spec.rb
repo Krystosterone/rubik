@@ -24,7 +24,7 @@ describe EtsPdf::Etl::AcademicDegreeBuilder do
         before { allow(EtsPdf::Etl::AcademicDegreeTermCourseBuilder).to receive(:call) }
 
         {
-          "do not exist" => proc{},
+          "do not exist" => proc {},
           "exist" => proc do
             academic_degree = create(:academic_degree, code: denormalized_handle, name: normalized_handle)
             create(:academic_degree_term, academic_degree: academic_degree)

@@ -85,7 +85,7 @@ describe Agenda::Course do
 
     it "sets the group numbers to the ones of the academic_degree_term_course" do
       expect { course.reset_group_numbers }
-        .to change { course.group_numbers }.to(academic_degree_term_course.group_numbers)
+        .to change(course, :group_numbers).to(academic_degree_term_course.group_numbers)
     end
   end
 end

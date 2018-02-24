@@ -46,7 +46,7 @@ FactoryBot.define do
   end
 
   factory :agenda_course, class: "Agenda::Course" do
-    after(:build, &:reset_group_numbers)
+    after(:build) { |agenda_course| agenda_course.reset_group_numbers } # rubocop:disable Style/SymbolProc
 
     academic_degree_term_course
     agenda { Agenda.new }
