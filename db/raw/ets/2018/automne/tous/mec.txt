@@ -1,0 +1,1296 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                7684 : Baccalauréat en génie mécanique
+
+
+                                                                  HORAIRE AUTOMNE 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+AER600          INTRODUCTION À L’AÉROSPATIALE
+
+                01      Jeu           08:30 - 12:00     C
+                        Lun           08:30 - 10:30     TP
+
+
+
+ATE029          INTRODUCTION À LA MODÉLISATION
+                SOLIDE AVEC CATIA
+                01      Sam           08:30 - 17:00     Atelier        A-1222
+                        08 septembre 2018
+                        15 septembre 2018
+                        22 septembre 2018
+
+                02      Sam           08:30 - 17:00     Atelier        A-1226
+                        08 septembre 2018
+                        15 septembre 2018
+                        22 septembre 2018
+
+                03      Sam           08:30 - 17:00     Atelier        A-1220
+                        08 septembre 2018
+                        15 septembre 2018
+                        22 septembre 2018
+
+                04      Sam           08:30 - 17:00     Atelier        A-1214
+                        08 septembre 2018
+                        15 septembre 2018
+                        22 septembre 2018
+
+
+
+ATE050          RÉUSSIR EN GÉNIE
+
+                01      Mar           08:30 - 10:30     Atelier
+
+
+
+CHM131          CHIMIE ET MATÉRIAUX
+
+                01      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                02      Lun           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                03      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                04      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+                05      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                06      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                07      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                08      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+                09      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+                10      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                11      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                12      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                13      Sam           08:30 - 12:00     C
+                        Sam           13:00 - 16:00     TP
+
+                14      Mar           18:00 - 21:00     C
+                        Jeu           18:00 - 21:00     TP
+
+
+
+COM115          COMMUNICATION INTERCULTURELLE
+
+                01      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 17:30     TP A+B
+
+
+                 Date : 2018-05-10 13:21:30           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 1/13
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                7684 : Baccalauréat en génie mécanique
+
+
+                                                              HORAIRE AUTOMNE 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+COM115          COMMUNICATION INTERCULTURELLE
+
+                02      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 22:00     TP A+B
+
+
+
+COM129          MÉTHODES DE COMMUNICATION EN GÉNIE
+                MÉCANIQUE
+                01      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 17:30     TP A+B
+
+                02      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 17:30     TP A+B
+
+                03      Mer           13:30 - 17:00     C
+                        Ven           08:30 - 12:30     TP A+B
+
+                04      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 17:30     TP A+B
+
+                05      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 17:30     TP A+B
+
+                06      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 17:30     TP A+B
+
+
+
+ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                        GIA400 ou GIA410
+
+                01      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 20:00     TP
+
+                02      Mer           09:00 - 12:30     C
+                        Lun           10:30 - 12:30     TP
+
+                03      Sam           08:30 - 12:00     C
+                        Sam           13:00 - 15:00     TP
+
+
+
+ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
+
+                01      Mer           18:00 - 21:30     C
+                        Jeu           18:00 - 20:00     TP
+
+                02      Mer           13:30 - 17:00     C
+                        Jeu           18:00 - 20:00     TP
+
+
+
+FRA151          FRANÇAIS ÉCRIT
+
+                01      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 22:00     TP
+
+
+
+GIA410          GESTION ET ÉCONOMIE DES PROJETS
+                D’INGÉNIERIE
+                01      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 15:30     TP
+
+                02      Mar           18:00 - 21:30     C
+                        Ven           18:00 - 20:00     TP
+
+                03      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 20:00     TP
+
+
+
+GIA601          ERGONOMIE ET SÉCURITÉ EN MILIEU DE
+                TRAVAIL
+                01      Ven           13:30 - 17:00     C
+                        Jeu           08:45 - 12:45     TP/Labo         A-1226, A-2230
+
+                02      Lun           13:30 - 17:00     C
+                        Mer           13:30 - 17:30     TP/Labo         A-1226, A-2230
+
+
+
+GPE450          GESTION DU PERSONNEL ET RELATIONS
+                INDUSTRIELLES
+                01      Ven           13:30 - 17:00     C
+                        Sam           15:30 - 17:30     TP
+
+                02      Mer           18:00 - 21:30     C
+                        Sam           13:30 - 15:30     TP
+
+
+
+
+                 Date : 2018-05-10 13:21:30           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/13
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                 7684 : Baccalauréat en génie mécanique
+
+
+                                                               HORAIRE AUTOMNE 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+GTS501          INGÉNIERIE DES SYSTÈMES HUMAINS
+
+                01      Mer           08:30 - 12:00     C
+                        Mer           13:30 - 17:30     TP              A-3728
+
+
+
+GTS502          RISQUES SECTEUR SANTÉ: SOURCES ET
+                TECHN D'ÉVALUATION
+                02      Jeu           13:30 - 17:00     C
+                        Mer           08:30 - 10:30     TP              A-1214
+
+
+
+GTS504          INTRODUCTION À L'INGÉNIERIE DE LA
+                RÉADAPTATION
+                01      Lun           08:45 - 12:15     C
+                        Mar           08:30 - 10:30     Labo           A-4516
+
+
+
+INF135          INTRODUCTION À LA PROGRAMMATION EN
+                GÉNIE MÉCANIQUE
+                01      Jeu           13:30 - 17:00     C              E-4023
+                        Lun           13:30 - 16:30     Labo           E-4023
+
+                02      Lun           09:00 - 12:30     C              E-4022
+                        Mer           09:00 - 12:00     Labo           E-4023
+
+                03      Jeu           18:00 - 21:30     C              E-4022
+                        Mar           18:00 - 21:00     Labo           E-4022
+
+                04      Ven           09:00 - 12:30     C              E-4021
+                        Mer           13:30 - 16:30     Labo           E-4022
+
+
+
+ING500          OUTILS DE DÉVELOPPEMENT DURABLE
+                POUR L'INGÉNIEUR
+                01      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 17:30     Labo A+B       E-4021
+
+                02      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 22:00     Labo A+B       E-4023
+
+
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
+                GÉNIE (HORS PROG.)
+                01      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                02      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                03      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                04      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                05      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                06      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                07      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                01      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                02      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                03      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                04      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                05      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                06      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                07      Lun           13:30 - 17:00     C
+                 Date : 2018-05-10 13:21:30           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 3/13
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                7684 : Baccalauréat en génie mécanique
+
+
+                                                              HORAIRE AUTOMNE 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                07      Jeu           13:30 - 16:30     TP
+
+                08      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                09      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                10      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                11      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                12      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                13      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                14      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                22      Sam           08:30 - 12:00     C
+                        Sam           13:00 - 16:00     TP
+
+
+
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                                                            MAT145
+                VECTORIELLE
+                01      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+                02      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                03      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                04      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+                05      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP
+
+                06      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                07      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                08      Sam           08:30 - 12:00     C
+                        Sam           13:00 - 16:00     TP
+
+
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                              MAT145
+
+                01      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                02      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+                03      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+                04      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                05      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                06      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                07      Lun           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                08      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP
+
+                09      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                10      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                11      Sam           08:30 - 12:00     C
+                        Sam           13:00 - 16:00     TP
+
+
+
+                 Date : 2018-05-10 13:21:30           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 4/13
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                 7684 : Baccalauréat en génie mécanique
+
+
+                                                               HORAIRE AUTOMNE 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                              MAT145
+
+                12      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                           MAT145
+
+                01      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP
+
+                02      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+                03      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+                04      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                05      Mer           18:00 - 21:30     C
+                        Ven           18:00 - 21:00     TP
+
+                06      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+                07      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                08      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                09      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                10      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                11      Sam           08:30 - 12:00     C
+                        Sam           13:00 - 16:00     TP
+
+
+
+MATEST          ACCUEIL EN MATHÉMATIQUES
+
+                01      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                02      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                03      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                04      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                05      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                06      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                07      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+
+
+MEC029          COMMUNICATION GRAPHIQUE ET
+                FABRICATION MÉCANIQUE (3 CR.)
+                01      Jeu           13:30 - 17:00     C
+                        Lun           08:30 - 10:30     Labo           A-1502, A-1504
+
+                02      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 20:00     Labo           A-1214
+
+
+
+MEC111          STATIQUE DE L'INGÉNIEUR
+
+                01      Lun           08:30 - 12:00     C
+                        Mer           08:45 - 11:45     TP/Labo         A-2304
+
+                02      Mer           08:45 - 12:15     C
+                        Lun           08:30 - 11:30     TP/Labo         A-2304
+
+                03      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP/Labo         A-2304
+
+                04      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP/Labo         A-2304
+
+
+                 Date : 2018-05-10 13:21:30           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/13
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                 7684 : Baccalauréat en génie mécanique
+
+
+                                                               HORAIRE AUTOMNE 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MEC111          STATIQUE DE L'INGÉNIEUR
+
+                05      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP/Labo         A-2304
+
+                06      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP/Labo         A-2304
+
+                07      Ven           08:45 - 12:15     C
+                        Mer           13:30 - 16:30     TP/Labo         A-2304
+
+
+
+MEC129          DÉVELOPPEMENT DE PRODUITS ASSISTÉ
+                PAR ORDINATEUR
+                01      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     Labo           A-1222
+
+                02      Jeu           08:30 - 12:00     C
+                        Mar           08:45 - 11:45     Labo           A-1222
+
+                03      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     Labo           A-1222
+
+                04      Lun           08:30 - 12:00     C
+                        Mer           08:45 - 11:45     Labo           A-1222
+
+                05      Ven           08:45 - 12:15     C
+                        Mer           13:30 - 16:30     Labo           A-1222
+
+                06      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     Labo           A-1222
+
+
+
+MEC200          TECHNOLOGIE DES MATÉRIAUX                                                                              CHM131
+
+                L'horaire des laboratoires est à déterminer
+                01      Sam           08:30 - 12:00     C
+                                                        Labo           A-2150
+
+                02      Lun           13:30 - 17:00     C
+                                                        Labo           A-2150
+
+                03      Mer           13:30 - 17:00     C
+                                                        Labo           A-2150
+
+                04      Mar           18:00 - 21:30     C
+                                                        Labo           A-2150
+
+
+
+MEC222          DYNAMIQUE                                                                                              MEC111 et MAT145
+                01      Ven           08:45 - 12:15     C
+                        Mar           08:30 - 12:30     TP/Labo         A-1226
+
+                02      Mer           13:30 - 17:00     C
+                        Jeu           13:30 - 17:30     TP/Labo         A-1214
+
+                03      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 22:00     TP/Labo         A-1220
+
+
+
+MEC240          THERMODYNAMIQUE
+
+                01      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP/Labo         CTT
+
+                02      Mar           08:45 - 12:15     C
+                        Jeu           08:30 - 11:30     TP/Labo         CTT
+
+                03      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP/Labo         CTT, A-1214
+
+
+
+MEC300          TECHNOLOGIE DE FABRICATION                                                                             MEC200
+
+                01      Sam           13:30 - 17:00     C
+                        Mar           18:00 - 22:00     TP/Labo         A-2150
+
+                02      Mer           13:30 - 17:00     C
+                        Ven           08:30 - 12:30     TP/Labo         A-2150
+
+                03      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 22:00     TP/Labo         A-2150
+
+
+
+MEC329          RÉSISTANCE DES MATÉRIAUX                                                                               MEC111
+
+                01      Ven           08:45 - 12:15     C
+                 Date : 2018-05-10 13:21:30           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/13
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                 7684 : Baccalauréat en génie mécanique
+
+
+                                                               HORAIRE AUTOMNE 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MEC329          RÉSISTANCE DES MATÉRIAUX                                                                               MEC111
+
+                01      Mar           13:30 - 16:30     TP/Labo         A-2304
+
+                02      Jeu           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP/Labo         A-2304
+
+                03      Lun           08:30 - 12:00     C
+                        Ven           13:30 - 16:30     TP/Labo         A-2304
+
+
+
+MEC335          MÉCANIQUE DES FLUIDES                                                                                  MEC222
+
+                01      Sam           08:30 - 12:00     C
+                        Mer           08:45 - 11:45     TP/Labo         A-1226, A-2220
+
+                02      Ven           13:30 - 17:00     C
+                        Jeu           08:30 - 11:30     TP/Labo         A-1222, A-2220
+
+                03      Mar           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP/Labo         A-1212, A-2220
+
+
+
+MEC402          PRODUCTION ET FABRICATION                                                                              MAT350*
+                INDUSTRIELLES
+                01      Lun           08:45 - 12:15     C
+                        Mar           08:30 - 10:30     Labo           A-1220
+
+
+
+MEC423          MÉTHODE DES ÉLÉMENTS FINIS DES                                                                         INF135 et MEC329*
+                CORPS DÉFORMABLES
+                01      Jeu           08:30 - 12:00     C
+                        Lun           13:30 - 16:30     Labo           A-1222
+
+                02      Sam           08:30 - 12:00     C
+                        Mar           13:30 - 16:30     Labo           A-1226
+
+                03      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     Labo           A-1220
+
+                04      Lun           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     Labo           A-1222
+
+
+
+MEC525          CONCEPTION VIBRATOIRE ET DYNAMIQUE                                                                     MAT265 et MEC222 et MEC423
+                DES STRUCTURES
+                01      Sam           08:30 - 12:00     C
+                        Mer           13:30 - 16:30     TP/Labo         A-0558, A-1214
+
+                02      Jeu           08:30 - 12:00     C
+                        Ven           08:45 - 11:45     TP/Labo         A-0558, A-1222
+
+                03      Mar           18:00 - 21:30     C
+                        Ven           18:00 - 21:00     TP/Labo         A-0558, A-1226
+
+
+
+MEC528          ÉLÉMENTS DE MACHINE                                                                                    MEC423
+
+                01      Lun           08:30 - 12:00     C
+                        Lun           13:30 - 15:30     TP/Labo         A-1220
+
+                02      Mer           18:00 - 21:30     C
+                        Mar           18:00 - 20:00     TP/Labo         A-1226
+
+
+
+MEC532          TRANSFERT DE CHALEUR                                                                                   MEC240
+
+                01      Sam           08:30 - 12:00     C
+                        Jeu           10:30 - 12:30     TP
+
+                02      Mer           08:45 - 12:15     C
+                        Mar           13:30 - 15:30     TP
+
+                03      Jeu           18:00 - 21:30     C
+                        Lun           18:00 - 20:00     TP
+
+
+
+MEC546          CIRCUITS ÉLECTRIQUES ET                                                                                PHY332
+                ÉLECTROTECHNIQUE
+                01      Mar           13:30 - 17:00     C
+                        Jeu           08:30 - 11:30     TP/Labo         A-2170, A-2504
+
+                02      Mar           18:00 - 21:30     C
+
+
+
+
+                 Date : 2018-05-10 13:21:30           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 7/13
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                 7684 : Baccalauréat en génie mécanique
+
+
+                                                               HORAIRE AUTOMNE 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MEC546          CIRCUITS ÉLECTRIQUES ET                                                                                PHY332
+                ÉLECTROTECHNIQUE
+                02      Lun           18:00 - 21:00     TP/Labo         A-2170, A-2504
+
+
+
+MEC555          ANALYSE DES CONTRAINTES                                                                                MEC329 et MEC423
+
+                01      Mar           13:30 - 17:00     C
+                        Lun           15:30 - 17:30     TP/Labo         A-2240
+
+
+
+MEC556          AÉROTHERMODYNAMIQUE DES                                                                                MEC335
+                ÉCOULEMENTS
+                01      Jeu           13:30 - 17:00     C
+                        Mer           08:30 - 10:30     TP
+
+
+
+MEC557          MÉTHODES EXPÉRIMENTALES EN
+                THERMOFLUIDE
+                01      Mer           13:30 - 17:00     C
+                        Mar           10:45 - 12:45     TP/Labo         A-1220
+
+
+
+MEC592          PROJET DE CONCEPTION DE MACHINES                                                                       MEC129, MEC300
+
+                01      Jeu           18:00 - 21:30     C               A-1226
+
+                02      Mar           08:45 - 12:15     C               A-1214
+
+
+
+MEC619          MÉCANIQUE DES MATÉRIAUX COMPOSITES                                                                     MEC329
+
+                01      Mer           08:45 - 12:15     C
+                        Jeu           08:30 - 10:30     Labo            A-4402
+
+
+
+MEC624          TECHNOLOGIE DE LA MISE EN FORME                                                                        MEC300
+
+                01      Jeu           13:30 - 17:00     C
+                        Mar           15:30 - 17:30     TP/Labo         A-1220, A-2150
+
+
+
+MEC625          TECHNOLOGIE DU SOUDAGE                                                                                 MEC200
+
+                01      Lun           13:30 - 17:00     C
+                        Mer           13:30 - 15:30     Labo           A-0550, A-1220,
+                                                                       A-2150
+
+
+
+MEC627          TECHNOLOGIES DE FABRICATION ADDITIVE
+
+                01      Lun           08:30 - 12:00     C
+                        Ven           15:30 - 17:30     TP/Labo         A-1226, A-2172
+
+
+
+MEC636          ACOUSTIQUE INDUSTRIELLE                                                                                MEC222
+
+                01      Mer           08:45 - 12:15     C
+                        Jeu           13:30 - 17:30     TP/Labo        A-1212, A-2210,
+                                                                       A-2214, A-2230
+
+
+
+MEC664          OPTIMISATION DES PROCÉDÉS                                                                              MAT350
+                INDUSTRIELS
+                01      Mer           08:45 - 12:15     C
+                        Jeu           10:30 - 12:30     TP/Labo         A-1220
+
+
+
+MEC723          FABRICATION NUMÉRIQUE
+
+                01      Mar           18:00 - 21:30     C
+                        Lun           18:00 - 20:00     TP/Labo         A-1214
+
+
+
+MEC727          TRIBOLOGIE
+                01      Mar           08:45 - 12:15     C
+
+
+
+
+                 Date : 2018-05-10 13:21:30           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 8/13
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                 7684 : Baccalauréat en génie mécanique
+
+
+                                                                 HORAIRE AUTOMNE 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MEC727          TRIBOLOGIE
+                01      Ven           13:30 - 15:30     TP/Labo         A-1226, A-2170
+
+
+
+MEC728          CONCEPTION ET ANALYSE DES                                                                              MEC423
+                ASSEMBLAGES
+                01      Ven           08:45 - 12:15     C
+                        Jeu           08:30 - 10:30     TP/Labo         A-1214
+
+
+
+MEC729          MÉCANISMES ET DYNAMIQUE DES                                                                            MEC222
+                MACHINES
+                01      Mer           13:30 - 17:00     C
+                        Lun           08:30 - 10:30     TP
+
+
+
+MEC730          CLIMATISATION ET RÉFRIGÉRATION                                                                         MEC335
+                INDUSTRIELLE
+                01      Jeu           13:30 - 17:00     C
+                        Ven           08:30 - 10:30     TP/Labo         A-1214
+
+
+
+MEC737          MOTEURS ALTERNATIFS À COMBUSTION                                                                       MEC335
+                INTERNE
+                01      Ven           08:45 - 12:15     C
+                        Mar           08:30 - 10:30     TP/Labo         A-0697, A-1212
+
+
+
+MEC754          OPTIMISATION EN PRODUCTION
+                MANUFACTURIÈRE
+                01      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 20:00     TP/Labo         A-1226
+
+
+
+MEC755          GESTION DE PROJETS INDUSTRIELS                                                                         GIA410
+                AVANCÉE
+                01      Lun           18:00 - 21:30     C
+                        Jeu           18:00 - 20:00     TP/Labo         A-1220
+
+
+
+MEC781          MÉTHODES D'USINAGE AVANCÉES                                                                            MEC300
+
+                01      Ven           08:45 - 12:15     C
+                        Mar           10:45 - 12:45     TP/Labo         A-0550, A-0634
+
+
+
+MEC785          MÉTHODOLOGIE DE CONCEPTION POUR LA
+                FABRICATION ET L'ASSEMBLAGE
+                01      Mer           18:00 - 21:30     C
+                        Ven           18:00 - 20:00     Labo           A-1214
+
+
+
+MEC788          MÉCATRONIQUE                                                                                           MEC222 et MEC546*
+
+                01      Lun           13:30 - 17:00     C
+                        Jeu           15:30 - 17:30     TP/Labo         A-1226, A-2170
+
+                02      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 20:00     TP/Labo         A-1222, A-2170
+
+
+
+MEC791          PROJETS SPÉCIAUX                                                                                       Autorisation du directeur de département
+
+                01      Mer           22:00 - 23:00     Projet
+
+
+
+MEC795          PROJET DE FIN D'ÉTUDES EN GÉNIE                                                                        Minimum 99 Cr
+                MÉCANIQUE
+                01      Mer           22:00 - 23:00     Projet
+
+
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
+                (HORS PROGRAMME)
+                01      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                02      Ven           09:00 - 12:30     C
+
+
+
+                 Date : 2018-05-10 13:21:30           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 9/13
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                7684 : Baccalauréat en génie mécanique
+
+
+                                                              HORAIRE AUTOMNE 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
+                (HORS PROGRAMME)
+                02      Mer           13:30 - 16:30     TP
+
+                03      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                04      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                05      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+
+
+PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                              CTN258 / ING150
+
+                01      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                02      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                03      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                04      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                05      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                06      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP
+
+                07      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+                08      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                09      Sam           08:30 - 12:00     C
+                        Sam           13:00 - 16:00     TP
+
+
+
+PHY335          PHYSIQUE DES ONDES                                                                                     CTN258 / ING150
+
+                01      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                02      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+                03      Mer           18:00 - 21:30     C
+                        Ven           18:00 - 21:00     TP
+
+                04      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                05      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                06      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                07      Sam           08:30 - 12:00     C
+                        Sam           13:00 - 16:00     TP
+
+                08      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+
+
+PHYEST          ACCUEIL EN PHYSIQUE
+
+                01      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                02      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+                03      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                04      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                05      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                06      Lun           13:30 - 17:00     C
+
+
+
+                 Date : 2018-05-10 13:21:30           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 10/13
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                7684 : Baccalauréat en génie mécanique
+
+
+                                                                  HORAIRE AUTOMNE 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                      PRÉALABLES
+
+PHYEST          ACCUEIL EN PHYSIQUE
+
+                06      Jeu           13:30 - 16:30     TP
+
+                07      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                08      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+
+
+PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
+                INITIATION À LA SANTÉ ET SÉCURITÉ
+                Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 9 h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+                ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les
+                étudiants du programme 7622 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-
+                sécurité en suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+                (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+                l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
+                groupe réservé.
+                01      Ven           18:00 - 21:00     Atelier
+                        Sam           09:00 - 16:00     C
+                        21 septembre 2018
+                        22 septembre 2018
+
+                02      Ven           18:00 - 21:00     Atelier
+                        Sam           09:00 - 16:00     C
+                        21 septembre 2018
+                        22 septembre 2018
+
+                03      Ven           18:00 - 21:00     Atelier
+                        Sam           09:00 - 16:00     C
+                        28 septembre 2018
+                        29 septembre 2018
+
+                04      Ven         18:00 - 21:00       Atelier
+                        Sam         09:00 - 16:00       C
+                        28 septembre 2018
+                        29 septembre 2018
+
+                05      Lun           18:00 - 21:00     Atelier
+                        Mar           18:00 - 21:00     C
+                        Mer           18:00 - 21:00     TP
+                        01 octobre 2018
+                        02 octobre 2018
+                        03 octobre 2018
+
+                06      Lun           18:00 - 21:00     Atelier
+                        Mar           18:00 - 21:00     C
+                        Mer           18:00 - 21:00     TP
+                        01 octobre 2018
+                        02 octobre 2018
+                        03 octobre 2018
+
+                07      Ven           18:00 - 21:00     Atelier
+                        Sam           09:00 - 16:00     C
+                        12 octobre 2018
+                        13 octobre 2018
+
+                08      Ven          18:00 - 21:00      Atelier
+                        Sam          09:00 - 16:00      C
+                        12 octobre 2018
+                        13 octobre 2018
+
+                09      Ven           18:00 - 21:00     Atelier
+                        Sam           09:00 - 16:00     C
+                        19 octobre 2018
+                        20 octobre 2018
+
+                10      Ven           18:00 - 21:00     Atelier
+                        Sam           09:00 - 16:00     C
+                        19 octobre 2018
+                        20 octobre 2018
+
+                11      Lun           18:00 - 21:00     Atelier
+                        Mar           18:00 - 21:00     C
+                        Mer           18:00 - 21:00     TP
+                        22 octobre 2018
+                        23 octobre 2018
+                        24 octobre 2018
+
+
+
+                 Date : 2018-05-10 13:21:30           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 11/13
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                7684 : Baccalauréat en génie mécanique
+
+
+                                                                  HORAIRE AUTOMNE 2018
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                      PRÉALABLES
+
+PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
+                INITIATION À LA SANTÉ ET SÉCURITÉ
+                Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 9 h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+                ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les
+                étudiants du programme 7622 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-
+                sécurité en suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+                (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+                l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
+                groupe réservé.
+                12      Lun           18:00 - 21:00     Atelier
+                        Mar           18:00 - 21:00     C
+                        Mer           18:00 - 21:00     TP
+                        22 octobre 2018
+                        23 octobre 2018
+                        24 octobre 2018
+
+                13      Ven           18:00 - 21:00     Atelier
+                        Sam           09:00 - 16:00     C
+                        09 novembre 2018
+                        10 novembre 2018
+
+                14      Ven           18:00 - 21:00     Atelier
+                        Sam           09:00 - 16:00     C
+                        09 novembre 2018
+                        10 novembre 2018
+
+                15      Lun         18:00 - 21:00       Atelier
+                        Mar         18:00 - 21:00       C
+                        Mer         18:00 - 21:00       TP
+                        12 novembre 2018
+                        13 novembre 2018
+                        14 novembre 2018
+
+                16      Lun           18:00 - 21:00     Atelier
+                        Mar           18:00 - 21:00     C
+                        Mer           18:00 - 21:00     TP
+                        12 novembre 2018
+                        13 novembre 2018
+                        14 novembre 2018
+
+                17      Ven           18:00 - 21:00     Atelier
+                        Sam           09:00 - 16:00     C
+                        23 novembre 2018
+                        24 novembre 2018
+
+                18      Ven           18:00 - 21:00     Atelier
+                        Sam           09:00 - 16:00     C
+                        23 novembre 2018
+                        24 novembre 2018
+
+                19      Mer           22:00 - 22:15     Atelier
+
+
+
+TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
+                SOCIÉTÉ
+                01      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 20:00     TP
+
+                02      Jeu           09:00 - 12:30     C
+                        Mar           08:30 - 12:30     TP A+B
+
+                03      Mer           13:30 - 17:00     C
+                        Ven           08:30 - 12:30     TP A+B
+
+                04      Sam           08:30 - 12:00     C
+                        Sam           13:00 - 17:00     TP A+B
+
+                05      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 17:30     TP A+B
+
+                06      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 17:30     TP A+B
+
+                07      Lun           18:00 - 21:30     C
+                        Ven           18:00 - 20:00     TP
+
+                08      Mer           18:00 - 21:30     C
+
+
+
+
+                 Date : 2018-05-10 13:21:31           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 12/13
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                      7684 : Baccalauréat en génie mécanique
+
+
+                                                                  HORAIRE AUTOMNE 2018
+                                                          Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                          Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                          Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR             HEURE            ACTIVITÉ            LOCAL             ENSEIGNANT                                PRÉALABLES
+
+TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
+                SOCIÉTÉ
+                08      Ven           18:00 - 20:00       TP
+
+
+NOTES
+
+a)              Programmes d'études
+
+                B:                 baccalauréat
+
+                GAQ :              certificat en gestion et assurance de la qualité
+
+                GC :               certificat en gestion de la construction
+
+                GE :               certificat et programme court de 1er cycle en gestion des établissements
+
+                PI :               certificat en production industrielle
+
+                CT :               certificat en télécommunication
+
+                TS :               certificat spécialisé en génie des technologie de la santé
+
+b)              Activités
+
+                C : cours          TP : travaux pratiques                                       LABO : laboratoires
+
+                                   TP/2 : travaux pratiques aux deux (2) semaines               LABO/2 : laboratoires aux deux (2) semaines
+
+                TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+                présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+                trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+                pratiques (TP).
+
+c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+                Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+
+                Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+
+                 Date : 2018-05-10 13:21:31            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
+
