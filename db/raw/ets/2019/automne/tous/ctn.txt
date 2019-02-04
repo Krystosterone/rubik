@@ -1,0 +1,1175 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                              HORAIRE AUTOMNE 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+CHM131          CHIMIE ET MATÉRIAUX
+
+                01      Sam           09:00 - 12:30     C
+                        Sam           13:30 - 16:30     TP
+
+                02      Lun           09:00 - 12:30     C
+                        Ven           18:00 - 21:30     TP
+
+                03      Jeu           18:00 - 21:30     C
+                        Mer           13:30 - 16:30     TP
+
+                04      Mer           09:00 - 12:30     C
+                        Ven           09:00 - 12:00     TP
+
+                05      Ven           13:30 - 17:00     C
+                        Mar           09:00 - 12:00     TP
+
+                06      Mar           09:00 - 12:30     C
+                        Jeu           13:30 - 16:30     TP
+
+                07      Ven           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                08      Jeu           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                09      Lun           13:30 - 17:00     C
+                        Jeu           09:00 - 12:00     TP
+
+                10      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                11      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+                12      Ven           18:00 - 21:30     C
+                        Lun           09:00 - 12:30     TP
+
+                13      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                14      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+
+
+COM110          MÉTHODES DE COMMUNICATION                                                                              Avoir satisfait aux exigences de la Politique
+                                                                                                                       linguistique de l'ÉTS
+                01      Sam           09:00 - 12:30     C
+                        Sam           13:30 - 17:30     TP A+B
+
+                02      Mar           13:30 - 17:00     C
+                        Lun           08:30 - 12:30     TP A+B
+
+                03      Jeu           09:00 - 12:30     C
+                        Mar           08:30 - 12:30     TP A+B
+
+                04      Jeu           09:00 - 12:30     C
+                        Lun           08:30 - 12:30     TP A+B
+
+                05      Jeu           09:00 - 12:30     C
+                        Mar           08:30 - 12:30     TP A+B
+
+                06      Mer           13:30 - 17:00     C
+                        Lun           13:30 - 17:30     TP A+B
+
+                07      Ven           09:00 - 12:30     C
+                        Mer           08:30 - 12:30     TP A+B
+
+                09      Lun           18:00 - 21:30     C
+                        Jeu           18:00 - 22:00     TP A+B
+
+                10      Ven           18:00 - 21:30     C
+                        Lun           18:00 - 22:00     TP A+B
+
+                11      Mar           18:00 - 21:30     C
+                        Ven           18:00 - 22:00     TP A+B
+
+                12      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 22:00     TP A+B
+
+                13      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 22:00     TP A+B
+
+
+
+COM115          COMMUNICATION INTERCULTURELLE                                                                          Avoir satisfait aux exigences de la Politique
+                                                                                                                       linguistique de l'ÉTS
+                01      Lun           09:00 - 12:30     C
+                        Mer           08:30 - 12:30     TP A+B         E-4021
+
+                02      Jeu           18:00 - 21:30     C
+
+
+
+                 Date : 2019-01-30 11:38:53           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                              HORAIRE AUTOMNE 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+COM115          COMMUNICATION INTERCULTURELLE                                                                          Avoir satisfait aux exigences de la Politique
+                                                                                                                       linguistique de l'ÉTS
+                02      Lun           18:00 - 22:00     TP A+B         E-4023
+
+
+
+CTN100          ÉLÉMENTS DE GESTION DE PROJETS DE
+                CONSTRUCTION
+                01      Sam           08:30 - 12:00     C
+                        Sam           13:30 - 17:30     TP-Labo/2
+
+                02      Mar           08:30 - 12:00     C
+                        Lun           13:30 - 17:30     TP-Labo/2
+
+                03      Mer           08:30 - 12:00     C
+                        Ven           08:30 - 11:30     TP-Labo/2
+
+                04      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 22:00     TP-Labo/2
+
+                05      Ven           08:30 - 12:00     C
+                        Mer           08:30 - 11:30     TP-Labo/2
+
+                06      Lun           18:00 - 21:30     C
+                        Ven           18:00 - 22:00     TP-Labo/2
+
+
+
+CTN113          ÉLÉMENTS DE CONSTRUCTION DE
+                BÂTIMENT
+                01      Sam           08:30 - 12:00     C
+                        Sam           13:30 - 17:30     TP-Labo/2
+
+                02      Lun           08:30 - 12:00     C
+                        Lun           13:30 - 17:00     TP-Labo/2
+
+                03      Mer           08:30 - 12:00     C
+                        Mar           08:30 - 12:30     TP-Labo/2
+
+                04      Lun           13:30 - 17:00     C
+                        Lun           08:30 - 12:00     TP-Labo/2
+
+                05      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 22:00     TP-Labo/2
+
+
+
+CTN114          ÉLÉMENTS DE MATÉRIAUX DE
+                CONSTRUCTION
+                01      Lun           08:30 - 12:00     C
+                        Lun           13:00 - 17:00     Labo A         A-0450, A-0510,
+                                                                       A-1400
+
+                02      Jeu           13:30 - 17:00     C
+                        Mar           13:00 - 17:00     Labo A         A-0450, A-0510,
+                                                                       A-1400
+
+                03      Ven           13:30 - 17:00     C
+                        Mer           13:00 - 17:00     Labo A         A-0450, A-0510,
+                                                                       A-1400
+
+
+
+CTN210          ESTIMATION DES TRAVAUX                                                                                 Pr. B: CTN100, Pr. A et C: CTN100, CTN113
+
+                01      Sam           08:30 - 12:00     C
+                        Sam           13:30 - 15:30     TP/Labo        A-1504
+
+                02      Mar           18:00 - 21:30     C
+                        Jeu           20:00 - 22:00     TP/Labo        A-1432
+
+                03      Mar           08:30 - 12:00     C
+                        Jeu           15:30 - 17:30     TP/Labo        A-1432
+
+
+
+CTN248          STATIQUE ET DYNAMIQUE                                                                                  MAT145
+
+                01      Lun           08:30 - 12:00     C
+                        Lun           13:30 - 15:30     TP/Labo
+
+                02      Lun           18:00 - 21:30     C
+                        Mar           18:00 - 20:00     TP/Labo
+
+
+
+CTN318          RÉSISTANCE DES MATÉRIAUX                                                                               CTN248
+
+                01      Mar           08:30 - 12:00     C
+                        Jeu           13:30 - 15:30     TP/Labo        A-0476, A-1430
+
+                02      Mar           13:30 - 17:00     C
+
+
+                 Date : 2019-01-30 11:38:53           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                              HORAIRE AUTOMNE 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+CTN318          RÉSISTANCE DES MATÉRIAUX                                                                               CTN248
+
+                02      Mar           08:30 - 10:30     TP/Labo        A-0476, A-1430
+
+                03      Lun           18:00 - 21:30     C
+                        Mar           18:00 - 20:00     TP/Labo        A-0476, A-1430
+
+
+
+CTN320          PLANIFICATION ET CONTRÔLE DES                                                                          CTN210, INF130
+                PROJETS DE CONSTRUCTION
+                01      Jeu           08:30 - 12:00     C              A-1432
+                        Ven           08:30 - 11:30     TP/Labo        A-1432
+
+                02      Mer           13:30 - 17:00     C              A-1432
+                        Mer           08:30 - 12:00     TP/Labo        A-1560
+
+
+
+CTN336          MÉCANIQUE DES FLUIDES                                                                                  MAT145
+
+                01      Mar           13:30 - 17:00     C
+                        Ven           08:30 - 11:30     TP/Labo        A-1470
+
+                02      Mar           08:30 - 12:00     C
+                        Mar           13:30 - 16:30     TP/Labo        A-1470
+
+                03      Lun           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP/Labo        A-1470
+
+
+
+CTN404          SCIENCE ET TECHNOLOGIE DES                                                                             Pr. AU: CHM131 et CTN104
+                MATÉRIAUX                                                                                              Pr. B: CHM131 et CTN104
+                                                                                                                       Pr. C: CHM131
+                01      Mer           13:30 - 17:00     C
+                        Ven           13:30 - 17:30     TP/Labo        A-0450, A-0510
+
+                02      Mer           13:30 - 17:00     C
+                        Ven           08:30 - 12:30     TP/Labo        A-0450, A-0510
+
+                03      Lun           13:30 - 17:00     C
+                        Mer           08:30 - 12:30     TP/Labo        A-0450, A-0510
+
+
+
+CTN408          ANALYSE DES STRUCTURES                                                                                 CTN308 et MAT165
+
+                01      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP/Labo        A-1500.1, A-1560
+
+                02      Mar           18:00 - 21:30     C
+                        Ven           18:00 - 21:00     TP/Labo        A-1500.1, A-1560
+
+                03      Mer           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP/Labo        A-1500.1, A-1560
+
+
+
+CTN426          HYDRAULIQUE ET HYDROLOGIE                                                                              CTN326 et MAT350*
+
+                01      Mar           08:30 - 12:00     C
+                        Lun           08:30 - 11:30     TP/Labo
+
+
+
+CTN446          HYDRAULIQUE ET HYDROLOGIE                                                                              CTN336, MAT350
+
+                01      Mar           13:30 - 17:00     C
+                        Mer           08:30 - 11:30     TP/Labo        A-1472
+
+
+
+CTN504          MÉCANIQUE DES SOLS                                                                                     Pr. AU: CTN104 et CTN308 et CTN426
+                                                                                                                       Pr. B: CTN104 et CTN308 et CTN426
+                                                                                                                       Pr. C: CTN308 et CTN426
+                01      Mer           08:30 - 12:00     C
+                        Mar           08:30 - 11:30     TP/Labo        A-1400
+
+                02      Ven           08:30 - 12:00     C
+                        Lun           08:30 - 11:30     TP/Labo        A-1400
+
+                03      Mer           08:30 - 12:00     C
+                        Jeu           08:30 - 11:30     TP/Labo        A-1400
+
+                04      Mar           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP/Labo        A-1400
+
+
+
+
+                 Date : 2019-01-30 11:38:53           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                               HORAIRE AUTOMNE 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+CTN508          STRUCTURES DE BÉTON                                                                                    CTN404 et CTN408
+
+                01      Sam           08:30 - 12:00     C
+                        Sam           13:30 - 16:30     TP/Labo
+
+                02      Mer           08:30 - 12:00     C
+                        Mar           13:30 - 16:30     TP/Labo
+
+                03      Jeu           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP/Labo
+
+
+
+CTN609          DROIT DE LA CONSTRUCTION                                                                               Minimum 70 Cr
+
+                01      Mer           13:30 - 15:30     C
+                        Mer           15:30 - 16:30     TP
+
+                02      Lun           18:00 - 20:00     C
+                        Lun           20:00 - 21:00     TP
+
+
+
+CTN610          GESTION DES CONTRATS DE                                                                                CTN609
+                CONSTRUCTION
+                01      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 17:30     TP/2
+
+                02      Mer           18:00 - 21:30     C
+                        Mar           18:00 - 22:00     TP/2
+
+
+
+CTN626          GÉNIE DE L'ENVIRONNEMENT                                                                               CTN504*
+
+                01      Mar           08:30 - 12:00     C
+                        Lun           13:30 - 15:30     TP/Labo
+
+                02      Mer           13:30 - 17:00     C
+                        Ven           08:30 - 10:30     TP/Labo
+
+                03      Mar           18:00 - 21:30     C
+                        Lun           18:00 - 20:00     TP/Labo
+
+
+
+CTN647          CONCEPTION ROUTIÈRE                                                                                    CTN446, GIA400
+
+                01      Mer           08:30 - 12:00     C
+                        Lun           08:30 - 12:30     TP-Labo/2      A-1504
+
+                02      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 22:00     TP-Labo/2      A-1560
+
+
+
+CTN702          CONTRÔLE ET PERFORMANCE DES                                                                            CTN200
+                PROJETS DE CONSTRUCTION
+                01      Ven           18:00 - 21:30     C
+                        Mar           18:00 - 22:00     TP-Labo/2      A-1220
+
+
+
+CTN705          PROJETS INTERNATIONAUX D'INGÉNIERIE
+                DE CONSTRUCTION
+                01      Lun           08:30 - 12:00     C              A-1432
+                        Lun           13:30 - 15:30     TP/Labo        A-1432
+
+
+
+CTN731          ENVELOPPE DU BÂTIMENT                                                                                  Pr. AU: CTN103
+                                                                                                                       Pr. C: CTN103
+                01      Mar           08:30 - 12:00     C
+                        Mar           13:30 - 17:30     TP-Labo/2
+
+                02      Jeu           18:00 - 21:30     C
+                        Mer           18:00 - 22:00     TP-Labo/2
+
+
+
+CTN732          SYSTÈMES MÉCANIQUES DU BÂTIMENT                                                                        CTN326
+
+                01      Mer           08:30 - 12:00     C
+                        Ven           08:30 - 12:30     TP-Labo/2
+
+
+
+CTN733          SYSTÈMES ÉLECTRIQUES DU BÂTIMENT                                                                       PHY332
+
+                01      Mer           18:00 - 21:30     C
+
+
+
+                 Date : 2019-01-30 11:38:54           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                               HORAIRE AUTOMNE 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+CTN733          SYSTÈMES ÉLECTRIQUES DU BÂTIMENT                                                                       PHY332
+
+                01      Lun           18:00 - 22:00     TP-Labo/2
+
+
+
+CTN735          ENVIRONNEMENT ET BÂTIMENTS
+                DURABLES
+                01      Ven           13:30 - 17:00     C
+                        Jeu           08:30 - 12:30     TP/2           A-1560
+
+                02      Ven           08:30 - 12:00     C
+                        Lun           08:30 - 12:30     TP/2           A-1560
+
+
+
+CTN737          BIM ET TECHNOLOGIES DE L'INFORMATION
+                DANS LA CONSTRUCTION
+                01      Mer           13:30 - 17:00     C
+                        Lun           13:30 - 17:30     TP-Labo/2      A-1504
+
+
+
+CTN741          FONDATIONS                                                                                             CTN504
+                01      Mar           08:30 - 12:00     C
+                        Mar           13:30 - 17:30     TP-Labo/2      A-1432
+
+
+
+CTN752          OUVRAGES EN REMBLAI                                                                                    CTN504
+
+                01      Lun           08:30 - 12:00     C
+                        Ven           08:30 - 12:30     TP-Labo/2
+
+
+
+CTN760          APPROCHES ET OUTILS POUR LA
+                CONCEPTION ENVIRONNEMENTALE
+                01      Lun           08:30 - 12:00     C
+                        Mar           08:30 - 10:30     TP/Labo        A-1432
+
+
+
+CTN761          HYDRAULIQUE URBAINE                                                                                    CTN426
+
+                01      Mer           13:30 - 17:00     C
+                        Lun           13:30 - 17:30     TP-Labo/2      A-1504
+
+
+
+CTN764          FONDEMENTS DES PROCÉDÉS ET
+                PROCESSUS EN GÉNIE DE
+                L'ENVIRONNEMENT
+                01      Mer           08:30 - 12:00     C
+                        Ven           08:30 - 10:30     TP/Labo
+
+
+
+CTN766          IMPACTS DES PROJETS SUR
+                L'ENVIRONNEMENT
+                01      Mar           13:30 - 17:00     C
+                        Mar           08:30 - 10:30     TP/Labo        A-1560
+
+
+
+CTN769          RESSOURCES HYDRIQUES                                                                                   CTN446
+
+                01      Lun           18:00 - 21:30     C              A-1504
+                        Mer           18:00 - 20:00     TP/Labo        A-1560
+
+
+
+CTN771          CONSTRUCTION ET DIMENSIONNEMENT                                                                        CTN504
+                DES CHAUSSÉES
+                01      Mar           13:30 - 17:00     C
+                        Lun           08:30 - 12:30     TP-Labo/2      A-1504
+
+
+
+CTN774          AMÉNAGEMENTS ROUTIERS                                                                                  CTN426
+
+                01      Mer           08:30 - 12:00     C
+                        Mer           13:30 - 17:30     TP/Labo
+
+                02      Jeu           08:30 - 12:00     C
+                        Jeu           13:30 - 17:30     TP/Labo
+
+
+
+
+                 Date : 2019-01-30 11:38:54           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                                 HORAIRE AUTOMNE 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+CTN781          STRUCTURES EN BOIS ET FAUSSES                                                                          CTN408
+                CHARPENTES
+                01      Lun           08:30 - 12:00     C
+                        Lun           13:30 - 15:30     TP/Labo        A-1560
+
+                02      Mar           08:30 - 12:00     C
+                        Mar           13:30 - 15:30     TP/Labo        A-1504
+
+
+
+CTN783          CHARPENTES D'ACIER                                                                                     CTN408
+
+                01      Jeu           08:30 - 12:00     C              A-1504
+                        Jeu           13:30 - 15:30     TP/Labo        A-1432
+
+                02      Mar           18:00 - 21:30     C              A-1504
+                        Jeu           18:00 - 20:00     TP/Labo        A-1432
+
+
+
+CTN785          ANALYSE ET CONCEPTION DES                                                                              CTN508
+                STRUCTURES                                                                                             Pr. B: CTN508
+                01      Mar           13:30 - 17:00     C
+                        Mer           08:30 - 12:30     TP-Labo/2      A-1432
+
+
+
+CTN791          PROJETS SPÉCIAUX                                                                                       Autorisation du directeur de département
+
+                01                                      Projet
+
+
+
+CTN793          PROJET DE FIN D'ÉTUDES EN GÉNIE DE LA                                                                  Minimum 90 Cr
+                CONSTRUCTION
+                01      Jeu           09:00 - 17:30     C
+
+
+
+GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                01      Sam           09:00 - 12:30     C
+                        Sam           13:30 - 16:30     TP
+
+                02      Jeu           13:30 - 17:00     C
+                        Mar           13:30 - 15:30     TP
+
+                03      Mer           13:30 - 17:00     C
+                        Jeu           13:30 - 15:30     TP
+
+                04      Mar           13:30 - 17:00     C
+                        Jeu           13:30 - 15:30     TP
+
+                05      Mer           09:00 - 12:30     C
+                        Lun           10:30 - 12:30     TP
+
+                06      Mar           09:00 - 12:30     C
+                        Jeu           13:30 - 15:30     TP
+
+                07      Ven           13:30 - 17:00     C
+                        Mer           13:30 - 15:30     TP
+
+                08      Mer           09:00 - 12:30     C
+                        Ven           13:30 - 15:30     TP
+
+                09      Lun           09:00 - 12:30     C
+                        Ven           10:30 - 12:30     TP
+
+                10      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 20:00     TP
+
+                11      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 20:00     TP
+
+
+
+GIA500          INITIATION AUX PROJETS INTERNATIONAUX
+                D'INGÉNIERIE
+                01      Ven           18:00 - 21:30     C
+                        Jeu           20:00 - 22:00     TP
+
+
+
+INF130          ORDINATEURS ET PROGRAMMATION
+
+                01      Mer           13:30 - 17:00     C              A-1504
+                        Ven           13:30 - 16:30     Labo           E-4023
+
+                02      Jeu           13:30 - 17:00     C              E-4023
+                        Lun           13:30 - 16:30     Labo           E-4023
+
+                03      Ven           13:30 - 17:00     C              E-4021
+
+                 Date : 2019-01-30 11:38:54           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 6/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                               HORAIRE AUTOMNE 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+INF130          ORDINATEURS ET PROGRAMMATION
+
+                03      Lun           13:30 - 16:30     Labo           E-4021
+
+                04      Mar           13:30 - 17:00     C              E-4023
+                        Ven           13:30 - 16:30     Labo           E-4022
+
+                05      Ven           09:00 - 12:30     C              E-4021
+                        Lun           09:00 - 12:00     Labo           E-4022
+
+
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
+                GÉNIE (HORS PROG.)
+                01      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                02      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                03      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                04      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                05      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                06      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                07      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                08      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                09      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                10      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                11      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                12      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                13      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                14      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                01      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                02      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                03      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                04      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                05      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                06      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                07      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                08      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                09      Mar           09:00 - 12:30     C
+                        Ven           13:30 - 16:30     TP
+
+                10      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                11      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+
+
+                 Date : 2019-01-30 11:38:54           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                              HORAIRE AUTOMNE 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                12      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                13      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                14      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                15      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                16      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                17      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                18      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                19      Mar           09:00 - 12:30     C
+                        Ven           13:30 - 16:30     TP
+
+                20      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                21      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+
+
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                                                            MAT145
+                VECTORIELLE
+                01      Sam           09:00 - 12:30     C
+                        Sam           13:30 - 16:30     TP
+
+                02      Ven           09:00 - 12:30     C
+                        Mar           13:30 - 16:30     TP
+
+                03      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                04      Jeu           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                05      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                06      Jeu           09:00 - 12:30     C
+                        Mar           13:30 - 16:30     TP
+
+                07      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                08      Mer           18:00 - 21:30     C
+                        Ven           18:00 - 21:00     TP
+
+
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                              MAT145
+
+                01      Sam           09:00 - 12:30     C
+                        Sam           13:30 - 16:30     TP
+
+                02      Jeu           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                03      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                04      Lun           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                05      Lun           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                06      Mar           09:00 - 12:30     C
+                        Ven           13:30 - 16:30     TP
+
+                07      Jeu           09:00 - 12:30     C
+                        Mar           13:30 - 16:30     TP
+
+                08      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                09      Jeu           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                10      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+
+                 Date : 2019-01-30 11:38:54           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 8/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                              HORAIRE AUTOMNE 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                       PRÉALABLES
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                    MAT145
+
+                11      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+                12      Mar           18:00 - 21:30     C
+                        Ven           18:00 - 21:00     TP
+
+
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                                 MAT145
+
+                01      Sam           09:00 - 12:30     C
+                        Sam           13:30 - 17:00     TP
+
+                02      Lun           13:30 - 17:00     C
+                        Jeu           09:00 - 12:00     TP
+
+                03      Lun           13:30 - 17:00     C
+                        Jeu           09:00 - 12:00     TP
+
+                04      Mer           09:00 - 12:30     C
+                        Lun           13:30 - 16:30     TP
+
+                05      Ven           09:00 - 12:30     C
+                        Mar           13:30 - 16:30     TP
+
+                06      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                07      Ven           13:30 - 17:00     C
+                        Mer           09:00 - 12:00     TP
+
+                08      Ven           13:30 - 17:00     C
+                        Mar           09:00 - 12:00     TP
+
+                09      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                10      Lun           18:00 - 21:30     C
+                        Ven           18:00 - 21:00     TP
+
+                11      Mar           18:00 - 21:30     C
+                        Ven           18:00 - 21:00     TP
+
+
+
+PEP110          ENCADREMENT DE LA PROFESSION ET
+                ÉTHIQUE PROFESSIONNELLE
+                01      Mer           09:00 - 12:30     C
+                        11 septembre 2019
+                        18 septembre 2019
+                        25 septembre 2019
+                        02 octobre 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 septembre 2019 / 11 novembre 2019
+                02      Mer           09:00 - 12:30     C
+                        09 octobre 2019
+                        16 octobre 2019
+                        23 octobre 2019
+                        06 novembre 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 septembre 2019 / 11 novembre 2019
+                03      Mer           09:00 - 12:30     C
+                        13 novembre 2019
+                        20 novembre 2019
+                        27 novembre 2019
+                        04 décembre 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 septembre 2019 / 11 novembre 2019
+                04      Mar           13:30 - 17:00     C
+                        10 septembre 2019
+                        17 septembre 2019
+                        24 septembre 2019
+                        01 octobre 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 septembre 2019 / 11 novembre 2019
+                05      Mar           13:30 - 17:00     C
+                        08 octobre 2019
+                        22 octobre 2019
+                        29 octobre 2019
+                        05 novembre 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 septembre 2019 / 11 novembre 2019
+
+
+
+                 Date : 2019-01-30 11:38:54           L’École se réserve un droit de modifier l’horaire sans préavis          Page : 9/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                              HORAIRE AUTOMNE 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                       PRÉALABLES
+
+PEP110          ENCADREMENT DE LA PROFESSION ET
+                ÉTHIQUE PROFESSIONNELLE
+                06      Mar           13:30 - 17:00     C
+                        12 novembre 2019
+                        19 novembre 2019
+                        26 novembre 2019
+                        03 décembre 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 septembre 2019 / 11 novembre 2019
+                07      Jeu           18:00 - 21:30     C
+                        19 septembre 2019
+                        26 septembre 2019
+                        03 octobre 2019
+                        10 octobre 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 septembre 2019 / 11 novembre 2019
+                08      Jeu           18:00 - 21:30     C
+                        17 octobre 2019
+                        24 octobre 2019
+                        31 octobre 2019
+                        07 novembre 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 septembre 2019 / 11 novembre 2019
+                09      Jeu           18:00 - 21:30     C
+                        14 novembre 2019
+                        21 novembre 2019
+                        28 novembre 2019
+                        05 décembre 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 septembre 2019 / 11 novembre 2019
+                10      Sam           13:00 - 16:30     C
+                        14 septembre 2019
+                        21 septembre 2019
+                        28 septembre 2019
+                        05 octobre 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 septembre 2019 / 11 novembre 2019
+                11      Sam           13:00 - 16:30     C
+                        12 octobre 2019
+                        19 octobre 2019
+                        26 octobre 2019
+                        09 novembre 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 septembre 2019 / 11 novembre 2019
+                12      Sam           13:00 - 16:30     C
+                        16 novembre 2019
+                        23 novembre 2019
+                        30 novembre 2019
+                        07 décembre 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 septembre 2019 / 11 novembre 2019
+
+
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
+                (HORS PROGRAMME)
+                01      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                02      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+                03      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                04      Mar           18:00 - 21:00     C
+                        Jeu           18:00 - 21:00     TP
+
+                05      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                06      Ven           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                07      Lun           13:30 - 17:00     C
+
+
+
+
+                 Date : 2019-01-30 11:38:54           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 10/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                              HORAIRE AUTOMNE 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
+                (HORS PROGRAMME)
+                07      Jeu           13:30 - 16:30     TP
+
+                08      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+
+
+PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                              CTN258 / ING150
+
+                01      Sam           09:00 - 12:30     C
+                        Sam           13:30 - 16:30     TP
+
+                02      Mer           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                03      Lun           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                04      Mer           13:30 - 17:00     C
+                        Lun           09:00 - 12:00     TP
+
+                05      Lun           13:30 - 17:00     C
+                        Mer           13:30 - 16:30     TP
+
+                06      Mar           13:30 - 17:00     C
+                        Jeu           09:00 - 12:00     TP
+
+                07      Ven           13:30 - 17:00     C
+                        Mer           09:00 - 12:00     TP
+
+                08      Mer           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                09      Lun           18:00 - 21:30     C
+                        Ven           18:00 - 21:00     TP
+
+
+
+PHY335          PHYSIQUE DES ONDES                                                                                     CTN258 / ING150
+
+                01      Sam           09:00 - 12:30     C
+                        Sam           13:30 - 16:30     TP
+
+                02      Lun           09:00 - 12:30     C
+                        Mar           13:30 - 16:30     TP
+
+                03      Lun           13:30 - 17:00     C
+                        Mer           13:30 - 16:30     TP
+
+                04      Lun           13:30 - 17:00     C
+                        Mer           13:30 - 16:30     TP
+
+                05      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+
+
+TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
+                SOCIÉTÉ
+                01      Sam           09:00 - 12:30     C
+                        Sam           13:30 - 17:30     TP A+B
+
+                02      Ven           13:30 - 17:00     C
+                        Mer           13:30 - 17:30     TP A+B
+
+                03      Jeu           09:00 - 12:30     C
+                        Mar           13:30 - 17:30     TP A+B
+
+                04      Lun           13:30 - 17:00     C
+                        Ven           08:30 - 12:30     TP A+B
+
+                05      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 17:30     TP A+B
+
+                06      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 22:00     TP A+B
+
+                07      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 22:00     TP A+B
+
+                08      Jeu           18:00 - 21:30     C
+
+
+
+
+                 Date : 2019-01-30 11:38:54           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 11/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                  7622 : Baccalauréat en génie de la construction
+
+
+                                                                  HORAIRE AUTOMNE 2019
+                                                          Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                          Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                          Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR             HEURE            ACTIVITÉ            LOCAL             ENSEIGNANT                                PRÉALABLES
+
+TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
+                SOCIÉTÉ
+                08      Lun           18:00 - 22:00       TP A+B
+
+
+NOTES
+
+a)              Programmes d'études
+
+                B:                 baccalauréat
+
+                GAQ :              certificat en gestion et assurance de la qualité
+
+                GC :               certificat en gestion de la construction
+
+                GE :               certificat et programme court de 1er cycle en gestion des établissements
+
+                PI :               certificat en production industrielle
+
+                CT :               certificat en télécommunication
+
+                TS :               certificat spécialisé en génie des technologie de la santé
+
+b)              Activités
+
+                C : cours          TP : travaux pratiques                                       LABO : laboratoires
+
+                                   TP/2 : travaux pratiques aux deux (2) semaines               LABO/2 : laboratoires aux deux (2) semaines
+
+                TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+                présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+                trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+                pratiques (TP).
+
+c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+                Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+
+                Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+
+                 Date : 2019-01-30 11:38:54            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
+
