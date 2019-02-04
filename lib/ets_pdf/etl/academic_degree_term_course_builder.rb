@@ -13,9 +13,11 @@ class EtsPdf::Etl::AcademicDegreeTermCourseBuilder < SimpleClosure
     GPA792
     GTI791
     GTI792
+    GTI795
     GTS792
     LOG791
     LOG792
+    LOG795
     MEC791
     PRE010
   ].freeze
