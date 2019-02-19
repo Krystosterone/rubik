@@ -1,0 +1,726 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                     7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                                    HORAIRE ETÉ 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+CHM131          CHIMIE ET MATÉRIAUX
+
+                01      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                02      Jeu           13:30 - 17:00     C
+                        Lun           09:00 - 12:00     TP
+
+                03      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+                04      Lun           13:30 - 17:00     C
+                        Jeu           09:00 - 12:00     TP
+
+                05      Mer           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                06      Ven           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+                07      Lun           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                08      Mer           18:00 - 21:30     C
+                        Ven           18:00 - 21:00     TP
+
+
+
+COM110          MÉTHODES DE COMMUNICATION                                                                              Avoir satisfait aux exigences de la Politique
+                                                                                                                       linguistique de l'ÉTS
+                01      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 17:30     TP A+B
+
+                02      Mar           13:30 - 17:00     C
+                        Jeu           13:30 - 17:30     TP A+B
+
+                03      Jeu           09:00 - 12:30     C
+                        Mar           08:30 - 12:30     TP A+B
+
+                04      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 22:00     TP A+B
+
+                05      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 22:00     TP A+B
+
+
+
+ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                        GIA400 ou GIA410
+
+                01      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 20:00     TP
+
+
+
+ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
+
+                01      Mar           13:30 - 17:00     C
+                        Jeu           13:30 - 15:30     TP
+
+                02      Mer           13:30 - 17:00     C
+                        Jeu           13:30 - 15:30     TP
+
+
+
+GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                01      Ven           09:00 - 12:30     C
+                        Mar           10:00 - 12:00     TP
+
+                02      Lun           13:30 - 17:00     C
+                        Ven           08:00 - 10:00     TP
+
+                03      Mar           13:30 - 17:00     C
+                        Jeu           13:30 - 15:30     TP
+
+                04      Lun           13:30 - 17:00     C
+                        Mer           13:30 - 15:30     TP
+
+                05      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 20:00     TP
+
+                06      Mar           18:00 - 21:30     C
+                        Ven           18:00 - 20:00     TP
+
+
+
+GIA601          ERGONOMIE ET SÉCURITÉ EN MILIEU DE
+                TRAVAIL
+                01      Mer           08:30 - 12:00     C
+                        Lun           08:30 - 12:30     TP/Labo         A-1220, A-2230
+
+
+
+
+                 Date : 2019-02-18 15:07:20           L’École se réserve un droit de modifier l’horaire sans préavis      Page : 1/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                     7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                                    HORAIRE ETÉ 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                      PRÉALABLES
+
+GPA141          AUTOMATES PROGRAMMABLES:
+                LANGAGES ET MISE EN OEUVRE
+                01      Mar           18:00 - 21:30     C
+                        Ven           18:00 - 20:00     Labo A         A-3602
+                        Ven           20:00 - 22:00     Labo B         A-3602
+
+
+
+GPA205          CONCEPTION DE SYSTÈMES DE
+                PRODUCTION
+                01      Mer           08:30 - 12:00     C
+                        Ven           08:30 - 10:30     Labo A         A-3728
+                        Ven           10:30 - 12:30     Labo B         A-3728
+
+
+
+GPA210          ÉLÉMENTS DE FABRICATION MÉCANIQUE
+
+                Les périodes de laboratoire d'usinage seront déterminées au début de la session avec l'enseignant.
+                01      Mar           08:30 - 12:00     C              A-3726
+                        Jeu           08:30 - 11:30     Labo A         A-3726
+                        Sam           08:30 - 16:00     Labo B         B-2206
+
+
+
+GPA430          TECHNIQUES D'OPTIMISATION EN                                                                                MAT165
+                PRODUCTION AUTOMATISÉE
+                01      Jeu           08:30 - 12:00     C
+                        Jeu           13:30 - 15:30     TP A           A-4516
+                        Jeu           15:30 - 17:30     TP B           A-4516
+
+
+
+GPA434          INGÉNIERIE DES SYSTÈMES ORIENTÉS-                                                                           INF155
+                OBJET
+                01      Lun           18:00 - 21:30     C              A-4516
+                        Mer           18:00 - 21:00     Labo           A-4516
+
+
+
+GPA445          CONCEPTION ASSISTÉE PAR ORDINATEUR                                                                          INF155
+
+                01      Mar           08:30 - 12:00     C
+                        Mer           08:30 - 11:30     Labo           A-3726, A-3728
+
+
+
+GPA535          SYSTÈMES ASSERVIS                                                                                           MAT165 et MAT265
+
+                01      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     Labo A         A-3612
+                        Ven           18:00 - 21:00     Labo B         A-3612
+
+
+
+GPA546          ROBOTS INDUSTRIELS                                                                                          MAT165 et MAT265
+
+                Prendre note que certaines séances de laboratoire seront dédoublées. Voir plan de cours pour les détails.
+                01      Jeu           08:30 - 12:00     C
+                        Lun           08:30 - 11:30     Labo           A-0610, A-3608
+
+
+
+GPA548          GESTION DE LA PRODUCTION                                                                                    GPA205, GPA430
+                                                                                                                            Pr. P: GPA430
+                01      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 20:00     TP A            A-4516
+                        Jeu           20:00 - 22:00     TP B            A-4516
+
+
+
+GPA659          VISION ARTIFICIELLE
+
+                01      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     Labo           A-3608
+
+
+
+GPA667          CONCEPTION ET SIMULATION DE CIRCUITS                                                                        GPA325
+                ÉLECTRONIQUES                                                                                               Conc. II: GPA325 - E
+                01      Jeu           13:30 - 17:00     C
+                        Mar           08:30 - 11:30     Labo           A-3608
+
+
+
+GPA668          CAPTEURS ET ACTIONNEURS                                                                                     GPA535
+
+                01      Ven           08:30 - 12:00     C
+                        Mer           13:30 - 16:30     Labo           A-3608
+
+
+
+                 Date : 2019-02-18 15:07:20           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 2/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                     7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                                    HORAIRE ETÉ 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+GPA770          MICROÉLECTRONIQUE APPLIQUÉE                                                                            GPA325
+
+                01      Lun           08:30 - 12:00     C
+                        Mer           08:30 - 11:30     Labo A         A-3564
+                        Mer           13:30 - 16:30     Labo B         A-3564
+
+
+
+GPA775          BASE DE DONNÉES                                                                                        INF155
+
+                01      Ven           18:00 - 21:30     C              A-3728
+                        Mar           18:00 - 21:00     Labo           A-3728
+
+
+
+GPA783          ASSERVISSEMENT NUMÉRIQUE EN TEMPS                                                                      GPA535
+                RÉEL
+                01      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     Labo           A-3608
+
+
+
+GPA786          RENTABILITÉ DE PROJETS                                                                                 GIA400
+                D'AUTOMATISATION
+                01      Lun           13:30 - 17:00     C
+                        Jeu           08:30 - 12:30     TP             A-4516
+
+
+
+GPA791          PROJETS SPÉCIAUX                                                                                       Autorisation du directeur de département
+
+                01      Ven           13:30 - 17:00     C              A-4516
+
+
+
+GPA793          PROJET DE FIN D’ÉTUDES EN GÉNIE DE LA
+                PRODUCTION AUTOMATISÉE
+                01      Ven           13:30 - 17:00     C              A-4516
+
+
+
+GTS601          PRINCIPES DE L'IMAGERIE MÉDICALE
+
+                01      Mer           08:30 - 12:00     C
+                        Lun           08:30 - 11:30     Labo           A-3330
+
+
+
+INF155          INTRODUCTION À LA PROGRAMMATION
+
+                01      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     Labo           E-4022
+
+
+
+ING150          STATIQUE ET DYNAMIQUE
+
+                01      Jeu           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                02      Jeu           09:00 - 12:30     C
+                        Lun           13:30 - 16:30     TP
+
+                03      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+                04      Ven           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+                05      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+
+
+ING160          THERMODYNAMIQUE ET MÉCANIQUE DES                                                                       ING150
+                FLUIDES
+                01      Ven           09:00 - 12:30     C
+                        Lun           13:30 - 16:30     TP
+
+                02      Mer           13:30 - 17:00     C
+                        Lun           09:00 - 12:00     TP
+
+                03      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+
+
+ING500          OUTILS DE DÉVELOPPEMENT DURABLE
+                POUR L'INGÉNIEUR
+                01      Lun           18:00 - 21:30     C
+
+
+                 Date : 2019-02-18 15:07:20           L’École se réserve un droit de modifier l’horaire sans préavis      Page : 3/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                     7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                                    HORAIRE ETÉ 2019
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+ING500          OUTILS DE DÉVELOPPEMENT DURABLE
+                POUR L'INGÉNIEUR
+                01      Ven           18:00 - 22:00     TP A+B         E-4021
+
+
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
+                GÉNIE (HORS PROG.)
+                01      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                02      Ven           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                01      Lun           09:00 - 12:30     C
+                        Ven           13:30 - 16:30     TP
+
+                02      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                03      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+                04      Lun           09:00 - 12:30     C
+                        Ven           13:30 - 16:30     TP
+
+                05      Jeu           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                06      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP
+
+
+
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                                                            MAT145
+                VECTORIELLE
+                01      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                02      Mar           13:30 - 17:00     C
+                        Jeu           09:00 - 12:00     TP
+
+                03      Mar           09:00 - 12:30     C
+                        Ven           13:30 - 16:30     TP
+
+                04      Jeu           13:30 - 17:00     C
+                        Mar           09:00 - 12:00     TP
+
+                05      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                06      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP
+
+
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                              MAT145
+
+                01      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                02      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                03      Lun           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+                04      Ven           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                05      Ven           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+                06      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                07      Lun           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                           MAT145
+
+                01      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                02      Mar           09:00 - 12:30     C
+
+
+
+                 Date : 2019-02-18 15:07:20           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                         7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                                        HORAIRE ETÉ 2019
+                                                            Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                            Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                            Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR                HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                               MAT145
+
+                02      Ven               13:30 - 16:30     TP
+
+                03      Jeu               09:00 - 12:30     C
+                        Mar               13:30 - 16:30     TP
+
+                04      Ven               09:00 - 12:30     C
+                        Mer               09:00 - 12:00     TP
+
+                05      Mar               18:00 - 21:30     C
+                        Ven               18:00 - 21:00     TP
+
+                06      Mar               18:00 - 21:30     C
+                        Ven               18:00 - 21:00     TP
+
+                07      Mer               18:00 - 21:30     C
+                        Ven               18:00 - 21:00     TP
+
+
+
+PEP110          ENCADREMENT DE LA PROFESSION ET
+                ÉTHIQUE PROFESSIONNELLE
+                01      Mer               09:00 - 12:30     C
+                        08 mai 2019
+                        15 mai 2019
+                        22 mai 2019
+                        29 mai 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 10 mai 2019 / 03 juillet 2019
+                02      Mer               09:00 - 12:30     C
+                        05 juin 2019
+                        12 juin 2019
+                        19 juin 2019
+                        03 juillet 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 10 mai 2019 / 03 juillet 2019
+                03      Mer               09:00 - 12:30     C
+                        10 juillet 2019
+                        17 juillet 2019
+                        24 juillet 2019
+                        31 juillet 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 10 mai 2019 / 03 juillet 2019
+                04      Mar               13:30 - 17:00     C
+                        07 mai 2019
+                        14 mai 2019
+                        28 mai 2019
+                        04 juin 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 10 mai 2019 / 03 juillet 2019
+                05      Mar               13:30 - 17:00     C
+                        11 juin 2019
+                        18 juin 2019
+                        25 juin 2019
+                        02 juillet 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 10 mai 2019 / 03 juillet 2019
+                06      Mar               13:30 - 17:00     C
+                        09 juillet 2019
+                        16 juillet 2019
+                        23 juillet 2019
+                        30 juillet 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 10 mai 2019 / 03 juillet 2019
+                07      Jeu               18:00 - 21:30     C
+                        09 mai 2019
+                        16 mai 2019
+                        23 mai 2019
+                        30 mai 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 10 mai 2019 / 03 juillet 2019
+                08      Jeu               18:00 - 21:30     C
+                        06 juin 2019
+                        13 juin 2019
+                        20 juin 2019
+                        27 juin 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 10 mai 2019 / 03 juillet 2019
+
+
+
+                 Date : 2019-02-18 15:07:20               L’École se réserve un droit de modifier l’horaire sans préavis     Page : 5/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                         7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                                        HORAIRE ETÉ 2019
+                                                            Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                            Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                            Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR                HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                  PRÉALABLES
+
+PEP110          ENCADREMENT DE LA PROFESSION ET
+                ÉTHIQUE PROFESSIONNELLE
+                09      Jeu               18:00 - 21:30     C
+                        04 juillet 2019
+                        11 juillet 2019
+                        18 juillet 2019
+                        25 juillet 2019
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 10 mai 2019 / 03 juillet 2019
+
+
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
+                (HORS PROGRAMME)
+                01      Mer               09:00 - 12:30     C
+                        Lun               09:00 - 12:00     TP
+
+                02      Mar               18:00 - 21:30     C
+                        Ven               18:00 - 21:00     TP
+
+
+
+PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                   CTN258 / ING150
+
+                01      Mer               13:30 - 17:00     C
+                        Lun               13:30 - 16:30     TP
+
+                02      Ven               13:30 - 17:00     C
+                        Lun               13:30 - 16:30     TP
+
+                03      Ven               09:00 - 12:30     C
+                        Lun               13:30 - 16:30     TP
+
+                04      Lun               13:30 - 17:00     C
+                        Jeu               13:30 - 16:30     TP
+
+                05      Mer               18:00 - 21:30     C
+                        Lun               18:00 - 21:00     TP
+
+                06      Mer               18:00 - 21:30     C
+                        Lun               18:00 - 21:00     TP
+
+
+
+PHY335          PHYSIQUE DES ONDES                                                                                          CTN258 / ING150
+
+                01      Jeu               13:30 - 17:00     C
+                        Mar               09:00 - 12:00     TP
+
+                02      Jeu               13:30 - 17:00     C
+                        Mar               09:00 - 12:00     TP
+
+                03      Mar               09:00 - 12:30     C
+                        Ven               09:00 - 12:00     TP
+
+                04      Lun               09:00 - 12:30     C
+                        Ven               09:00 - 12:00     TP
+
+                05      Lun               18:00 - 21:30     C
+                        Ven               18:00 - 21:00     TP
+
+                06      Mer               18:00 - 21:30     C
+                        Ven               18:00 - 21:00     TP
+
+                07      Jeu               18:00 - 21:30     C
+                        Mar               18:00 - 21:00     TP
+
+
+
+PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
+                INITIATION À LA SANTÉ ET SÉCURITÉ
+                Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 9 h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+                ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les
+                étudiants du programme 7622 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-
+                sécurité en suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+                (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+                l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
+                groupe réservé.
+                01      Ven               18:00 - 21:30     Atelier
+                        Sam               09:00 - 16:00     TP
+                        31 mai 2019
+                        01 juin 2019
+
+                02      Ven               18:00 - 21:30     Atelier
+
+
+
+
+                 Date : 2019-02-18 15:07:20               L’École se réserve un droit de modifier l’horaire sans préavis       Page : 6/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                      7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                                     HORAIRE ETÉ 2019
+                                                         Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                         Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                         Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR             HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                     PRÉALABLES
+
+PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
+                INITIATION À LA SANTÉ ET SÉCURITÉ
+                Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 9 h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+                ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les
+                étudiants du programme 7622 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-
+                sécurité en suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+                (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+                l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
+                groupe réservé.
+                02      Sam            09:00 - 16:00     TP
+                        31 mai 2019
+                        01 juin 2019
+
+
+
+TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
+                SOCIÉTÉ
+                01      Lun            09:00 - 12:30     C
+                        Mer            13:30 - 17:30     TP A+B
+
+                02      Lun            09:00 - 12:30     C
+                        Mer            13:30 - 17:30     TP A+B
+
+                03      Lun            09:00 - 12:30     C
+                        Jeu            13:30 - 17:30     TP A+B
+
+                04      Jeu            09:00 - 12:30     C
+                        Mar            13:30 - 17:30     TP A+B
+
+                05      Mer            13:30 - 17:00     C
+                        Jeu            13:30 - 17:30     TP A+B
+
+                06      Ven            18:00 - 21:30     C
+                        Mer            18:00 - 22:00     TP A+B
+
+                07      Ven            18:00 - 21:30     C
+                        Mer            18:00 - 22:00     TP A+B
+
+                08      Ven            18:00 - 21:30     C
+                        Mer            18:00 - 22:00     TP A+B
+
+                09      Mar            18:00 - 21:30     C
+                        Jeu            18:00 - 22:00     TP A+B
+
+
+
+TIN504          SANTÉ, TECHNOLOGIE ET SOCIÉTÉ
+
+                01      Mar            18:00 - 21:30     C
+
+
+
+
+                 Date : 2019-02-18 15:07:21            L’École se réserve un droit de modifier l’horaire sans préavis          Page : 7/8
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                           7485 : Baccalauréat en génie de la production automatisée
+
+
+                                                                           HORAIRE ETÉ 2019
+                                                          Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                          Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                          Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR             HEURE            ACTIVITÉ            LOCAL             ENSEIGNANT                                PRÉALABLES
+
+TIN504          SANTÉ, TECHNOLOGIE ET SOCIÉTÉ
+
+                01      Ven           20:00 - 22:00       TP
+
+
+NOTES
+
+a)              Programmes d'études
+
+                B:                 baccalauréat
+
+                GAQ :              certificat en gestion et assurance de la qualité
+
+                GC :               certificat en gestion de la construction
+
+                GE :               certificat et programme court de 1er cycle en gestion des établissements
+
+                PI :               certificat en production industrielle
+
+                CT :               certificat en télécommunication
+
+                TS :               certificat spécialisé en génie des technologie de la santé
+
+b)              Activités
+
+                C : cours          TP : travaux pratiques                                       LABO : laboratoires
+
+                                   TP/2 : travaux pratiques aux deux (2) semaines               LABO/2 : laboratoires aux deux (2) semaines
+
+                TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+                présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+                trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+                pratiques (TP).
+
+c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+                Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+
+                Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+
+                 Date : 2019-02-18 15:07:21            L’École se réserve un droit de modifier l’horaire sans préavis                         Page : 8/8
+
