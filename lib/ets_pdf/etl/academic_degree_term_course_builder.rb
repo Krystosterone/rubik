@@ -66,5 +66,11 @@ class EtsPdf::Etl::AcademicDegreeTermCourseBuilder < SimpleClosure
     EtsPdf::Etl::GroupBuilder.call(academic_degree_term_course, parsed_lines[1..-1])
 
     academic_degree_term_course.save!
+  rescue
+    p academic_degree_term_course.course.code
+    p academic_degree_term_course.academic_degree_term.academic_degree.code
+    p academic_degree_term_course.academic_degree_term.term.year
+    p academic_degree_term_course.academic_degree_term.term.name
+    raise
   end
 end
