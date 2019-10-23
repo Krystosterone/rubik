@@ -6,6 +6,10 @@ class EtsPdf::Etl::AcademicDegreeTermCourseBuilder < SimpleClosure
     ELE791
     ELE792
     ELE795
+    ENT301
+    ENT302
+    ENT303
+    ENT304
     GOL791
     GOL792
     GOL796

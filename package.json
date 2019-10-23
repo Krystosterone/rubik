@@ -4,7 +4,7 @@
   "description": "[![Circle CI](https://circleci.com/gh/Krystosterone/rubik.svg?style=svg&circle-token=bda09a43695a9d1abd1a5085e97428bcdc1f901b)](https://circleci.com/gh/Krystosterone/rubik)",
   "main": "app/assets/javascripts/application.js",
   "engines": {
-    "node": "8.2.0"
+    "node": "12.13.0"
   },
   "scripts": {
     "eslint": "eslint"

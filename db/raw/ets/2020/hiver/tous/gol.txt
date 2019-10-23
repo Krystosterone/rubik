@@ -1,0 +1,914 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                  HORAIRE HIVER 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+CHM131          CHIMIE ET MATÉRIAUX
+
+                01      Mar           13:30 - 16:30     C
+                        Ven           13:30 - 16:30     TP
+
+                02      Jeu           09:00 - 12:30     C
+                        Lun           13:30 - 16:30     TP
+
+                03      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                04      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                05      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                06      Jeu           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                07      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                08      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                09      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+                10      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+                11      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                12      Ven           13:30 - 17:00     C
+                        Mar           09:00 - 12:00     TP
+
+
+
+COM110          MÉTHODES DE COMMUNICATION                                                                              Avoir satisfait aux exigences de la Politique
+                                                                                                                       linguistique de l'ÉTS
+                01      Lun           09:00 - 12:30     C
+                        Mer           08:30 - 12:30     TP A+B
+
+                02      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 17:30     TP A+B
+
+                03      Ven           13:30 - 17:00     C
+                        Mar           08:30 - 12:30     TP A+B
+
+                04      Jeu           09:00 - 12:30     C
+                        Mar           13:30 - 17:30     TP A+B
+
+                05      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 22:00     TP A+B
+
+                06      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 22:00     TP A+B
+
+                07      Mer           09:00 - 12:30     C
+                        Lun           08:30 - 12:30     TP A+B
+
+
+
+COM115          COMMUNICATION INTERCULTURELLE                                                                          Avoir satisfait aux exigences de la Politique
+                                                                                                                       linguistique de l'ÉTS
+                01      Jeu           09:00 - 12:30     C
+                        Lun           13:30 - 17:30     TP A+B
+
+                02      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 22:00     TP A+B
+
+
+
+ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                        GIA400 ou GIA410
+
+                01      Lun           09:00 - 12:30     C
+                        Mer           10:30 - 12:30     TP
+
+                02      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 20:00     TP
+
+
+
+ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
+
+                01      Mer           13:30 - 17:00     C              C-1310
+                        Jeu           18:00 - 20:00     TP             A-1160
+
+
+
+
+                 Date : 2019-10-21 12:05:03           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                  HORAIRE HIVER 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                01      Lun           09:00 - 12:30     C
+                        Jeu           10:30 - 12:30     TP
+
+                02      Jeu           13:30 - 17:00     C
+                        Mar           10:30 - 12:30     TP
+
+                03      Mar           13:30 - 17:00     C
+                        Ven           10:30 - 12:30     TP
+
+                04      Mer           09:00 - 12:30     C
+                        Ven           13:30 - 15:30     TP
+
+                05      Lun           13:30 - 17:00     C
+                        Mer           13:30 - 15:30     TP
+
+                06      Jeu           13:30 - 17:00     C
+                        Lun           10:30 - 12:30     TP
+
+                07      Lun           13:30 - 17:00     C
+                        Jeu           08:30 - 10:30     TP
+
+                08      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 20:00     TP
+
+                09      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 20:00     TP
+
+                11      Ven           09:00 - 12:30     C
+                        Mar           13:30 - 15:30     TP
+
+
+
+GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU
+                INDUSTRIEL
+                01      Jeu           08:30 - 12:00     C
+                        Mar           08:30 - 12:30     TP/Labo        A-1220, A-2230
+
+                02      Lun           08:30 - 12:00     C
+                        Ven           13:30 - 17:30     TP/Labo        A-1214, A-2230
+
+                03      Mer           18:00 - 21:30     C
+                        Ven           18:00 - 22:00     TP/Labo         A-1212, A-2230
+
+
+
+GOL102          ORGANISATION SCIENTIFIQUE DU TRAVAIL
+
+                01      Mer           13:30 - 17:00     C
+                        Ven           08:30 - 10:30     TP A           A-3608
+                        Ven           10:30 - 12:30     TP B           A-3608
+
+                02      Ven           08:30 - 12:00     C
+                        Mer           13:30 - 15:30     TP A           A-3728
+                        Mer           15:30 - 17:30     TP B           A-3728
+
+
+
+GOL110          COMPORTEMENT ORGANISATIONNEL ET
+                MANAGEMENT
+                01      Mar           08:30 - 12:00     C
+                        Jeu           08:30 - 12:30     TP A+B
+
+                02      Mar           13:30 - 17:00     C
+                        Jeu           13:30 - 17:30     TP A+B
+
+
+
+GOL203          OUTILS DE CONCEPTION ET D'ANALYSE DE
+                PROD. ET SERV.
+                01      Lun           08:30 - 12:00     C
+                        Mer           08:30 - 11:30     Labo           A-3612, A-3726
+
+
+
+GOL302          AMÉNAG., MANUT. ET CIRCUL. DES BIENS &                                                                 Pr. AD: GOL102 et GOL203
+                DES PERSONNES                                                                                          Pr. G: GOL203
+                                                                                                                       Pr. I, R: GOL102 et GOL203
+                01      Lun           13:30 - 17:00     C
+                        Mer           13:30 - 16:30     TP             A-3602, A-3612
+
+
+
+GOL405          MÉTHODES QUANTITATIVES EN                                                                              MAT165
+                LOGISTIQUE
+                01      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP             A-3612, A-3726
+
+
+
+
+                 Date : 2019-10-21 12:05:03           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                  HORAIRE HIVER 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+GOL450          MAÎTRISE STATISTIQUE DES PROCÉDÉS                                                                      MAT350
+
+                01      Mar           08:30 - 12:00     C
+                        Mer           13:30 - 16:30     TP             A-3608, A-3726
+
+
+
+GOL455          GESTION DES OPÉRATIONS, DES FLUX ET                                                                    GOL405 et MAT350
+                DES STOCKS
+                01      Ven           08:30 - 12:00     C
+                        Ven           13:30 - 16:30     TP             A-3728, A-4516
+
+
+
+GOL460          CHAÎNES LOGISTIQUES ET                                                                                 GOL405
+                D'APPROVISIONNEMENT
+                01      Lun           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP A+B         A-3612, A-3726
+
+
+
+GOL465          SIMULATION DES OPÉRATIONS ET DES                                                                       Pr. AD: GOL102 et MAT350
+                ACTIVITÉS DE SERVICES                                                                                  Pr. G: MAT350
+                                                                                                                       Pr. I, R: GOL102 et MAT350
+                01      Lun           18:00 - 21:30     C              A-3602
+                        Mer           18:00 - 21:00     Labo           A-3608
+
+
+
+GOL470          SYSTÈMES DE DISTRIBUTION                                                                               GOL405
+
+                01      Lun           18:00 - 21:30     C
+                        Jeu           18:00 - 20:00     Labo A         A-3728
+                        Jeu           20:00 - 22:00     Labo B         A-3728
+
+                02      Mar           18:00 - 21:30     C
+                        Mer           18:00 - 20:00     Labo A         A-4516
+                        Mer           20:00 - 22:00     Labo B         A-4516
+
+
+
+GOL503          SPÉCIFICITÉS SECTORIELLES.: SANTÉ,                                                                     Minimum 60 Cr
+                BANQUES, COMMUNICATION
+                01      Mer           13:30 - 17:00     C
+                        Lun           13:30 - 15:30     TP A           A-3726
+                        Lun           15:30 - 17:30     TP B           A-3726
+
+
+
+GOL610          GESTION DES PARCS D'ÉQUIPEMENT                                                                         MAT350
+
+                01      Jeu           13:30 - 17:00     C
+                        Ven           08:30 - 10:30     TP A           A-4516
+                        Ven           10:30 - 12:30     TP B           A-4516
+
+                02      Ven           08:30 - 12:00     C
+                        Jeu           13:30 - 15:30     TP A           A-3602
+                        Jeu           15:30 - 17:30     TP B           A-3602
+
+
+
+GOL675          PLANIFICATION ET OPTIMISATION                                                                          MAT350
+                D'EXPÉRIENCES
+                01      Mar           13:30 - 17:00     C              A-3728
+                        Jeu           08:30 - 10:30     TP A           A-3728
+                        Jeu           10:30 - 12:30     TP B           A-3728
+
+
+
+GOL711          GESTION DE PROJET DANS LES PRODUITS
+                ET SERVICES
+                01      Mar           08:30 - 12:00     C              A-3602
+                        Mer           08:30 - 10:30     TP A
+                        Mer           10:30 - 12:30     TP B
+
+
+
+GOL717          CONCEPTION DE SYSTÈMES PRÉDICTIFS                                                                      MAT350
+                POUR L’ENTREPRISE
+                01      Lun           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP             A-4516
+
+
+
+GOL720          IMPLANTATION SYST. INTÉGRÉS DE
+                GESTION D'ENTREPRISE
+                01      Jeu           08:30 - 12:00     C              A-4516
+                        Ven           08:30 - 10:30     TP A           A-3728
+                        Ven           10:30 - 12:30     TP B           A-3728
+
+
+
+                 Date : 2019-10-21 12:05:04           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                  HORAIRE HIVER 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+GOL725          RÉSEAUX DE TRANSPORT                                                                                   GOL405
+
+                01      Mar           08:30 - 12:00     C
+                        Mer           08:30 - 12:30     TP A+B         A-4516
+
+
+
+GOL793          PROJET FIN D’ÉTUDES EN GÉNIE DES                                                                       Minimum 99 Cr
+                OPÉRATIONS ET DE LA LOGISTIQUE
+                01      Ven           13:30 - 17:00     Projets        A-4516
+
+
+
+GOL794          PROJET INTERNATIONAL DE FIN D’ÉTUDES                                                                   Minimum 99 Cr
+                EN GÉNIE DES OPÉRATIONS ET D
+                01      Ven           13:30 - 17:00     Projets        A-4516
+
+
+
+GPE450          GESTION DU PERSONNEL ET RELATIONS
+                INDUSTRIELLES
+                01      Lun           13:30 - 17:00     C
+                        Jeu           15:30 - 17:30     TP
+
+                02      Jeu           18:00 - 21:30     C
+                        Lun           18:00 - 20:00     TP
+
+
+
+INF130          ORDINATEURS ET PROGRAMMATION
+
+                01      Lun           09:00 - 12:30     C              E-4023
+                        Mer           09:00 - 12:00     Labo           E-4023
+
+                02      Jeu           09:00 - 12:30     C              E-4022
+                        Mar           13:30 - 16:30     Labo           E-4022
+
+                03      Mer           13:30 - 17:00     C              E-4022
+                        Lun           13:30 - 16:30     Labo           E-4021
+
+                04      Jeu           13:30 - 17:00     C              E-4021
+                        Mar           09:00 - 12:00     Labo           E-4021
+
+                05      Mer           18:00 - 21:30     C              E-4022
+                        Lun           18:00 - 21:00     Labo           E-4022
+
+                06      Mer           09:00 - 12:30     C              E-4022
+                        Lun           09:00 - 12:00     Labo           E-4021
+
+
+
+ING150          STATIQUE ET DYNAMIQUE
+
+                01      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                02      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:30     TP
+
+                03      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+                04      Lun           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                05      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                06      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                07      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+
+
+ING160          THERMODYNAMIQUE ET MÉCANIQUE DES                                                                       ING150
+                FLUIDES
+                01      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+                02      Mer           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                03      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                04      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+
+
+
+                 Date : 2019-10-21 12:05:04           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                  HORAIRE HIVER 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+ING500          OUTILS DE DÉVELOPPEMENT DURABLE
+                POUR L'INGÉNIEUR
+                01      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 17:30     TP A+B         E-4022
+
+                02      Jeu           18:00 - 21:30     C
+                        Lun           18:00 - 22:00     TP A+B         E-4021
+
+
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
+                GÉNIE (HORS PROG.)
+                01      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                02      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                03      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP
+
+                04      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                05      Jeu           09:00 - 12:00     C
+                        Mar           09:00 - 12:30     TP
+
+
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                01      Lun           09:00 - 12:30     C
+                        Mer           09:00 - 12:00     TP
+
+                02      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                03      Mer           13:30 - 17:00     C
+                        Ven           09:00 - 12:00     TP
+
+                04      Mar           09:00 - 12:30     C
+                        Jeu           13:30 - 16:30     TP
+
+                05      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
+
+                06      Jeu           13:30 - 17:00     C
+                        Mar           09:00 - 12:00     TP
+
+                07      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP
+
+                08      Jeu           09:00 - 12:30     C
+                        Lun           13:30 - 16:30     TP
+
+                09      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                10      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                11      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+
+
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                                                            MAT145
+                VECTORIELLE
+                01      Ven           09:00 - 12:30     C
+                        Mer           13:30 - 16:30     TP
+
+                02      Mar           13:30 - 17:00     C
+                        Jeu           09:00 - 12:00     TP
+
+                03      Ven           13:30 - 17:00     C
+                        Mar           09:00 - 12:00     TP
+
+                04      Jeu           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                05      Mer           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
+
+                06      Mar           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                07      Mar           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                08      Jeu           18:00 - 21:30     C
+                        Mar           18:00 - 21:00     TP
+
+                09      Lun           13:30 - 17:00     C
+
+                 Date : 2019-10-21 12:05:04           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                  HORAIRE HIVER 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                                                            MAT145
+                VECTORIELLE
+                09      Mer           13:30 - 16:30     TP
+
+
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                              MAT145
+
+                01      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+                02      Mer           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                03      Mer           09:00 - 12:30     C
+                        Ven           13:30 - 16:30     TP
+
+                04      Lun           09:00 - 12:30     C
+                        Jeu           13:30 - 16:30     TP
+
+                05      Ven           09:00 - 12:30     C
+                        Mar           13:30 - 16:30     TP
+
+                06      Lun           13:30 - 17:00     C
+                        Mer           13:30 - 16:30     TP
+
+                07      Mar           13:30 - 17:00     C
+                        Jeu           13:30 - 16:30     TP
+
+                08      Ven           13:30 - 17:00     C
+                        Mer           09:00 - 12:00     TP
+
+                09      Jeu           13:30 - 17:00     C
+                        Lun           09:00 - 12:00     TP
+
+                10      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP
+
+                11      Jeu           09:00 - 12:30     C
+                        Mar           09:00 - 12:00     TP
+
+
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                           MAT145
+
+                01      Jeu           13:30 - 17:00     C
+                        Mar           09:00 - 12:00     TP
+
+                02      Mer           09:00 - 12:30     C
+                        Ven           09:00 - 12:00     TP
+
+                03      Lun           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                04      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+                05      Mer           13:30 - 17:00     C
+                        Lun           13:30 - 16:30     TP
+
+                06      Lun           09:00 - 12:30     C
+                        Jeu           09:00 - 12:00     TP
+
+                07      Lun           13:30 - 17:00     C
+                        Mer           13:30 - 16:30     TP
+
+                08      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                09      Mer           18:00 - 21:30     C
+                        Lun           18:00 - 21:00     TP
+
+                10      Mar           09:00 - 12:00     C
+                        Jeu           13:30 - 17:00     TP
+
+
+
+MATEST          ACCUEIL EN MATHÉMATIQUES
+
+                01      Lun           09:00 - 12:30     C
+                                                        TP
+
+                02      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP
+
+                03      Mar           13:30 - 17:00     C
+                        Ven           13:30 - 16:30     TP
+
+
+
+
+                 Date : 2019-10-21 12:05:04           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                      7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                    HORAIRE HIVER 2020
+                                                          Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                          Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                          Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR              HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+PEP110          ENCADREMENT DE LA PROFESSION ET
+                ÉTHIQUE PROFESSIONNELLE
+                01      Mer             09:00 - 12:30     Atelier
+                        15 janvier 2020
+                        22 janvier 2020
+                        29 janvier 2020
+                        05 février 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+                02      Mer             09:00 - 12:30     Atelier
+                        12 février 2020
+                        19 février 2020
+                        26 février 2020
+                        04 mars 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+                03      Mer             09:00 - 12:30     Atelier
+                        11 mars 2020
+                        18 mars 2020
+                        25 mars 2020
+                        01 avril 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+                04      Mar             13:30 - 17:00     Atelier
+                        14 janvier 2020
+                        21 janvier 2020
+                        28 janvier 2020
+                        04 février 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+                05      Mar             13:30 - 17:00     Atelier
+                        11 février 2020
+                        18 février 2020
+                        03 mars 2020
+                        10 mars 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+                06      Mar             13:30 - 17:00     Atelier
+                        17 mars 2020
+                        24 mars 2020
+                        31 mars 2020
+                        07 avril 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+                07      Jeu             18:00 - 21:30     Atelier
+                        16 janvier 2020
+                        23 janvier 2020
+                        30 janvier 2020
+                        06 février 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+                08      Jeu             18:00 - 21:30     Atelier
+                        12 mars 2020
+                        19 mars 2020
+                        26 mars 2020
+                        02 avril 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+                09      Jeu             18:00 - 21:30     Atelier
+                        19 mars 2020
+                        26 mars 2020
+                        02 avril 2020
+                        09 avril 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+
+
+
+
+                 Date : 2019-10-21 12:05:04             L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                      7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                    HORAIRE HIVER 2020
+                                                          Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                          Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                          Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR              HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+PEP110          ENCADREMENT DE LA PROFESSION ET
+                ÉTHIQUE PROFESSIONNELLE
+                10      Sam             13:30 - 17:00     Atelier
+                        18 janvier 2020
+                        08 février 2020
+                        29 février 2020
+                        21 mars 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+                11      Sam             13:30 - 17:00     Atelier
+                        25 janvier 2020
+                        15 février 2020
+                        07 mars 2020
+                        28 mars 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+                12      Sam             13:30 - 17:00     Atelier
+                        01 février 2020
+                        22 février 2020
+                        14 mars 2020
+                        04 avril 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+
+
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
+                (HORS PROGRAMME)
+                01      Lun             09:00 - 12:30     C
+                        Mer             09:00 - 12:00     TP
+
+                02      Mer             13:30 - 17:00     C
+                        Ven             09:00 - 12:00     TP
+
+                03      Lun             13:30 - 17:00     C
+                        Jeu             13:30 - 16:30     TP
+
+                04      Mar             09:00 - 12:30     C
+                        Jeu             09:00 - 12:00     TP
+
+                05      Mar             18:00 - 21:30     C
+                        Jeu             18:00 - 21:00     TP
+
+                06      Mar             13:00 - 17:00     C
+                        Ven             13:30 - 16:30     TP
+
+                07      Mer             09:00 - 12:30     C
+                        Lun             09:00 - 12:00     TP
+
+
+
+PHY335          PHYSIQUE DES ONDES                                                                                       CTN258 / ING150
+
+                01      Lun             13:30 - 17:00     C
+                        Mer             13:30 - 16:30     TP
+
+                02      Jeu             09:00 - 12:30     C
+                        Mar             09:00 - 12:00     TP
+
+                03      Lun             09:00 - 12:30     C
+                        Jeu             13:30 - 16:30     TP
+
+                04      Ven             09:00 - 12:30     C
+                        Mer             09:00 - 12:00     TP
+
+                05      Ven             13:30 - 17:00     C
+                        Mar             13:30 - 16:30     TP
+
+                06      Jeu             09:00 - 12:30     C
+                        Mar             13:30 - 16:30     TP
+
+                07      Mar             18:00 - 21:30     C
+                        Jeu             18:00 - 21:00     TP
+
+                08      Mer             13:30 - 17:00     C
+                        Lun             13:30 - 16:30     TP
+
+
+
+
+                 Date : 2019-10-21 12:05:04             L’École se réserve un droit de modifier l’horaire sans préavis     Page : 8/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                  HORAIRE HIVER 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR              HEURE         ACTIVITÉ       LOCAL                 ENSEIGNANT                     PRÉALABLES
+
+PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
+                INITIATION À LA SANTÉ ET SÉCURITÉ
+                Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 9 h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+                ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les
+                étudiants du programme 7622 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-
+                sécurité en suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+                (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+                l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
+                groupe réservé.
+                01      Ven           18:00 - 21:30     Atelier
+                        Sam           09:00 - 17:00     TP
+                        07 février 2020
+                        08 février 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+                02      Ven           18:00 - 21:30     Atelier
+                        Sam           09:00 - 17:00     TP
+                        21 février 2020
+                        22 février 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+                03      Sam           18:00 - 21:30     Atelier
+                        Sam           09:00 - 17:00     TP
+                        08 février 2020
+                        14 février 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 janvier 2020 / 16 mars 2020
+
+
+
+TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
+                SOCIÉTÉ
+                01      Lun           09:00 - 12:30     C
+                        Jeu           13:30 - 17:30     TP A+B
+
+                02      Jeu           09:00 - 12:30     C
+                        Mar           13:30 - 17:30     TP A+B
+
+                03      Mer           09:00 - 12:30     C
+                        Lun           13:30 - 17:30     TP A+B
+
+                04      Mer           13:30 - 17:00     C
+                        Ven           08:30 - 12:30     TP A+B
+
+                05      Ven           13:30 - 17:00     C
+                        Mar           08:30 - 12:30     TP A+B
+
+                06      Lun           09:00 - 12:30     C
+                        Jeu           08:30 - 12:30     TP A+B
+
+                07      Ven           13:30 - 17:00     C
+                        Mar           13:30 - 17:30     TP A+B
+
+                08      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 22:00     TP A+B
+
+                09      Jeu           18:00 - 21:30     C
+
+
+
+
+                 Date : 2019-10-21 12:05:04           L’École se réserve un droit de modifier l’horaire sans préavis          Page : 9/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                           7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                       HORAIRE HIVER 2020
+                                                          Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                          Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                          Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR             HEURE            ACTIVITÉ            LOCAL             ENSEIGNANT                                PRÉALABLES
+
+TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
+                SOCIÉTÉ
+                09      Mar           18:00 - 22:00       TP A+B
+
+
+NOTES
+
+a)              Programmes d'études
+
+                B:                 baccalauréat
+
+                GAQ :              certificat en gestion et assurance de la qualité
+
+                GC :               certificat en gestion de la construction
+
+                GE :               certificat et programme court de 1er cycle en gestion des établissements
+
+                PI :               certificat en production industrielle
+
+                CT :               certificat en télécommunication
+
+                TS :               certificat spécialisé en génie des technologie de la santé
+
+b)              Activités
+
+                C : cours          TP : travaux pratiques                                       LABO : laboratoires
+
+                                   TP/2 : travaux pratiques aux deux (2) semaines               LABO/2 : laboratoires aux deux (2) semaines
+
+                TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+                présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+                trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+                pratiques (TP).
+
+c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+                Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+
+                Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+
+                 Date : 2019-10-21 12:05:04            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 10/10
+
