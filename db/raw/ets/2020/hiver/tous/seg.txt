@@ -292,13 +292,6 @@ INF155          INTRODUCTION À LA PROGRAMMATION
 
 
 
-INFTEST         ACCUEIL EN INFORMATIQUE
-
-                01                                      C
-                                                        Labo
-
-
-
 ING150          STATIQUE ET DYNAMIQUE
 
                 02      Mer           13:30 - 17:00     C
