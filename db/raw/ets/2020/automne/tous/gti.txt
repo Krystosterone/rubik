@@ -103,7 +103,7 @@ COM115          COMMUNICATION INTERCULTURELLE                                   
 
 
 
-                 Date : 2020-02-17 18:06:23           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/14
+                 Date : 2020-02-20 06:05:55           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7610 : Baccalauréat en génie des technologies de l'information
@@ -208,7 +208,7 @@ GTI100          PROGRAMMATION ET RÉSEAUTIQUE EN
                 02      Mar           08:30 - 12:00     C
 
 
-                 Date : 2020-02-17 18:06:23           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/14
+                 Date : 2020-02-20 06:05:55           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7610 : Baccalauréat en génie des technologies de l'information
@@ -276,7 +276,8 @@ GTI411          IMAGERIE NUMÉRIQUE                                             
 GTI611          RÉSEAUX DE COMMUNICATION IP                                                                            LOG100 ou GTI100 et LOG121 / LOG121
 
                 01      Jeu           13:30 - 17:00     C
-                        Mer           08:30 - 11:30     Labo           A-3322
+                        Jeu           08:30 - 11:30     Labo A         A-3324
+                        Mer           08:30 - 11:30     Labo B
 
                 02      Mer           08:30 - 12:00     C
                         Jeu           13:30 - 16:30     Labo           A-3324
@@ -305,14 +306,8 @@ GTI710          COMMERCE ÉLECTRONIQUE                                          
 
 
 
-GTI719          SÉCURITÉ DES RÉSEAUX D'ENTREPRISE                                                                      GTI619 / LOG121
 
-                01      Mar           18:00 - 21:30     C
-
-
-
-
-                 Date : 2020-02-17 18:06:23           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/14
+                 Date : 2020-02-20 06:05:55           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7610 : Baccalauréat en génie des technologies de l'information
@@ -327,7 +322,8 @@ COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL   
 
 GTI719          SÉCURITÉ DES RÉSEAUX D'ENTREPRISE                                                                      GTI619 / LOG121
 
-                01      Jeu           18:00 - 20:00     Labo           A-3326
+                01      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 20:00     Labo           A-3326
 
 
 
@@ -412,11 +408,10 @@ ING150          STATIQUE ET DYNAMIQUE
                         Lun           13:30 - 16:30     TP
 
                 04      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP
 
 
-
-
-                 Date : 2020-02-17 18:06:23           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/14
+                 Date : 2020-02-20 06:05:55           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7610 : Baccalauréat en génie des technologies de l'information
@@ -430,8 +425,6 @@ Bureau du registraire - logistique académique
 COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
 
 ING150          STATIQUE ET DYNAMIQUE
-
-                04      Mer           18:00 - 21:00     TP
 
                 05      Lun           09:00 - 12:30     C
                         Ven           09:00 - 12:00     TP
@@ -518,9 +511,11 @@ LOG430          ARCHITECTURE LOGICIELLE                                         
 LOG460          SÉCURITÉ DES LOGICIELS                                                                                 LOG121
 
                 01      Ven           13:30 - 17:00     C
+                        Lun           08:30 - 10:30     Labo           A-3324
 
 
-                 Date : 2020-02-17 18:06:23           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 5/14
+
+                 Date : 2020-02-20 06:05:55           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 5/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7610 : Baccalauréat en génie des technologies de l'information
@@ -532,12 +527,6 @@ Bureau du registraire - logistique académique
                                                         Locaux D: bâtiment sud-ouest, 1219, rue William
                                                         Locaux E: bâtiment ouest, 1220, Notre-Dame O.
 COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
-
-LOG460          SÉCURITÉ DES LOGICIELS                                                                                 LOG121
-
-                01      Lun           08:30 - 10:30     Labo           A-3324
-
-
 
 LOG635          SYSTÈMES INTELLIGENTS ET                                                                               MAT350, LOG320
                 ALGORITHMES
@@ -621,10 +610,16 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
                         Ven           09:00 - 12:00     TP
 
                 03      Lun           13:30 - 17:00     C
+                        Jeu           09:00 - 12:00     TP
+
+                04      Jeu           09:00 - 12:30     C
+                        Lun           13:30 - 16:30     TP
+
+                05      Jeu           13:30 - 17:00     C
+                        Mar           13:30 - 16:30     TP
 
 
-
-                 Date : 2020-02-17 18:06:23           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 6/14
+                 Date : 2020-02-20 06:05:55           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 6/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7610 : Baccalauréat en génie des technologies de l'information
@@ -638,14 +633,6 @@ Bureau du registraire - logistique académique
 COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
 
 MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
-
-                03      Jeu           09:00 - 12:00     TP
-
-                04      Jeu           09:00 - 12:30     C
-                        Lun           13:30 - 16:30     TP
-
-                05      Jeu           13:30 - 17:00     C
-                        Mar           13:30 - 16:30     TP
 
                 06      Mar           13:30 - 17:00     C
                         Jeu           13:30 - 16:30     TP
@@ -728,31 +715,28 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
                         Ven           18:00 - 21:00     TP
 
                 11      Jeu           18:00 - 21:30     C
-
-
-                 Date : 2020-02-17 18:06:23           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/14
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                   7610 : Baccalauréat en génie des technologies de l'information
-
-
-                                                              HORAIRE AUTOMNE 2020
-                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
-
-MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                              MAT145
-
-                11      Mer           18:00 - 21:00     TP
+                        Mer           18:00 - 21:00     TP
 
                 12      Sam           09:00 - 12:30     C
                         Sam           13:30 - 16:30     TP
 
 
 
-MAT350          PROBABILITÉS ET STATISTIQUES                                                                           MAT145
+
+                 Date : 2020-02-20 06:05:55           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/14
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                   7610 : Baccalauréat en génie des technologies de l'information
+
+
+                                                                  HORAIRE AUTOMNE 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                 ENSEIGNANT                       PRÉALABLES
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                                  MAT145
 
                 01      Ven           09:00 - 12:30     C
                         Mar           09:00 - 12:00     TP
@@ -786,7 +770,7 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
 
 
 
-MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE                                                                       MAT145
+MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE                                                                              MAT145
                 L'ESPACE
                 01      Jeu           13:30 - 17:00     C
                         Mer           13:30 - 16:30     TP
@@ -824,8 +808,23 @@ MATEST          ACCUEIL EN MATHÉMATIQUES
 
 
 
+PEP110          ENCADREMENT DE LA PROFESSION ET
+                ÉTHIQUE PROFESSIONNELLE
+                01      Mer           09:00 - 12:30     Atelier
+                        09 septembre 2020
+                        16 septembre 2020
+                        23 septembre 2020
+                        30 septembre 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 15 septembre 2020 / 22 septembre 2020
+                02      Mer           09:00 - 12:30     Atelier
+                        07 octobre 2020
+                        14 octobre 2020
+                        21 octobre 2020
+                        28 octobre 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 octobre 2020 / 20 octobre 2020
 
-                 Date : 2020-02-17 18:06:23           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 8/14
+
+                 Date : 2020-02-20 06:05:55           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 8/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                   7610 : Baccalauréat en génie des technologies de l'information
@@ -840,18 +839,6 @@ COURS           GR      JOUR            HEURE          ACTIVITÉ        LOCAL   
 
 PEP110          ENCADREMENT DE LA PROFESSION ET
                 ÉTHIQUE PROFESSIONNELLE
-                01      Mer         09:00 - 12:30      Atelier
-                        09 septembre 2020
-                        16 septembre 2020
-                        23 septembre 2020
-                        30 septembre 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 15 septembre 2020 / 22 septembre 2020
-                02      Mer          09:00 - 12:30     Atelier
-                        07 octobre 2020
-                        14 octobre 2020
-                        21 octobre 2020
-                        28 octobre 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 octobre 2020 / 20 octobre 2020
                 03      Mer         09:00 - 12:30      Atelier
                         11 novembre 2020
                         18 novembre 2020
@@ -894,11 +881,23 @@ PEP110          ENCADREMENT DE LA PROFESSION ET
                         26 novembre 2020
                         03 décembre 2020
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 18 novembre 2020 / 25 novembre 2020
+                10      Sam         13:30 - 17:00      Atelier
+                        12 septembre 2020
+                        19 septembre 2020
+                        26 septembre 2020
+                        03 octobre 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 18 septembre 2020 / 25 septembre 2020
+                11      Sam          13:30 - 17:00     Atelier
+                        10 octobre 2020
+                        17 octobre 2020
+                        24 octobre 2020
+                        31 octobre 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 octobre 2020 / 23 octobre 2020
 
 
 
 
-                 Date : 2020-02-17 18:06:23          L’École se réserve un droit de modifier l’horaire sans préavis            Page : 9/14
+                 Date : 2020-02-20 06:05:55          L’École se réserve un droit de modifier l’horaire sans préavis            Page : 9/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7610 : Baccalauréat en génie des technologies de l'information
@@ -909,22 +908,10 @@ Bureau du registraire - logistique académique
                                                         Locaux B: bâtiment nord, 1111, Notre-Dame O.
                                                         Locaux D: bâtiment sud-ouest, 1219, rue William
                                                         Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                 ENSEIGNANT                       PRÉALABLES
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                      PRÉALABLES
 
 PEP110          ENCADREMENT DE LA PROFESSION ET
                 ÉTHIQUE PROFESSIONNELLE
-                10      Sam         13:30 - 17:00       Atelier
-                        12 septembre 2020
-                        19 septembre 2020
-                        26 septembre 2020
-                        03 octobre 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 18 septembre 2020 / 25 septembre 2020
-                11      Sam          13:30 - 17:00      Atelier
-                        10 octobre 2020
-                        17 octobre 2020
-                        24 octobre 2020
-                        31 octobre 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 octobre 2020 / 23 octobre 2020
                 12      Sam         13:30 - 17:00       Atelier
                         14 novembre 2020
                         21 novembre 2020
@@ -959,7 +946,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
 
 
 
-PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                     CTN258 / ING150
+PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                   CTN258 / ING150
 
                 01      Mer           09:00 - 12:30     C
                         Lun           09:00 - 12:00     TP
@@ -984,21 +971,7 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
 
 
 
-
-                 Date : 2020-02-17 18:06:23           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 10/14
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                   7610 : Baccalauréat en génie des technologies de l'information
-
-
-                                                                  HORAIRE AUTOMNE 2020
-                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                       PRÉALABLES
-
-PHY335          PHYSIQUE DES ONDES                                                                                           CTN258 / ING150
+PHY335          PHYSIQUE DES ONDES                                                                                          CTN258 / ING150
 
                 01      Mar           13:30 - 17:00     C
                         Ven           09:00 - 12:00     TP
@@ -1016,7 +989,26 @@ PHY335          PHYSIQUE DES ONDES                                              
                         Ven           13:30 - 16:30     TP
 
                 06      Lun           18:00 - 21:30     C
-                        Mer           18:00 - 21:00     TP
+
+
+
+
+                 Date : 2020-02-20 06:05:55           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 10/14
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                   7610 : Baccalauréat en génie des technologies de l'information
+
+
+                                                                  HORAIRE AUTOMNE 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                       PRÉALABLES
+
+PHY335          PHYSIQUE DES ONDES                                                                                           CTN258 / ING150
+
+                06      Mer           18:00 - 21:00     TP
 
                 07      Sam           09:00 - 12:30     C
                         Sam           13:30 - 16:30     TP
@@ -1078,11 +1070,21 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
                         26 septembre 2020
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
                 05      Ven           18:00 - 21:30     Atelier
+                        Sam           09:00 - 17:00     TP
+                        02 octobre 2020
+                        03 octobre 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
+                06      Ven           18:00 - 21:30     Atelier
+                        Sam           09:00 - 17:00     TP
+                        02 octobre 2020
+                        03 octobre 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
+                07      Ven           18:00 - 21:30     Atelier
 
 
 
 
-                 Date : 2020-02-17 18:06:23           L’École se réserve un droit de modifier l’horaire sans préavis          Page : 11/14
+                 Date : 2020-02-20 06:05:55           L’École se réserve un droit de modifier l’horaire sans préavis          Page : 11/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7610 : Baccalauréat en génie des technologies de l'information
@@ -1104,17 +1106,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
                 (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
                 l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
                 groupe réservé.
-                05      Sam           09:00 - 17:00     TP
-                        02 octobre 2020
-                        03 octobre 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
-                06      Ven           18:00 - 21:30     Atelier
-                        Sam           09:00 - 17:00     TP
-                        02 octobre 2020
-                        03 octobre 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
-                07      Ven           18:00 - 21:30     Atelier
-                        Sam           09:00 - 17:00     TP
+                07      Sam           09:00 - 17:00     TP
                         09 octobre 2020
                         10 octobre 2020
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
@@ -1159,11 +1151,21 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
                         14 novembre 2020
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
                 16      Lun           18:00 - 21:30     Atelier
+                        Sam           09:00 - 17:00     TP
+                        09 novembre 2020
+                        14 novembre 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
+                17      Lun           09:00 - 12:30     Atelier
+                        Sam           09:00 - 17:00     TP
+                        16 novembre 2020
+                        21 novembre 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
+                18      Lun           09:00 - 12:30     Atelier
 
 
 
 
-                 Date : 2020-02-17 18:06:23           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 12/14
+                 Date : 2020-02-20 06:05:55           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 12/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7610 : Baccalauréat en génie des technologies de l'information
@@ -1185,17 +1187,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
                 (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
                 l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
                 groupe réservé.
-                16      Sam           09:00 - 17:00     TP
-                        09 novembre 2020
-                        14 novembre 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
-                17      Lun           09:00 - 12:30     Atelier
-                        Sam           09:00 - 17:00     TP
-                        16 novembre 2020
-                        21 novembre 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
-                18      Lun           09:00 - 12:30     Atelier
-                        Sam           09:00 - 17:00     TP
+                18      Sam           09:00 - 17:00     TP
                         23 novembre 2020
                         28 novembre 2020
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
@@ -1241,7 +1233,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
 
 
 
-                 Date : 2020-02-17 18:06:23           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 13/14
+                 Date : 2020-02-20 06:05:56           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 13/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                            7610 : Baccalauréat en génie des technologies de l'information
@@ -1297,5 +1289,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2020-02-17 18:06:23            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 14/14
+                 Date : 2020-02-20 06:05:56            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 14/14
 

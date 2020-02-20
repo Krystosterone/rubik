@@ -61,13 +61,6 @@ ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                
 
 
 
-ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
-
-                01      Mar           13:30 - 17:00     C
-                        Jeu           18:00 - 20:00     TP
-
-
-
 GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
 
                 01      Lun           09:00 - 12:30     C
@@ -100,9 +93,15 @@ GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU
 GOL203          OUTILS DE CONCEPTION ET D'ANALYSE DE
                 PROD. ET SERV.
                 01      Lun           08:30 - 12:00     C
+                        Mer           08:30 - 11:30     Labo           A-3726, A-3728
 
 
-                 Date : 2020-02-17 18:04:47           L’École se réserve un droit de modifier l’horaire sans préavis      Page : 1/9
+
+GOL302          AMÉNAG., MANUT. ET CIRCUL. DES BIENS &                                                                 Pr. AD: GOL102 et GOL203
+                DES PERSONNES                                                                                          Pr. G: GOL203
+                                                                                                                       Pr. I, R: GOL102 et GOL203
+                01      Lun           13:30 - 17:00     C
+                 Date : 2020-02-20 06:04:25           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7495 : Baccalauréat en génie des opérations et de la logistique
@@ -115,17 +114,10 @@ Bureau du registraire - logistique académique
                                                         Locaux E: bâtiment ouest, 1220, Notre-Dame O.
 COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
 
-GOL203          OUTILS DE CONCEPTION ET D'ANALYSE DE
-                PROD. ET SERV.
-                01      Mer           08:30 - 11:30     Labo           A-3726, A-3728
-
-
-
 GOL302          AMÉNAG., MANUT. ET CIRCUL. DES BIENS &                                                                 Pr. AD: GOL102 et GOL203
                 DES PERSONNES                                                                                          Pr. G: GOL203
                                                                                                                        Pr. I, R: GOL102 et GOL203
-                01      Lun           13:30 - 17:00     C
-                        Mer           13:30 - 16:30     TP             A-3608, A-3726
+                01      Mer           13:30 - 16:30     TP             A-3726, A-3728
 
 
 
@@ -139,7 +131,7 @@ GOL405          MÉTHODES QUANTITATIVES EN                                      
 GOL460          CHAÎNES LOGISTIQUES ET                                                                                 GOL405
                 D'APPROVISIONNEMENT
                 01      Lun           13:30 - 17:00     C
-                        Mer           13:30 - 16:30     TP             A-3602, A-3612
+                        Mer           13:30 - 16:30     TP             A-3240, A-3612
 
 
 
@@ -193,19 +185,22 @@ GOL680          CONCEPTION ET OPTIMISATION DE                                   
 
 GOL711          GESTION DE PROJET DANS LES PRODUITS
                 ET SERVICES
-                01      Lun           18:00 - 21:30     C
-                        Mer           18:00 - 20:00     TP A           A-4516
-                        Mer           20:00 - 22:00     TP B           A-4516
+                01      Jeu           18:00 - 21:30     C
+                        Lun           18:00 - 20:00     TP A           A-3240
+                        Lun           20:00 - 22:00     TP B           A-3240
 
 
 
 GOL720          IMPLANTATION SYST. INTÉGRÉS DE
                 GESTION D'ENTREPRISE
                 01      Mar           18:00 - 21:30     C              A-3728
-                        Ven           18:00 - 20:00     TP A           A-3726
+                        Ven           18:00 - 20:00     TP A           A-3728
+                        Ven           20:00 - 22:00     TP B           A-3728
 
 
-                 Date : 2020-02-17 18:04:47           L’École se réserve un droit de modifier l’horaire sans préavis      Page : 2/9
+
+
+                 Date : 2020-02-20 06:04:25           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7495 : Baccalauréat en génie des opérations et de la logistique
@@ -217,12 +212,6 @@ Bureau du registraire - logistique académique
                                                         Locaux D: bâtiment sud-ouest, 1219, rue William
                                                         Locaux E: bâtiment ouest, 1220, Notre-Dame O.
 COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
-
-GOL720          IMPLANTATION SYST. INTÉGRÉS DE
-                GESTION D'ENTREPRISE
-                01      Ven           20:00 - 22:00     TP B           A-3726
-
-
 
 GOL791          PROJETS SPÉCIAUX                                                                                       Autorisation du directeur de département
 
@@ -307,8 +296,14 @@ ING500          OUTILS DE DÉVELOPPEMENT DURABLE
 
 
 
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
+                GÉNIE (HORS PROG.)
+                80      Jeu           09:00 - 12:30     C
 
-                 Date : 2020-02-17 18:04:47           L’École se réserve un droit de modifier l’horaire sans préavis      Page : 3/9
+
+
+
+                 Date : 2020-02-20 06:04:26           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                         7495 : Baccalauréat en génie des opérations et de la logistique
@@ -323,8 +318,7 @@ COURS           GR      JOUR                HEURE           ACTIVITÉ       LOCA
 
 MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
                 GÉNIE (HORS PROG.)
-                80      Jeu               09:00 - 12:30     C
-                        Lun               13:30 - 16:30     TP
+                80      Lun         13:30 - 16:30           TP
                         25 mai 2020
                         28 mai 2020
                         01 juin 2020
@@ -351,9 +345,28 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
                         13 août 2020
                         17 août 2020
                         20 août 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 08 mai 2020 / 08 juillet 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 05 juin 2020 / 05 août 2020
                 81      Mer               18:00 - 21:30     C
-                        Jeu               18:00 - 21:00     TP
+
+
+
+
+                 Date : 2020-02-20 06:04:26               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 4/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                        7495 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                        HORAIRE ÉTÉ 2020
+                                                            Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                            Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                            Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                            Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR                HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
+                GÉNIE (HORS PROG.)
+                81      Jeu         18:00 - 21:00           TP
                         27 mai 2020
                         28 mai 2020
                         03 juin 2020
@@ -379,7 +392,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
                         13 août 2020
                         19 août 2020
                         20 août 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 08 mai 2020 / 08 juillet 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 05 juin 2020 / 05 août 2020
 
 
 
@@ -389,8 +402,15 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
                         Lun               13:30 - 16:30     TP
 
                 02      Ven               13:30 - 17:00     C
+                        Jeu               09:00 - 12:00     TP
 
-                 Date : 2020-02-17 18:04:47               L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/9
+                03      Ven               09:00 - 12:30     C
+                        Mar               13:30 - 16:30     TP
+
+
+
+
+                 Date : 2020-02-20 06:04:26               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7495 : Baccalauréat en génie des opérations et de la logistique
@@ -404,11 +424,6 @@ Bureau du registraire - logistique académique
 COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
 
 MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
-
-                02      Jeu           09:00 - 12:00     TP
-
-                03      Ven           09:00 - 12:30     C
-                        Mar           13:30 - 16:30     TP
 
                 04      Lun           09:00 - 12:30     C
                         Mer           13:30 - 16:30     TP
@@ -494,7 +509,7 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
 
 
 
-                 Date : 2020-02-17 18:04:47           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 5/9
+                 Date : 2020-02-20 06:04:26           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                         7495 : Baccalauréat en génie des opérations et de la logistique
@@ -509,23 +524,23 @@ COURS           GR      JOUR                HEURE           ACTIVITÉ       LOCA
 
 PEP110          ENCADREMENT DE LA PROFESSION ET
                 ÉTHIQUE PROFESSIONNELLE
-                01      Lun           09:00 - 12:30         Atelier
-                        27 avril 2020
+                01      Lun         09:00 - 12:30           Atelier
                         04 mai 2020
                         11 mai 2020
                         25 mai 2020
+                        01 juin 2020
 
                 02      Lun               09:00 - 12:30     Atelier
-                        01 juin 2020
                         08 juin 2020
                         15 juin 2020
                         22 juin 2020
+                        29 juin 2020
 
                 03      Lun               09:00 - 12:30     Atelier
-                        29 juin 2020
                         06 juillet 2020
                         13 juillet 2020
                         20 juillet 2020
+                        27 juillet 2020
 
                 04      Mer               09:00 - 12:30     Atelier
                         29 avril 2020
@@ -546,22 +561,22 @@ PEP110          ENCADREMENT DE LA PROFESSION ET
                         22 juillet 2020
 
                 07      Lun               18:00 - 21:30     Atelier
-                        27 avril 2020
                         04 mai 2020
                         11 mai 2020
                         25 mai 2020
+                        01 juin 2020
 
                 08      Lun               18:00 - 21:30     Atelier
-                        01 juin 2020
                         08 juin 2020
                         15 juin 2020
                         22 juin 2020
+                        29 juin 2020
 
                 09      Lun               18:00 - 21:30     Atelier
-                        29 juin 2020
                         06 juillet 2020
                         13 juillet 2020
                         20 juillet 2020
+                        27 juillet 2020
 
                 10      Jeu               18:00 - 21:30     Atelier
                         07 mai 2020
@@ -577,7 +592,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET
 
 
 
-                 Date : 2020-02-17 18:04:47               L’École se réserve un droit de modifier l’horaire sans préavis     Page : 6/9
+                 Date : 2020-02-20 06:04:26               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                         7495 : Baccalauréat en génie des opérations et de la logistique
@@ -619,7 +634,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
                         12 août 2020
                         17 août 2020
                         19 août 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 08 mai 2020 / 08 juillet 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 05 juin 2020 / 05 août 2020
                 81      Lun         18:00 - 21:30           C
                         Mar         18:00 - 21:00           TP
                         25 mai 2020
@@ -647,7 +662,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
                         11 août 2020
                         17 août 2020
                         18 août 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 08 mai 2020 / 08 juillet 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 05 juin 2020 / 05 août 2020
 
 
 
@@ -660,7 +675,7 @@ PHY335          PHYSIQUE DES ONDES                                              
                         Mer               13:30 - 16:30     TP
 
 
-                 Date : 2020-02-17 18:04:47               L’École se réserve un droit de modifier l’horaire sans préavis      Page : 7/9
+                 Date : 2020-02-20 06:04:26               L’École se réserve un droit de modifier l’horaire sans préavis     Page : 8/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      7495 : Baccalauréat en génie des opérations et de la logistique
@@ -753,7 +768,7 @@ TIN504          SANTÉ, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2020-02-17 18:04:47            L’École se réserve un droit de modifier l’horaire sans préavis          Page : 8/9
+                 Date : 2020-02-20 06:04:26            L’École se réserve un droit de modifier l’horaire sans préavis         Page : 9/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                            7495 : Baccalauréat en génie des opérations et de la logistique
@@ -809,5 +824,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2020-02-17 18:04:47            L’École se réserve un droit de modifier l’horaire sans préavis                         Page : 9/9
+                 Date : 2020-02-20 06:04:26            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 10/10
 

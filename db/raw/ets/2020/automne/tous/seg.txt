@@ -103,7 +103,7 @@ COM115          COMMUNICATION INTERCULTURELLE                                   
 
 
 
-                 Date : 2020-02-17 18:05:52           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/12
+                 Date : 2020-02-20 06:05:26           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -208,7 +208,7 @@ GIA410          GESTION ET ÉCONOMIE DES PROJETS
                         Ven           15:30 - 17:30     TP
 
 
-                 Date : 2020-02-17 18:05:52           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/12
+                 Date : 2020-02-20 06:05:26           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -312,7 +312,7 @@ INFTEST         ACCUEIL EN INFORMATIQUE
 ING150          STATIQUE ET DYNAMIQUE
 
                 01      Ven           09:00 - 12:30     C
-                 Date : 2020-02-17 18:05:52           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 3/12
+                 Date : 2020-02-20 06:05:26           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 3/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -417,7 +417,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
                 07      Mer           13:30 - 17:00     C
 
 
-                 Date : 2020-02-17 18:05:52           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 4/12
+                 Date : 2020-02-20 06:05:26           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 4/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -523,7 +523,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
 
 
 
-                 Date : 2020-02-17 18:05:52           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/12
+                 Date : 2020-02-20 06:05:26           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -628,7 +628,7 @@ MATEST          ACCUEIL EN MATHÉMATIQUES
 
                 05      Mer           09:00 - 12:30     C
 
-                 Date : 2020-02-17 18:05:52           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/12
+                 Date : 2020-02-20 06:05:26           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -707,7 +707,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET
 
 
 
-                 Date : 2020-02-17 18:05:52           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 7/12
+                 Date : 2020-02-20 06:05:26           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 7/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -796,7 +796,7 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
 
 
 
-                 Date : 2020-02-17 18:05:52           L’École se réserve un droit de modifier l’horaire sans préavis            Page : 8/12
+                 Date : 2020-02-20 06:05:27           L’École se réserve un droit de modifier l’horaire sans préavis            Page : 8/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -895,7 +895,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
                 04      Ven           18:00 - 21:30     Atelier
 
 
-                 Date : 2020-02-17 18:05:52           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 9/12
+                 Date : 2020-02-20 06:05:27           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 9/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -976,7 +976,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
 
 
 
-                 Date : 2020-02-17 18:05:52           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 10/12
+                 Date : 2020-02-20 06:05:27           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 10/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                          Service des enseignements généraux
@@ -1059,7 +1059,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
 
 
 
-                 Date : 2020-02-17 18:05:52           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 11/12
+                 Date : 2020-02-20 06:05:27           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 11/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                             Service des enseignements généraux
@@ -1115,5 +1115,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2020-02-17 18:05:52            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
+                 Date : 2020-02-20 06:05:27            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
 

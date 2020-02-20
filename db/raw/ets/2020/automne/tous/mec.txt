@@ -93,7 +93,7 @@ COM115          COMMUNICATION INTERCULTURELLE                                   
                                                                                                                              linguistique de l'ÉTS
                 01      Jeu            13:30 - 17:00     C
 
-                 Date : 2020-02-17 18:06:33            L’École se réserve un droit de modifier l’horaire sans préavis          Page : 1/13
+                 Date : 2020-02-20 06:06:04            L’École se réserve un droit de modifier l’horaire sans préavis          Page : 1/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -195,7 +195,7 @@ GPO661          GESTION ET ASSURANCE DE LA QUALITÉ
 
 
 
-                 Date : 2020-02-17 18:06:33           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/13
+                 Date : 2020-02-20 06:06:04           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                  7684 : Baccalauréat en génie mécanique
@@ -300,7 +300,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
                 06      Mar           13:30 - 17:00     C
 
 
-                 Date : 2020-02-17 18:06:33           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 3/13
+                 Date : 2020-02-20 06:06:04           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 3/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -406,7 +406,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
                 11      Jeu           18:00 - 21:30     C
 
 
-                 Date : 2020-02-17 18:06:33           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 4/13
+                 Date : 2020-02-20 06:06:04           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 4/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -511,7 +511,7 @@ MEC111          STATIQUE DE L'INGÉNIEUR
                 04      Mar           08:30 - 12:00     C
 
 
-                 Date : 2020-02-17 18:06:33           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/13
+                 Date : 2020-02-20 06:06:05           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                  7684 : Baccalauréat en génie mécanique
@@ -616,7 +616,7 @@ MEC329          RÉSISTANCE DES MATÉRIAUX                                      
 
 
 
-                 Date : 2020-02-17 18:06:33           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/13
+                 Date : 2020-02-20 06:06:05           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                  7684 : Baccalauréat en génie mécanique
@@ -720,7 +720,7 @@ MEC546          CIRCUITS ÉLECTRIQUES ET                                        
                         Mar           18:00 - 21:00     TP/Labo        A-2170, A-2504
 
 
-                 Date : 2020-02-17 18:06:33           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 7/13
+                 Date : 2020-02-20 06:06:05           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 7/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                  7684 : Baccalauréat en génie mécanique
@@ -824,7 +824,7 @@ MEC671          DESIGN CONCEPTUEL DES AÉRONEFS
 
 
 
-                 Date : 2020-02-17 18:06:33           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 8/13
+                 Date : 2020-02-20 06:06:05           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 8/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                  7684 : Baccalauréat en génie mécanique
@@ -927,7 +927,7 @@ MEC788          MÉCATRONIQUE                                                   
                         Ven           18:00 - 22:00     TP/Labo         A-1226, A-2170
 
 
-                 Date : 2020-02-17 18:06:33           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 9/13
+                 Date : 2020-02-20 06:06:05           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 9/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -1032,7 +1032,7 @@ PHYEST          ACCUEIL EN PHYSIQUE
                 03      Mar           09:00 - 12:30     C
 
 
-                 Date : 2020-02-17 18:06:33           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 10/13
+                 Date : 2020-02-20 06:06:05           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 10/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -1121,7 +1121,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
 
 
 
-                 Date : 2020-02-17 18:06:33           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 11/13
+                 Date : 2020-02-20 06:06:05           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 11/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7684 : Baccalauréat en génie mécanique
@@ -1203,7 +1203,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
 
 
 
-                 Date : 2020-02-17 18:06:33           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 12/13
+                 Date : 2020-02-20 06:06:05           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 12/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                       7684 : Baccalauréat en génie mécanique
@@ -1281,5 +1281,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2020-02-17 18:06:33            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
+                 Date : 2020-02-20 06:06:05            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
 

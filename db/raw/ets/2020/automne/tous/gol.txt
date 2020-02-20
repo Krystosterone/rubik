@@ -103,7 +103,7 @@ COM115          COMMUNICATION INTERCULTURELLE                                   
 
 
 
-                 Date : 2020-02-17 18:06:18           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/12
+                 Date : 2020-02-20 06:05:50           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7495 : Baccalauréat en génie des opérations et de la logistique
@@ -206,7 +206,7 @@ GOL110          COMPORTEMENT ORGANISATIONNEL ET
 
 
 
-                 Date : 2020-02-17 18:06:18           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/12
+                 Date : 2020-02-20 06:05:50           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7495 : Baccalauréat en génie des opérations et de la logistique
@@ -230,7 +230,7 @@ GOL302          AMÉNAG., MANUT. ET CIRCUL. DES BIENS &                         
                 DES PERSONNES                                                                                          Pr. G: GOL203
                                                                                                                        Pr. I, R: GOL102 et GOL203
                 01      Lun           18:00 - 21:30     C
-                        Mer           18:00 - 21:00     TP             A-3602
+                        Mer           18:00 - 21:00     TP             A-3240
 
 
 
@@ -251,7 +251,7 @@ GOL450          MAÎTRISE STATISTIQUE DES PROCÉDÉS                            
 GOL455          GESTION DES OPÉRATIONS, DES FLUX ET                                                                    GOL405 et MAT350
                 DES STOCKS
                 01      Mar           08:30 - 12:00     C
-                        Ven           13:30 - 16:30     TP             A-3602, A-3612
+                        Ven           13:30 - 16:30     TP             A-3240, A-3612
 
 
 
@@ -266,7 +266,7 @@ GOL465          SIMULATION DES OPÉRATIONS ET DES                               
 GOL499          SYSTÈMES INFORMATIONNELS
 
                 01      Jeu           08:30 - 12:00     C              A-4516
-                        Ven           08:30 - 10:30     Labo           A-3602
+                        Ven           08:30 - 10:30     Labo           A-3240
 
 
 
@@ -309,7 +309,7 @@ GOL670          MAINTENANCE ET FIABILITÉ                                       
                         Lun           10:30 - 12:30     TP B           A-3728
 
 
-                 Date : 2020-02-17 18:06:18           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/12
+                 Date : 2020-02-20 06:05:50           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7495 : Baccalauréat en génie des opérations et de la logistique
@@ -413,7 +413,7 @@ ING500          OUTILS DE DÉVELOPPEMENT DURABLE
                         Jeu           18:00 - 22:00     TP A+B         E-4022
 
 
-                 Date : 2020-02-17 18:06:18           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/12
+                 Date : 2020-02-20 06:05:50           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7495 : Baccalauréat en génie des opérations et de la logistique
@@ -519,7 +519,7 @@ MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                   
 
                 06      Jeu           18:00 - 21:30     C
 
-                 Date : 2020-02-17 18:06:18           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/12
+                 Date : 2020-02-20 06:05:50           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7495 : Baccalauréat en génie des opérations et de la logistique
@@ -625,7 +625,7 @@ MATEST          ACCUEIL EN MATHÉMATIQUES
 
 
 
-                 Date : 2020-02-17 18:06:18           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/12
+                 Date : 2020-02-20 06:05:50           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7495 : Baccalauréat en génie des opérations et de la logistique
@@ -710,7 +710,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET
 
 
 
-                 Date : 2020-02-17 18:06:18           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 7/12
+                 Date : 2020-02-20 06:05:51           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 7/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7495 : Baccalauréat en génie des opérations et de la logistique
@@ -799,7 +799,7 @@ PHY335          PHYSIQUE DES ONDES                                              
 
 
 
-                 Date : 2020-02-17 18:06:18           L’École se réserve un droit de modifier l’horaire sans préavis            Page : 8/12
+                 Date : 2020-02-20 06:05:51           L’École se réserve un droit de modifier l’horaire sans préavis            Page : 8/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7495 : Baccalauréat en génie des opérations et de la logistique
@@ -890,7 +890,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
 
 
 
-                 Date : 2020-02-17 18:06:18           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 9/12
+                 Date : 2020-02-20 06:05:51           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 9/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     7495 : Baccalauréat en génie des opérations et de la logistique
@@ -971,7 +971,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
 
 
 
-                 Date : 2020-02-17 18:06:18           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 10/12
+                 Date : 2020-02-20 06:05:51           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 10/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      7495 : Baccalauréat en génie des opérations et de la logistique
@@ -1039,7 +1039,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
 
 
 
-                 Date : 2020-02-17 18:06:18           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 11/12
+                 Date : 2020-02-20 06:05:51           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 11/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                            7495 : Baccalauréat en génie des opérations et de la logistique
@@ -1095,5 +1095,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2020-02-17 18:06:18            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
+                 Date : 2020-02-20 06:05:51            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
 

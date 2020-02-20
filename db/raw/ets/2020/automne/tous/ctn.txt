@@ -103,7 +103,7 @@ COM115          COMMUNICATION INTERCULTURELLE                                   
 
 
 
-                 Date : 2020-02-17 18:06:28           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/14
+                 Date : 2020-02-20 06:06:00           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7622 : Baccalauréat en génie de la construction
@@ -133,9 +133,6 @@ CTN100          ÉLÉMENTS DE GESTION DE PROJETS DE
                 05      Mer           18:00 - 21:30     C
                         Lun           18:00 - 22:00     TP-Labo/2
 
-                06      Mer           08:30 - 12:00     C
-                        Lun           08:30 - 12:30     TP-Labo/2
-
 
 
 CTN113          ÉLÉMENTS DE CONSTRUCTION DE
@@ -148,12 +145,6 @@ CTN113          ÉLÉMENTS DE CONSTRUCTION DE
 
                 03      Lun           08:30 - 12:00     C
                         Lun           13:30 - 17:30     TP-Labo/2
-
-                05      Mer           18:00 - 21:30     C
-                        Lun           18:00 - 22:00     TP-Labo/2
-
-                06      Jeu           08:30 - 12:00     C
-                        Jeu           13:30 - 17:30     TP-Labo/2
 
 
 
@@ -208,8 +199,17 @@ CTN248          STATIQUE ET DYNAMIQUE                                           
 
 
 
+CTN318          RÉSISTANCE DES MATÉRIAUX                                                                               CTN248
 
-                 Date : 2020-02-17 18:06:28           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/14
+                01      Mar           13:30 - 17:00     C
+                        Mer           13:30 - 15:30     TP/Labo        A-0476, A-1430
+
+                02      Lun           18:00 - 21:30     C
+                        Jeu           18:00 - 20:00     TP/Labo        A-0476, A-1430
+
+
+
+                 Date : 2020-02-20 06:06:00           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7622 : Baccalauréat en génie de la construction
@@ -221,16 +221,6 @@ Bureau du registraire - logistique académique
                                                         Locaux D: bâtiment sud-ouest, 1219, rue William
                                                         Locaux E: bâtiment ouest, 1220, Notre-Dame O.
 COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
-
-CTN318          RÉSISTANCE DES MATÉRIAUX                                                                               CTN248
-
-                01      Mar           13:30 - 17:00     C
-                        Mer           13:30 - 15:30     TP/Labo        A-0476, A-1430
-
-                02      Lun           18:00 - 21:30     C
-                        Jeu           18:00 - 20:00     TP/Labo        A-0476, A-1430
-
-
 
 CTN320          PLANIFICATION ET CONTRÔLE DES                                                                          CTN210, INF130
                 PROJETS DE CONSTRUCTION
@@ -313,7 +303,18 @@ CTN504          MÉCANIQUE DES SOLS                                             
 CTN508          STRUCTURES DE BÉTON                                                                                    CTN404 et CTN408
 
                 01      Sam           09:00 - 12:30     C
-                 Date : 2020-02-17 18:06:28           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/14
+                        Sam           13:30 - 16:30     TP/Labo
+
+                02      Mar           13:30 - 17:00     C
+                        Lun           08:30 - 11:30     TP/Labo
+
+                03      Mar           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP/Labo
+
+
+
+
+                 Date : 2020-02-20 06:06:00           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7622 : Baccalauréat en génie de la construction
@@ -325,18 +326,6 @@ Bureau du registraire - logistique académique
                                                         Locaux D: bâtiment sud-ouest, 1219, rue William
                                                         Locaux E: bâtiment ouest, 1220, Notre-Dame O.
 COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
-
-CTN508          STRUCTURES DE BÉTON                                                                                    CTN404 et CTN408
-
-                01      Sam           13:30 - 16:30     TP/Labo
-
-                02      Mar           13:30 - 17:00     C
-                        Lun           08:30 - 11:30     TP/Labo
-
-                03      Mar           18:00 - 21:30     C
-                        Mer           18:00 - 21:00     TP/Labo
-
-
 
 CTN603          THERMIQUE ET SCIENCE DU BÂTIMENT                                                                       CTN336, MAT265
 
@@ -412,20 +401,6 @@ CTN731          ENVELOPPE DU BÂTIMENT                                          
 
 
 
-
-                 Date : 2020-02-17 18:06:28           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/14
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                             7622 : Baccalauréat en génie de la construction
-
-
-                                                                HORAIRE AUTOMNE 2020
-                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
-
 CTN732          SYSTÈMES MÉCANIQUES DU BÂTIMENT                                                                        CTN603
 
                 01      Mar           08:30 - 12:00     C
@@ -439,6 +414,20 @@ CTN733          SYSTÈMES ÉLECTRIQUES DU BÂTIMENT                             
                         Jeu           18:00 - 22:00     TP-Labo/2      A-1432
 
 
+
+
+                 Date : 2020-02-20 06:06:00           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/14
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                                HORAIRE AUTOMNE 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
 
 CTN735          ENVIRONNEMENT ET BÂTIMENTS                                                                             CTN603
                 DURABLES
@@ -513,20 +502,6 @@ CTN771          CONSTRUCTION ET DIMENSIONNEMENT                                 
 
 
 
-
-                 Date : 2020-02-17 18:06:28           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/14
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                             7622 : Baccalauréat en génie de la construction
-
-
-                                                              HORAIRE AUTOMNE 2020
-                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
-
 CTN772          ENTRETIEN, RÉHABILITATION ET GESTION                                                                   CTN647
                 DES ROUTES
                 01      Jeu           18:00 - 21:30     C
@@ -543,6 +518,19 @@ CTN774          AMÉNAGEMENTS ROUTIERS                                          
                         Jeu           13:30 - 17:30     TP/Labo
 
 
+
+                 Date : 2020-02-20 06:06:00           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/14
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                               HORAIRE AUTOMNE 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
 
 CTN781          STRUCTURES EN BOIS ET FAUSSES                                                                          CTN408
                 CHARPENTES
@@ -618,20 +606,6 @@ GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
 
 
 
-
-                 Date : 2020-02-17 18:06:28           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 6/14
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                             7622 : Baccalauréat en génie de la construction
-
-
-                                                               HORAIRE AUTOMNE 2020
-                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
-
 GIA500          INITIATION AUX PROJETS INTERNATIONAUX
                 D'INGÉNIERIE
                 01      Jeu           18:00 - 21:30     C
@@ -648,7 +622,23 @@ INF130          ORDINATEURS ET PROGRAMMATION
                         Mar           09:00 - 12:00     Labo           E-4023
 
                 03      Ven           09:00 - 12:30     C              E-4022
-                        Jeu           09:00 - 12:00     Labo           E-4022
+
+                 Date : 2020-02-20 06:06:00           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 6/14
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                               HORAIRE AUTOMNE 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+INF130          ORDINATEURS ET PROGRAMMATION
+
+                03      Jeu           09:00 - 12:00     Labo           E-4022
 
                 04      Mer           13:30 - 17:00     C              E-4022
                         Lun           13:30 - 16:30     Labo           E-4021
@@ -724,21 +714,6 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
                 13      Lun           18:00 - 21:30     C
                         Mer           18:00 - 21:00     TP
 
-                 Date : 2020-02-17 18:06:28           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/14
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                             7622 : Baccalauréat en génie de la construction
-
-
-                                                              HORAIRE AUTOMNE 2020
-                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
-
-MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
-
                 14      Mer           18:00 - 21:30     C
                         Lun           18:00 - 21:00     TP
 
@@ -752,6 +727,23 @@ MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                   
                 01      Ven           09:00 - 12:30     C
                         Mer           13:30 - 16:30     TP
 
+
+
+                 Date : 2020-02-20 06:06:00           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/14
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                              HORAIRE AUTOMNE 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE                                                                            MAT145
+                VECTORIELLE
                 02      Jeu           13:30 - 17:00     C
                         Mer           09:00 - 12:00     TP
 
@@ -829,7 +821,21 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
                 05      Ven           13:30 - 17:00     C
                         Mer           13:30 - 16:30     TP
 
-                 Date : 2020-02-17 18:06:28           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 8/14
+                06      Mar           09:00 - 12:30     C
+                        Ven           09:00 - 12:00     TP
+
+                07      Mar           13:30 - 17:00     C
+                        Jeu           09:00 - 12:00     TP
+
+                08      Lun           18:00 - 21:30     C
+                        Mer           18:00 - 21:00     TP
+
+                09      Mar           18:00 - 21:30     C
+                        Jeu           18:00 - 21:00     TP
+
+                10      Jeu           18:00 - 21:30     C
+
+                 Date : 2020-02-20 06:06:00           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 8/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7622 : Baccalauréat en génie de la construction
@@ -844,20 +850,7 @@ COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL   
 
 MAT350          PROBABILITÉS ET STATISTIQUES                                                                                  MAT145
 
-                06      Mar           09:00 - 12:30     C
-                        Ven           09:00 - 12:00     TP
-
-                07      Mar           13:30 - 17:00     C
-                        Jeu           09:00 - 12:00     TP
-
-                08      Lun           18:00 - 21:30     C
-                        Mer           18:00 - 21:00     TP
-
-                09      Mar           18:00 - 21:30     C
-                        Jeu           18:00 - 21:00     TP
-
-                10      Jeu           18:00 - 21:30     C
-                        Mar           18:00 - 21:00     TP
+                10      Mar           18:00 - 21:00     TP
 
 
 
@@ -888,13 +881,13 @@ MATEST          ACCUEIL EN MATHÉMATIQUES
 
 PEP110          ENCADREMENT DE LA PROFESSION ET
                 ÉTHIQUE PROFESSIONNELLE
-                01      Mer         09:00 - 12:30       Atelier
+                01      Mer           09:00 - 12:30     Atelier
                         09 septembre 2020
                         16 septembre 2020
                         23 septembre 2020
                         30 septembre 2020
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 15 septembre 2020 / 22 septembre 2020
-                02      Mer          09:00 - 12:30      Atelier
+                02      Mer           09:00 - 12:30     Atelier
                         07 octobre 2020
                         14 octobre 2020
                         21 octobre 2020
@@ -918,11 +911,17 @@ PEP110          ENCADREMENT DE LA PROFESSION ET
                         27 octobre 2020
                         03 novembre 2020
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 octobre 2020 / 02 novembre 2020
+                06      Mar           13:30 - 17:00     Atelier
+                        10 novembre 2020
+                        17 novembre 2020
+                        24 novembre 2020
+                        01 décembre 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 novembre 2020 / 30 novembre 2020
 
 
 
 
-                 Date : 2020-02-17 18:06:28           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 9/14
+                 Date : 2020-02-20 06:06:00           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 9/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7622 : Baccalauréat en génie de la construction
@@ -937,12 +936,6 @@ COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL   
 
 PEP110          ENCADREMENT DE LA PROFESSION ET
                 ÉTHIQUE PROFESSIONNELLE
-                06      Mar         13:30 - 17:00       Atelier
-                        10 novembre 2020
-                        17 novembre 2020
-                        24 novembre 2020
-                        01 décembre 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 novembre 2020 / 30 novembre 2020
                 07      Jeu         18:00 - 21:30       Atelier
                         17 septembre 2020
                         24 septembre 2020
@@ -999,24 +992,6 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
                 03      Mar           09:00 - 12:30     C
                         Lun           13:30 - 16:30     TP
 
-
-
-
-                 Date : 2020-02-17 18:06:28           L’École se réserve un droit de modifier l’horaire sans préavis          Page : 10/14
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                             7622 : Baccalauréat en génie de la construction
-
-
-                                                              HORAIRE AUTOMNE 2020
-                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
-
-PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
-                (HORS PROGRAMME)
                 04      Lun           18:00 - 21:30     C
                         Mer           18:00 - 21:00     TP
 
@@ -1025,7 +1000,21 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
 
 
 
-PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                              CTN258 / ING150
+
+                 Date : 2020-02-20 06:06:00           L’École se réserve un droit de modifier l’horaire sans préavis          Page : 10/14
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7622 : Baccalauréat en génie de la construction
+
+
+                                                                  HORAIRE AUTOMNE 2020
+                                                        Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                        Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                        Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                        Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                       PRÉALABLES
+
+PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                    CTN258 / ING150
 
                 01      Mer           09:00 - 12:30     C
                         Lun           09:00 - 12:00     TP
@@ -1050,7 +1039,7 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
 
 
 
-PHY335          PHYSIQUE DES ONDES                                                                                     CTN258 / ING150
+PHY335          PHYSIQUE DES ONDES                                                                                           CTN258 / ING150
 
                 01      Mar           13:30 - 17:00     C
                         Ven           09:00 - 12:00     TP
@@ -1100,8 +1089,23 @@ PHYEST          ACCUEIL EN PHYSIQUE
 
 
 
+PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
+                INITIATION À LA SANTÉ ET SÉCURITÉ
+                Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 9 h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+                ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les
+                étudiants du programme 7622 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-
+                sécurité en suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+                (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+                l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
+                groupe réservé.
+                01      Ven           18:00 - 21:30     Atelier
+                        Sam           09:00 - 17:00     TP
+                        18 septembre 2020
+                        19 septembre 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
 
-                 Date : 2020-02-17 18:06:28           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 11/14
+
+                 Date : 2020-02-20 06:06:00           L’École se réserve un droit de modifier l’horaire sans préavis          Page : 11/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7622 : Baccalauréat en génie de la construction
@@ -1123,11 +1127,6 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
                 (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
                 l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
                 groupe réservé.
-                01      Ven           18:00 - 21:30     Atelier
-                        Sam           09:00 - 17:00     TP
-                        18 septembre 2020
-                        19 septembre 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
                 02      Ven           18:00 - 21:30     Atelier
                         Sam           09:00 - 17:00     TP
                         18 septembre 2020
@@ -1183,9 +1182,14 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
                         23 octobre 2020
                         24 octobre 2020
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
+                13      Ven           09:00 - 12:30     Atelier
+                        Sam           09:00 - 17:00     TP
+                        30 octobre 2020
+                        31 octobre 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
 
 
-                 Date : 2020-02-17 18:06:28           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 12/14
+                 Date : 2020-02-20 06:06:00           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 12/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                7622 : Baccalauréat en génie de la construction
@@ -1207,11 +1211,6 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
                 (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
                 l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le
                 groupe réservé.
-                13      Ven           09:00 - 12:30     Atelier
-                        Sam           09:00 - 17:00     TP
-                        30 octobre 2020
-                        31 octobre 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2020 / 08 novembre 2020
                 14      Ven           09:00 - 12:30     Atelier
                         Sam           09:00 - 17:00     TP
                         30 octobre 2020
@@ -1274,8 +1273,12 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
                 07      Mar           13:30 - 17:30     C
                         Jeu           13:30 - 17:30     TP A+B
 
+                08      Sam           09:00 - 12:30     C
 
-                 Date : 2020-02-17 18:06:28           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 13/14
+
+
+
+                 Date : 2020-02-20 06:06:00           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 13/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7622 : Baccalauréat en génie de la construction
@@ -1290,8 +1293,7 @@ COURS           GR      JOUR             HEURE            ACTIVITÉ            L
 
 TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
                 SOCIÉTÉ
-                08      Sam           09:00 - 12:30       C
-                        Sam           13:30 - 17:30       TP A+B
+                08      Sam           13:30 - 17:30       TP A+B
 
 
 NOTES
@@ -1332,5 +1334,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2020-02-17 18:06:28            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 14/14
+                 Date : 2020-02-20 06:06:00            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 14/14
 

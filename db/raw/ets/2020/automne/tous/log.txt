@@ -103,7 +103,7 @@ COM115          COMMUNICATION INTERCULTURELLE                                   
 
 
 
-                 Date : 2020-02-17 18:06:09           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/14
+                 Date : 2020-02-20 06:05:42           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7365 : Baccalauréat en génie logiciel
@@ -186,7 +186,7 @@ GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU
 GPA659          VISION ARTIFICIELLE
 
                 01      Mer           13:30 - 17:00     C
-                        Lun           08:30 - 11:30     Labo           A-3602
+                        Lun           08:30 - 11:30     Labo           A-3240
 
 
 
@@ -208,7 +208,7 @@ GTI320          PROGRAMMATION MATHÉMATIQUE :                                   
 
 
 
-                 Date : 2020-02-17 18:06:09           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/14
+                 Date : 2020-02-20 06:05:42           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7365 : Baccalauréat en génie logiciel
@@ -236,7 +236,8 @@ GTI350          CONCEPTION ET ÉVALUATION DES                                   
 GTI611          RÉSEAUX DE COMMUNICATION IP                                                                            LOG100 ou GTI100 et LOG121 / LOG121
 
                 01      Jeu           13:30 - 17:00     C
-                        Mer           08:30 - 11:30     Labo           A-3322
+                        Jeu           08:30 - 11:30     Labo A         A-3324
+                        Mer           08:30 - 11:30     Labo B
 
                 02      Mer           08:30 - 12:00     C
                         Jeu           13:30 - 16:30     Labo           A-3324
@@ -308,11 +309,8 @@ INFTEST         ACCUEIL EN INFORMATIQUE
 
 
 
-ING150          STATIQUE ET DYNAMIQUE
 
-                01      Ven           09:00 - 12:30     C
-
-                 Date : 2020-02-17 18:06:09           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/14
+                 Date : 2020-02-20 06:05:42           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7365 : Baccalauréat en génie logiciel
@@ -327,7 +325,8 @@ COURS           GR      JOUR            HEURE           ACTIVITÉ       LOCAL   
 
 ING150          STATIQUE ET DYNAMIQUE
 
-                01      Lun           09:00 - 12:00     TP
+                01      Ven           09:00 - 12:30     C
+                        Lun           09:00 - 12:00     TP
 
                 02      Jeu           13:30 - 17:00     C
                         Mer           09:00 - 12:00     TP
@@ -416,8 +415,7 @@ LOG210          ANALYSE ET CONCEPTION DE LOGICIELS                              
                         Ven           08:30 - 11:30     Labo           A-3324
 
 
-
-                 Date : 2020-02-17 18:06:09           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/14
+                 Date : 2020-02-20 06:05:42           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7365 : Baccalauréat en génie logiciel
@@ -521,7 +519,7 @@ LOG660          BASES DE DONNÉES DE HAUTE                                      
 
 
 
-                 Date : 2020-02-17 18:06:09           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/14
+                 Date : 2020-02-20 06:05:42           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7365 : Baccalauréat en génie logiciel
@@ -625,7 +623,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
                 08      Ven           13:30 - 17:00     C
 
-                 Date : 2020-02-17 18:06:09           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 6/14
+                 Date : 2020-02-20 06:05:42           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 6/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7365 : Baccalauréat en génie logiciel
@@ -731,7 +729,7 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
 
 
 
-                 Date : 2020-02-17 18:06:09           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/14
+                 Date : 2020-02-20 06:05:42           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7365 : Baccalauréat en génie logiciel
@@ -828,7 +826,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET
 
 
 
-                 Date : 2020-02-17 18:06:09           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 8/14
+                 Date : 2020-02-20 06:05:42           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 8/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7365 : Baccalauréat en génie logiciel
@@ -901,7 +899,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET
 
 
 
-                 Date : 2020-02-17 18:06:09          L’École se réserve un droit de modifier l’horaire sans préavis            Page : 9/14
+                 Date : 2020-02-20 06:05:42          L’École se réserve un droit de modifier l’horaire sans préavis            Page : 9/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7365 : Baccalauréat en génie logiciel
@@ -997,7 +995,7 @@ PHY335          PHYSIQUE DES ONDES                                              
 
 
 
-                 Date : 2020-02-17 18:06:09           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 10/14
+                 Date : 2020-02-20 06:05:42           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 10/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7365 : Baccalauréat en génie logiciel
@@ -1088,7 +1086,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
 
 
 
-                 Date : 2020-02-17 18:06:09           L’École se réserve un droit de modifier l’horaire sans préavis          Page : 11/14
+                 Date : 2020-02-20 06:05:42           L’École se réserve un droit de modifier l’horaire sans préavis          Page : 11/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7365 : Baccalauréat en génie logiciel
@@ -1169,7 +1167,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
 
 
 
-                 Date : 2020-02-17 18:06:09           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 12/14
+                 Date : 2020-02-20 06:05:43           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 12/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        7365 : Baccalauréat en génie logiciel
@@ -1237,7 +1235,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
 
 
 
-                 Date : 2020-02-17 18:06:09           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 13/14
+                 Date : 2020-02-20 06:05:43           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 13/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                           7365 : Baccalauréat en génie logiciel
@@ -1293,5 +1291,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2020-02-17 18:06:09            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 14/14
+                 Date : 2020-02-20 06:05:43            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 14/14
 

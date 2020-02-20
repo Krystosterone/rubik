@@ -71,13 +71,6 @@ ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                
 
 
 
-ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
-
-                01      Mar           13:30 - 17:00     C
-                        Jeu           18:00 - 20:00     TP
-
-
-
 ENT302          PROJETS SPÉCIAUX EN ENTREPRENEURIAT
                 II
                 01                                      Projets
@@ -99,9 +92,16 @@ ENT304          PROJETS SPÉCIAUX EN ENTREPRENEURIAT
 GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
 
                 01      Lun           09:00 - 12:30     C
+                        Mer           10:30 - 12:30     TP
 
+                02      Mer           13:30 - 17:00     C
+                        Ven           08:30 - 10:30     TP
 
-                 Date : 2020-02-17 18:04:21           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/11
+                03      Mar           09:00 - 12:30     C
+                        Jeu           10:30 - 12:30     TP
+
+                04      Lun           13:30 - 17:00     C
+                 Date : 2020-02-20 06:04:00           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                            Service des enseignements généraux
@@ -116,16 +116,7 @@ COURS           GR      JOUR                HEURE           ACTIVITÉ       LOCA
 
 GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
 
-                01      Mer               10:30 - 12:30     TP
-
-                02      Mer               13:30 - 17:00     C
-                        Ven               08:30 - 10:30     TP
-
-                03      Mar               09:00 - 12:30     C
-                        Jeu               10:30 - 12:30     TP
-
-                04      Lun               13:30 - 17:00     C
-                        Jeu               08:30 - 10:30     TP
+                04      Jeu               08:30 - 10:30     TP
 
                 05      Mar               18:00 - 21:30     C
                         Jeu               18:00 - 20:00     TP
@@ -174,11 +165,54 @@ INF111          PROGRAMMATION ORIENTÉE-OBJET (HORS
                         11 août 2020
                         17 août 2020
                         18 août 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 08 mai 2020 / 08 juillet 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 05 juin 2020 / 05 août 2020
                 81      Mar               18:00 - 21:30     C
-                        Lun               18:00 - 21:00     Labo           E-4023
-                        27 avril 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 08 mai 2020 / 08 juillet 2020
+
+
+
+
+                 Date : 2020-02-20 06:04:00               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 2/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                           Service des enseignements généraux
+
+
+                                                                        HORAIRE ÉTÉ 2020
+                                                            Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                            Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                            Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                            Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+COURS           GR      JOUR                HEURE           ACTIVITÉ       LOCAL                ENSEIGNANT                 PRÉALABLES
+
+INF111          PROGRAMMATION ORIENTÉE-OBJET (HORS
+                PROGRAMME)
+                81      Lun         18:00 - 21:00           Labo           E-4023
+                        25 mai 2020
+                        26 mai 2020
+                        01 juin 2020
+                        02 juin 2020
+                        08 juin 2020
+                        09 juin 2020
+                        15 juin 2020
+                        16 juin 2020
+                        22 juin 2020
+                        29 juin 2020
+                        30 juin 2020
+                        06 juillet 2020
+                        07 juillet 2020
+                        13 juillet 2020
+                        14 juillet 2020
+                        20 juillet 2020
+                        21 juillet 2020
+                        27 juillet 2020
+                        28 juillet 2020
+                        03 août 2020
+                        04 août 2020
+                        10 août 2020
+                        11 août 2020
+                        17 août 2020
+                        18 août 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 05 juin 2020 / 05 août 2020
 
 
 
@@ -194,7 +228,8 @@ INF130          ORDINATEURS ET PROGRAMMATION
 
 
 
-                 Date : 2020-02-17 18:04:21               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 2/11
+
+                 Date : 2020-02-20 06:04:00               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 3/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -289,7 +324,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
 
 
 
-                 Date : 2020-02-17 18:04:21           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 3/11
+                 Date : 2020-02-20 06:04:00           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 4/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                            Service des enseignements généraux
@@ -331,13 +366,13 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
                         13 août 2020
                         17 août 2020
                         20 août 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 08 mai 2020 / 08 juillet 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 05 juin 2020 / 05 août 2020
                 81      Mer               18:00 - 21:30     C
 
 
 
 
-                 Date : 2020-02-17 18:04:21               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 4/11
+                 Date : 2020-02-20 06:04:00               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                            Service des enseignements généraux
@@ -378,7 +413,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
                         13 août 2020
                         19 août 2020
                         20 août 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 08 mai 2020 / 08 juillet 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 05 juin 2020 / 05 août 2020
 
 
 
@@ -396,7 +431,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
 
 
-                 Date : 2020-02-17 18:04:21               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/11
+                 Date : 2020-02-20 06:04:00               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -501,7 +536,7 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
 
                 07      Mer           18:00 - 21:30     C
 
-                 Date : 2020-02-17 18:04:21           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/11
+                 Date : 2020-02-20 06:04:00           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                            Service des enseignements généraux
@@ -533,22 +568,22 @@ MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE                            
 PEP110          ENCADREMENT DE LA PROFESSION ET
                 ÉTHIQUE PROFESSIONNELLE
                 01      Lun               09:00 - 12:30     Atelier
-                        27 avril 2020
                         04 mai 2020
                         11 mai 2020
                         25 mai 2020
+                        01 juin 2020
 
                 02      Lun               09:00 - 12:30     Atelier
-                        01 juin 2020
                         08 juin 2020
                         15 juin 2020
                         22 juin 2020
+                        29 juin 2020
 
                 03      Lun               09:00 - 12:30     Atelier
-                        29 juin 2020
                         06 juillet 2020
                         13 juillet 2020
                         20 juillet 2020
+                        27 juillet 2020
 
                 04      Mer               09:00 - 12:30     Atelier
                         29 avril 2020
@@ -568,28 +603,28 @@ PEP110          ENCADREMENT DE LA PROFESSION ET
                         15 juillet 2020
                         22 juillet 2020
 
-                07      Lun           18:00 - 21:30         Atelier
-                        27 avril 2020
+                07      Lun         18:00 - 21:30           Atelier
                         04 mai 2020
                         11 mai 2020
                         25 mai 2020
+                        01 juin 2020
 
                 08      Lun               18:00 - 21:30     Atelier
-                        01 juin 2020
                         08 juin 2020
                         15 juin 2020
                         22 juin 2020
+                        29 juin 2020
 
                 09      Lun               18:00 - 21:30     Atelier
-                        29 juin 2020
                         06 juillet 2020
                         13 juillet 2020
                         20 juillet 2020
+                        27 juillet 2020
 
 
 
 
-                 Date : 2020-02-17 18:04:21               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/11
+                 Date : 2020-02-20 06:04:00               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 8/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                            Service des enseignements généraux
@@ -646,13 +681,13 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
                         12 août 2020
                         17 août 2020
                         19 août 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 08 mai 2020 / 08 juillet 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 05 juin 2020 / 05 août 2020
                 81      Lun               18:00 - 21:30     C
 
 
 
 
-                 Date : 2020-02-17 18:04:21               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 8/11
+                 Date : 2020-02-20 06:04:00               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 9/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                            Service des enseignements généraux
@@ -693,7 +728,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE
                         11 août 2020
                         17 août 2020
                         18 août 2020
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 08 mai 2020 / 08 juillet 2020
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 05 juin 2020 / 05 août 2020
 
 
 
@@ -711,7 +746,7 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
 
 
 
-                 Date : 2020-02-17 18:04:21               L’École se réserve un droit de modifier l’horaire sans préavis     Page : 9/11
+                 Date : 2020-02-20 06:04:00               L’École se réserve un droit de modifier l’horaire sans préavis    Page : 10/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                          Service des enseignements généraux
@@ -809,7 +844,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET
 
                 03      Mer            13:30 - 17:00     C
 
-                 Date : 2020-02-17 18:04:21            L’École se réserve un droit de modifier l’horaire sans préavis        Page : 10/11
+                 Date : 2020-02-20 06:04:00            L’École se réserve un droit de modifier l’horaire sans préavis        Page : 11/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                             Service des enseignements généraux
@@ -884,5 +919,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2020-02-17 18:04:21            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 11/11
+                 Date : 2020-02-20 06:04:00            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
 

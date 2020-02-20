@@ -103,7 +103,7 @@ COM115          COMMUNICATION INTERCULTURELLE                                   
 
 
 
-                 Date : 2020-02-17 18:06:37           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/13
+                 Date : 2020-02-20 06:06:09           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -205,7 +205,7 @@ ELE312          ÉLECTROMAGNÉTISME                                             
 
 
 
-                 Date : 2020-02-17 18:06:37           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/13
+                 Date : 2020-02-20 06:06:09           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 2/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -307,7 +307,7 @@ ELE641          SYSTÈMES EMBARQUÉS ET NORMES EN                               
 
 
 
-                 Date : 2020-02-17 18:06:37           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/13
+                 Date : 2020-02-20 06:06:09           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -409,7 +409,7 @@ ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                
 
 
 
-                 Date : 2020-02-17 18:06:37           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/13
+                 Date : 2020-02-20 06:06:09           L’École se réserve un droit de modifier l’horaire sans préavis     Page : 4/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -514,7 +514,7 @@ GTS502          RISQUES SECTEUR SANTÉ: SOURCES ET
 
 
 
-                 Date : 2020-02-17 18:06:37           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/13
+                 Date : 2020-02-20 06:06:09           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 5/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -619,7 +619,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU
                 07      Lun           18:00 - 21:30     C
 
 
-                 Date : 2020-02-17 18:06:37           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/13
+                 Date : 2020-02-20 06:06:09           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 6/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -725,7 +725,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
 
 
 
-                 Date : 2020-02-17 18:06:37           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/13
+                 Date : 2020-02-20 06:06:09           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 7/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -831,7 +831,7 @@ MATEST          ACCUEIL EN MATHÉMATIQUES
 
 
 
-                 Date : 2020-02-17 18:06:37           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 8/13
+                 Date : 2020-02-20 06:06:09           L’École se réserve un droit de modifier l’horaire sans préavis    Page : 8/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                    7694 : Baccalauréat en génie électrique
@@ -904,7 +904,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET
 
 
 
-                 Date : 2020-02-17 18:06:37          L’École se réserve un droit de modifier l’horaire sans préavis            Page : 9/13
+                 Date : 2020-02-20 06:06:09          L’École se réserve un droit de modifier l’horaire sans préavis            Page : 9/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                    7694 : Baccalauréat en génie électrique
@@ -991,7 +991,7 @@ PHY335          PHYSIQUE DES ONDES                                              
 
 
 
-                 Date : 2020-02-17 18:06:38           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 10/13
+                 Date : 2020-02-20 06:06:09           L’École se réserve un droit de modifier l’horaire sans préavis           Page : 10/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -1082,7 +1082,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
 
 
 
-                 Date : 2020-02-17 18:06:38           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 11/13
+                 Date : 2020-02-20 06:06:09           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 11/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -1163,7 +1163,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET
 
 
 
-                 Date : 2020-02-17 18:06:38           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 12/13
+                 Date : 2020-02-20 06:06:09           L’École se réserve un droit de modifier l’horaire sans préavis         Page : 12/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        7694 : Baccalauréat en génie électrique
@@ -1258,5 +1258,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2020-02-17 18:06:38            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
+                 Date : 2020-02-20 06:06:09            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
 
