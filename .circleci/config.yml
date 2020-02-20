@@ -18,7 +18,6 @@ jobs:
       CIRCLE_ARTIFACTS: /tmp/circleci-artifacts
       CIRCLE_TEST_REPORTS: /tmp/circleci-test-results
       CODECOV_TOKEN: 7fb93589-618d-41f0-a5b6-e5fdb4c78e55
-      PATH: ${PATH}:${HOME}/${CIRCLE_PROJECT_REPONAME}/node_modules/.bin
       RACK_ENV: test
       RAILS_ENV: test
     # In CircleCI 1.0 we used a pre-configured image with a large number of languages and other packages.
@@ -33,6 +32,8 @@ jobs:
     docker:
       - image: circleci/build-image:ubuntu-14.04-XXL-upstart-1189-5614f37
     steps:
+      #Add node_modules to path
+      - run: export "PATH=$PATH:${HOME}/${CIRCLE_PROJECT_REPONAME}/node_modules/.bin"
       # Machine Setup
       #   If you break your build into multiple jobs with workflows, you will probably want to do the parts of this that are relevant in each
       # The following `checkout` command checks out your code to your working directory. In 1.0 we did this implicitly. In 2.0 you can choose where in the course of a job your code should be checked out.
