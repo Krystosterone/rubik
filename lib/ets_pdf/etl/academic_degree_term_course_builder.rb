@@ -3,6 +3,8 @@
 class EtsPdf::Etl::AcademicDegreeTermCourseBuilder < SimpleClosure
   SKIP_COURSES = %w[
     CTN791
+    CTN793
+    CTN794
     ELE791
     ELE792
     ELE795
