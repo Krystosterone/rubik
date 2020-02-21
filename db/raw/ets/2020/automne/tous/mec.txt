@@ -818,8 +818,7 @@ MEC664          OPTIMISATION DES PROCÉDÉS                                     
 
 MEC671          DESIGN CONCEPTUEL DES AÉRONEFS
 
-                01                                      C
-                        Jeu           20:00 - 22:00     TP              A-1222
+                01      Jeu           20:00 - 22:00     TP              A-1222
 
 
 

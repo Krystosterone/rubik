@@ -559,12 +559,6 @@ MEC652          CONCEPTION DES SYSTÈMES                                        
 
 
 
-MEC671          DESIGN CONCEPTUEL DES AÉRONEFS
-
-                01                                      C
-                                                        TP/Labo         A-1226
-
-
 
 MEC702          TECHNIQUES DE MAINTENANCE                                                                              MAT350 et MEC525
                 PRÉDICTIVE ET FIABILITÉ
