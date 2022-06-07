@@ -67,4 +67,4 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 ## Copyright and Licensing
 
-There is no licensing by choice: you can contribute to the project, open issues and pull requests **but** hosting it as your own is strictly forbidden. If you want to do so, please contact me first.
+See [LICENSE](./LICENSE)
