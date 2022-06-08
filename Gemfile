@@ -15,7 +15,7 @@ gem "haml_lint"
 gem "jquery-rails"
 gem "kaminari"
 gem "kaminari-i18n"
-gem "mysql2", "~> 0.3.18"
+gem "mysql2"
 gem "omniauth"
 gem "omniauth-google-oauth2"
 gem "puma"
@@ -34,7 +34,7 @@ group :development do
   gem "binding_of_caller"
   gem "letter_opener"
   gem "letter_opener_web", "~> 1.2.0"
-  gem "rubocop"
+  gem "rubocop", "~> 0.52"
   gem "rubocop-rspec"
 end
 

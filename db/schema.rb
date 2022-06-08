@@ -12,7 +12,7 @@
 
 ActiveRecord::Schema.define(version: 20160923191150) do
 
-  create_table "academic_degree_term_courses", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "academic_degree_term_courses", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb3" do |t|
     t.integer  "academic_degree_term_id"
     t.integer  "course_id"
     t.text     "groups",                  limit: 65535
@@ -21,7 +21,7 @@ ActiveRecord::Schema.define(version: 20160923191150) do
     t.index ["academic_degree_term_id", "course_id"], name: "academic_degree_terms_courses_index", unique: true, using: :btree
   end
 
-  create_table "academic_degree_terms", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "academic_degree_terms", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb3" do |t|
     t.integer  "academic_degree_id"
     t.integer  "term_id"
     t.datetime "created_at"
@@ -29,7 +29,7 @@ ActiveRecord::Schema.define(version: 20160923191150) do
     t.index ["academic_degree_id", "term_id"], name: "index_academic_degree_terms_on_academic_degree_id_and_term_id", unique: true, using: :btree
   end
 
-  create_table "academic_degrees", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "academic_degrees", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb3" do |t|
     t.string   "code"
     t.string   "name"
     t.datetime "created_at"
@@ -37,7 +37,7 @@ ActiveRecord::Schema.define(version: 20160923191150) do
     t.index ["code"], name: "index_academic_degrees_on_code", unique: true, using: :btree
   end
 
-  create_table "agenda_courses", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "agenda_courses", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb3" do |t|
     t.integer  "academic_degree_term_course_id"
     t.integer  "agenda_id"
     t.boolean  "mandatory"
@@ -49,7 +49,7 @@ ActiveRecord::Schema.define(version: 20160923191150) do
     t.index ["agenda_id"], name: "index_agenda_courses_on_agenda_id", using: :btree
   end
 
-  create_table "agendas", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "agendas", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb3" do |t|
     t.integer  "academic_degree_term_id"
     t.string   "token"
     t.integer  "courses_per_schedule"
@@ -62,23 +62,23 @@ ActiveRecord::Schema.define(version: 20160923191150) do
     t.index ["token"], name: "index_agendas_on_token", using: :btree
   end
 
-  create_table "comments", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "comments", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb3" do |t|
     t.string "user_email"
     t.text   "body",       limit: 65535
   end
 
-  create_table "courses", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "courses", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb3" do |t|
     t.string   "code"
     t.datetime "created_at"
     t.datetime "updated_at"
     t.index ["code"], name: "index_courses_on_code", unique: true, using: :btree
   end
 
-  create_table "newsletter_subscriptions", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "newsletter_subscriptions", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb3" do |t|
     t.string "email"
   end
 
-  create_table "schedules", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "schedules", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb3" do |t|
     t.integer  "agenda_id"
     t.text     "course_groups", limit: 65535
     t.datetime "created_at"
@@ -86,7 +86,7 @@ ActiveRecord::Schema.define(version: 20160923191150) do
     t.index ["agenda_id"], name: "index_schedules_on_agenda_id", using: :btree
   end
 
-  create_table "terms", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "terms", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb3" do |t|
     t.integer  "year"
     t.string   "name"
     t.string   "tags"
