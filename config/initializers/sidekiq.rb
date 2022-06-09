@@ -3,7 +3,7 @@
 require "sidekiq"
 require "sidekiq/web"
 
-if Rails.env.development? && ENV["INLINE_JOBS"] != "0"
+if Rails.env.development? && ENV["INLINE_JOBS"]
   require "sidekiq/testing"
   Sidekiq::Testing.inline!
 end
