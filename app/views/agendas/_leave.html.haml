@@ -1,10 +1,8 @@
 .leave.row{ class: ("has-error" if f.object.errors.any?) }
-  -# rubocop:disable Performance/HashEachMethods
   - if f.object.errors.any?
     .col-xs-12
       - f.object.errors.each do |_, error|
         .help-block= error
-  -# rubocop:enable Performance/HashEachMethods
 
   .col-sm-5
     .form-group

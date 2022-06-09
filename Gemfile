@@ -40,6 +40,7 @@ end
 
 group :development, :test do
   gem "dotenv-rails"
+  gem "phantomjs", require: "phantomjs/poltergeist"
   gem "pry-byebug"
 end
 
@@ -54,6 +55,7 @@ group :test do
   gem "rails-controller-testing"
   gem "rspec-activejob"
   gem "rspec-rails"
+  gem "rspec_junit_formatter"
   gem "selenium-webdriver"
   gem "shoulda-matchers"
   gem "simplecov", require: false

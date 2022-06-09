@@ -2,14 +2,12 @@
   = render "shared/breadcrumb"
   = render "shared/flash_messages"
 
-  -# rubocop:disable Performance/HashEachMethods
   - if @agenda.errors.any?
     .alert.alert-danger{ role: "alert" }
       - @agenda.errors.each do |_, error|
         %span.glyphicon.glyphicon-exclamation-sign{ "aria-hidden" => true }
         = error
         %br
-  -# rubocop:enable Performance/HashEachMethods
 
   %h1.page-header= t(".title")
 
