@@ -34,7 +34,7 @@ group :development do
   gem "binding_of_caller"
   gem "letter_opener"
   gem "letter_opener_web", "~> 1.2.0"
-  gem "rubocop", "~> 0.52"
+  gem "rubocop", "0.52.1"
   gem "rubocop-rspec"
 end
 

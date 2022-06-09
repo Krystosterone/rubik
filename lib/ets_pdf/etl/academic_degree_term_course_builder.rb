@@ -72,11 +72,17 @@ class EtsPdf::Etl::AcademicDegreeTermCourseBuilder < SimpleClosure
     EtsPdf::Etl::GroupBuilder.call(academic_degree_term_course, parsed_lines[1..-1])
 
     academic_degree_term_course.save!
-  rescue
+  rescue StandardError
+    debug_print(academic_degree_term_course)
+    raise
+  end
+
+  def debug_print(academic_degree_term_course)
+    # rubocop:disable Rails/Output
     p academic_degree_term_course.course.code
     p academic_degree_term_course.academic_degree_term.academic_degree.code
     p academic_degree_term_course.academic_degree_term.term.year
     p academic_degree_term_course.academic_degree_term.term.name
-    raise
+    # rubocop:enable Rails/Output
   end
 end
