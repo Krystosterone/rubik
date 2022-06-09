@@ -27,11 +27,11 @@ class EtsPdf::Etl::PdfParser < SimpleClosure
   end
 
   def parts_for(path)
-    3.downto(0).collect { |up| part_of(path, up) }
+    3.downto(0).collect { |up_to| part_of(path, up_to) }
   end
 
-  def part_of(path, up)
-    backwards_path = Array.new(up) { ".." }.join("/")
+  def part_of(path, up_to)
+    backwards_path = Array.new(up_to) { ".." }.join("/")
     File.basename(File.expand_path(backwards_path, path), TXT_EXTENSION)
   end
 

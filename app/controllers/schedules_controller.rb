@@ -37,6 +37,7 @@ class SchedulesController < ApplicationController
 
   def ensure_schedules_present
     return unless @agenda.schedules.empty?
+
     redirect_to edit_agenda_path(token: @agenda.token), flash: { notice: t(".blank_agenda") }
   end
 

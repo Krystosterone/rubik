@@ -21,7 +21,7 @@ Rails.application.routes.draw do
 
   resources :academic_degree_terms, only: [] do
     resources :agendas, except: :show, param: :token, shallow: true do
-      get "/", to: redirect("/agendas/%{agenda_token}/schedules", 302) # rubocop:disable Style/FormatStringToken
+      get "/", to: redirect("/agendas/%{agenda_token}/schedules", 302)
 
       resources :schedules, only: :index, constraints: ->(r) { r.params.fetch(:page, "1") =~ /^[1-9]\d*$/ } do
         get :processing, on: :collection

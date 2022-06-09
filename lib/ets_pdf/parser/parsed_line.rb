@@ -20,6 +20,6 @@ class EtsPdf::Parser::ParsedLine
   end
 
   def type?(name)
-    LINE_TYPES.keys.include?(name.to_s) ? public_send(name).parsed? : false
+    LINE_TYPES.key?(name.to_s) ? public_send(name).parsed? : false
   end
 end

@@ -17,6 +17,7 @@ class EtsPdf::Etl::PdfConverter < SimpleClosure
   def convert
     Dir.glob(pdfs_path).each do |pdf_path|
       next if txt_exists?(pdf_path)
+
       Kernel.system("pdftotext", "-enc", "UTF-8", "-layout", pdf_path)
     end
   end

@@ -4,7 +4,7 @@ require "rails_helper"
 
 describe SimpleClosure do
   class SimpleClosureImpl < SimpleClosure
-    def initialize(_); end
+    def initialize(*); end
 
     def call; end
   end

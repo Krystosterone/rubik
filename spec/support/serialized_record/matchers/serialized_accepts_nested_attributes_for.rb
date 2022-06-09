@@ -22,6 +22,7 @@ module SerializedRecord
 
       def matches?(actual)
         return false unless builds_members?(actual)
+
         discards_destroyed_members?(actual)
       end
 
@@ -34,6 +35,7 @@ module SerializedRecord
         members = actual.public_send(@column)
 
         return false if attributes.values.size != members.size
+
         attributes.values.each_with_index.all? do |member_attributes, index|
           member = members[index]
           member.is_a?(klass) && attributes_match?(member, member_attributes)

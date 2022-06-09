@@ -8,6 +8,7 @@ class ScheduleCourse < WeekdayTimeRange
     return false unless index == other.index
     return false unless number == other.number
     return false unless type == other.type
+
     super
   end
 end

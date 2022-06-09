@@ -19,6 +19,7 @@ class Maintenance
 
   def show_maintenance_page?(request)
     return false if ENV["MAINTENANCE_MODE"].blank?
+
     maintainer_ips.exclude?(request.ip)
   end
 

@@ -7,13 +7,15 @@ class CourseColorMap
     @courses = courses
   end
 
+  def to_h
+    indexes
+  end
+
+  private
+
   def indexes
     @indexes ||= @courses.map.with_index(&method(:calculate_color_index)).to_h
   end
-  alias to_h indexes
-  private :indexes
-
-  private
 
   def calculate_color_index(course, index)
     [course.code, (360 / @courses.count).floor * index]

@@ -4,7 +4,7 @@ class Agenda < ApplicationRecord
   include Defaults
   include SerializedRecord::AcceptsNestedAttributeFor
 
-  COURSES_PER_SCHEDULE_RANGE = 1..5
+  COURSES_PER_SCHEDULE_RANGE = (1..5).freeze
 
   belongs_to :academic_degree_term
   has_one :academic_degree, through: :academic_degree_term
