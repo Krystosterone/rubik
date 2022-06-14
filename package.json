@@ -1,7 +1,7 @@
 {
   "name": "rubik",
   "version": "1.0.0",
-  "description": "[![Circle CI](https://circleci.com/gh/Krystosterone/rubik.svg?style=svg&circle-token=bda09a43695a9d1abd1a5085e97428bcdc1f901b)](https://circleci.com/gh/Krystosterone/rubik)",
+  "description": "A tool for students to easily and intuitively generate schedule combinations for different school trimesters",
   "main": "app/assets/javascripts/application.js",
   "engines": {
     "node": "12.13.0"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/Krystosterone/rubik.git"
   },
   "author": "Krystian Czesak",
-  "license": "UNLICENSED",
+  "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/Krystosterone/rubik/issues"
   },
