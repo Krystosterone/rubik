@@ -1,4 +1,4 @@
-# Rubik [![CircleCI](https://circleci.com/gh/Krystosterone/rubik/tree/main.svg?style=svg)](https://circleci.com/gh/Krystosterone/rubik/tree/main) [![Code Climate](https://codeclimate.com/github/Krystosterone/rubik/badges/gpa.svg)](https://codeclimate.com/github/Krystosterone/rubik) [![codecov](https://codecov.io/gh/Krystosterone/rubik/branch/master/graph/badge.svg?token=xsg8JvQjZx)](https://codecov.io/gh/Krystosterone/rubik)
+# Rubik [![CircleCI](https://circleci.com/gh/Krystosterone/rubik/tree/main.svg?style=svg)](https://circleci.com/gh/Krystosterone/rubik/tree/main) [![Maintainability](https://api.codeclimate.com/v1/badges/2e3349a25cb6d4511bfb/maintainability)](https://codeclimate.com/github/Krystosterone/rubik/maintainability) [![codecov](https://codecov.io/gh/Krystosterone/rubik/branch/main/graph/badge.svg?token=xsg8JvQjZx)](https://codecov.io/gh/Krystosterone/rubik)
 
 Rubik is a tool for students to easily and intuitively generate schedule combinations for different school trimesters.
 
