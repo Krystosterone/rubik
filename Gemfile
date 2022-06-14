@@ -40,9 +40,9 @@ group :development, :test do
   gem "dotenv-rails"
   gem "phantomjs", require: "phantomjs/poltergeist"
   gem "pry-byebug"
-  gem "rubocop"
+  gem "rubocop", require: false
   gem "rubocop-rails", require: false
-  gem "rubocop-rspec"
+  gem "rubocop-rspec", require: false
 end
 
 group :test do
