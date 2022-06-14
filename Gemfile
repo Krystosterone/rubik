@@ -34,15 +34,15 @@ group :development do
   gem "binding_of_caller"
   gem "letter_opener"
   gem "letter_opener_web"
-  gem "rubocop"
-  gem "rubocop-rails", require: false
-  gem "rubocop-rspec"
 end
 
 group :development, :test do
   gem "dotenv-rails"
   gem "phantomjs", require: "phantomjs/poltergeist"
   gem "pry-byebug"
+  gem "rubocop"
+  gem "rubocop-rails", require: false
+  gem "rubocop-rspec"
 end
 
 group :test do
