@@ -11,8 +11,10 @@ describe ScheduleGenerator do
         let(:expected_course_groups) { schedule_generator_case[:generated_course_groups] }
         let(:actual_course_groups) { agenda.schedules.collect(&:course_groups) }
 
-        let(:agenda) { Agenda.create!(schedule_generator_case[:agenda_attributes]) }
         let(:academic_degree_term) { create(:academic_degree_term) }
+        let(:agenda) do
+          Agenda.create!(schedule_generator_case[:agenda_attributes].merge(academic_degree_term: academic_degree_term))
+        end
 
         before do
           schedule_generator_case[:academic_degree_term_courses_attributes].each do |attributes|

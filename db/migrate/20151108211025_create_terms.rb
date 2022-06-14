@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class CreateTerms < ActiveRecord::Migration
+class CreateTerms < ActiveRecord::Migration[4.2]
   def change
     create_table :terms do |t|
       t.integer :year

@@ -10,6 +10,8 @@ Bundler.require(*Rails.groups)
 
 module Rubik
   class Application < Rails::Application
+    config.load_defaults 5.1
+
     config.i18n.available_locales = [:fr]
     config.i18n.default_locale = :fr
     config.i18n.enforce_available_locales = true

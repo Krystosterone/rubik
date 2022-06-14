@@ -27,16 +27,16 @@ FactoryBot.define do
         course
       end
     end
-    courses_per_schedule 4
+    courses_per_schedule { 4 }
     leaves { build_list(:leave, 4) }
 
     factory :processing_agenda do
-      processing true
+      processing { true }
     end
 
     factory :combined_agenda do
       combined_at { Time.zone.now }
-      processing false
+      processing { false }
       schedules { build_list(:schedule, 4) }
     end
 
@@ -52,7 +52,7 @@ FactoryBot.define do
     agenda { Agenda.new }
 
     factory :mandatory_agenda_course do
-      mandatory true
+      mandatory { true }
     end
   end
 
@@ -81,8 +81,8 @@ FactoryBot.define do
   factory :leave do
     skip_create
 
-    starts_at 100
-    ends_at 400
+    starts_at { 100 }
+    ends_at { 400 }
   end
 
   factory :newsletter_subscription do
@@ -131,6 +131,9 @@ FactoryBot.define do
   end
 
   factory :schedule do
+    skip_create
+
+    agenda
     course_groups { build_list(:course_group, 4) }
   end
 

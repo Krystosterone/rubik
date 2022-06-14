@@ -22,7 +22,7 @@
             - schedule.weekdays.each do |weekday|
               %th.weekday{ class: schedule_weekday_backdrop_class(weekday) }
                 %span= schedule_weekday_name(weekday)[0..2]
-                %span.post= schedule_weekday_name(weekday)[3..-1]
+                %span.post= schedule_weekday_name(weekday)[3..]
         %tbody
           - schedule_hours(schedule).each do
             %tr.hour

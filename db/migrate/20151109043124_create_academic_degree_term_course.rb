@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class CreateAcademicDegreeTermCourse < ActiveRecord::Migration
+class CreateAcademicDegreeTermCourse < ActiveRecord::Migration[4.2]
   def change
     create_table :academic_degree_term_courses do |t|
       t.references :academic_degree_term

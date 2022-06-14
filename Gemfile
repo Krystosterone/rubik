@@ -8,22 +8,22 @@ gem "autoprefixer-rails"
 gem "bootstrap-sass"
 gem "browserify-rails"
 gem "bullet"
-gem "coffee-rails", "~> 4.1.0"
 gem "email_validator"
 gem "haml-rails"
 gem "haml_lint"
 gem "jquery-rails"
 gem "kaminari"
 gem "kaminari-i18n"
-gem "mysql2"
-gem "omniauth"
+gem "listen"
+gem "mysql2", "~> 0.4.0"
+gem "omniauth", "~> 1.0"
 gem "omniauth-google-oauth2"
 gem "puma"
-gem "rails"
+gem "rails", "~> 5.2.0"
 gem "rails-i18n"
 gem "sass-rails", "~> 5.0"
 gem "sidekiq-unique-jobs"
-gem "uglifier", ">= 1.3.0"
+gem "uglifier"
 
 # Sidekiq
 gem "sidekiq"
@@ -33,8 +33,9 @@ group :development do
   gem "better_errors"
   gem "binding_of_caller"
   gem "letter_opener"
-  gem "letter_opener_web", "~> 1.2.0"
-  gem "rubocop", "0.61"
+  gem "letter_opener_web"
+  gem "rubocop"
+  gem "rubocop-rails", require: false
   gem "rubocop-rspec"
 end
 
@@ -47,9 +48,9 @@ end
 group :test do
   gem "capybara"
   gem "codecov", require: false
-  gem "cucumber-rails", require: false
+  gem "cucumber-rails", "~> 2.0", require: false
   gem "database_cleaner"
-  gem "factory_bot_rails"
+  gem "factory_bot_rails", "~> 6.2.0"
   gem "fakeredis"
   gem "poltergeist"
   gem "rails-controller-testing"

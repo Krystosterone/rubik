@@ -1,8 +1,11 @@
 inherit_from: .rubocop_todo.yml
 
-require: rubocop-rspec
+require:
+  - rubocop-rails
+  - rubocop-rspec
 
 AllCops:
+  NewCops: enable
   Exclude:
     - bin/**/*
     - vendor/**/*
@@ -12,17 +15,14 @@ AllCops:
     - features/support/_circleci_formatter.rb
     - spec/support/extensions/its.rb
 
-Layout/IndentArray:
+Layout/FirstArrayElementIndentation:
   EnforcedStyle: consistent
+
+Layout/LineLength:
+  Max: 120
 
 Metrics/BlockLength:
   Enabled: false
-
-Metrics/LineLength:
-  Max: 120
-
-Rails:
-  Enabled: true
 
 RSpec/NestedGroups:
   Enabled: false

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class CreateAcademicDegrees < ActiveRecord::Migration
+class CreateAcademicDegrees < ActiveRecord::Migration[4.2]
   def change
     create_table :academic_degrees do |t|
       t.string :code

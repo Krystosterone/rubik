@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class CreateAgendas < ActiveRecord::Migration
+class CreateAgendas < ActiveRecord::Migration[4.2]
   def change
     create_table :agendas do |t|
       t.references :academic_degree_term
