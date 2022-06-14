@@ -52,7 +52,7 @@ GEM
     ast (2.4.2)
     autoprefixer-rails (9.6.5)
       execjs
-    better_errors (2.4.0)
+    better_errors (2.8.0)
       coderay (>= 1.0.0)
       erubi (>= 1.0.0)
       rack (>= 0.9.0)
@@ -82,7 +82,7 @@ GEM
     cliver (0.3.2)
     codecov (0.6.0)
       simplecov (>= 0.15, < 0.22)
-    coderay (1.1.2)
+    coderay (1.1.3)
     concurrent-ruby (1.1.10)
     connection_pool (2.2.5)
     crass (1.0.6)
