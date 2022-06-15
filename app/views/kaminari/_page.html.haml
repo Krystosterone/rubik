@@ -1,9 +1,5 @@
-%li{ class: ("active" if page.current?) }
+%li{ class: ("disabled" if page.current?) }
   - if page.current?
     %a= page
   - else
-    :ruby
-      rel = nil
-      rel = "next" if page.next?
-      rel = "prev" if page.prev?
-  = link_to page, url, rel: rel
+    = link_to page, url, rel: page.rel

@@ -1,2 +1,1 @@
-%li{ class: ("disabled" if current_page.last?) }
-  = link_to t("views.pagination.last_html"), url, rel: "next"
+%li= link_to t("views.pagination.last_html").html, url, remote: remote
