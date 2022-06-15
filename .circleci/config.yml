@@ -20,7 +20,7 @@ jobs:
       - run: gem install bundler -v 1.17.3
       - node/install:
           install-yarn: true
-          node-version: '12.13.0'
+          node-version: '16.15.1'
       - ruby/install-deps
       - node/install-packages:
           pkg-manager: yarn
@@ -50,7 +50,7 @@ jobs:
           command: 'bundle exec rails db:schema:load --trace'
       - ruby/rspec-test:
           include: spec/**/*_spec.rb
-          out-path: test-results/rspec/rspec.xml
+          out-path: test-results/rspec
       - store_test_results:
           path: test-results/rspec
       - run: bundle exec cucumber --format junit --out test-results/cucumber
