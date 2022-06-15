@@ -30,7 +30,6 @@ module Rubik
     config.action_view.field_error_proc = proc { |html_tag, _instance| html_tag }
     config.admin_emails = ENV.fetch("ADMIN_EMAILS").split(",")
     config.comment_email_recipient = ENV.fetch("COMMENT_EMAIL_RECIPIENT")
-    config.x.google.ad_client = ENV.fetch("GOOGLE_AD_CLIENT")
     config.x.google.analytics_tracking_id = ENV.fetch("GA_ANALYTICS_ID")
 
     config.after_initialize do
