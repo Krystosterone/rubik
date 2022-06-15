@@ -1,0 +1,843 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    6556 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                   HORAIRE ÉTÉ 2022
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT           PRÉALABLES
+
+CHM131          CHIMIE ET MATÉRIAUX
+                01      Mer         13:30 - 17:00   C
+                        Ven         09:00 - 12:00   TP
+
+                02      Lun         09:00 - 12:30   C
+                        Ven         13:30 - 16:30   TP
+
+                03      Jeu         13:30 - 17:00   C
+                        Mar         13:30 - 16:30   TP
+
+                04      Mer         13:30 - 17:00   C
+                        Lun         09:00 - 12:00   TP
+
+                05      Jeu         09:00 - 12:30   C
+                        Mar         09:00 - 12:00   TP
+
+                06      Jeu         18:00 - 21:30   C
+                        Lun         18:00 - 21:00   TP
+
+                07      Mar         18:00 - 21:30   C                    H
+                        Jeu         18:00 - 21:00   TP                   H
+
+
+
+COM110          MÉTHODES DE COMMUNICATION                                                                                   Avoir satisfait aux exigences de la
+                                                                                                                            Politique linguistique de l'ÉTS
+                01      Jeu         13:30 - 17:00   C
+                        Mar         13:30 - 17:30   TP A+B
+
+                02      Ven         13:30 - 17:00   C
+                        Lun         08:30 - 12:30   TP A+B
+
+                03      Jeu         09:00 - 12:30   C
+                        Lun         13:30 - 17:30   TP A+B
+
+                04      Mer         18:00 - 21:30   C
+                        Lun         18:00 - 22:00   TP A+B
+
+                05      Mar         18:00 - 21:30   C
+                        Jeu         18:00 - 22:00   TP A+B
+
+
+
+ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                             GIA400 ou GIA410
+
+                01      Lun         18:00 - 21:30   C                    H
+                        Mar         18:00 - 20:00   TP                   H
+
+
+
+ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
+
+                01      Mar         13:30 - 17:00   C
+                        Jeu         18:00 - 20:00   TP
+
+                02      Mar         09:00 - 12:30   C
+                        Jeu         18:00 - 20:00   TP
+
+
+
+GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                01      Jeu         09:00 - 12:30   C
+                        Lun         13:30 - 15:30   TP
+
+                02      Mer         09:00 - 12:30   C
+                        Ven         13:30 - 15:30   TP
+
+                03      Mer         09:00 - 12:30   C
+                        Mar         08:30 - 10:30   TP
+
+                04      Lun         09:00 - 12:30   C
+                        Jeu         13:30 - 15:30   TP
+
+                05      Mar         18:00 - 21:30   C
+                        Jeu         18:00 - 20:00   TP
+
+                06      Mer         18:00 - 21:30   C
+                        Lun         18:00 - 20:00   TP
+
+                07      Mar         09:00 - 12:30   C
+                        Mer         08:30 - 10:30   TP
+
+
+                 Date : 2022-02-04 06:32:57         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    6556 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                   HORAIRE ÉTÉ 2022
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT           PRÉALABLES
+
+GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU INDUSTRIEL
+
+                01      Lun         13:30 - 17:00   C
+                        Mar         13:30 - 17:30   TP/Labo                        A-1222, A-2230
+
+                02      Jeu         13:30 - 17:00   C
+                        Lun         13:30 - 17:30   TP/Labo                        A-1220, A-2230
+
+                03      Ven         18:00 - 21:30   C
+                        Lun         18:00 - 22:00   TP/Labo                        A-1220, A-2230
+
+
+
+GOL301          CONCEPTION ET AMÉNAGEMENT DE SYSTÈMES                                                                       GOL201
+                INDUSTRIELS
+                01      Lun         13:30 - 17:00   C
+                        Lun         08:30 - 10:30   TP-Labo A                      A-3728
+                        Lun         10:30 - 12:30   TP-Labo B                      A-3728
+
+
+
+GOL450          MAÎTRISE STATISTIQUE DES PROCÉDÉS                                                                           MAT350
+
+                01      Lun         13:30 - 17:00   C
+                        Mer         13:30 - 16:30   TP                             A-3566
+
+
+
+GOL455          GESTION DES OPÉRATIONS, DES FLUX ET DES                                                                     GOL405 et MAT350
+                STOCKS
+                01      Ven         08:30 - 12:00   C
+                        Mer         08:30 - 11:30   TP                             A-3566
+
+
+
+GOL460          CHAÎNES LOGISTIQUES ET D'APPROVISIONNEMENT                                                                  GOL405 / GOL451, GSY400
+
+                01      Lun         13:30 - 17:00   C
+                        Mar         13:30 - 16:30   TP                             A-3566, A-4516
+
+
+
+GOL465          SIMULATION DES OPÉRATIONS ET DES ACTIVITÉS DE                                                               GOL401, MAT350
+                SERVICES                                                                                                    Pr. AD: GOL102 et MAT350
+                                                                                                                            Pr. G: MAT350
+                                                                                                                            Pr. I, R: GOL102 et MAT350 / Pr.
+                                                                                                                            AD: GOL102 et MAT350
+                                                                                                                            Pr. G: MAT350
+                                                                                                                            Pr. I, R: GOL102 et MAT350
+                01      Lun         18:00 - 21:30   C                              A-3566
+                        Mer         18:00 - 21:00   Labo                           A-3566
+
+
+
+GOL471          SYSTÈMES DE DISTRIBUTION                                                                                    GOL301
+                01      Jeu         13:30 - 17:00   C
+                        Mer         13:30 - 15:30   Labo A                         A-3728
+                        Mer         15:30 - 17:30   Labo B                         A-3728
+
+
+
+GOL508          ORGANISATION FLEXIBLE DE LA PRODUCTION                                                                      GOL451 / GOL455
+
+                01      Mar         18:00 - 21:30   C
+                        Mer         18:00 - 20:00   Labo A                         A-3726
+                        Mer         20:00 - 22:00   Labo B                         A-3726
+
+
+
+GOL514          INGÉNIERIE SIMULTANÉE POUR DES                                                                              GOL111
+                PRODUITS/SERVICES INNOVANTS
+                01      Mar         13:30 - 17:00   C
+                        Jeu         13:30 - 15:30   TP-Labo A                      A-3566
+                        Jeu         15:30 - 17:30   TP-Labo B                      A-3566
+
+
+
+GOL605          ANALYSE DE LA PERFORMANCE FINANCIÈRE                                                                        GIA400
+
+                01      Mer         13:30 - 17:00   C
+                        Lun         08:30 - 10:30   TP-Labo A                      A-4516
+
+
+                 Date : 2022-02-04 06:32:57         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    6556 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                   HORAIRE ÉTÉ 2022
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT           PRÉALABLES
+
+GOL605          ANALYSE DE LA PERFORMANCE FINANCIÈRE                                                                        GIA400
+
+                01      Lun         10:30 - 12:30   TP-Labo B                      A-4516
+
+
+
+GOL651          CONCEPTION D’OUTILS D’AIDE À LA DÉCISION                                                                    GOL491
+
+                01      Jeu         18:00 - 21:30   C                              A-3728
+                        Lun         18:00 - 20:00   Labo                           A-3728
+
+
+
+GOL681          MÉTHODES QUANTITATIVES AVANCÉES                                                                             GSY400
+
+                01      Mar         08:30 - 12:00   C
+                        Mer         08:30 - 10:30   Labo A                         A-3726
+                        Mer         10:30 - 12:00   Labo B                         A-3726
+
+
+
+GOL711          GESTION DE PROJET DANS LES PRODUITS ET                                                                      GOL111, Min 70 cr.
+                SERVICES
+                01      Jeu         08:30 - 12:00   C
+                        Lun         08:30 - 10:30   TP-Labo A                      A-3240
+                        Lun         10:30 - 12:30   TP-Labo B                      A-3240
+
+
+
+GOL720          IMPLANTATION SYST. INTÉGRÉS DE GESTION                                                                      GOL401, GOL451
+                D'ENTREPRISE
+                01      Mar         18:00 - 21:30   C                              A-3728
+                        Ven         18:00 - 20:00   TP-Labo A                      A-3728
+                        Ven         20:00 - 22:00   TP-Labo B                      A-3728
+
+
+
+GOL791          PROJETS SPÉCIAUX                                                                                            Autorisation du directeur de
+                                                                                                                            département
+                01      Ven         13:30 - 17:00   Projet                         A-4516
+
+
+
+GOL793          PROJET FIN D’ÉTUDES EN GÉNIE DES OPÉRATIONS ET                                                              Minimum 99 Cr
+                DE LA LOGISTIQUE
+                01      Ven         13:30 - 17:00   C                              A-4516
+
+
+
+GOL794          PROJET INTERNATIONAL DE FIN D’ÉTUDES EN GÉNIE                                                               Minimum 99 Cr
+                DES OPÉRATIONS ET D
+                01      Ven         13:30 - 17:00   Projet                         A-4516
+
+
+
+GSY400          MÉTHODES QUANTITATIVES EN GÉNIE DES SYSTÈMES                                                                MAT472
+
+                01      Mar         18:00 - 21:30   C
+                        Jeu         18:00 - 20:00   TP A                           A-4516
+                        Jeu         20:00 - 22:00   TP B                           A-4516
+
+                02      Mer         18:00 - 21:30   C
+                        Mar         18:00 - 20:00   TP A                           A-3608
+                        Mar         20:00 - 22:00   TP B                           A-3608
+
+
+
+INF130          ORDINATEURS ET PROGRAMMATION
+
+                01      Mer         13:30 - 17:00   C                              B-2626
+                        Ven         13:30 - 16:30   Labo                           B-2626
+
+                02      Jeu         09:00 - 12:30   C                    H         B-2626
+                        Mar         13:30 - 16:30   Labo                 H         B-2626
+
+                03      Mer         09:00 - 12:30   C                    H         B-2622
+                        Lun         09:00 - 12:00   Labo                 H         B-2622
+
+                04      Jeu         18:00 - 21:30   C                    H         B-2626
+
+
+
+
+                 Date : 2022-02-04 06:32:57         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                      6556 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                     HORAIRE ÉTÉ 2022
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT          PRÉALABLES
+
+INF130          ORDINATEURS ET PROGRAMMATION
+
+                04      Lun         18:00 - 21:00   Labo                   H          B-2626
+
+                05      Mer         18:00 - 21:30   C                                 B-2626
+                        Mar         18:00 - 21:00   Labo                              B-2626
+
+
+
+ING150          STATIQUE ET DYNAMIQUE
+                01      Mer         09:00 - 12:30   C
+                        Lun         13:30 - 16:30   TP
+
+                02      Jeu         09:00 - 12:30   C
+                        Mar         09:00 - 12:00   TP
+
+                03      Jeu         13:30 - 17:00   C
+                        Mar         13:30 - 16:30   TP
+
+                04      Ven         13:30 - 17:00   C
+                        Lun         09:00 - 12:00   TP
+
+                05      Ven         09:00 - 12:30   C
+                        Mer         13:30 - 16:30   TP
+
+                06      Mer         18:00 - 21:30   C
+                        Mar         18:00 - 21:00   TP
+
+
+
+ING160          THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                                                                       ING150
+
+                01      Mer         13:30 - 17:00   C
+                        Lun         09:00 - 12:00   TP
+
+                02      Mer         18:00 - 21:30   C
+                        Ven         18:00 - 21:00   TP
+
+
+
+ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
+                L'INGÉNIEUR
+                01      Jeu         18:00 - 21:30   C
+                        Lun         18:00 - 22:00   Labo A+B                          B-2622
+
+
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
+                (HORS PROG.)
+                80      Lun         09:00 - 12:30   C
+                        Mer         09:00 - 12:00   TP
+                        30 mai 2022
+                        01 juin 2022
+                        06 juin 2022
+                        08 juin 2022
+                        13 juin 2022
+                        15 juin 2022
+                        20 juin 2022
+                        22 juin 2022
+                        27 juin 2022
+                        29 juin 2022
+                        04 juillet 2022
+                        06 juillet 2022
+                        11 juillet 2022
+                        13 juillet 2022
+                        18 juillet 2022
+                        20 juillet 2022
+                        25 juillet 2022
+                        27 juillet 2022
+                        01 août 2022
+                        03 août 2022
+                        08 août 2022
+                        10 août 2022
+                        15 août 2022
+                        17 août 2022
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 juin 2022 / 01 août 2022
+                81      Lun         18:00 - 21:30   C
+
+
+
+
+                 Date : 2022-02-04 06:32:57         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 4/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                      6556 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                     HORAIRE ÉTÉ 2022
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT          PRÉALABLES
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
+                (HORS PROG.)
+                81      Mer         18:00 - 21:00   TP
+                        30 mai 2022
+                        01 juin 2022
+                        06 juin 2022
+                        08 juin 2022
+                        13 juin 2022
+                        15 juin 2022
+                        20 juin 2022
+                        22 juin 2022
+                        27 juin 2022
+                        29 juin 2022
+                        04 juillet 2022
+                        06 juillet 2022
+                        11 juillet 2022
+                        13 juillet 2022
+                        18 juillet 2022
+                        20 juillet 2022
+                        25 juillet 2022
+                        27 juillet 2022
+                        01 août 2022
+                        03 août 2022
+                        08 août 2022
+                        10 août 2022
+                        15 août 2022
+                        17 août 2022
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 juin 2022 / 01 août 2022
+
+
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                01      Jeu         13:30 - 17:00   C
+                        Mar         13:30 - 16:30   TP
+
+                02      Mer         09:00 - 12:30   C                      H
+                        Lun         09:00 - 12:00   TP                     H
+
+                03      Ven         09:00 - 12:30   C
+                        Mer         13:30 - 16:30   TP
+
+                04      Ven         13:30 - 17:00   C
+                        Lun         13:30 - 16:30   TP
+
+                05      Mer         18:00 - 21:30   C
+                        Lun         18:00 - 21:00   TP
+
+
+
+MAT215          LOGIQUE ET MATHÉMATIQUES DISCRÈTES POUR                                                                        MAT145
+                L’OPTIMISATION (4 CR.)
+                01      Jeu         09:00 - 12:30   C
+                        Mar         09:00 - 12:00   TP
+
+
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                                   MAT145
+                01      Mer         13:30 - 17:00   C
+
+
+
+
+                 Date : 2022-02-04 06:32:57         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 5/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    6556 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                   HORAIRE ÉTÉ 2022
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR              HEURE     ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT           PRÉALABLES
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                                MAT145
+                01      Lun         09:00 - 12:00   TP
+
+                02      Jeu         09:00 - 12:30   C
+                        Mar         09:00 - 12:00   TP
+
+                03      Ven         09:00 - 12:30   C
+                        Lun         13:30 - 16:30   TP
+
+                04      Mer         09:00 - 12:30   C
+                        Ven         13:30 - 16:30   TP
+
+                05      Jeu         13:30 - 17:00   C
+                        Mar         13:30 - 16:30   TP
+
+                06      Jeu         18:00 - 21:30   C
+                        Lun         18:00 - 21:00   TP
+
+                07      Mer         18:00 - 21:30   C                    H
+                        Mar         18:00 - 21:00   TP                   H
+
+
+
+MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE L'ESPACE                                                                   MAT145
+
+                01      Ven         09:00 - 12:30   C
+                        Lun         09:00 - 12:00   TP
+
+                02      Mer         13:30 - 17:00   C
+                        Lun         13:30 - 16:30   TP
+
+                03      Jeu         18:00 - 21:30   C
+                        Mar         18:00 - 21:00   TP
+
+
+
+PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
+                PROFESSIONNELLE
+                01      Lun         09:00 - 12:30   Atelier              D
+                        16 mai 2022
+                        23 mai 2022
+                        30 mai 2022
+                        06 juin 2022
+                02      Lun         09:00 - 12:30   Atelier              D
+                        13 juin 2022
+                        20 juin 2022
+                        27 juin 2022
+                        04 juillet 2022
+                03      Lun         09:00 - 12:30   Atelier              D
+                        11 juillet 2022
+                        18 juillet 2022
+                        25 juillet 2022
+                        01 août 2022
+                04      Mer         09:00 - 12:30   Atelier              D
+                        18 mai 2022
+                        25 mai 2022
+                        01 juin 2022
+                        08 juin 2022
+                05      Mer         13:30 - 17:00   Atelier              D
+                        18 mai 2022
+                        01 juin 2022
+                        08 juin 2022
+                06      Jeu         09:00 - 12:30   Atelier              D
+                        19 mai 2022
+                        26 mai 2022
+                        02 juin 2022
+                        09 juin 2022
+                07      Lun         18:00 - 21:30   Atelier              D
+                        16 mai 2022
+                        25 mai 2022
+                        30 mai 2022
+                        06 juin 2022
+                08      Lun         18:00 - 21:30   Atelier              D
+                        13 juin 2022
+                        20 juin 2022
+                        27 juin 2022
+                        04 juillet 2022
+
+
+                 Date : 2022-02-04 06:32:57         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                      6556 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                     HORAIRE ÉTÉ 2022
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR              HEURE     ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT          PRÉALABLES
+
+PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
+                PROFESSIONNELLE
+                09      Lun         18:00 - 21:30   Atelier                D
+                        11 juillet 2022
+                        18 juillet 2022
+                        25 juillet 2022
+                        01 août 2022
+                10      Mer         09:00 - 12:30   Atelier                D
+                        15 juin 2022
+                        22 juin 2022
+                        29 juin 2022
+                        06 juillet 2022
+                11      Mer         09:00 - 12:30   Atelier                D
+                        13 juillet 2022
+                        20 juillet 2022
+                        27 juillet 2022
+                        03 août 2022
+
+
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
+                PROGRAMME)
+                80      Mar         09:00 - 12:30   C
+                        Jeu         09:00 - 12:00   TP
+                        31 mai 2022
+                        02 juin 2022
+                        07 juin 2022
+                        09 juin 2022
+                        14 juin 2022
+                        16 juin 2022
+                        21 juin 2022
+                        23 juin 2022
+                        28 juin 2022
+                        30 juin 2022
+                        05 juillet 2022
+                        07 juillet 2022
+                        12 juillet 2022
+                        14 juillet 2022
+                        19 juillet 2022
+                        21 juillet 2022
+                        26 juillet 2022
+                        28 juillet 2022
+                        02 août 2022
+                        04 août 2022
+                        09 août 2022
+                        11 août 2022
+                        16 août 2022
+                        18 août 2022
+                        23 août 2022
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 juin 2022 / 01 août 2022
+                81      Mar          18:00 - 21:30  C
+                        Jeu          18:00 - 21:00  TP
+                        31 mai 2022
+                        02 juin 2022
+                        07 juin 2022
+                        09 juin 2022
+                        14 juin 2022
+                        16 juin 2022
+                        21 juin 2022
+                        23 juin 2022
+                        28 juin 2022
+                        30 juin 2022
+                        05 juillet 2022
+                        07 juillet 2022
+                        12 juillet 2022
+                        14 juillet 2022
+                        19 juillet 2022
+                        21 juillet 2022
+                        26 juillet 2022
+                        28 juillet 2022
+                        02 août 2022
+                        04 août 2022
+                        09 août 2022
+                        11 août 2022
+                        16 août 2022
+                        18 août 2022
+                        23 août 2022
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 juin 2022 / 01 août 2022
+
+
+
+
+                 Date : 2022-02-04 06:32:57         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 7/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                    6556 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                   HORAIRE ÉTÉ 2022
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR           HEURE        ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                    PRÉALABLES
+
+PHY335          PHYSIQUE DES ONDES                                                                                                   CTN248 / ING150
+                01      Jeu         09:00 - 12:30   C
+                        Mar         09:00 - 12:00   Labo
+
+                02      Ven         09:00 - 12:30   C
+                        Mar         13:30 - 16:30   Labo
+
+                03      Ven         13:30 - 17:00   C
+                        Mer         13:30 - 16:30   Labo
+
+                04      Jeu         18:00 - 21:30   C
+                        Lun         18:00 - 21:00   Labo
+
+                05      Ven         18:00 - 21:30   C
+                        Mer         18:00 - 21:00   Labo
+
+
+
+PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
+                SANTÉ ET SÉCURITÉ
+                Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 15h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+                ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les étudiants
+                du programme 7625 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité en
+                suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+                (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+                l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le groupe
+                réservé.
+                01      Lun         18:00 - 21:30   Atelier              D
+                        30 mai 2022
+                        06 juin 2022
+                        13 juin 2022
+                        20 juin 2022
+                        27 juin 2022
+                02      Mar         18:00 - 21:30   Atelier              D
+                        24 mai 2022
+                        31 mai 2022
+                        07 juin 2022
+                        14 juin 2022
+                        21 juin 2022
+                03      Jeu         18:00 - 21:30   Atelier              D
+                        26 mai 2022
+                        02 juin 2022
+                        09 juin 2022
+                        16 juin 2022
+                        23 juin 2022
+                04      Ven         18:00 - 21:30   Atelier              D
+                        Sam         09:00 - 16:00   TP                   D
+                        27 mai 2022
+                        28 mai 2022
+                        04 juin 2022
+                05                                  Atelier
+
+
+
+TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
+
+                01      Mer         09:00 - 12:30   C
+                        Jeu         13:30 - 17:30   TP A+B
+
+                02      Lun         09:00 - 12:30   C
+                        Mer         13:30 - 17:30   TP A+B
+
+                03      Jeu         13:30 - 17:00   C
+                        Ven         13:30 - 17:30   TP A+B
+
+                04      Lun         13:30 - 17:00   C
+                        Mar         08:30 - 12:30   TP A+B
+
+                05      Ven         09:00 - 12:30   C                    H
+                        Mar         08:30 - 12:30   TP A+B               H
+
+                06      Jeu         09:00 - 12:30   C
+                        Mer         13:30 - 17:30   TP A+B
+
+                07      Mer         18:00 - 21:30   C                    H
+                        Ven         18:00 - 22:00   TP A+B               H
+
+                08      Mar         18:00 - 21:30   C                    H
+                        Lun         18:00 - 22:00   TP A+B               H
+
+
+                 Date : 2022-02-04 06:32:57         L’École se réserve un droit de modifier l’horaire sans préavis            Page : 8/9
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                            6556 : Baccalauréat en génie des opérations et de la logistique
+
+
+                                                                            HORAIRE ÉTÉ 2022
+                                                      Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                      Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                      Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                      Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE           ACTIVITÉ           Mode d'ens.     LOCAL                 ENSEIGNANT                             PRÉALABLES
+
+TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
+
+                09      Ven         18:00 - 21:30     C                        H
+                        Mer         18:00 - 22:00     TP A+B                   H
+
+
+NOTES
+
+a)              Programmes d'études
+
+                B:               baccalauréat
+
+                GAQ :            certificat en gestion et assurance de la qualité
+
+                GC :             certificat en gestion de la construction
+
+                GE :             certificat et programme court de 1er cycle en gestion des établissements
+
+                PI :             certificat en production industrielle
+
+                CT :             certificat en télécommunication
+
+                TS :             certificat spécialisé en génie des technologie de la santé
+
+b)              Activités
+
+                C : cours        TP : travaux pratiques                                                        LABO : laboratoires
+
+                                 TP/2 : travaux pratiques aux deux (2) semaines                                LABO/2 : laboratoires aux deux (2) semaines
+
+                TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+                présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+                trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+                pratiques (TP).
+
+c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+
+                Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+
+                Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+
+
+
+                 Date : 2022-02-04 06:32:57            L’École se réserve un droit de modifier l’horaire sans préavis                         Page : 9/9
+

@@ -1,0 +1,1545 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                        7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+CHM131
+        CHIMIE ET MATÉRIAUX
+
+        01 Jeu         09:00 - 12:30 C
+                  Mar  09:00 - 12:00 TP
+
+        02 Ven         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        03 Ven         13:30 - 17:00 C
+                  Jeu  13:30 - 16:30 TP
+
+        04 Lun         09:00 - 12:30 C
+                  Mer  09:00 - 12:00 TP
+
+        05 Mer         13:30 - 17:00 C
+                  Lun  13:30 - 16:30 TP
+
+        06 Mar         09:00 - 12:30 C
+                  Jeu  09:00 - 12:00 TP
+
+        07 Ven         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        08 Jeu         13:30 - 17:00 C
+                  Ven  13:30 - 16:30 TP
+
+        09 Mer         09:00 - 12:30 C
+                  Lun  09:00 - 12:00 TP
+
+        10 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP
+
+        11 Mer         18:00 - 21:30 C
+                  Lun  18:00 - 21:00 TP
+
+        12 Jeu         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP
+
+        13 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 21:00 TP
+
+        14 Jeu         09:00 - 12:30 C
+                  Mar  09:00 - 12:00 TP
+
+        15 Ven         13:30 - 17:00 C
+                  Jeu  13:30 - 16:30 TP
+
+        16 Sam         09:00 - 12:30 C
+                  Sam  13:30 - 16:30 TP
+
+COM110  MÉTHODES DE COMMUNICATION                                                                                          Avoir satisfait aux exigences de la
+                                                                                                                           Politique linguistique de l'ÉTS
+        01 Ven         09:00 - 12:30           C
+                  Mar  13:30 - 17:30           TP A+B                                                          Page : 1/16
+
+        02 Ven         13:30 - 17:00           C
+                  Jeu  13:30 - 17:30           TP A+B
+
+        03 Jeu         09:00 - 12:30           C
+                  Mar  08:30 - 12:30           TP A+B
+
+        04 Lun         09:00 - 12:30           C
+                  Mer  13:30 - 17:30           TP A+B
+
+        05 Jeu         18:00 - 21:30           C
+                  Lun  18:00 - 22:00           TP A+B
+
+        06 Mer         09:00 - 12:30           C
+                  Lun  13:30 - 17:30           TP A+B
+
+        07 Ven         09:00 - 12:30           C
+                  Mar  13:30 - 17:30           TP A+B
+
+        08 Jeu         13:30 - 17:00           C
+                  Ven  13:30 - 17:30           TP A+B
+
+        09 Mar         09:00 - 12:30           C
+                  Jeu  08:30 - 12:30           TP A+B
+
+        10 Mar         18:00 - 21:30           C
+                  Ven  18:00 - 22:00           TP A+B
+
+        11 Lun         18:00 - 21:30           C
+                  Jeu  18:00 - 22:00           TP A+B
+
+        Date : 2021-03-17 06:35:51             L’École se réserve un droit de modifier l’horaire sans préavis
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                         7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL                  ENSEIGNANT                            PRÉALABLES
+COM110
+        MÉTHODES DE COMMUNICATION                                                                              Avoir satisfait aux exigences de la
+                                                                                                               Politique linguistique de l'ÉTS
+
+        12 Ven         18:00 - 21:30           C
+                  Mar  18:00 - 22:00           TP A+B
+
+        13 Mer         13:30 - 17:00           C
+                  Lun  08:30 - 12:30           TP A+B
+
+        14 Lun         13:30 - 17:00           C
+                  Mer  08:30 - 12:30           TP A+B
+
+        15 Sam         09:00 - 12:30           C
+                  Sam  13:30 - 16:30           TP A+B
+
+COM115  COMMUNICATION INTERCULTURELLE                                                                          Avoir satisfait aux exigences de la
+                                                                                                               Politique linguistique de l'ÉTS
+
+        01 Lun         13:30 - 17:00           C
+                  Jeu  08:30 - 12:30           TP A+B
+
+        02 Lun         18:00 - 21:30           C
+                  Mer  18:00 - 22:00           TP A+B
+
+        03 Lun         09:00 - 12:30           C
+                  Ven  13:30 - 17:30           TP A+B
+
+CTN100  ÉLÉMENTS DE GESTION DE PROJETS DE
+        CONSTRUCTION
+
+        01 Ven         08:30 - 12:00 C
+                  Ven  13:30 - 17:30 TP-Labo/2
+
+        02 Jeu         13:30 - 17:00 C
+                  Mer  13:30 - 17:30 TP-Labo/2
+
+        03 Jeu         08:30 - 12:00 C
+                  Mer  08:30 - 12:30 TP-Labo/2
+
+        04 Ven         08:30 - 12:00 C
+                  Lun  13:30 - 17:30 TP-Labo/2
+
+        05 Mar         13:30 - 17:00 C
+                  Lun  08:30 - 12:30 TP-Labo/2
+
+        06 Jeu         18:00 - 21:30 C
+                  Mer  18:00 - 22:00 TP-Labo/2
+
+CTN112  ÉLÉMENTS DE CONSTRUCTION DE BÂTIMENT
+
+        01 Sam         09:00 - 12:30           C
+                  Sam  13:30 - 17:30           TP/Labo
+
+        02 Mer         08:30 - 12:00           C
+                  Mer  13:30 - 17:30           TP/Labo
+
+        03 Mar         08:30 - 12:00           C
+                  Mar  13:30 - 17:30           TP/Labo
+
+        04 Mar         18:00 - 21:30           C
+                  Mer  18:00 - 22:00           TP/Labo
+
+CTN114  ÉLÉMENTS DE MATÉRIAUX DE CONSTRUCTION
+
+        01 Lun         08:30 - 12:00           C        A-0450, A-0510,
+                  Lun  12:00 - 15:00           Labo A   A-1400
+                                                        A-0450, A-0510,
+                  Lun  15:00 - 18:00           Labo B   A-1400
+
+        02 Mar         08:30 - 12:00           C        A-0450, A-0510,
+                  Mar  12:00 - 15:00           Labo A   A-1400
+                                                        A-0450, A-0510,
+                  Mar  15:00 - 18:00           Labo B   A-1400
+
+        03 Mer         08:30 - 12:00 C                  A-0450, A-0510,
+                  Mer  12:00 - 15:00 Labo A             A-1400
+
+        Date : 2021-03-17 06:35:51             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 2/16
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                         7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL                  ENSEIGNANT                            PRÉALABLES
+CTN114
+        ÉLÉMENTS DE MATÉRIAUX DE CONSTRUCTION
+
+        03 Mer         15:00 - 18:00 Labo B             A-0450, A-0510,
+                                                        A-1400
+        04 Jeu         08:30 - 12:00           C
+                  Jeu  12:00 - 15:00           Labo A   A-0450, A-0510,
+                  Jeu                                   A-1400
+                       15:00 - 18:00           Labo B   A-0450, A-0510,
+                                                        A-1400
+
+CTN210  MÉTHODES DE CONSTRUCTION ET PRODUCTIVITÉ                                                               Pr. B: CTN100, Pr. A et C:
+                                                                                                               CTN100, CTN112 / Pr. B: CTN100,
+                                                                                                               Pr. A et C: CTN100, CTN113
+
+        01 Sam         09:00 - 12:30           C        A-1504
+                  Sam  13:30 - 15:30           TP/Labo  A-1560
+                                                        A-1560
+        02 Mar         13:30 - 17:00           C
+                  Jeu  13:30 - 15:30           TP/Labo
+
+        03 Mar         18:00 - 21:30           C
+                  Jeu  18:00 - 20:00           TP/Labo
+
+CTN248  STATIQUE ET DYNAMIQUE                                                                                  MAT145
+
+        01 Mar         08:30 - 12:00 C
+                  Jeu  08:30 - 10:30 TP
+
+        02 Mar         13:30 - 17:00 C
+                  Mer  08:30 - 10:30 TP
+
+        03 Jeu         18:00 - 21:30 C
+                  Lun  18:00 - 20:00 TP
+
+CTN318  RÉSISTANCE DES MATÉRIAUX                                                                               CTN248
+
+        01 Ven         08:30 - 12:00 C                  A-1430
+                  Ven  13:30 - 15:30 TP/Labo            A-1430
+                                                        A-1430
+        02 Mar         08:30 - 12:00 C
+                  Mer  13:30 - 15:30 TP/Labo
+
+        03 Jeu         18:00 - 21:30 C
+                  Mer  18:00 - 20:00 TP/Labo
+
+CTN320  PLANIFICATION ET CONTRÔLE DES PROJETS DE                                                               CTN210, INF130
+        CONSTRUCTION
+
+        01 Mer         13:30 - 17:00 C                  A-1504
+                  Lun  08:30 - 11:30 TP/Labo            A-1220
+
+        02 Lun         08:30 - 12:00 C                  A-1560
+                  Mer  13:30 - 16:30 TP/Labo            A-1220
+
+        03 Mer         18:00 - 21:30 C                  A-1432
+                  Lun  18:00 - 21:00 TP/Labo            A-1560
+
+CTN336  MÉCANIQUE DES FLUIDES                                                                                  MAT145, CTN248
+
+        01 Jeu         13:30 - 17:00           C        A-1472
+                  Mar  08:30 - 11:30           TP/Labo  A-1472
+                                                        A-1472
+        02 Lun         08:30 - 12:00           C
+                  Jeu  13:30 - 16:30           TP/Labo
+
+        03 Mer         08:30 - 12:00           C
+                  Lun  13:30 - 16:30           TP/Labo
+
+CTN404  SCIENCE ET TECHNOLOGIE DES MATÉRIAUX                                                                               CHM131, CTN114 / Pr. AU:
+                                                                                                                           CHM131 et CTN104
+        01 Lun         13:30 - 17:00           C        A-0450, A-0510                                                     Pr. B: CHM131 et CTN104
+                  Jeu  13:30 - 17:30           TP/Labo                                                                     Pr. C: CHM131
+
+        02 Mar         08:30 - 12:00           C                                                               Page : 3/16
+
+        Date : 2021-03-17 06:35:51             L’École se réserve un droit de modifier l’horaire sans préavis
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                         7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL                 ENSEIGNANT                             PRÉALABLES
+CTN404
+        SCIENCE ET TECHNOLOGIE DES MATÉRIAUX                                                                   CHM131, CTN114 / Pr. AU:
+                                                                                                               CHM131 et CTN104
+                                                                                                               Pr. B: CHM131 et CTN104
+                                                                                                               Pr. C: CHM131
+
+        02 Mer         08:30 - 12:30           TP/Labo  A-0450, A-0510
+                                                        A-0450, A-0510
+        03 Ven         08:30 - 12:00           C
+                  Lun  08:30 - 12:30           TP/Labo
+
+CTN408  ANALYSE DES STRUCTURES                                                                                 CTN308 et MAT165 / CTN318,
+                                                                                                               MAT165
+
+        01 Lun         08:30 - 12:00           C        A-1214, A-1500
+                  Mar  13:30 - 16:30           TP/Labo  A-1212, A-1500
+
+        02 Mer         18:00 - 21:30           C
+                  Lun  18:00 - 21:00           TP/Labo
+
+CTN446  HYDRAULIQUE ET HYDROLOGIE                                                                              CTN336, MAT350
+
+        01 Mer         13:30 - 17:00 C                  A-1472
+                  Jeu  08:30 - 11:30 TP/Labo            A-1472
+                                                        A-1472
+        02 Lun         13:30 - 17:00 C
+                  Ven  13:30 - 16:30 TP/Labo
+
+        03 Mar         13:30 - 17:00 C
+                  Ven  08:30 - 11:30 TP/Labo
+
+CTN504  MÉCANIQUE DES SOLS                                                                                     Pr. A et B: CTN114, CTN318,
+                                                                                                               CTN336, Pr. C: CTN318 et
+                                                                                                               CTN336
+
+        01 Mer         13:30 - 17:00           C        A-1400
+                  Mer  08:30 - 11:30           TP/Labo  A-1400
+                                                        A-1400
+        02 Mar         08:30 - 12:00           C
+                  Lun  08:30 - 11:30           TP/Labo
+
+        03 Mer         08:30 - 12:00           C
+                  Ven  08:30 - 11:30           TP/Labo
+
+CTN508  STRUCTURES DE BÉTON                                                                                    CTN404 et CTN408
+
+        01 Lun         08:30 - 12:00           C
+                  Mer  13:30 - 16:30           TP/Labo
+
+        02 Mar         13:30 - 16:30           C
+                  Mar  08:30 - 12:00           TP
+
+        03 Jeu         18:00 - 21:30           C
+                  Mer  18:00 - 21:00           TP/Labo
+
+CTN603  THERMIQUE ET SCIENCE DU BÂTIMENT                                                                       CTN336, MAT265
+
+        01 Mar         08:30 - 12:00 C
+                  Jeu  13:30 - 15:30 TP
+
+CTN609  DROIT DE LA CONSTRUCTION                                                                               Minimum 70 Cr
+
+        01 Sam         09:00 - 11:00 C
+                  Sam  11:15 - 12:15 TP
+
+        02 Lun         18:00 - 20:00 C
+                  Sam  20:15 - 21:15 TP
+
+        03 Mer         18:00 - 20:00 C
+                  Sam  20:15 - 21:15 TP
+
+CTN610  GESTION DES CONTRATS DE CONSTRUCTION                                                                   CTN609
+
+        01 Mer         08:30 - 12:00 C
+                  Jeu  13:30 - 17:30 TP/2
+
+        Date : 2021-03-17 06:35:51             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 4/16
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                           7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL           ENSEIGNANT                                   PRÉALABLES
+CTN610                                                                                                         CTN609
+        GESTION DES CONTRATS DE CONSTRUCTION
+
+        02 Mar         18:00 - 21:30 C
+                  Lun  18:00 - 22:00 TP/2
+
+CTN626  GÉNIE DE L'ENVIRONNEMENT                                                                               CTN504*
+
+        01 Mar         08:30 - 12:00 C
+                  Lun  08:30 - 11:30 TP
+
+        02 Mar         13:30 - 17:00 C
+                  Mer  08:30 - 11:30 TP
+
+        03 Mer         18:00 - 21:30 C
+                  Jeu  18:00 - 21:00 TP
+
+CTN647  CONCEPTION ROUTIÈRE                                                                                    CTN446, GIA400
+
+        01 Mer         08:30 - 12:00           C          A-1226
+                  Mer  13:30 - 17:30           TP-Labo/2  A-1220
+
+        02 Mar         18:00 - 21:30           C
+                  Mer  18:00 - 22:00           TP-Labo/2
+
+CTN701  RÉALISATION DES PROJETS DE CONSTRUCTION                                                                CTN600 / CTN610
+
+        01 Lun         18:00 - 21:30 C                    A-1214
+                  Mer  18:00 - 22:00 TP-Labo/2
+
+CTN702  CONTRÔLE ET PERFORMANCE DES PROJETS DE                                                                 CTN200 / CTN320
+        CONSTRUCTION
+
+        01 Mar         18:00 - 21:30 C                    A-1214
+                  Mer  18:00 - 22:00 TP-Labo/2
+
+CTN705  PROJETS INTERNATIONAUX D'INGÉNIERIE DE
+        CONSTRUCTION
+
+        01 Lun         08:30 - 12:00 C                    A-1432
+                  Lun  13:30 - 15:30 TP/Labo              A-1432
+
+CTN731  ENVELOPPE DU BÂTIMENT                                                                                  CTN603 / Pr. AU: CTN103
+                                                                                                               Pr. C: CTN103
+
+        01 Mar         13:30 - 17:00           C
+                  Mar  08:30 - 12:30           TP-Labo/2
+
+        02 Jeu         18:00 - 21:30           C
+                  Mar  18:00 - 22:00           TP-Labo/2
+
+CTN732  SYSTÈMES MÉCANIQUES DU BÂTIMENT                                                                        CTN326 / CTN603
+
+        01 Mer         08:30 - 12:00 C
+                  Ven  13:30 - 17:30 TP/2
+
+CTN733  SYSTÈMES ÉLECTRIQUES DU BÂTIMENT                                                                       PHY332
+
+        01 Mar         18:00 - 21:30 C                    A-1220
+                  Mer  18:00 - 22:00 TP/2
+
+CTN735  ENVIRONNEMENT ET BÂTIMENTS DURABLES                                                                    CTN603
+
+        01 Lun         08:30 - 12:00 C                    A-1432
+                  Mar  13:30 - 17:30 TP-Labo/2
+
+CTN737  BIM ET TECHNOLOGIES DE L'INFORMATION DANS LA
+        CONSTRUCTION
+
+        01 Mar         13:30 - 17:00 C                    A-1222
+
+        Date : 2021-03-17 06:35:51             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 5/16
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                           7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL           ENSEIGNANT                                   PRÉALABLES
+CTN737
+        BIM ET TECHNOLOGIES DE L'INFORMATION DANS LA
+        CONSTRUCTION
+
+        01 Lun         08:30 - 12:30 TP-Labo/2            A-1222
+
+CTN741  FONDATIONS                                                                                             CTN504
+
+        01 Mer         08:30 - 12:00           C          A-1226
+                  Mer  13:30 - 17:30           TP-Labo/2
+
+CTN752  OUVRAGES EN REMBLAI                                                                                    CTN504
+
+        01 Mar         08:30 - 12:00           C
+                  Mar  13:30 - 17:30           TP/2
+
+CTN760  APPROCHES ET OUTILS POUR LA CONCEPTION
+        ENVIRONNEMENTALE
+
+        01 Mer         13:30 - 17:00 C
+                  Ven  13:30 - 17:30 TP/2
+
+CTN761  HYDRAULIQUE URBAINE                                                                                    CTN426 / CTN446
+
+        01 Ven         08:30 - 12:00           C          A-1222
+                  Mer  08:30 - 12:30           TP-Labo/2
+
+CTN764  FONDEMENTS DES PROCÉDÉS ET PROCESSUS EN
+        GÉNIE DE L'ENVIRONNEMENT
+
+        01 Lun         08:30 - 12:00 C
+                  Mar  13:30 - 17:30 TP
+
+CTN766  IMPACTS DES PROJETS SUR L'ENVIRONNEMENT
+
+        01 Mer         08:30 - 12:00 C
+                  Lun  15:30 - 17:30 TP
+
+CTN769  RESSOURCES HYDRIQUES                                                                                   CTN446
+
+        01 Lun         13:30 - 17:00           C          A-1226
+                  Mer  08:30 - 10:30           TP/Labo    A-1432
+
+CTN771  CONSTRUCTION ET DIMENSIONNEMENT DES                                                                    CTN504 / CTN647
+        CHAUSSÉES
+
+        01 Ven         08:30 - 12:00 C                    A-1214
+                  Ven  13:30 - 17:30 TP-Labo/2
+
+CTN772  ENTRETIEN, RÉHABILITATION ET GESTION DES                                                               CTN647 / GIA400 et CTN200
+        ROUTES
+
+        01 Lun         18:00 - 21:30 C                    A-1432
+                  Jeu  18:00 - 22:00 TP-Labo/2
+
+CTN774  AMÉNAGEMENTS ROUTIERS                                                                                  CTN426 / CTN647
+
+        01 Mer         13:30 - 17:00 C                    A-1226
+                  Mer  08:30 - 12:30 TP/2
+
+CTN781  STRUCTURES EN BOIS ET FAUSSES CHARPENTES                                                               CTN408
+
+        01 Lun         13:30 - 17:00           C          A-1226
+                  Ven  08:30 - 10:30           TP/Labo    A-1432
+
+        02 Lun         08:30 - 12:00           C
+                  Ven  10:30 - 12:30           TP/Labo
+
+        Date : 2021-03-17 06:35:51             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 6/16
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                         7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL         ENSEIGNANT                                     PRÉALABLES
+CTN783                                                                                                         CTN408
+        CHARPENTES D'ACIER
+
+        01 Jeu         08:30 - 12:00           C        A-1214
+                  Jeu  13:30 - 15:30           TP/Labo  A-1214
+
+        02 Lun         18:00 - 21:30           C        A-1220
+                  Jeu  18:00 - 20:00           TP/Labo  A-1214
+
+CTN785  ANALYSE ET CONCEPTION DES STRUCTURES                                                                   CTN508
+                                                                                                               Pr. B: CTN508
+
+        01 Mar         13:30 - 17:00 C                  A-1226
+                  Mer  08:30 - 12:30 TP-Labo/2
+
+CTN791  PROJETS SPÉCIAUX                                                                                       Autorisation du directeur de
+        01                                                                                                     département
+
+                                               Projet
+
+CTN793  PROJET DE FIN D'ÉTUDES EN GÉNIE DE LA                                                                  Minimum 99 Cr
+        CONSTRUCTION
+
+        01 Jeu         08:30 - 17:00 Projet
+
+ENT601  MARKETING ET VENTES
+
+        01 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 17:00 TP
+
+        02 Mar         18:00 - 21:30 C
+                  Mer  18:00 - 20:00 TP
+
+GIA400  ANALYSE DE RENTABILITÉ DE PROJETS
+
+        01 Sam         09:00 - 12:30 C
+                  Sam  13:30 - 15:30 TP
+
+        02 Mer         09:00 - 12:30 C
+                  Ven  15:30 - 17:30 TP
+
+        03 Mar         13:30 - 17:00 C
+                  Jeu  08:30 - 10:30 TP
+
+        04 Jeu         13:30 - 17:30 C
+                  Mar  08:30 - 10:30 TP
+
+        05 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 15:30 TP
+
+        06 Lun         09:00 - 12:30 C
+                  Mer  15:30 - 17:30 TP
+
+        07 Ven         13:30 - 17:00 C
+                  Mer  08:30 - 10:30 TP
+
+        08 Jeu         09:00 - 12:00 C
+                  Mar  15:30 - 17:30 TP
+
+        10 Mar         18:00 - 21:30 C
+                  Jeu  18:00 - 20:00 TP
+
+        11 Mer         18:00 - 21:30 C
+                  Ven  18:00 - 20:00 TP
+
+GIA500  INITIATION AUX PROJETS INTERNATIONAUX
+        D'INGÉNIERIE
+
+        01 Jeu         18:00 - 21:30 C
+                  Lun  18:00 - 22:00 TP/2
+
+INF130  ORDINATEURS ET PROGRAMMATION
+
+        01 Mer         09:00 - 12:30           C        E-4023
+                  Lun  09:00 - 12:00           Labo     E-4021
+
+        02 Ven         09:00 - 12:30           C        E-4023
+
+        Date : 2021-03-17 06:35:51             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 7/16
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                      7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL      ENSEIGNANT                                        PRÉALABLES
+INF130
+        ORDINATEURS ET PROGRAMMATION
+
+        02 Mar         09:00 - 12:00           Labo  B-2626
+
+        03 Mar         13:30 - 17:00           C     E-4023
+                  Jeu  13:30 - 16:30           Labo  E-4022
+
+        04 Mer         13:30 - 17:00           C     E-4023
+                  Lun  13:30 - 16:30           Labo  E-4021
+
+        05 Jeu         18:00 - 21:30           C     E-4022
+                  Mar  18:00 - 21:00           Labo  E-4022
+
+        06 Mer         18:00 - 21:30           C     E-4022
+                  Lun  18:00 - 21:00           Labo  E-4023
+
+MAT144  INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
+        (HORS PROG.)
+
+        01 Ven         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        02 Ven         13:30 - 17:00 C
+                  Jeu  13:30 - 16:30 TP
+
+        03 Mer         13:30 - 17:00 C
+                  Lun  13:30 - 16:30 TP
+
+        04 Jeu         09:00 - 12:30 C
+                  Mar  09:00 - 12:00 TP
+
+        05 Lun         09:00 - 12:30 C
+                  Mer  09:00 - 12:00 TP
+
+        06 Jeu         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP
+
+        07 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 21:00 TP
+
+        08 Mar         13:30 - 17:00 C
+                  Ven  09:00 - 12:00 TP
+
+        09 Jeu         13:30 - 17:00 C
+                  Ven  13:30 - 16:30 TP
+
+        10 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP
+
+        11 Jeu         09:00 - 12:30 C
+                  Mar  09:00 - 12:00 TP
+
+MAT145  CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+        01 Ven         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        02 Mar         13:30 - 17:00 C
+                  Ven  09:00 - 12:00 TP
+
+        03 Ven         13:30 - 17:00 C
+                  Jeu  13:30 - 16:30 TP
+
+        04 Jeu         13:30 - 17:00 C
+                  Ven  13:30 - 16:30 TP
+
+        05 Mer         13:30 - 17:00 C
+                  Lun  13:30 - 16:30 TP
+
+        06 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP
+
+        07 Jeu         09:00 - 12:30 C
+                  Mar  09:00 - 12:00 TP
+
+        08 Mar         09:00 - 12:30 C
+                  Jeu  09:00 - 12:00 TP
+
+        09 Lun         09:00 - 12:30 C
+                  Mer  09:00 - 12:00 TP
+
+        10 Mer         09:00 - 12:30 C
+
+        Date : 2021-03-17 06:35:52             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 8/16
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                  7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+MAT145
+        CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+        10 Lun         09:00 - 12:00 TP
+
+        11 Jeu         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP
+
+        12 Mar         18:00 - 21:30 C
+                  Jeu  18:00 - 21:00 TP
+
+        13 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 21:00 TP
+
+        14 Mer         18:00 - 21:30 C
+                  Lun  18:00 - 21:00 TP
+
+        15 Ven         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        16 Ven         13:30 - 17:00 C
+                  Jeu  13:30 - 16:30 TP
+
+MAT165  ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                                MAT145
+
+        01 Ven         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP
+
+        02 Jeu         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        03 Ven         09:00 - 12:30 C
+                  Lun  09:00 - 12:00 TP
+
+        04 Mar         09:00 - 12:30 C
+                  Mer  09:00 - 12:00 TP
+
+        05 Jeu         13:30 - 17:00 C
+                  Lun  13:30 - 16:30 TP
+
+        06 Mer         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP
+
+        08 Sam         13:30 - 17:00 C
+                  Sam  09:00 - 12:00 TP
+
+        10 Lun         18:00 - 21:30 C
+                  Jeu  18:00 - 21:00 TP
+
+MAT265  ÉQUATIONS DIFFÉRENTIELLES                                                                                          MAT145
+                                                                                                               Page : 9/16
+        01 Ven         09:00 - 12:30 C
+                  Mer  09:00 - 12:00 TP
+
+        02 Mar         13:30 - 17:00 C
+                  Ven  13:30 - 16:30 TP
+
+        03 Mar         09:00 - 12:30 C
+                  Jeu  13:30 - 16:30 TP
+
+        04 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 21:00 TP
+
+        05 Mer         13:30 - 17:00 C
+                  Lun  13:30 - 16:30 TP
+
+        06 Mer         09:00 - 12:30 C
+                  Ven  09:00 - 12:00 TP
+
+        07 Ven         13:30 - 17:00 C
+                  Mar  13:30 - 16:30 TP
+
+        08 Jeu         13:30 - 17:00 C
+                  Mar  09:00 - 12:00 TP
+
+        09 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP
+
+        10 Jeu         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP
+
+        11 Mer         18:00 - 21:30 C
+
+        Date : 2021-03-17 06:35:52             L’École se réserve un droit de modifier l’horaire sans préavis
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                  7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+MAT265                                                                                                         MAT145
+        ÉQUATIONS DIFFÉRENTIELLES
+
+        11 Lun         18:00 - 21:00 TP
+
+        12 Sam         09:00 - 12:30 C
+                  Sam  13:30 - 16:30 TP
+
+        13 Mar         09:00 - 12:30 C
+                  Jeu  09:00 - 12:00 TP
+
+MAT350  PROBABILITÉS ET STATISTIQUES                                                                           MAT145
+
+        01 Mar         13:30 - 17:00 C
+                  Jeu  09:00 - 12:00 TP
+
+        02 Mer         09:00 - 12:30 C
+                  Lun  13:30 - 16:30 TP
+
+        03 Mar         09:00 - 12:30 C
+                  Jeu  13:30 - 16:30 TP
+
+        04 Lun         09:00 - 12:30 C
+                  Ven  13:30 - 16:30 TP
+
+        05 Mer         13:30 - 17:00 C
+                  Ven  09:00 - 12:00 TP
+
+        06 Jeu         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        07 Lun         13:30 - 17:00 C
+                  Mer  09:00 - 12:00 TP
+
+        08 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 21:00 TP
+
+        09 Jeu         13:30 - 17:00 C
+                  Mar  09:00 - 12:00 TP
+
+        11 Jeu         13:30 - 17:00 C
+                  Mar  09:00 - 12:00 TP
+
+        12 Mer         18:00 - 21:30 C
+                  Lun  18:00 - 21:00 TP
+
+MATEST  ACCUEIL EN MATHÉMATIQUES
+
+        01 Ven         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        02 Ven         13:30 - 17:00 C
+                  Jeu  13:30 - 16:30 TP
+
+        03 Mer         13:30 - 17:30 C
+                  Lun  13:30 - 16:30 TP
+
+        04 Jeu         09:00 - 12:30 C
+                  Mar  09:00 - 12:00 TP
+
+        05 Lun         09:00 - 12:30 C
+                  Mer  09:00 - 12:00 TP
+
+        06 Jeu         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP
+
+        07 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 21:00 TP
+
+PEP110  ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
+        PROFESSIONNELLE
+
+        01 Lun         09:00 - 12:30 Atelier
+
+        13 septembre 2021
+        20 septembre 2021
+        27 septembre 2021
+        04 octobre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 septembre 2021 / 26 septembre 2021
+
+        Date : 2021-03-17 06:35:52             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 10/16
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                  7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR  HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                                  PRÉALABLES
+PEP110
+        ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
+        PROFESSIONNELLE
+
+        02 Lun   09:00 - 12:30 Atelier
+
+        12 octobre 2021
+        18 octobre 2021
+        25 octobre 2021
+        01 novembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 17 octobre 2021 / 24 octobre 2021
+
+        03 Lun   09:00 - 12:30 Atelier
+
+        08 novembre 2021
+        15 novembre 2021
+        22 novembre 2021
+        29 novembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 14 novembre 2021 / 21 novembre 2021
+
+        04 Mar   09:00 - 12:30 Atelier
+
+        07 septembre 2021
+        14 septembre 2021
+        21 septembre 2021
+        28 septembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2021 / 20 septembre 2021
+
+        05 Mar   09:00 - 12:30 Atelier
+
+        05 octobre 2021
+        19 octobre 2021
+        26 octobre 2021
+        02 novembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 18 octobre 2021 / 25 octobre 2021
+
+        06 Mar   09:00 - 12:30 Atelier
+
+        09 novembre 2021
+        16 novembre 2021
+        23 novembre 2021
+        30 novembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 15 novembre 2021 / 22 novembre 2021
+
+        07 Mer   18:00 - 21:30 Atelier
+
+        08 septembre 2021
+        15 septembre 2021
+        22 septembre 2021
+        29 septembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 14 septembre 2021 / 21 septembre 2021
+
+        08 Mer   18:00 - 21:30 Atelier
+
+        06 octobre 2021
+        13 octobre 2021
+        20 octobre 2021
+        27 octobre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 12 octobre 2021 / 19 octobre 2021
+
+        09 Mer   18:00 - 21:30 Atelier
+
+        10 novembre 2021
+        17 novembre 2021
+        24 novembre 2021
+        01 décembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 novembre 2021 / 23 novembre 2021
+
+        10 Mar   18:00 - 21:30 Atelier
+
+        07 septembre 2021
+        14 septembre 2021
+        21 septembre 2021
+        28 septembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2021 / 20 septembre 2021
+
+        11 Mar   18:00 - 21:30 Atelier
+
+        05 octobre 2021
+        19 octobre 2021
+        26 octobre 2021
+        02 novembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 18 octobre 2021 / 25 octobre 2021
+
+        12 Mar   18:00 - 21:30 Atelier
+
+        09 novembre 2021
+        16 novembre 2021
+        23 novembre 2021
+        30 novembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 15 novembre 2021 / 22 novembre 2021
+
+        Date : 2021-03-17 06:35:52             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 11/16
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                    7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+PEP110
+        ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
+        PROFESSIONNELLE
+
+        13 Jeu         13:30 - 17:00 Atelier
+
+        16 septembre 2021
+        23 septembre 2021
+        30 septembre 2021
+        07 octobre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 22 septembre 2021 / 29 septembre 2021
+
+        14 Sam         09:00 - 12:30 Atelier
+
+        11 septembre 2021
+        18 septembre 2021
+        25 septembre 2021
+        02 octobre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 17 septembre 2021 / 24 septembre 2021
+
+        15 Sam         09:00 - 12:30 Atelier
+
+        09 octobre 2021
+        16 octobre 2021
+        23 octobre 2021
+        30 octobre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 15 octobre 2021 / 22 octobre 2021
+
+        16 Sam         09:00 - 12:30 Atelier
+
+        13 novembre 2021
+        20 novembre 2021
+        27 novembre 2021
+        04 décembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 novembre 2021 / 26 novembre 2021
+
+PHY144  INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
+        PROGRAMME)
+
+        01 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP/Labo
+
+        02 Mar         09:00 - 12:30 C
+                  Jeu  09:00 - 12:00 TP/Labo
+
+        03 Lun         09:00 - 12:30 C
+                  Ven  09:00 - 12:00 TP/Labo
+
+        04 Ven         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP/Labo
+
+        05 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP/Labo
+
+        06 Mar         09:00 - 12:30 C
+                  Jeu  09:00 - 12:00 TP/Labo
+
+PHY332  ÉLECTRICITÉ ET MAGNÉTISME                                                                              CTN258 / ING150
+
+        01 Ven         09:00 - 12:30 C
+                  Lun  09:00 - 12:00 Labo
+
+        02 Lun         13:30 - 17:00 C
+                  Mer  09:00 - 12:00 Labo
+
+        03 Mar         09:00 - 12:30 C
+                  Jeu  13:30 - 16:30 Labo
+
+        04 Mer         13:30 - 17:00 C
+                  Mar  13:30 - 16:30 Labo
+
+        05 Ven         13:30 - 17:00 C
+                  Jeu  09:00 - 12:00 Labo
+
+        06 Lun         09:00 - 12:30 C
+                  Ven  09:00 - 12:00 Labo
+
+        07 Mer         09:00 - 12:30 C
+                  Lun  13:30 - 16:30 Labo
+
+        09 Mar         18:00 - 21:30 C
+                  Jeu  18:00 - 21:00 Labo
+
+        11 Sam         09:00 - 12:30 C
+
+        Date : 2021-03-17 06:35:52             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 12/16
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                         7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+PHY332                                                                                                         CTN258 / ING150
+        ÉLECTRICITÉ ET MAGNÉTISME
+
+        11 Sam         13:30 - 16:30 Labo
+
+PHY335  PHYSIQUE DES ONDES                                                                                     CTN258 / ING150
+
+        01 Ven         13:30 - 17:00           C
+                  Mar  09:00 - 12:00           Labo
+
+        02 Jeu         09:00 - 12:30           C
+                  Mer  09:00 - 12:00           Labo
+
+        03 Mar         09:00 - 12:30           C
+                  Jeu  13:30 - 16:30           Labo
+
+        04 Ven         09:00 - 12:30           C
+                  Lun  09:00 - 12:00           Labo
+
+        05 Lun         13:30 - 17:00           C
+                  Mer  13:30 - 16:30           Labo
+
+        06 Ven         18:00 - 21:30           C
+                  Mer  18:00 - 21:00           Labo
+
+        08 Jeu         18:00 - 21:30           C
+                  Mar  18:00 - 21:00           Labo
+
+PHYEST  ACCUEIL EN PHYSIQUE
+
+        01 Lun         13:30 - 17:00           C
+                  Mer  13:30 - 16:30           TP/Labo
+
+        02 Mar         09:00 - 12:30           C
+                  Jeu  09:00 - 12:00           TP/Labo
+
+        03 Lun         09:00 - 12:30           C
+                  Ven  09:00 - 12:00           TP/Labo
+
+        04 Ven         18:00 - 21:30           C
+                  Mar  18:00 - 21:00           TP/Labo
+
+        05 Lun         13:30 - 17:00           C
+                  Mer  13:30 - 16:30           TP/Labo
+
+        06 Lun         09:00 - 12:30           C
+                  Ven  09:00 - 12:00           TP/Labo
+
+        07 Ven         18:00 - 21:30           C
+                  Mar  18:00 - 21:00           TP/Labo
+
+PRE011  DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
+        SANTÉ ET SÉCURITÉ
+
+        Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 15h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+
+        ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les étudiants
+
+        du programme 7625 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité en
+
+        suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+
+        (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+
+        l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le groupe
+
+        réservé.
+
+        01 Ven         18:00 - 21:30 Atelier
+
+        Sam            09:00 - 16:00 C
+
+        17 septembre 2021
+        18 septembre 2021
+        25 septembre 2021
+
+        02 Ven         18:00 - 21:30 Atelier
+                  Sam  09:00 - 16:00 C
+
+        17 septembre 2021
+        18 septembre 2021
+        25 septembre 2021
+
+        03 Ven         18:00 - 21:30 Atelier
+                  Sam  09:00 - 16:00 C
+
+        01 octobre 2021
+        02 octobre 2021
+        16 octobre 2021
+
+        04 Ven         18:00 - 21:30 Atelier
+
+        Date : 2021-03-17 06:35:52             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 13/16
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+PRE011
+        DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
+        SANTÉ ET SÉCURITÉ
+
+        Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 15h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+
+        ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les étudiants
+
+        du programme 7625 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité en
+
+        suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+
+        (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+
+        l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le groupe
+
+        réservé.
+
+        04 Sam         09:00 - 16:00 C
+
+        01 octobre 2021
+        02 octobre 2021
+        16 octobre 2021
+
+        05 Ven         18:00 - 21:30 Atelier
+                  Sam  09:00 - 16:00 C
+
+        22 octobre 2021
+        23 octobre 2021
+        30 octobre 2021
+
+        06 Ven         18:00 - 21:30 Atelier
+                  Sam  09:00 - 16:00 C
+
+        22 octobre 2021
+        23 octobre 2021
+        30 octobre 2021
+
+        07 Ven         18:00 - 21:30 Atelier
+                  Sam  09:00 - 16:00 C
+
+        12 novembre 2021
+        13 novembre 2021
+        20 novembre 2021
+
+        08 Ven         18:00 - 21:30 Atelier
+                  Sam  09:00 - 16:00 C
+
+        12 novembre 2021
+        13 novembre 2021
+        20 novembre 2021
+
+        09 Lun         18:00 - 21:30 Atelier
+
+        13 septembre 2021
+        20 septembre 2021
+        27 septembre 2021
+        04 octobre 2021
+        18 octobre 2021
+
+        10 Lun         18:00 - 21:30 Atelier
+
+        13 septembre 2021
+        20 septembre 2021
+        27 septembre 2021
+        04 octobre 2021
+        18 octobre 2021
+
+        11 Lun         18:00 - 21:30 Atelier
+
+        25 octobre 2021
+        01 novembre 2021
+        08 novembre 2021
+        15 novembre 2021
+        22 novembre 2021
+
+        12 Lun         18:00 - 21:30 Atelier
+
+        25 octobre 2021
+        01 novembre 2021
+        08 novembre 2021
+        15 novembre 2021
+        22 novembre 2021
+
+        13 Mar         18:00 - 21:30 Atelier
+
+        14 septembre 2021
+        21 septembre 2021
+        28 septembre 2021
+        05 octobre 2021
+        19 octobre 2021
+
+        14 Mar         18:00 - 21:30 Atelier
+
+        14 septembre 2021
+        21 septembre 2021
+        28 septembre 2021
+        05 octobre 2021
+        19 octobre 2021
+
+        Date : 2021-03-17 06:35:52             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 14/16
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                         7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR   HEURE ACTIVITÉ Mode d'ens. LOCAL      ENSEIGNANT                                                      PRÉALABLES
+PRE011
+        DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
+        SANTÉ ET SÉCURITÉ
+
+        Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 15h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+
+        ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les étudiants
+
+        du programme 7625 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité en
+
+        suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+
+        (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+
+        l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le groupe
+
+        réservé.
+
+        15 Mar    18:00 - 21:30 Atelier
+
+            26 octobre 2021
+            02 novembre 2021
+            09 novembre 2021
+            16 novembre 2021
+            23 novembre 2021
+
+        16 Mer    18:00 - 21:30 Atelier
+
+            15 septembre 2021
+            22 septembre 2021
+            29 septembre 2021
+            06 octobre 2021
+            13 octobre 2021
+
+        17 Mer    18:00 - 21:30 Atelier
+
+            20 octobre 2021
+            27 octobre 2021
+            10 novembre 2021
+            17 novembre 2021
+            24 novembre 2021
+
+        18 Jeu    18:00 - 21:30 Atelier
+
+            16 septembre 2021
+            23 septembre 2021
+            30 septembre 2021
+            07 octobre 2021
+            14 octobre 2021
+
+        19 Jeu    18:00 - 21:30 Atelier
+
+            21 octobre 2021
+            28 octobre 2021
+            03 novembre 2021
+            11 novembre 2021
+            18 novembre 2021
+
+        21                                     Atelier
+
+            Ce cours est offert en ligne. Le groupe 21 est réservé aux étudiants inscrits aux programmes 7625 et 7622.
+
+TIN503  ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
+
+        01 Mar    13:30 - 17:00 C
+
+        Date : 2021-03-17 06:35:52             L’École se réserve un droit de modifier l’horaire sans préavis           Page : 15/16
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                                          7625 : Baccalauréat en génie de la construction
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR              HEURE ACTIVITÉ Mode d'ens. LOCAL                                    ENSEIGNANT                                 PRÉALABLES
+TIN503
+        ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
+
+        01 Lun         13:30 - 17:30 TP
+
+        02 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 22:00 TP
+
+        03 Jeu         09:00 - 12:30 C
+                  Mer  08:30 - 12:30 TP
+
+        04 Jeu         13:30 - 17:00 C
+                  Ven  08:30 - 12:30 TP
+
+        05 Mar         09:00 - 12:30 C
+                  Mer  13:30 - 17:30 TP
+
+        06 Ven         18:00 - 21:30 C
+                  Jeu  18:00 - 22:00 TP
+
+        07 Lun         09:00 - 12:30 C
+                  Ven  13:30 - 17:30 TP
+
+        09 Lun         13:30 - 17:00 C
+                  Mar  13:30 - 17:30 TP
+
+NOTES   Programmes d'études
+a)
+        B:             baccalauréat
+b)
+c)      GAQ :          certificat en gestion et assurance de la qualité
+
+        GC :           certificat en gestion de la construction
+
+        GE :           certificat et programme court de 1er cycle en gestion des établissements
+
+        PI :           certificat en production industrielle
+
+        CT :           certificat en télécommunication
+
+        TS :           certificat spécialisé en génie des technologie de la santé
+
+        Activités
+
+        C : cours      TP : travaux pratiques                                                    LABO : laboratoires
+
+                       TP/2 : travaux pratiques aux deux (2) semaines                            LABO/2 : laboratoires aux deux (2) semaines
+
+        TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+        présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+        trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+        pratiques (TP).
+
+        À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+        Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+        Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+        Date : 2021-03-17 06:35:52             L’École se réserve un droit de modifier l’horaire sans préavis         Page : 16/16
+

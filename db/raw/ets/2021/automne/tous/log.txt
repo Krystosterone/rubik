@@ -1,0 +1,1474 @@
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                        7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+CHM131
+        CHIMIE ET MATÉRIAUX
+
+        01 Jeu         09:00 - 12:30 C
+                  Mar  09:00 - 12:00 TP
+
+        02 Ven         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        03 Ven         13:30 - 17:00 C
+                  Jeu  13:30 - 16:30 TP
+
+        04 Lun         09:00 - 12:30 C
+                  Mer  09:00 - 12:00 TP
+
+        05 Mer         13:30 - 17:00 C
+                  Lun  13:30 - 16:30 TP
+
+        06 Mar         09:00 - 12:30 C
+                  Jeu  09:00 - 12:00 TP
+
+        07 Ven         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        08 Jeu         13:30 - 17:00 C
+                  Ven  13:30 - 16:30 TP
+
+        09 Mer         09:00 - 12:30 C
+                  Lun  09:00 - 12:00 TP
+
+        10 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP
+
+        11 Mer         18:00 - 21:30 C
+                  Lun  18:00 - 21:00 TP
+
+        12 Jeu         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP
+
+        13 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 21:00 TP
+
+        14 Jeu         09:00 - 12:30 C
+                  Mar  09:00 - 12:00 TP
+
+        15 Ven         13:30 - 17:00 C
+                  Jeu  13:30 - 16:30 TP
+
+        16 Sam         09:00 - 12:30 C
+                  Sam  13:30 - 16:30 TP
+
+COM110  MÉTHODES DE COMMUNICATION                                                                                          Avoir satisfait aux exigences de la
+                                                                                                                           Politique linguistique de l'ÉTS
+        01 Ven         09:00 - 12:30           C
+                  Mar  13:30 - 17:30           TP A+B                                                          Page : 1/15
+
+        02 Ven         13:30 - 17:00           C
+                  Jeu  13:30 - 17:30           TP A+B
+
+        03 Jeu         09:00 - 12:30           C
+                  Mar  08:30 - 12:30           TP A+B
+
+        04 Lun         09:00 - 12:30           C
+                  Mer  13:30 - 17:30           TP A+B
+
+        05 Jeu         18:00 - 21:30           C
+                  Lun  18:00 - 22:00           TP A+B
+
+        06 Mer         09:00 - 12:30           C
+                  Lun  13:30 - 17:30           TP A+B
+
+        07 Ven         09:00 - 12:30           C
+                  Mar  13:30 - 17:30           TP A+B
+
+        08 Jeu         13:30 - 17:00           C
+                  Ven  13:30 - 17:30           TP A+B
+
+        09 Mar         09:00 - 12:30           C
+                  Jeu  08:30 - 12:30           TP A+B
+
+        10 Mar         18:00 - 21:30           C
+                  Ven  18:00 - 22:00           TP A+B
+
+        11 Lun         18:00 - 21:30           C
+                  Jeu  18:00 - 22:00           TP A+B
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                         7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+COM110
+        MÉTHODES DE COMMUNICATION                                                                              Avoir satisfait aux exigences de la
+                                                                                                               Politique linguistique de l'ÉTS
+
+        12 Ven         18:00 - 21:30           C
+                  Mar  18:00 - 22:00           TP A+B
+
+        13 Mer         13:30 - 17:00           C
+                  Lun  08:30 - 12:30           TP A+B
+
+        14 Lun         13:30 - 17:00           C
+                  Mer  08:30 - 12:30           TP A+B
+
+        15 Sam         09:00 - 12:30           C
+                  Sam  13:30 - 16:30           TP A+B
+
+COM115  COMMUNICATION INTERCULTURELLE                                                                          Avoir satisfait aux exigences de la
+                                                                                                               Politique linguistique de l'ÉTS
+
+        01 Lun         13:30 - 17:00           C
+                  Jeu  08:30 - 12:30           TP A+B
+
+        02 Lun         18:00 - 21:30           C
+                  Mer  18:00 - 22:00           TP A+B
+
+        03 Lun         09:00 - 12:30           C
+                  Ven  13:30 - 17:30           TP A+B
+
+ENT201  GESTION FINANCIÈRE D'ENTREPRISE                                                                        GIA400 ou GIA410
+
+        01 Lun         09:00 - 12:30 C
+                  Mer  15:30 - 17:30 TP
+
+        02 Mar         18:00 - 21:30 C
+                  Jeu  18:00 - 20:00 TP
+
+ENT202  INTRODUCTION À L'ENTREPRENEURSHIP
+
+        01 Lun         09:00 - 12:30 C
+                  Jeu  18:00 - 20:00 TP
+
+        02 Mer         13:30 - 17:00 C
+                  Jeu  18:00 - 20:00 TP
+
+        03 Mar         13:30 - 17:00 C
+                  Jeu  18:00 - 20:00 TP
+
+ENT301  PROJETS SPÉCIAUX EN ENTREPRENEURIAT I
+
+        01                                     Projets
+
+ENT302  PROJETS SPÉCIAUX EN ENTREPRENEURIAT II
+
+        01                                     Projets
+
+ENT303  PROJETS SPÉCIAUX EN ENTREPRENEURIAT III
+
+        01                                     Projets
+
+ENT304  PROJETS SPÉCIAUX EN ENTREPRENEURIAT IV
+
+        01                                     Projets
+
+ENT601  MARKETING ET VENTES
+
+        01 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 17:00 TP
+
+        02 Mar         18:00 - 21:30 C
+                  Mer  18:00 - 20:00 TP
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 2/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                         7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL                 ENSEIGNANT                             PRÉALABLES
+GIA400
+        ANALYSE DE RENTABILITÉ DE PROJETS
+
+        01 Sam         09:00 - 12:30 C
+                  Sam  13:30 - 15:30 TP
+
+        02 Mer         09:00 - 12:30 C
+                  Ven  15:30 - 17:30 TP
+
+        03 Mar         13:30 - 17:00 C
+                  Jeu  08:30 - 10:30 TP
+
+        04 Jeu         13:30 - 17:30 C
+                  Mar  08:30 - 10:30 TP
+
+        05 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 15:30 TP
+
+        06 Lun         09:00 - 12:30 C
+                  Mer  15:30 - 17:30 TP
+
+        07 Ven         13:30 - 17:00 C
+                  Mer  08:30 - 10:30 TP
+
+        08 Jeu         09:00 - 12:00 C
+                  Mar  15:30 - 17:30 TP
+
+        10 Mar         18:00 - 21:30 C
+                  Jeu  18:00 - 20:00 TP
+
+        11 Mer         18:00 - 21:30 C
+                  Ven  18:00 - 20:00 TP
+
+GIA602  ERGONOMIE ET SÉCURITÉ EN MILIEU INDUSTRIEL
+
+        01 Lun         08:30 - 12:00           C        A-1212, A-2230
+                  Mer  08:30 - 12:30           TP/Labo  A-1504, A-2230
+                                                        A-1212, A-2230
+        02 Mar         13:30 - 17:00           C
+                  Ven  13:30 - 17:30           TP/Labo
+
+        04 Jeu         18:00 - 21:30           C
+                  Mar  18:00 - 22:00           TP/Labo
+
+GPA659  VISION ARTIFICIELLE
+
+        01 Lun         08:30 - 12:00           C        A-3608
+                  Mar  13:30 - 16:30           Labo
+
+GPE450  GESTION DU PERSONNEL ET RELATIONS
+        INDUSTRIELLES
+
+        01 Lun         13:30 - 17:00 C
+                  Jeu  15:30 - 17:30 TP
+
+        02 Jeu         18:00 - 21:30 C
+                  Lun  18:00 - 20:00 TP
+
+        04 Mar         13:30 - 17:00 C
+                  Mer  13:30 - 15:30 TP
+
+GTI320  PROGRAMMATION MATHÉMATIQUE : PATRONS ET                                                                MAT472, LOG121
+        ALGORITHMES EFFICACES
+
+        01 Mer         08:30 - 12:00 C                  A-3326
+                  Ven  08:30 - 10:30 Labo
+
+GTI350  CONCEPTION ET ÉVALUATION DES INTERFACES                                                                LOG210
+        UTILISATEURS
+
+        01 Mer         13:30 - 17:00           C        A-3412
+                  Ven  08:30 - 11:30           Labo A   A-3322
+                  Ven  08:30 - 11:30           Labo B
+                                                        A-3326
+        03 Mar         18:00 - 21:30           C        A-3412
+                  Mer  18:00 - 21:00           Labo A
+                  Mer  18:00 - 21:00           Labo B
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 3/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                        7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS    GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL       ENSEIGNANT                                      PRÉALABLES
+GTI525                                                                                                         LOG210 / Minimum 47 Cr
+         TECHNOLOGIES DE DÉVELOPPEMENT INTERNET
+
+         01 Mer         13:30 - 17:00 C                A-3326
+                   Lun  13:30 - 15:30 Labo
+
+GTI611   RÉSEAUX DE COMMUNICATION IP                                                                           LOG100 ou GTI100 et LOG121 /
+                                                                                                               LOG121
+
+         01 Jeu         13:30 - 17:00          C       A-3326
+                   Mer  13:30 - 16:30          Labo    A-3322
+
+         02 Mer         08:30 - 12:00          C
+                   Jeu  13:30 - 16:30          Labo
+
+GTI619   SÉCURITÉ DES SYSTÈMES                                                                                 GTI610 / GTI610 ou GTI611 /
+                                                                                                               GTI611 / LOG121
+
+         01 Lun         13:30 - 17:00          C       A-3412
+                   Mar  13:30 - 15:30          Labo A  A-3412
+                   Mar  15:30 - 17:30          Labo B
+
+GTI719   SÉCURITÉ DES RÉSEAUX D'ENTREPRISE                                                                     GTI619 / LOG121
+
+         01 Lun         18:00 - 21:30 C                A-3220
+                   Mar  18:00 - 20:00 Labo
+
+GTI723   TEST D’INTRUSION                                                                                      GTI619
+
+         01 Mer         18:00 - 21:30          C       A-3446
+                   Mar  18:00 - 20:00          Labo
+
+GTI771   APPRENTISSAGE MACHINE AVANCÉ                                                                          MAT472, LOG635
+
+         01 Mer         13:30 - 17:00 C                A-3326
+                   Ven  08:30 - 10:30 Labo
+
+GTI780   SUJETS ÉMERGENTS EN TECHNOLOGIES DE
+         L'INFORMATION
+
+         01 Mar         18:00 - 21:30 C                A-3230
+                   Mer  18:00 - 20:00 Labo
+
+INF111   PROGRAMMATION ORIENTÉE-OBJET (HORS
+         PROGRAMME)
+
+         01 Ven         09:00 - 12:30 C                E-4021
+                   Mar  13:30 - 16:30 Labo             E-4021
+
+         02 Mar         09:00 - 12:30 C                E-4021
+                   Jeu  09:00 - 12:00 Labo             E-4021
+
+         03 Mar         13:30 - 17:00 C                E-4022
+                   Ven  09:00 - 12:00 Labo             E-4022
+
+INFTEST  ACCUEIL EN INFORMATIQUE
+
+         01 Ven         09:00 - 12:30 C
+                   Mar  13:30 - 16:30 Labo
+
+         02 Mar         09:00 - 12:30 C
+                   Jeu  09:00 - 12:00 Labo
+
+ING150   STATIQUE ET DYNAMIQUE
+
+         01 Lun         13:30 - 17:00 C
+                   Mer  13:30 - 16:30 TP
+
+         02 Mar         09:00 - 12:30 C
+                   Jeu  09:00 - 12:00 TP
+
+         03 Lun         09:00 - 12:30 C
+
+         Date : 2021-03-17 06:34:10            L’École se réserve un droit de modifier l’horaire sans préavis  Page : 4/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                   7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL   ENSEIGNANT                                           PRÉALABLES
+ING150
+        STATIQUE ET DYNAMIQUE
+
+        03 Ven         09:00 - 12:00 TP
+
+        04 Ven         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP
+
+        05 Mer         13:30 - 17:00 C
+                  Lun  13:30 - 16:30 TP
+
+        06 Jeu         09:00 - 12:30 C
+                  Mar  09:00 - 12:00 TP
+
+        07 Ven         09:00 - 12:30 C
+                  Lun  09:00 - 12:00 TP
+
+ING160  THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                                                               ING150
+
+        01 Jeu         13:30 - 17:00 C
+                  Lun  09:00 - 12:00 TP
+
+        02 Ven         09:00 - 12:30 C
+                  Jeu  09:00 - 12:00 TP
+
+        03 Jeu         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP
+
+        04 Mer         09:00 - 12:30 C
+                  Lun  13:30 - 16:30 TP
+
+        05 Mar         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP
+
+ING500  OUTILS DE DÉVELOPPEMENT DURABLE POUR
+        L'INGÉNIEUR
+
+        01 Jeu         09:00 - 12:30 C            E-4022
+                  Ven  13:30 - 17:30 Labo A+B     B-2622
+
+        02 Jeu         18:00 - 21:30 C
+                  Mar  18:00 - 22:00 Labo A+B
+
+LOG100  PROGRAMMATION ET RÉSEAUTIQUE EN GÉNIE
+        LOGICIEL
+
+        01 Ven         08:30 - 12:00 C            A-3450
+                  Mar  13:30 - 16:30 Labo         A-3220
+                                                  A-3342
+        02 Mar         13:30 - 17:00 C            A-3326
+                  Ven  08:30 - 11:30 Labo         A-3220
+                                                  A-3230
+        03 Mar         13:30 - 17:00 C            A-3230
+                  Ven  08:30 - 11:30 Labo
+
+        04 Mar         08:30 - 12:00 C
+                  Jeu  08:30 - 11:30 Labo
+
+        05 Ven         08:30 - 12:00 C
+                  Mar  13:30 - 16:30 Labo
+
+        06 Jeu         08:30 - 12:00 C
+                  Mar  08:30 - 11:30 Labo
+
+        07 Mar         13:30 - 17:00 C
+                  Ven  08:30 - 11:30 Labo
+
+LOG121  CONCEPTION ORIENTÉE OBJET                                                                              GTI100 (G.TI) ; LOG100 (G.Log)
+
+        01 Mer         08:30 - 12:00 C            A-3230
+                  Jeu  13:30 - 16:30 Labo         A-3230
+                                                  A-3230
+        02 Jeu         13:30 - 17:00 C
+                  Lun  08:30 - 11:30 Labo
+
+        04 Mer         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 Labo
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 5/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                        7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL        ENSEIGNANT                                      PRÉALABLES
+LOG210                                                                                                         LOG121
+        ANALYSE ET CONCEPTION DE LOGICIELS
+
+        01 Lun         08:30 - 12:00           C       A-3326
+                  Mar  13:30 - 16:30           Labo    A-3450
+                                                       A-3322
+        02 Mar         13:30 - 17:00           C
+                  Lun  08:30 - 11:30           Labo
+
+        03 Mar         08:30 - 12:00           C
+                  Ven  13:30 - 16:30           Labo
+
+LOG240  TESTS ET MAINTENANCE                                                                                   LOG100 / LOG240
+
+        01 Jeu         08:30 - 12:00           C       A-3322
+                  Mer  08:30 - 10:30           Labo A  A-3322
+                  Mer  10:30 - 12:30           Labo B
+                                                       A-3322
+        02 Lun         18:00 - 21:30           C       A-3324
+                  Jeu  18:00 - 20:00           Labo A
+                  Jeu  18:00 - 20:00           Labo B  A-3322
+                                                       A-3322
+        03 Mer         13:30 - 17:00           C
+                  Jeu  08:30 - 10:30           Labo A
+                  Jeu  10:30 - 12:30           Labo B
+
+LOG320  STRUCTURES DE DONNÉES ET ALGORITHMES                                                                   MAT210, LOG121
+
+        01 Mar         13:30 - 17:00           C       A-3412
+                  Lun  13:30 - 16:30           Labo A  A-3446
+                  Lun  13:30 - 16:30           Labo B
+                                                       A-3412
+        02 Lun         18:00 - 21:30           C       A-3446
+                  Mar  18:00 - 21:00           Labo A
+                  Mar  18:00 - 21:00           Labo B
+
+LOG410  ANALYSE DE BESOINS ET SPÉCIFICATIONS                                                                   LOG240
+
+        01 Mar         08:30 - 12:00           C       A-3412
+                  Jeu  13:30 - 15:30           Labo A  A-3412
+                  Jeu  15:30 - 17:30           Labo B
+                                                       A-3326
+        02 Mer         18:00 - 21:30           C       A-3446
+                  Jeu  18:00 - 20:00           Labo A
+                  Jeu  18:00 - 20:00           Labo B
+
+LOG430  ARCHITECTURE LOGICIELLE                                                                                LOG210
+
+        01 Lun         08:30 - 12:00           C       A-3322
+                  Mer  08:30 - 11:30           Labo A  A-3450
+                  Mer  08:30 - 11:30           Labo B
+                                                       A-3322
+        02 Jeu         18:00 - 21:30           C       A-3450
+                  Mar  18:00 - 21:00           Labo A
+                  Mar  18:00 - 21:00           Labo B
+
+LOG460  SÉCURITÉ DES LOGICIELS                                                                                 LOG121
+
+        01 Mar         13:30 - 17:00           C       A-3326
+                  Mer  10:30 - 12:30           Labo
+
+LOG635  SYSTÈMES INTELLIGENTS ET ALGORITHMES                                                                   LOG320 et MAT350 / MAT350,
+                                                                                                               LOG320
+
+        01 Lun         08:30 - 12:00           C       A-3326
+                  Ven  13:30 - 15:30           Labo A  A-3326
+                  Ven  15:30 - 17:30           Labo B
+                                                       A-3450
+        02 Lun         18:00 - 21:00           C       A-3230
+                  Mer  18:00 - 20:00           Labo A
+                  Mer  18:00 - 20:00           Labo B
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 6/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                        7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL        ENSEIGNANT                                      PRÉALABLES
+LOG645
+        ARCHITECTURES DE CALCULS PARALLÈLES
+
+        01 Mar         13:30 - 17:00           C       A-3230
+                  Jeu  08:30 - 10:30           Labo A  A-3230
+                  Jeu  10:30 - 12:30           Labo B
+
+LOG660  BASES DE DONNÉES DE HAUTE PERFORMANCE                                                                  LOG320
+
+        01 Ven         13:30 - 17:00           C       A-3446
+                  Mar  08:30 - 11:30           Labo A  A-3342
+                  Mar  08:30 - 11:30           Labo B
+                                                       A-3346
+        02 Mer         18:00 - 21:30           C       A-3326
+                  Lun  18:00 - 21:00           Labo A
+                  Mar  18:00 - 21:00           Labo B
+
+LOG680  INTRODUCTION À L'APPROCHE DEVOPS                                                                       STA204 ou STA206
+
+        01 Mer         13:30 - 17:00           C       A-3220
+                  Lun  08:30 - 10:30           Labo A  A-3220
+                  Lun  10:30 - 12:30           Labo B
+
+LOG710  PRINCIPES SYSTÈMES D'EXPL. ET PROGRAMMATION                                                            GTI310 (G.TI) ; LOG320 (G.Log)
+        SYSTÈME
+
+        01 Mer         08:30 - 12:00           C       A-3412
+                  Mar  08:30 - 10:30           Labo A  A-3412
+                  Mar  10:30 - 12:30           Labo B
+
+LOG721  INTERGICIELS POUR APPLICATIONS DISTRIBUÉS                                                              LOG210
+
+        01 Mer         18:00 - 21:30 C                 A-3446
+                  Lun  18:00 - 20:00 Labo
+
+LOG750  INFOGRAPHIE                                                                                            GTI320 / MAT472
+
+        01 Lun         18:00 - 21:30           C       A-3230
+                  Mer  18:00 - 20:00           Labo
+
+MAT144  INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
+        (HORS PROG.)
+
+        01 Ven         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        02 Ven         13:30 - 17:00 C
+                  Jeu  13:30 - 16:30 TP
+
+        03 Mer         13:30 - 17:00 C
+                  Lun  13:30 - 16:30 TP
+
+        04 Jeu         09:00 - 12:30 C
+                  Mar  09:00 - 12:00 TP
+
+        05 Lun         09:00 - 12:30 C
+                  Mer  09:00 - 12:00 TP
+
+        06 Jeu         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP
+
+        07 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 21:00 TP
+
+        08 Mar         13:30 - 17:00 C
+                  Ven  09:00 - 12:00 TP
+
+        09 Jeu         13:30 - 17:00 C
+                  Ven  13:30 - 16:30 TP
+
+        10 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP
+
+        11 Jeu         09:00 - 12:30 C
+                  Mar  09:00 - 12:00 TP
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 7/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                      7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+MAT145
+        CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+        01 Ven         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        02 Mar         13:30 - 17:00 C
+                  Ven  09:00 - 12:00 TP
+
+        03 Ven         13:30 - 17:00 C
+                  Jeu  13:30 - 16:30 TP
+
+        04 Jeu         13:30 - 17:00 C
+                  Ven  13:30 - 16:30 TP
+
+        05 Mer         13:30 - 17:00 C
+                  Lun  13:30 - 16:30 TP
+
+        06 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP
+
+        07 Jeu         09:00 - 12:30 C
+                  Mar  09:00 - 12:00 TP
+
+        08 Mar         09:00 - 12:30 C
+                  Jeu  09:00 - 12:00 TP
+
+        09 Lun         09:00 - 12:30 C
+                  Mer  09:00 - 12:00 TP
+
+        10 Mer         09:00 - 12:30 C
+                  Lun  09:00 - 12:00 TP
+
+        11 Jeu         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP
+
+        12 Mar         18:00 - 21:30 C
+                  Jeu  18:00 - 21:00 TP
+
+        13 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 21:00 TP
+
+        14 Mer         18:00 - 21:30 C
+                  Lun  18:00 - 21:00 TP
+
+        15 Ven         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        16 Ven         13:30 - 17:00 C
+                  Jeu  13:30 - 16:30 TP
+
+MAT210  LOGIQUE ET MATHÉMATIQUES DISCRÈTES                                                                     MAT145
+
+        01 Mer         09:00 - 12:30           C
+                  Lun  09:00 - 12:00           Labo
+
+        02 Mar         13:30 - 17:00           C
+                  Ven  13:30 - 16:30           Labo
+
+        03 Ven         09:00 - 12:30           C
+                  Mer  13:30 - 16:30           Labo
+
+        04 Jeu         09:00 - 12:30           C
+                  Mar  09:00 - 12:00           Labo
+
+MAT265  ÉQUATIONS DIFFÉRENTIELLES                                                                                          MAT145
+                                                                                                               Page : 8/15
+        01 Ven         09:00 - 12:30 C
+                  Mer  09:00 - 12:00 TP
+
+        02 Mar         13:30 - 17:00 C
+                  Ven  13:30 - 16:30 TP
+
+        03 Mar         09:00 - 12:30 C
+                  Jeu  13:30 - 16:30 TP
+
+        04 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 21:00 TP
+
+        05 Mer         13:30 - 17:00 C
+                  Lun  13:30 - 16:30 TP
+
+        06 Mer         09:00 - 12:30 C
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                    7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+MAT265                                                                                                         MAT145
+        ÉQUATIONS DIFFÉRENTIELLES
+
+        06 Ven         09:00 - 12:00 TP
+
+        07 Ven         13:30 - 17:00 C
+                  Mar  13:30 - 16:30 TP
+
+        08 Jeu         13:30 - 17:00 C
+                  Mar  09:00 - 12:00 TP
+
+        09 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP
+
+        10 Jeu         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP
+
+        11 Mer         18:00 - 21:30 C
+                  Lun  18:00 - 21:00 TP
+
+        12 Sam         09:00 - 12:30 C
+                  Sam  13:30 - 16:30 TP
+
+        13 Mar         09:00 - 12:30 C
+                  Jeu  09:00 - 12:00 TP
+
+MAT350  PROBABILITÉS ET STATISTIQUES                                                                           MAT145
+
+        01 Mar         13:30 - 17:00 C
+                  Jeu  09:00 - 12:00 TP
+
+        02 Mer         09:00 - 12:30 C
+                  Lun  13:30 - 16:30 TP
+
+        03 Mar         09:00 - 12:30 C
+                  Jeu  13:30 - 16:30 TP
+
+        04 Lun         09:00 - 12:30 C
+                  Ven  13:30 - 16:30 TP
+
+        05 Mer         13:30 - 17:00 C
+                  Ven  09:00 - 12:00 TP
+
+        06 Jeu         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        07 Lun         13:30 - 17:00 C
+                  Mer  09:00 - 12:00 TP
+
+        08 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 21:00 TP
+
+        09 Jeu         13:30 - 17:00 C
+                  Mar  09:00 - 12:00 TP
+
+        11 Jeu         13:30 - 17:00 C
+                  Mar  09:00 - 12:00 TP
+
+        12 Mer         18:00 - 21:30 C
+                  Lun  18:00 - 21:00 TP
+
+MAT472  ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE L'ESPACE                                                              MAT145
+
+        01 Jeu         09:00 - 12:30 C
+                  Mer  09:00 - 12:00 TP
+
+        02 Ven         09:00 - 12:30 C
+                  Lun  09:00 - 12:00 TP
+
+        03 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 21:00 TP
+
+        04 Jeu         13:30 - 17:00 C
+                  Mar  09:00 - 12:00 TP
+
+MATEST  ACCUEIL EN MATHÉMATIQUES
+
+        01 Ven         09:00 - 12:30 C
+                  Mar  13:30 - 16:30 TP
+
+        02 Ven         13:30 - 17:00 C
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 9/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                  7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+MATEST
+        ACCUEIL EN MATHÉMATIQUES
+
+        02 Jeu         13:30 - 16:30 TP
+
+        03 Mer         13:30 - 17:30 C
+                  Lun  13:30 - 16:30 TP
+
+        04 Jeu         09:00 - 12:30 C
+                  Mar  09:00 - 12:00 TP
+
+        05 Lun         09:00 - 12:30 C
+                  Mer  09:00 - 12:00 TP
+
+        06 Jeu         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP
+
+        07 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 21:00 TP
+
+PEP110  ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
+        PROFESSIONNELLE
+
+        01 Lun         09:00 - 12:30 Atelier
+
+        13 septembre 2021
+        20 septembre 2021
+        27 septembre 2021
+        04 octobre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 septembre 2021 / 26 septembre 2021
+
+        02 Lun         09:00 - 12:30 Atelier
+
+        12 octobre 2021
+        18 octobre 2021
+        25 octobre 2021
+        01 novembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 17 octobre 2021 / 24 octobre 2021
+
+        03 Lun         09:00 - 12:30 Atelier
+
+        08 novembre 2021
+        15 novembre 2021
+        22 novembre 2021
+        29 novembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 14 novembre 2021 / 21 novembre 2021
+
+        04 Mar         09:00 - 12:30 Atelier
+
+        07 septembre 2021
+        14 septembre 2021
+        21 septembre 2021
+        28 septembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2021 / 20 septembre 2021
+
+        05 Mar         09:00 - 12:30 Atelier
+
+        05 octobre 2021
+        19 octobre 2021
+        26 octobre 2021
+        02 novembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 18 octobre 2021 / 25 octobre 2021
+
+        06 Mar         09:00 - 12:30 Atelier
+
+        09 novembre 2021
+        16 novembre 2021
+        23 novembre 2021
+        30 novembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 15 novembre 2021 / 22 novembre 2021
+
+        07 Mer         18:00 - 21:30 Atelier
+
+        08 septembre 2021
+        15 septembre 2021
+        22 septembre 2021
+        29 septembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 14 septembre 2021 / 21 septembre 2021
+
+        08 Mer         18:00 - 21:30 Atelier
+
+        06 octobre 2021
+        13 octobre 2021
+        20 octobre 2021
+        27 octobre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 12 octobre 2021 / 19 octobre 2021
+
+        09 Mer         18:00 - 21:30 Atelier
+
+        10 novembre 2021
+        17 novembre 2021
+        24 novembre 2021
+        01 décembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 16 novembre 2021 / 23 novembre 2021
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 10/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                    7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+PEP110
+        ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
+        PROFESSIONNELLE
+
+        10 Mar         18:00 - 21:30 Atelier
+
+        07 septembre 2021
+        14 septembre 2021
+        21 septembre 2021
+        28 septembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 septembre 2021 / 20 septembre 2021
+
+        11 Mar         18:00 - 21:30 Atelier
+
+        05 octobre 2021
+        19 octobre 2021
+        26 octobre 2021
+        02 novembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 18 octobre 2021 / 25 octobre 2021
+
+        12 Mar         18:00 - 21:30 Atelier
+
+        09 novembre 2021
+        16 novembre 2021
+        23 novembre 2021
+        30 novembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 15 novembre 2021 / 22 novembre 2021
+
+        13 Jeu         13:30 - 17:00 Atelier
+
+        16 septembre 2021
+        23 septembre 2021
+        30 septembre 2021
+        07 octobre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 22 septembre 2021 / 29 septembre 2021
+
+        14 Sam         09:00 - 12:30 Atelier
+
+        11 septembre 2021
+        18 septembre 2021
+        25 septembre 2021
+        02 octobre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 17 septembre 2021 / 24 septembre 2021
+
+        15 Sam         09:00 - 12:30 Atelier
+
+        09 octobre 2021
+        16 octobre 2021
+        23 octobre 2021
+        30 octobre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 15 octobre 2021 / 22 octobre 2021
+
+        16 Sam         09:00 - 12:30 Atelier
+
+        13 novembre 2021
+        20 novembre 2021
+        27 novembre 2021
+        04 décembre 2021
+        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 novembre 2021 / 26 novembre 2021
+
+PHY144  INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
+        PROGRAMME)
+
+        01 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP/Labo
+
+        02 Mar         09:00 - 12:30 C
+                  Jeu  09:00 - 12:00 TP/Labo
+
+        03 Lun         09:00 - 12:30 C
+                  Ven  09:00 - 12:00 TP/Labo
+
+        04 Ven         18:00 - 21:30 C
+                  Mar  18:00 - 21:00 TP/Labo
+
+        05 Lun         13:30 - 17:00 C
+                  Mer  13:30 - 16:30 TP/Labo
+
+        06 Mar         09:00 - 12:30 C
+                  Jeu  09:00 - 12:00 TP/Labo
+
+PHY332  ÉLECTRICITÉ ET MAGNÉTISME                                                                              CTN258 / ING150
+
+        01 Ven         09:00 - 12:30 C
+                  Lun  09:00 - 12:00 Labo
+
+        02 Lun         13:30 - 17:00 C
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 11/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                         7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+PHY332                                                                                                         CTN258 / ING150
+        ÉLECTRICITÉ ET MAGNÉTISME
+
+        02 Mer         09:00 - 12:00 Labo
+
+        03 Mar         09:00 - 12:30 C
+                  Jeu  13:30 - 16:30 Labo
+
+        04 Mer         13:30 - 17:00 C
+                  Mar  13:30 - 16:30 Labo
+
+        05 Ven         13:30 - 17:00 C
+                  Jeu  09:00 - 12:00 Labo
+
+        06 Lun         09:00 - 12:30 C
+                  Ven  09:00 - 12:00 Labo
+
+        07 Mer         09:00 - 12:30 C
+                  Lun  13:30 - 16:30 Labo
+
+        09 Mar         18:00 - 21:30 C
+                  Jeu  18:00 - 21:00 Labo
+
+        11 Sam         09:00 - 12:30 C
+                  Sam  13:30 - 16:30 Labo
+
+PHY335  PHYSIQUE DES ONDES                                                                                     CTN258 / ING150
+
+        01 Ven         13:30 - 17:00           C
+                  Mar  09:00 - 12:00           Labo
+
+        02 Jeu         09:00 - 12:30           C
+                  Mer  09:00 - 12:00           Labo
+
+        03 Mar         09:00 - 12:30           C
+                  Jeu  13:30 - 16:30           Labo
+
+        04 Ven         09:00 - 12:30           C
+                  Lun  09:00 - 12:00           Labo
+
+        05 Lun         13:30 - 17:00           C
+                  Mer  13:30 - 16:30           Labo
+
+        06 Ven         18:00 - 21:30           C
+                  Mer  18:00 - 21:00           Labo
+
+        08 Jeu         18:00 - 21:30           C
+                  Mar  18:00 - 21:00           Labo
+
+PHYEST  ACCUEIL EN PHYSIQUE
+
+        01 Lun         13:30 - 17:00           C
+                  Mer  13:30 - 16:30           TP/Labo
+
+        02 Mar         09:00 - 12:30           C
+                  Jeu  09:00 - 12:00           TP/Labo
+
+        03 Lun         09:00 - 12:30           C
+                  Ven  09:00 - 12:00           TP/Labo
+
+        04 Ven         18:00 - 21:30           C
+                  Mar  18:00 - 21:00           TP/Labo
+
+        05 Lun         13:30 - 17:00           C
+                  Mer  13:30 - 16:30           TP/Labo
+
+        06 Lun         09:00 - 12:30           C
+                  Ven  09:00 - 12:00           TP/Labo
+
+        07 Ven         18:00 - 21:30           C
+                  Mar  18:00 - 21:00           TP/Labo
+
+PRE011  DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
+        SANTÉ ET SÉCURITÉ
+
+        Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 15h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+
+        ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les étudiants
+
+        du programme 7625 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité en
+
+        suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+
+        (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+
+        l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le groupe
+
+        réservé.
+
+        01 Ven         18:00 - 21:30 Atelier
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 12/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                         7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                            PRÉALABLES
+PRE011
+        DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
+        SANTÉ ET SÉCURITÉ
+
+        Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 15h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+
+        ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les étudiants
+
+        du programme 7625 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité en
+
+        suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+
+        (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+
+        l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le groupe
+
+        réservé.
+
+        01 Sam         09:00 - 16:00 C
+
+        17 septembre 2021
+        18 septembre 2021
+        25 septembre 2021
+
+        02 Ven         18:00 - 21:30 Atelier
+                  Sam  09:00 - 16:00 C
+
+        17 septembre 2021
+        18 septembre 2021
+        25 septembre 2021
+
+        03 Ven         18:00 - 21:30 Atelier
+                  Sam  09:00 - 16:00 C
+
+        01 octobre 2021
+        02 octobre 2021
+        16 octobre 2021
+
+        04 Ven         18:00 - 21:30 Atelier
+                  Sam  09:00 - 16:00 C
+
+        01 octobre 2021
+        02 octobre 2021
+        16 octobre 2021
+
+        05 Ven         18:00 - 21:30 Atelier
+                  Sam  09:00 - 16:00 C
+
+        22 octobre 2021
+        23 octobre 2021
+        30 octobre 2021
+
+        06 Ven         18:00 - 21:30 Atelier
+                  Sam  09:00 - 16:00 C
+
+        22 octobre 2021
+        23 octobre 2021
+        30 octobre 2021
+
+        07 Ven         18:00 - 21:30 Atelier
+                  Sam  09:00 - 16:00 C
+
+        12 novembre 2021
+        13 novembre 2021
+        20 novembre 2021
+
+        08 Ven         18:00 - 21:30 Atelier
+                  Sam  09:00 - 16:00 C
+
+        12 novembre 2021
+        13 novembre 2021
+        20 novembre 2021
+
+        09 Lun         18:00 - 21:30 Atelier
+
+        13 septembre 2021
+        20 septembre 2021
+        27 septembre 2021
+        04 octobre 2021
+        18 octobre 2021
+
+        10 Lun         18:00 - 21:30 Atelier
+
+        13 septembre 2021
+        20 septembre 2021
+        27 septembre 2021
+        04 octobre 2021
+        18 octobre 2021
+
+        11 Lun         18:00 - 21:30 Atelier
+
+        25 octobre 2021
+        01 novembre 2021
+        08 novembre 2021
+        15 novembre 2021
+        22 novembre 2021
+
+        12 Lun         18:00 - 21:30 Atelier
+
+        25 octobre 2021
+        01 novembre 2021
+        08 novembre 2021
+        15 novembre 2021
+        22 novembre 2021
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis  Page : 13/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                         7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR        HEURE ACTIVITÉ Mode d'ens. LOCAL  ENSEIGNANT                                                     PRÉALABLES
+PRE011
+        DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
+        SANTÉ ET SÉCURITÉ
+
+        Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 15h - aux dates spécifiques indiquées pour chaque groupe. Modalités des
+
+        ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP. Pour les étudiants
+
+        du programme 7625 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet santé-sécurité en
+
+        suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL). - VOLET STAGES
+
+        (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le Service de
+
+        l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans le groupe
+
+        réservé.
+
+        13 Mar         18:00 - 21:30 Atelier
+
+            14 septembre 2021
+            21 septembre 2021
+            28 septembre 2021
+            05 octobre 2021
+            19 octobre 2021
+
+        14 Mar         18:00 - 21:30 Atelier
+
+            14 septembre 2021
+            21 septembre 2021
+            28 septembre 2021
+            05 octobre 2021
+            19 octobre 2021
+
+        15 Mar         18:00 - 21:30 Atelier
+
+            26 octobre 2021
+            02 novembre 2021
+            09 novembre 2021
+            16 novembre 2021
+            23 novembre 2021
+
+        16 Mer         18:00 - 21:30 Atelier
+
+            15 septembre 2021
+            22 septembre 2021
+            29 septembre 2021
+            06 octobre 2021
+            13 octobre 2021
+
+        17 Mer         18:00 - 21:30 Atelier
+
+            20 octobre 2021
+            27 octobre 2021
+            10 novembre 2021
+            17 novembre 2021
+            24 novembre 2021
+
+        18 Jeu         18:00 - 21:30 Atelier
+
+            16 septembre 2021
+            23 septembre 2021
+            30 septembre 2021
+            07 octobre 2021
+            14 octobre 2021
+
+        19 Jeu         18:00 - 21:30 Atelier
+
+            21 octobre 2021
+            28 octobre 2021
+            03 novembre 2021
+            11 novembre 2021
+            18 novembre 2021
+
+        21                                     Atelier
+
+            Ce cours est offert en ligne. Le groupe 21 est réservé aux étudiants inscrits aux programmes 7625 et 7622.
+
+TIN503  ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
+
+        01 Mar         13:30 - 17:00 C
+                  Lun  13:30 - 17:30 TP
+
+        02 Lun         18:00 - 21:30 C
+                  Mer  18:00 - 22:00 TP
+
+        03 Jeu         09:00 - 12:30 C
+                  Mer  08:30 - 12:30 TP
+
+        04 Jeu         13:30 - 17:00 C
+                  Ven  08:30 - 12:30 TP
+
+        05 Mar         09:00 - 12:30 C
+                  Mer  13:30 - 17:30 TP
+
+        06 Ven         18:00 - 21:30 C
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis           Page : 14/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE                                                    7365 : Baccalauréat en génie logiciel
+Bureau du registraire - logistique académique
+
+                                                      HORAIRE AUTOMNE 2021
+
+                                               Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                               Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                               Locaux D: bâtiment sud-ouest, 1219, rue William
+                                               Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                                AVIS IMPORTANT
+Des activités d’enseignement se tiendront en présence sur le campus. Votre présence sera requise. Les précisions suivront
+
+                                                             dans quelques semaines.
+
+COURS   GR JOUR              HEURE ACTIVITÉ Mode d'ens. LOCAL                                    ENSEIGNANT                                 PRÉALABLES
+TIN503
+        ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
+
+        06 Jeu         18:00 - 22:00 TP
+
+        07 Lun         09:00 - 12:30 C
+                  Ven  13:30 - 17:30 TP
+
+        09 Lun         13:30 - 17:00 C
+                  Mar  13:30 - 17:30 TP
+
+NOTES   Programmes d'études
+a)
+        B:             baccalauréat
+b)
+c)      GAQ :          certificat en gestion et assurance de la qualité
+
+        GC :           certificat en gestion de la construction
+
+        GE :           certificat et programme court de 1er cycle en gestion des établissements
+
+        PI :           certificat en production industrielle
+
+        CT :           certificat en télécommunication
+
+        TS :           certificat spécialisé en génie des technologie de la santé
+
+        Activités
+
+        C : cours      TP : travaux pratiques                                                    LABO : laboratoires
+
+                       TP/2 : travaux pratiques aux deux (2) semaines                            LABO/2 : laboratoires aux deux (2) semaines
+
+        TP (A+B). Dans un cours, si le nombre d'étudiants le justifie, les travaux pratiques seront divisés en deux (2) groupes (A+B). La moitié des étudiants devront se
+        présenter à la première période de deux (2) heures et les autres devront se présenter à la deuxième période de deux (2) heures. Ceci vous sera confirmé au début du
+        trimestre. Un étudiant peut donc s'inscrire à deux (2) cours dont les travaux pratiques (TP) ont lieu en même temps, s'il est indiqué (A+B) à côté de chacun des travaux
+        pratiques (TP).
+
+        À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
+        Les cours de concentration ne peuvent être suivis qu'après la réussite d'un minimum de soixante-dix crédits de cours du programme.
+        Les cours obligatoires doivent être suivis selon une séquence correspondant à la grille de cheminement type du programme.
+
+        Date : 2021-03-17 06:34:10             L’École se réserve un droit de modifier l’horaire sans préavis         Page : 15/15
+
