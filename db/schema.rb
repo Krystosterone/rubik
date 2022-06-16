@@ -10,9 +10,9 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160923191150) do
+ActiveRecord::Schema.define(version: 2016_09_23_191150) do
 
-  create_table "academic_degree_term_courses", id: :integer, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "academic_degree_term_courses", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.integer "academic_degree_term_id"
     t.integer "course_id"
     t.text "groups"
@@ -21,7 +21,7 @@ ActiveRecord::Schema.define(version: 20160923191150) do
     t.index ["academic_degree_term_id", "course_id"], name: "academic_degree_terms_courses_index", unique: true
   end
 
-  create_table "academic_degree_terms", id: :integer, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "academic_degree_terms", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.integer "academic_degree_id"
     t.integer "term_id"
     t.datetime "created_at"
@@ -29,7 +29,7 @@ ActiveRecord::Schema.define(version: 20160923191150) do
     t.index ["academic_degree_id", "term_id"], name: "index_academic_degree_terms_on_academic_degree_id_and_term_id", unique: true
   end
 
-  create_table "academic_degrees", id: :integer, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "academic_degrees", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.string "code"
     t.string "name"
     t.datetime "created_at"
@@ -37,7 +37,7 @@ ActiveRecord::Schema.define(version: 20160923191150) do
     t.index ["code"], name: "index_academic_degrees_on_code", unique: true
   end
 
-  create_table "agenda_courses", id: :integer, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "agenda_courses", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.integer "academic_degree_term_course_id"
     t.integer "agenda_id"
     t.boolean "mandatory"
@@ -49,7 +49,7 @@ ActiveRecord::Schema.define(version: 20160923191150) do
     t.index ["agenda_id"], name: "index_agenda_courses_on_agenda_id"
   end
 
-  create_table "agendas", id: :integer, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "agendas", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.integer "academic_degree_term_id"
     t.string "token"
     t.integer "courses_per_schedule"
@@ -62,23 +62,23 @@ ActiveRecord::Schema.define(version: 20160923191150) do
     t.index ["token"], name: "index_agendas_on_token"
   end
 
-  create_table "comments", id: :integer, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "comments", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.string "user_email"
     t.text "body"
   end
 
-  create_table "courses", id: :integer, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "courses", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.string "code"
     t.datetime "created_at"
     t.datetime "updated_at"
     t.index ["code"], name: "index_courses_on_code", unique: true
   end
 
-  create_table "newsletter_subscriptions", id: :integer, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "newsletter_subscriptions", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.string "email"
   end
 
-  create_table "schedules", id: :integer, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "schedules", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.integer "agenda_id"
     t.text "course_groups"
     t.datetime "created_at"
@@ -86,7 +86,7 @@ ActiveRecord::Schema.define(version: 20160923191150) do
     t.index ["agenda_id"], name: "index_schedules_on_agenda_id"
   end
 
-  create_table "terms", id: :integer, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+  create_table "terms", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.integer "year"
     t.string "name"
     t.string "tags"
