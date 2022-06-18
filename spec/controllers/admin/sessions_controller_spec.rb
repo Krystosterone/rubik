@@ -6,6 +6,7 @@ describe Admin::SessionsController do
   describe "#create" do
     context "when not passing through omniauth" do
       before { get :create }
+
       it { is_expected.to redirect_to(unauthorized_path) }
     end
 
@@ -14,6 +15,7 @@ describe Admin::SessionsController do
         request.env["omniauth.auth"] = { "info" => { "email" => "not-allowed@mail.com" } }
         get :create
       end
+
       it { is_expected.to redirect_to(unauthorized_path) }
     end
 
@@ -25,7 +27,7 @@ describe Admin::SessionsController do
         get :create
       end
 
-      specify { expect(session[AdminSession::NAME]).to eq(true) }
+      specify { expect(session[AdminSession::NAME]).to be(true) }
       it { is_expected.to redirect_to(admin_root_path) }
     end
   end
@@ -36,7 +38,7 @@ describe Admin::SessionsController do
       get :destroy
     end
 
-    specify { expect(session[AdminSession::NAME]).to eq(false) }
+    specify { expect(session[AdminSession::NAME]).to be(false) }
     it { is_expected.to redirect_to(root_path) }
   end
 end

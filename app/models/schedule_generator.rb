@@ -47,7 +47,7 @@ class ScheduleGenerator
 
   def complete_iteration(course_set, course_groups)
     if course_set.size > 1
-      iterate(course_set[1..-1], course_groups)
+      iterate(course_set[1..], course_groups)
     elsif course_set.size == 1
       @agenda.schedules.new(course_groups: course_groups)
     end

@@ -18,6 +18,7 @@ describe ScheduleGeneratorJob do
 
       job.perform(agenda)
     end
+
     after { Timecop.return }
 
     specify { expect(agenda.schedules).to be_empty }

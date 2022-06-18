@@ -10,6 +10,7 @@ describe AgendaCreationProcess do
   describe "#path" do
     context "with a single step" do
       before { agenda.filter_groups = false }
+
       specify { expect(process.path).to eq("/agendas/#{agenda.token}/schedules/processing") }
     end
 
@@ -18,11 +19,13 @@ describe AgendaCreationProcess do
 
       context "when on the first step" do
         before { process.step = AgendaCreationProcess::STEP_COURSE_SELECTION }
+
         specify { expect(process.path).to eq("/agendas/#{agenda.token}/edit?step=group_selection") }
       end
 
       context "when on the last step" do
         before { process.step = AgendaCreationProcess::STEP_GROUP_SELECTION }
+
         specify { expect(process.path).to eq("/agendas/#{agenda.token}/schedules/processing") }
       end
     end
@@ -31,18 +34,19 @@ describe AgendaCreationProcess do
   describe "#save" do
     shared_examples "an unsuccessful save" do
       before { agenda.courses_per_schedule = 99 }
-      specify { expect(process.save).to eq(false) }
+
+      specify { expect(process.save).to be(false) }
     end
 
     shared_examples "a successful save with no generation" do
-      specify { expect(process.save).to eq(true) }
+      specify { expect(process.save).to be(true) }
       specify { expect { process.save }.not_to(change(agenda, :processing)) }
       specify { expect { process.save }.not_to(change(agenda, :combined_at)) }
     end
 
     shared_examples "a successful agenda generation" do
-      specify { expect(process.save).to eq(true) }
-      specify { expect { process.save }.to change(agenda, :processing).to eq(true) }
+      specify { expect(process.save).to be(true) }
+      specify { expect { process.save }.to change(agenda, :processing).to be(true) }
 
       it "sets the combined at timestamp to nil" do
         process.save
@@ -111,6 +115,7 @@ describe AgendaCreationProcess do
           agenda.filter_groups = false
           process.step = step
         end
+
         specify { expect(process.step).to eq(AgendaCreationProcess::STEP_COURSE_SELECTION) }
       end
     end
@@ -125,6 +130,7 @@ describe AgendaCreationProcess do
       }.each do |step, expected_step|
         context "with step '#{step}'" do
           before { process.step = step }
+
           specify { expect(process.step).to eq(expected_step) }
         end
       end

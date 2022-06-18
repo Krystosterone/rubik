@@ -4,6 +4,7 @@ class EtsPdf::Etl::PdfParser < SimpleClosure
   TXT_EXTENSION = ".txt"
 
   def initialize(txt_folder)
+    super()
     @txt_folder = txt_folder
   end
 

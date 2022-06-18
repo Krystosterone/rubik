@@ -20,24 +20,24 @@ shared_examples "WeekdayTimeRange" do
       context "when the ranges do not overlap" do
         let(:result) { time_range.overlaps?(described_class.new(starts_at: 1001, ends_at: 1500)) }
 
-        specify { expect(result).to eq(false) }
+        specify { expect(result).to be(false) }
       end
 
       context "when the ranges do overlap" do
         let(:result) { time_range.overlaps?(described_class.new(starts_at: 500, ends_at: 1500)) }
 
-        specify { expect(result).to eq(true) }
+        specify { expect(result).to be(true) }
       end
     end
 
     describe "#==" do
       it "returns false if time range does not match" do
-        expect(time_range == described_class.new).to eq(false)
+        expect(time_range == described_class.new).to be(false)
       end
 
       it "returns true if time range matches" do
         other = described_class.new(starts_at: 50, ends_at: 1000)
-        expect(time_range == other).to eq(true)
+        expect(time_range == other).to be(true)
       end
     end
   end

@@ -2,6 +2,7 @@
 
 class EtsPdf::Parser < SimpleClosure
   def initialize(path)
+    super()
     @path = path
   end
 

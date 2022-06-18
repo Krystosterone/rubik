@@ -22,7 +22,7 @@ describe EtsPdf::Parser::ParsedLine do
   describe "#type?" do
     context "when an unhandled type is passed" do
       it "returns false" do
-        expect(parsed_line.type?(:unhandled)).to eq(false)
+        expect(parsed_line.type?(:unhandled)).to be(false)
       end
     end
 
@@ -50,7 +50,7 @@ describe EtsPdf::Parser::ParsedLine do
         end
       end
 
-      its(:parsed?) { is_expected.to eq(false) }
+      its(:parsed?) { is_expected.to be(false) }
     end
 
     described_class::LINE_TYPES.each do |type, klass|
@@ -62,7 +62,7 @@ describe EtsPdf::Parser::ParsedLine do
           mock_line(klass, parsed: true)
         end
 
-        its(:parsed?) { is_expected.to eq(true) }
+        its(:parsed?) { is_expected.to be(true) }
       end
     end
   end

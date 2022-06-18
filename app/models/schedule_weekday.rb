@@ -4,6 +4,7 @@ class ScheduleWeekday
   include ActiveModel::Model
 
   attr_accessor :index, :periods
+
   delegate :empty?, to: :periods
 
   def starts_at

@@ -3,12 +3,6 @@
 require "rails_helper"
 
 describe SimpleClosure do
-  class SimpleClosureImpl < SimpleClosure
-    def initialize(*); end
-
-    def call; end
-  end
-
   describe ".call" do
     let(:simple_closure_impl_instance) { instance_double(SimpleClosureImpl) }
 

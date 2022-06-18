@@ -2,6 +2,7 @@
 
 class EtsPdf::Etl::GroupBuilder < SimpleClosure
   def initialize(academic_degree_term_course, parsed_lines)
+    super()
     @academic_degree_term_course = academic_degree_term_course
     @parsed_lines = parsed_lines
   end

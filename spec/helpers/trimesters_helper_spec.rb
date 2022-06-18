@@ -5,18 +5,18 @@ require "rails_helper"
 describe TrimestersHelper do
   describe "#trimesters_list" do
     context "with only one trimester" do
-      before { assign(:trimesters, ["One"]) }
+      let(:trimesters) { ["One"] }
 
       it "returns the correct output" do
-        expect(helper.trimesters_list).to eq("  - One")
+        expect(helper.trimesters_list(trimesters)).to eq("  - One")
       end
     end
 
     context "with many trimesters" do
-      before { assign(:trimesters, %w[One Two Many]) }
+      let(:trimesters) { %w[One Two Many] }
 
       it "returns the correct output" do
-        expect(helper.trimesters_list).to eq("  1. One\n  2. Two\n  3. Many")
+        expect(helper.trimesters_list(trimesters)).to eq("  1. One\n  2. Two\n  3. Many")
       end
     end
   end

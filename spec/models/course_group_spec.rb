@@ -22,14 +22,14 @@ describe CourseGroup do
   end
 
   describe "#==" do
+    subject(:course_group) { described_class.new(code: "CODE", group: group) }
+
     it "returns false if course groups do not match" do
-      expect(described_class.new(code: nil, group: nil))
-        .not_to eq(described_class.new(code: "CODE", group: group))
+      expect(course_group).not_to eq(described_class.new(code: nil, group: nil))
     end
 
     it "returns true if course groups match" do
-      expect(described_class.new(code: "CODE", group: group))
-        .to eq(described_class.new(code: "CODE", group: group))
+      expect(course_group).to eq(described_class.new(code: "CODE", group: group))
     end
   end
 end

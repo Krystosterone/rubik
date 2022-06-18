@@ -7,7 +7,7 @@ describe BreadcrumbHelper do
     let(:breadcrumb_instance) { instance_double(Breadcrumb) }
 
     before do
-      allow(breadcrumb_instance).to receive(:render) { |&b| b.call }
+      allow(breadcrumb_instance).to receive(:render).and_yield
       allow(Breadcrumb).to receive(:new).with(self).and_return(breadcrumb_instance)
     end
 

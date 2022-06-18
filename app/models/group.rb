@@ -11,6 +11,7 @@ class Group
     @periods ||= []
   end
   attr_accessor :number, :periods
+
   delegate :empty?, to: :periods
 
   def overlaps?(other)

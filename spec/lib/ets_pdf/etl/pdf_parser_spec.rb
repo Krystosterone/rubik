@@ -3,7 +3,7 @@
 require "rails_helper"
 
 describe EtsPdf::Etl::PdfParser do
-  TXT_SUBSET = "db/raw/ets/2015/hiver/**/*"
+  let(:txt_subset) { "db/raw/ets/2015/hiver/**/*" }
 
   describe ".call" do
     let(:expected_data) do
@@ -29,7 +29,7 @@ describe EtsPdf::Etl::PdfParser do
     before { allow(EtsPdf::Parser).to receive(:call) { |path| path } }
 
     it "returns a comprehensible data structure" do
-      expect(described_class.call(TXT_SUBSET)).to contain_exactly(*expected_data)
+      expect(described_class.call(txt_subset)).to contain_exactly(*expected_data)
     end
   end
 
@@ -46,7 +46,7 @@ describe EtsPdf::Etl::PdfParser do
   end
 
   def txt_matching(type, bachelor_handle)
-    path = TXT_SUBSET.sub("**", type).sub("*", bachelor_handle)
+    path = txt_subset.sub("**", type).sub("*", bachelor_handle)
     a_string_ending_with("#{path}.txt")
   end
 end

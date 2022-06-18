@@ -13,6 +13,7 @@ class EtsPdf::Etl::AcademicDegreeBuilder < SimpleClosure
   }.freeze
 
   def initialize(term, units)
+    super()
     @term = term
     @units = units
   end

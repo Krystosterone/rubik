@@ -7,10 +7,7 @@ class AcademicDegreeTerm < ApplicationRecord
   has_many :courses, through: :academic_degree_term_courses
   has_many :agendas, dependent: :destroy
 
-  validates :academic_degree, presence: true
-  validates :term, presence: true
-
   delegate :code, :name, to: :academic_degree
 
-  scope :enabled, -> { joins(:term).where("terms.enabled_at IS NOT NULL") }
+  scope :enabled, -> { joins(:term).where.not(terms: { enabled_at: nil }) }
 end

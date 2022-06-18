@@ -7,6 +7,7 @@ describe TermsController do
 
   describe "#index" do
     before { get :index }
+
     let(:newsletter_subscription) { assigns(:newsletter_subscription) }
 
     it "assigns the terms" do
@@ -27,6 +28,7 @@ describe TermsController do
   describe "#create_newsletter_subscription" do
     context "when the newsletter subscription did not succeed" do
       before { post :create_newsletter_subscription, params: { newsletter_subscription: { email: "nope" } } }
+
       let(:newsletter_subscription) { assigns(:newsletter_subscription) }
 
       it "assigns the terms" do
@@ -46,6 +48,7 @@ describe TermsController do
 
     context "when the newsletter subscription did succeed" do
       before { post :create_newsletter_subscription, params: { newsletter_subscription: { email: "1@b.ca" } } }
+
       let(:newsletter_subscription) { NewsletterSubscription.last }
 
       it "assigns a new newsletter subscription" do

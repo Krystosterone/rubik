@@ -13,6 +13,7 @@ describe EtsPdf::Etl::PdfConverter do
 
       allow(Kernel).to receive(:system)
     end
+
     after { FileUtils.rm_rf(pdf_folder) }
 
     it "converts every pdf to txt" do

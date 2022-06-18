@@ -9,8 +9,5 @@ describe AcademicDegreeTerm do
   it { is_expected.to have_many(:courses).through(:academic_degree_term_courses) }
   it { is_expected.to have_many(:agendas).dependent(:destroy) }
 
-  it { is_expected.to validate_presence_of(:academic_degree) }
-  it { is_expected.to validate_presence_of(:term) }
-
   it { is_expected.to delegate_method(:name).to(:academic_degree) }
 end

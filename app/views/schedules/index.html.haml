@@ -15,5 +15,6 @@
     .row
       - schedules_slice.each_with_index do |schedule, index|
         .col-lg-6
-          = render schedule, agenda: @agenda, index: schedule_page_index + index + (slice_index * 2) + 1, cache: true
+          = render schedule, agenda: @agenda,
+            index: schedule_page_index(@schedules) + index + (slice_index * 2) + 1, cache: true
 = paginate @schedules, window: 2

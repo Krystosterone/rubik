@@ -10,7 +10,6 @@ class Agenda::Course < ApplicationRecord
 
   serialize :group_numbers, JSON
 
-  validates :academic_degree_term_course, presence: true
   validates :selected_groups, presence: true
 
   scope :mandatory, -> { where(mandatory: true) }

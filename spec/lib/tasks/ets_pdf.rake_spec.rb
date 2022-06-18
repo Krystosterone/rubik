@@ -6,6 +6,7 @@ describe "ets_pdf:etl", type: :feature do
   let(:etl) { instance_double(EtsPdf::Etl) }
 
   before { ENV["PDF_FOLDER"] = "another/path/**/*" }
+
   after { ENV.delete("PDF_FOLDER") }
 
   it "executes with the pdf folder parameter" do

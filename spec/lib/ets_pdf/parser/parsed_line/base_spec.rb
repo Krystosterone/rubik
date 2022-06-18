@@ -3,14 +3,6 @@
 require "rails_helper"
 
 describe EtsPdf::Parser::ParsedLine::Base do
-  class SampleParsedLine < EtsPdf::Parser::ParsedLine::Base
-    private
-
-    def match_pattern
-      /^valid line/
-    end
-  end
-
   describe SampleParsedLine do
     describe "#parsed?" do
       context "with an unparsed line" do

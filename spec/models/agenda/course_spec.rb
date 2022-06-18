@@ -21,11 +21,11 @@ describe Agenda::Course do
   end
 
   it { is_expected.to belong_to(:academic_degree_term_course) }
+
   it do
-    is_expected.to belong_to(:agenda).inverse_of(:courses).touch(true) # rubocop:disable Rails/SkipsModelValidations
+    expect(course).to belong_to(:agenda).inverse_of(:courses).touch(true)
   end
 
-  it { is_expected.to validate_presence_of(:academic_degree_term_course) }
   describe "presence validation of selected groups" do
     before do
       course.assign_attributes(academic_degree_term_course: academic_degree_term_course, group_numbers: [-1])
@@ -39,7 +39,7 @@ describe Agenda::Course do
   it { is_expected.to delegate_method(:code).to(:academic_degree_term_course) }
 
   its(:group_numbers) { is_expected.to eq([]) }
-  its(:mandatory) { is_expected.to eq(false) }
+  its(:mandatory) { is_expected.to be(false) }
 
   describe "scopes" do
     let!(:mandatory_courses) { create_list(:mandatory_agenda_course, 2) }

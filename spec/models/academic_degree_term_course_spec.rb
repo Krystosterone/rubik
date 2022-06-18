@@ -6,8 +6,6 @@ describe AcademicDegreeTermCourse do
   it { is_expected.to belong_to(:academic_degree_term) }
   it { is_expected.to belong_to(:course) }
 
-  it { is_expected.to validate_presence_of(:academic_degree_term) }
-  it { is_expected.to validate_presence_of(:course) }
   it { is_expected.to validate_presence_of(:groups) }
 
   it { is_expected.to serialize(:groups).as(GroupsSerializer) }

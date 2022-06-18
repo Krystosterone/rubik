@@ -9,6 +9,7 @@ describe "schedule_generator_case:write", type: :feature do
     ENV["AGENDA_TOKEN"] = "an_agenda_token"
     allow(ScheduleGeneratorTestCase).to receive(:new).with("an_agenda_token").and_return(schedule_generator_test_case)
   end
+
   after { ENV.delete("AGENDA_TOKEN") }
 
   it "writes a schedule generator case to file" do

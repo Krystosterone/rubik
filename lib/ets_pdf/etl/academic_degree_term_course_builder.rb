@@ -29,6 +29,7 @@ class EtsPdf::Etl::AcademicDegreeTermCourseBuilder < SimpleClosure
   ].freeze
 
   def initialize(academic_degree_term, parsed_lines)
+    super()
     @academic_degree_term = academic_degree_term
     @parsed_lines = parsed_lines
   end
@@ -69,7 +70,7 @@ class EtsPdf::Etl::AcademicDegreeTermCourseBuilder < SimpleClosure
     course = Course.where(code: parsed_lines[0].course.code).first_or_create!
     academic_degree_term_course = @academic_degree_term.academic_degree_term_courses.build(course: course)
 
-    EtsPdf::Etl::GroupBuilder.call(academic_degree_term_course, parsed_lines[1..-1])
+    EtsPdf::Etl::GroupBuilder.call(academic_degree_term_course, parsed_lines[1..])
 
     academic_degree_term_course.save!
   rescue StandardError

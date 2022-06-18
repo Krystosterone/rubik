@@ -11,7 +11,7 @@ class EtsPdf::Parser::ParsedLine
     private
 
     def match_pattern
-      %r{^\f?\s*(\d{1,2})\s*(\w{3})\s*(\d{2}:\d{2})\s-\s(\d{2}:\d{2})\s*(([\d\w\/\-\\+]+\s?)+)}i
+      %r{^\f?\s*(\d{1,2})\s*(\w{3})\s*(\d{2}:\d{2})\s-\s(\d{2}:\d{2})\s*(([\d\w/\-\\+]+\s?)+)}i
     end
 
     def attributes

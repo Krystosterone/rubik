@@ -4,10 +4,11 @@ require "rails_helper"
 
 describe SchedulePaginationHelper do
   describe "#schedule_page_index" do
-    before { @schedules = instance_double("Schedules", current_page: 3, limit_value: 50) }
+    let(:agenda) { build(:combined_agenda, schedules: build_list(:schedule, 50)) }
+    let(:schedules) { agenda.schedules.page(3).per(SchedulePaginationHelper::SCHEDULES_PER_PAGE) }
 
     it "returns the schedule page index" do
-      expect(schedule_page_index).to eq(100)
+      expect(schedule_page_index(schedules)).to eq(40)
     end
   end
 

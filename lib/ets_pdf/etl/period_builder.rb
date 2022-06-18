@@ -26,6 +26,7 @@ class EtsPdf::Etl::PeriodBuilder < SimpleClosure
   }.freeze
 
   def initialize(group, parsed_lines)
+    super()
     @group = group
     @parsed_lines = parsed_lines
   end
@@ -34,10 +35,7 @@ class EtsPdf::Etl::PeriodBuilder < SimpleClosure
     @parsed_lines
       .map(&method(:normalize_data))
       .map(&method(:build))
-      .map(&method(:normalize_weekday_index))
-      .map(&method(:normalize_ends_at))
-      .map(&method(:normalize_starts_at))
-      .map(&method(:normalize_type))
+      .map(&method(:normalize_attributes))
       .each(&method(:build_period))
   end
 
@@ -54,6 +52,16 @@ class EtsPdf::Etl::PeriodBuilder < SimpleClosure
       type: data.type,
       weekday: data.weekday,
     }
+  end
+
+  def normalize_attributes(attributes)
+    normalize_type(
+      normalize_starts_at(
+        normalize_ends_at(
+          normalize_weekday_index(attributes)
+        )
+      )
+    )
   end
 
   def normalize_weekday_index(attributes)
@@ -86,6 +94,6 @@ class EtsPdf::Etl::PeriodBuilder < SimpleClosure
 
   def int_value_of(weekday_index, time)
     hours, minutes = time.split(":").map(&:to_i)
-    weekday_index * MINUTES_IN_DAY + hours * 60 + minutes
+    (weekday_index * MINUTES_IN_DAY) + (hours * 60) + minutes
   end
 end

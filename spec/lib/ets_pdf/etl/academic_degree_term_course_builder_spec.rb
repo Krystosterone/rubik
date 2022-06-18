@@ -28,10 +28,10 @@ describe EtsPdf::Etl::AcademicDegreeTermCourseBuilder do
     end
 
     context "with groupable parsed lines" do
-      let(:academic_degree_term_course_1) do
+      let(:academic_degree_term_course1) do
         academic_degree_term.academic_degree_term_courses.includes(:course).find_by!(courses: { code: "COD001" })
       end
-      let(:academic_degree_term_course_2) do
+      let(:academic_degree_term_course2) do
         academic_degree_term.academic_degree_term_courses.includes(:course).find_by!(courses: { code: "COD002" })
       end
       let(:course_1_line) { build(:parsed_course_line, code: "COD001") }
@@ -67,19 +67,19 @@ describe EtsPdf::Etl::AcademicDegreeTermCourseBuilder do
       end
 
       it "calls the group builder for the first group of lines" do
-        grouped_parsed_lines = course_1_lines[1..5] + course_1_lines[7..-1]
+        grouped_parsed_lines = course_1_lines[1..5] + course_1_lines[7..]
 
         described_class.call(academic_degree_term, parsed_lines)
 
         expect(EtsPdf::Etl::GroupBuilder)
-          .to have_received(:call).with(academic_degree_term_course_1, grouped_parsed_lines)
+          .to have_received(:call).with(academic_degree_term_course1, grouped_parsed_lines)
       end
 
       it "calls the group builder for the second group of lines" do
         described_class.call(academic_degree_term, parsed_lines)
 
         expect(EtsPdf::Etl::GroupBuilder)
-          .to have_received(:call).with(academic_degree_term_course_2, course_2_lines[1..-1])
+          .to have_received(:call).with(academic_degree_term_course2, course_2_lines[1..])
       end
     end
   end

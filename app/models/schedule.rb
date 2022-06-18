@@ -18,11 +18,9 @@ class Schedule < ApplicationRecord
   end
 
   def weekdays
-    @weekdays ||= begin
-      (0..6).collect do |index|
-        periods = weekday_courses[index] + weekday_leaves[index]
-        ScheduleWeekday.new(index: index, periods: periods)
-      end
+    @weekdays ||= (0..6).collect do |index|
+      periods = weekday_courses[index] + weekday_leaves[index]
+      ScheduleWeekday.new(index: index, periods: periods)
     end
   end
 

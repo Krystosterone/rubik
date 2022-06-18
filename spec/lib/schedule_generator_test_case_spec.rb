@@ -10,6 +10,7 @@ describe ScheduleGeneratorTestCase do
     FileUtils.mkdir_p(tmp_folder_path)
     described_class.folder_path = tmp_folder_path
   end
+
   after do
     FileUtils.rm_rf(tmp_folder_path)
     described_class.folder_path = current_folder_path

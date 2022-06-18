@@ -1,5 +1,3 @@
-inherit_from: .rubocop_todo.yml
-
 require:
   - rubocop-rails
   - rubocop-rspec
@@ -24,11 +22,21 @@ Layout/LineLength:
 Metrics/BlockLength:
   Enabled: false
 
+Rails/FilePath:
+  EnforcedStyle: arguments
+
+RSpec/MultipleMemoizedHelpers:
+  Enabled: false
+
 RSpec/NestedGroups:
   Enabled: false
 
 Style/ClassAndModuleChildren:
   Enabled: false
+
+Style/FormatStringToken:
+  IgnoredMethods:
+    - redirect
 
 Style/Documentation:
   Enabled: false

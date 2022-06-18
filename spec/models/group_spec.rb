@@ -3,11 +3,14 @@
 require "rails_helper"
 
 describe Group do
+  subject(:group) { described_class.new }
+
   it do
-    is_expected.to find_or_initialize_for_serialized(:periods, attributes: { type: "TP",
-                                                                             starts_at: 100,
-                                                                             ends_at: 1000 })
+    expect(group).to find_or_initialize_for_serialized(:periods, attributes: { type: "TP",
+                                                                               starts_at: 100,
+                                                                               ends_at: 1000 })
   end
+
   it { is_expected.to have_attr_accessor(:number) }
   it { is_expected.to have_attr_accessor(:periods) }
 
@@ -46,7 +49,7 @@ describe Group do
         )
       end
 
-      specify { expect(group.overlaps?(other)).to eq(false) }
+      specify { expect(group.overlaps?(other)).to be(false) }
     end
 
     context "when periods overlap" do
@@ -70,11 +73,13 @@ describe Group do
         )
       end
 
-      specify { expect(group.overlaps?(other)).to eq(true) }
+      specify { expect(group.overlaps?(other)).to be(true) }
     end
   end
 
   describe "#==" do
+    subject(:group) { described_class.new(number: 1, periods: periods) }
+
     let(:periods) { [double] }
 
     it "returns false if numbers do not match" do
@@ -86,7 +91,7 @@ describe Group do
     end
 
     it "returns true if everything matches" do
-      expect(described_class.new(number: 1, periods: periods)).to eq(described_class.new(number: 1, periods: periods))
+      expect(group).to eq(described_class.new(number: 1, periods: periods))
     end
   end
 end

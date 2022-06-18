@@ -2,6 +2,6 @@
 
 namespace :ets_pdf do
   task etl: :environment do
-    EtsPdf::Etl.call(*ENV["PDF_FOLDER"])
+    EtsPdf::Etl.call(*ENV.fetch("PDF_FOLDER", nil))
   end
 end

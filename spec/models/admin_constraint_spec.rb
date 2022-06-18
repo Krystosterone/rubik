@@ -18,7 +18,7 @@ describe AdminConstraint do
       let(:request) { Rack::Request.new("rack.session" => { AdminSession::NAME => true }) }
 
       it "returns true" do
-        expect(contraint.matches?(request)).to eq(true)
+        expect(contraint.matches?(request)).to be(true)
       end
     end
   end

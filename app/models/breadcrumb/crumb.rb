@@ -26,10 +26,10 @@ class Breadcrumb::Crumb
   private
 
   def set_defaults
-    @additional_current_condition ||= proc { true }
-    @controller_name ||= key.split(".").first
-    @key ||= controller_name
-    @visible ||= proc { true }
+    @additional_current_condition = proc { true } unless defined?(@additional_current_condition)
+    @controller_name = key.split(".").first unless defined?(@controller_name)
+    @key = controller_name unless defined?(@key)
+    @visible = proc { true } unless defined?(@visible)
   end
 
   def set_current_proc

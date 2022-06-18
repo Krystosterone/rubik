@@ -22,7 +22,7 @@ describe Agenda do
   it { is_expected.to validate_with(Agenda::Validator) }
 
   its(:courses_per_schedule) { is_expected.to eq(1) }
-  its(:processing) { is_expected.to eq(false) }
+  its(:processing) { is_expected.to be(false) }
   its(:token) { is_expected.to be_present }
 
   it { is_expected.to delegate_method(:count).to(:schedules).with_prefix }
@@ -41,9 +41,10 @@ describe Agenda do
       Timecop.freeze(2016, 1, 1)
       agenda.mark_as_finished_processing
     end
+
     after { Timecop.return }
 
-    its(:processing) { is_expected.to eq(false) }
+    its(:processing) { is_expected.to be(false) }
     its(:combined_at) { is_expected.to eq(Time.zone.now) }
   end
 

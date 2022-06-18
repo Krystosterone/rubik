@@ -7,6 +7,7 @@ describe "Admin Authentication", type: :request do
   let(:permitted_user) { Rails.application.config.admin_emails.first }
 
   before { OmniAuth.config.mock_auth[:google_oauth2] = OmniAuth::AuthHash.new("info" => { "email" => permitted_user }) }
+
   after { OmniAuth.config.mock_auth[:google_oauth2] = nil }
 
   it "constraints admin routes" do

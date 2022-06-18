@@ -15,9 +15,9 @@ class ScheduleCourseBuilder
   private
 
   def course_indexes
-    @course_indexes ||= @course_groups.each_with_index.collect do |course_group, index|
+    @course_indexes ||= @course_groups.each_with_index.to_h do |course_group, index|
       [course_group.code, index + 1]
-    end.to_h
+    end
   end
 
   def weekday_time_ranges

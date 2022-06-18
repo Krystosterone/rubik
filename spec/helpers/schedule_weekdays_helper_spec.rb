@@ -7,13 +7,13 @@ describe ScheduleWeekdaysHelper do
     context "when it is empty" do
       let(:schedule_weekday) { instance_double(ScheduleWeekday, empty?: true) }
 
-      specify { expect(helper.schedule_weekday_collapsible?(schedule_weekday)).to eq(true) }
+      specify { expect(helper.schedule_weekday_collapsible?(schedule_weekday)).to be(true) }
     end
 
     context "when there are some periods" do
       let(:schedule_weekday) { instance_double(ScheduleWeekday, empty?: false) }
 
-      specify { expect(helper.schedule_weekday_collapsible?(schedule_weekday)).to eq(false) }
+      specify { expect(helper.schedule_weekday_collapsible?(schedule_weekday)).to be(false) }
     end
   end
 

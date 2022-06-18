@@ -4,6 +4,7 @@ class EtsPdf::Etl::PdfConverter < SimpleClosure
   PDF_EXTENSION = ".pdf"
 
   def initialize(pdf_pattern)
+    super()
     @pdf_pattern = pdf_pattern
   end
 
@@ -27,7 +28,7 @@ class EtsPdf::Etl::PdfConverter < SimpleClosure
   end
 
   def txt_exists?(pdf_path)
-    txt_path = File.dirname(pdf_path) + "/" + File.basename(pdf_path, ".*")
+    txt_path = "#{File.dirname(pdf_path)}/#{File.basename(pdf_path, '.*')}"
     File.exist?("#{txt_path}.txt")
   end
 end

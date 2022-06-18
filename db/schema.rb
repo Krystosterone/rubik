@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2016_09_23_191150) do
+ActiveRecord::Schema.define(version: 2022_06_17_205850) do
 
   create_table "academic_degree_term_courses", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.integer "academic_degree_term_id"
@@ -76,6 +76,7 @@ ActiveRecord::Schema.define(version: 2016_09_23_191150) do
 
   create_table "newsletter_subscriptions", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.string "email"
+    t.index ["email"], name: "index_newsletter_subscriptions_on_email", unique: true
   end
 
   create_table "schedules", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|

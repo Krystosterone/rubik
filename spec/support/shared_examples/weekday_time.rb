@@ -18,17 +18,17 @@ shared_examples "WeekdayTime" do
   end
 
   describe "#==" do
+    subject(:time) { described_class.new(550) }
+
     context "when both do not match" do
       it "returns false" do
-        expect(described_class.new(10))
-          .not_to eq(described_class.new(20))
+        expect(time).not_to eq(described_class.new(20))
       end
     end
 
     context "when both match" do
       it "is true" do
-        expect(described_class.new(550))
-          .to eq(described_class.new(550))
+        expect(time).to eq(described_class.new(550))
       end
     end
   end

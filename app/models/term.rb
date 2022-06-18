@@ -9,5 +9,5 @@ class Term < ApplicationRecord
   validates :year, presence: true
   validates :name, presence: true, uniqueness: { scope: %i[year tags] }
 
-  scope :enabled, -> { where("enabled_at IS NOT NULL").order(year: :desc, name: :asc, tags: :asc) }
+  scope :enabled, -> { where.not(enabled_at: nil).order(year: :desc, name: :asc, tags: :asc) }
 end

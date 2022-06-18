@@ -2,6 +2,7 @@
 
 class EtsPdf::Etl < SimpleClosure
   def initialize(pdf_folder = "db/raw/ets/**/*")
+    super()
     @pdf_folder = pdf_folder
   end
 

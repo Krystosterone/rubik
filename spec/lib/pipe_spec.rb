@@ -6,8 +6,8 @@ describe Pipe do
   describe "#call" do
     subject(:pipeline) do
       described_class
-        .bind(->(value) { value + "\nfirst_output" })
-        .bind(->(value) { value + "\nlast_output" })
+        .bind(->(value) { "#{value}\nfirst_output" })
+        .bind(->(value) { "#{value}\nlast_output" })
     end
 
     let(:expected_output) do

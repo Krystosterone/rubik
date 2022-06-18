@@ -13,6 +13,7 @@ class EtsPdf::Etl::TermBuilder < SimpleClosure
   }.freeze
 
   def initialize(units)
+    super()
     @units = units
   end
 

@@ -6,8 +6,6 @@ class AcademicDegreeTermCourse < ApplicationRecord
   belongs_to :academic_degree_term
   belongs_to :course
 
-  validates :academic_degree_term, presence: true
-  validates :course, presence: true
   validates :groups, presence: true
 
   serialize :groups, GroupsSerializer

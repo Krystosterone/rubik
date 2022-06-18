@@ -52,6 +52,7 @@ describe Agenda::Validator do
           courses_per_schedule: 2
         )
       end
+
       let(:error_code) { :mandatory_courses_less_than_or_equal_to_courses_per_schedule }
 
       it "adds and error on the record" do
@@ -91,7 +92,7 @@ describe Agenda::Validator do
       end
 
       it "sets an error on leaves" do
-        expect(agenda.leaves.all?(&:invalid?)).to eq(true)
+        expect(agenda.leaves.all?(&:invalid?)).to be(true)
       end
     end
 
