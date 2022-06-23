@@ -11,7 +11,7 @@ describe Pipe do
     end
 
     let(:expected_output) do
-      <<-OUTPUT.strip_heredoc.strip
+      <<~OUTPUT.strip
         initial_input
         first_output
         last_output

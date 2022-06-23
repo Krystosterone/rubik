@@ -10,7 +10,7 @@ shared_examples "SerializedRecord::FormBuilderHelper" do
 
   describe "#nested_form" do
     let(:output) do
-      <<-HTML.strip_heredoc.strip
+      <<~HTML.strip
         <div data-nested-form="test_students"><input type="text" value="Krystian" name="test_professor[test_students_attributes][0][name]" id="test_professor_test_students_attributes_0_name" />
         <input value="1" disabled="disabled" data-nested-form-destroy-input="" type="hidden" name="test_professor[test_students_attributes][0][_destroy]" id="test_professor_test_students_attributes_0__destroy" /><button name="button" type="button" data-nested-form-destroy="">-</button>
         <input type="text" value="Krystian" name="test_professor[test_students_attributes][1][name]" id="test_professor_test_students_attributes_1_name" />
@@ -30,7 +30,7 @@ shared_examples "SerializedRecord::FormBuilderHelper" do
 
   describe "#create_button" do
     let(:output) do
-      <<-HTML.strip_heredoc.strip
+      <<~HTML.strip
         <button name="button" type="button" class="btn" data-nested-form-create="test_students">+</button>
       HTML
     end
@@ -42,7 +42,7 @@ shared_examples "SerializedRecord::FormBuilderHelper" do
 
   describe "#destroy_button" do
     let(:output) do
-      <<-HTML.strip_heredoc.strip.delete("\n")
+      <<~HTML.strip.delete("\n")
         <input value="1" disabled="disabled" data-nested-form-destroy-input="" type="hidden" name="test_professor[_destroy]" id="test_professor__destroy" />
         <button name="button" type="button" class="btn" data-nested-form-destroy="">-</button>
       HTML
