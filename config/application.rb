@@ -12,10 +12,15 @@ module Rubik
   class Application < Rails::Application
     config.load_defaults 5.1
 
+    config.x.google.analytics_tracking_id = ENV.fetch("GA_ANALYTICS_ID")
+    config.x.host = ENV.fetch("HOST")
+    config.x.protocol = ENV.fetch("PROTOCOL")
+
     config.i18n.available_locales = [:fr]
     config.i18n.default_locale = :fr
     config.i18n.enforce_available_locales = true
 
+    config.action_mailer.default_url_options = { host: config.x.host }
     config.action_mailer.preview_path = Rails.root.join("spec", "mailers", "previews")
     config.active_job.queue_adapter = :sidekiq
 
@@ -30,7 +35,6 @@ module Rubik
     config.action_view.field_error_proc = proc { |html_tag, _instance| html_tag }
     config.admin_emails = ENV.fetch("ADMIN_EMAILS").split(",")
     config.comment_email_recipient = ENV.fetch("COMMENT_EMAIL_RECIPIENT")
-    config.x.google.analytics_tracking_id = ENV.fetch("GA_ANALYTICS_ID")
 
     config.after_initialize do
       Bullet.enable = true

@@ -4,13 +4,13 @@ class TermsController < ApplicationController
   before_action :assign_terms
 
   def index
-    @newsletter_subscription = NewsletterSubscription.new
+    @user = User.new
   end
 
   def create_newsletter_subscription
-    @newsletter_subscription = NewsletterSubscription.new(newsletter_subscription_params)
+    @user = User.new(user_params)
 
-    if @newsletter_subscription.save
+    if @user.save
       redirect_to root_path, flash: { notice: t(".success") }
     else
       render :index
@@ -23,7 +23,7 @@ class TermsController < ApplicationController
     @terms = Term.includes(:academic_degree_terms, academic_degree_terms: :academic_degree).enabled.all
   end
 
-  def newsletter_subscription_params
-    params.require(:newsletter_subscription).permit(:email)
+  def user_params
+    params.require(:user).permit(:email)
   end
 end

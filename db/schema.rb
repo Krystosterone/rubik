@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2022_06_17_205850) do
+ActiveRecord::Schema.define(version: 2022_06_22_175452) do
 
   create_table "academic_degree_term_courses", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.integer "academic_degree_term_id"
@@ -74,9 +74,13 @@ ActiveRecord::Schema.define(version: 2022_06_17_205850) do
     t.index ["code"], name: "index_courses_on_code", unique: true
   end
 
-  create_table "newsletter_subscriptions", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
-    t.string "email"
-    t.index ["email"], name: "index_newsletter_subscriptions_on_email", unique: true
+  create_table "mailkick_subscriptions", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
+    t.string "subscriber_type"
+    t.bigint "subscriber_id"
+    t.string "list"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["subscriber_type", "subscriber_id", "list"], name: "index_mailkick_subscriptions_on_subscriber_and_list", unique: true
   end
 
   create_table "schedules", id: :integer, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
@@ -95,6 +99,13 @@ ActiveRecord::Schema.define(version: 2022_06_17_205850) do
     t.datetime "updated_at"
     t.datetime "enabled_at"
     t.index ["year", "name", "tags"], name: "index_terms_on_year_and_name_and_tags", unique: true
+  end
+
+  create_table "users", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
+    t.string "email"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["email"], name: "index_users_on_email", unique: true
   end
 
 end
