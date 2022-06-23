@@ -210,6 +210,8 @@ GEM
       nokogiri (>= 1.5.9)
     mail (2.7.1)
       mini_mime (>= 0.1.1)
+    mailkick (1.0.1)
+      activesupport (>= 5.2)
     marcel (1.0.2)
     method_source (0.9.2)
     mime-types (3.4.1)
@@ -448,6 +450,7 @@ DEPENDENCIES
   letter_opener
   letter_opener_web
   listen
+  mailkick
   mysql2 (~> 0.4.0)
   omniauth (~> 1.0)
   omniauth-google-oauth2

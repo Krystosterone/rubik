@@ -3,12 +3,12 @@
 class UpdateNewsletterSubscriptions
   include ActiveModel::Model
 
-  attr_accessor :trimesters
+  attr_accessor :terms
 
   def call
     subscriptions.each do |subscription|
       NewsletterSubscriptionMailer
-        .update_available_email(to: subscription, trimesters: trimesters)
+        .update_available_email(to: subscription, terms: terms)
         .deliver_later
     end
   end
@@ -16,6 +16,6 @@ class UpdateNewsletterSubscriptions
   private
 
   def subscriptions
-    NewsletterSubscription.all.pluck(:email)
+    User.subscribed_to_newsletter
   end
 end

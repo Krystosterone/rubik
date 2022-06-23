@@ -8,17 +8,17 @@ describe TermsController do
   describe "#index" do
     before { get :index }
 
-    let(:newsletter_subscription) { assigns(:newsletter_subscription) }
+    let(:user) { assigns(:user) }
 
     it "assigns the terms" do
       expect(assigns(:terms)).to eq(terms.reverse)
     end
 
-    it "assigns a new newsletter subscription" do
-      expect(newsletter_subscription).to be_instance_of(NewsletterSubscription)
+    it "assigns a new user" do
+      expect(user).to be_instance_of(User)
     end
 
-    specify { expect(newsletter_subscription).to be_new_record }
+    specify { expect(user).to be_new_record }
 
     it "renders the index" do
       expect(response).to render_template(:index)
@@ -27,19 +27,19 @@ describe TermsController do
 
   describe "#create_newsletter_subscription" do
     context "when the newsletter subscription did not succeed" do
-      before { post :create_newsletter_subscription, params: { newsletter_subscription: { email: "nope" } } }
+      before { post :create_newsletter_subscription, params: { user: { email: "nope" } } }
 
-      let(:newsletter_subscription) { assigns(:newsletter_subscription) }
+      let(:user) { assigns(:user) }
 
       it "assigns the terms" do
         expect(assigns(:terms)).to eq(terms.reverse)
       end
 
-      it "assigns a new newsletter subscription" do
-        expect(newsletter_subscription).to be_a_new(NewsletterSubscription)
+      it "assigns a new user" do
+        expect(user).to be_a_new(User)
       end
 
-      specify { expect(newsletter_subscription.email).to eq("nope") }
+      specify { expect(user.email).to eq("nope") }
 
       it "renders the index" do
         expect(response).to render_template(:index)
@@ -47,12 +47,12 @@ describe TermsController do
     end
 
     context "when the newsletter subscription did succeed" do
-      before { post :create_newsletter_subscription, params: { newsletter_subscription: { email: "1@b.ca" } } }
+      before { post :create_newsletter_subscription, params: { user: { email: "1@b.ca" } } }
 
-      let(:newsletter_subscription) { NewsletterSubscription.last }
+      let(:user) { User.last }
 
-      it "assigns a new newsletter subscription" do
-        expect(newsletter_subscription.email).to eq("1@b.ca")
+      it "assigns a new user" do
+        expect(user.email).to eq("1@b.ca")
       end
 
       it "redirects to the root" do

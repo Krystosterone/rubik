@@ -3,7 +3,7 @@
     %h1= t(".title")
     %p= t(".subtitle")
 
-= form_for @newsletter_subscription, url: create_newsletter_subscription_terms_path,
+= form_for @user, url: create_newsletter_subscription_terms_path,
   html: { class: "form-horizontal" } do |f|
   .container
     = render "shared/flash_messages"

@@ -22,7 +22,7 @@ fr:
       comment:
         user_email: Courriel
         body: Commentaire
-      newsletter_subscription:
+      user:
         email: Courriel
     errors:
       models:
@@ -41,7 +41,7 @@ fr:
           attributes:
             selected_groups:
               blank: Veuillez sélectionner au moins un groupe par cours
-        newsletter_subscription:
+        user:
           attributes:
             email:
               taken: a déjà été enregistré
@@ -111,7 +111,7 @@ fr:
           Un nouveau trimestre a été rajouté:
           %{trimesters}
 
-          Vous pouvez maintenant générer vos combinaisons d'horaires au: http://ets.rubik.co
+          Vous pouvez maintenant générer vos combinaisons d'horaires au: %{link}
 
           Bonnes études!
         other: |
@@ -122,12 +122,13 @@ fr:
           Des nouveaux trimestres ont été rajoutés:
           %{trimesters}
 
-          Vous pouvez maintenant générer vos combinaisons d'horaires au: http://ets.rubik.co
+          Vous pouvez maintenant générer vos combinaisons d'horaires au: %{link}
 
           Bonnes études!
       subject:
         one: Nouveau Trimestre Disponible
         other: Nouveaux Trimestres Disponibles
+      unsubscribe: "Se désabonner de la liste d'envoi: "
   shared:
     breadcrumb:
       terms: Trimestres
