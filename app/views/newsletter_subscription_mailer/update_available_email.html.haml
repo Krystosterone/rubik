@@ -1,1 +1,5 @@
-= simple_format t(".body", count: @trimesters.count, trimesters: trimesters_list(@trimesters))
+- trimesters = trimesters_list(@terms.map(&method(:trimester_name)))
+
+= simple_format t(".body", count: @terms.count, trimesters: trimesters, link: @link)
+= t(".unsubscribe")
+= mailkick_unsubscribe_url(@user, User::NEWSLETTER_NAME)

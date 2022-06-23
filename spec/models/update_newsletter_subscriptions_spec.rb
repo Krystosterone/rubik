@@ -3,19 +3,16 @@
 require "rails_helper"
 
 describe UpdateNewsletterSubscriptions do
-  subject(:service) { described_class.new(trimesters: trimesters) }
+  subject(:service) { described_class.new(terms: terms) }
 
-  let(:mailers) { newsletter_subscriptions.map { instance_double(ActionMailer::MessageDelivery) } }
-  let(:newsletter_subscriptions) { build_list(:newsletter_subscription, 3) }
-  let(:trimesters) { ["One"] }
+  let(:mailers) { users.map { instance_double(ActionMailer::MessageDelivery) } }
+  let(:users) { create_list(:user, 3) }
+  let(:terms) { create_list(:term, 3) }
 
   before do
-    newsletter_subscriptions.each(&:save!)
-    newsletter_subscriptions.each_with_index do |subscription, index|
-      allow(NewsletterSubscriptionMailer)
-        .to receive(:update_available_email)
-        .with(to: subscription.email, trimesters: trimesters)
-        .and_return(mailers[index])
+    users.each_with_index do |user, index|
+      allow(NewsletterSubscriptionMailer).to receive(:update_available_email)
+        .with(to: user, terms: terms).and_return(mailers[index])
     end
 
     mailers.each { |mailer| allow(mailer).to receive(:deliver_later) }

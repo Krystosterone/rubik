@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-ruby "2.6.10"
+ruby "2.7.6"
 
 gem "airbrake"
 gem "autoprefixer-rails"
@@ -15,6 +15,7 @@ gem "jquery-rails"
 gem "kaminari"
 gem "kaminari-i18n"
 gem "listen"
+gem "mailkick"
 gem "mysql2", "~> 0.4.0"
 gem "omniauth", "~> 1.0"
 gem "omniauth-google-oauth2"

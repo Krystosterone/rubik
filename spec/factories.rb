@@ -85,7 +85,7 @@ FactoryBot.define do
     ends_at { 400 }
   end
 
-  factory :newsletter_subscription do
+  factory :user do
     email { generate(:email) }
   end
 
