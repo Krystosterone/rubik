@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-ruby "2.6.10"
+ruby "2.7.6"
 
 gem "airbrake"
 gem "autoprefixer-rails"
