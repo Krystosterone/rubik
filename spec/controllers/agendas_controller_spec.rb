@@ -153,7 +153,7 @@ describe AgendasController do
         end
 
         it "enqueues the job to combine schedules" do
-          expect(ScheduleGeneratorJob).to have_been_enqueued.with(global_id(agenda))
+          expect(ScheduleGeneratorJob).to have_enqueued_sidekiq_job(agenda.id)
         end
       end
     end

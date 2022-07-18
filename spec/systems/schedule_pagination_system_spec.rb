@@ -10,6 +10,8 @@ RSpec.describe "Schedule Pagination", type: :system do
     Term.first.update!(enabled_at: Time.zone.now)
   end
 
+  around { |block| Sidekiq::Testing.inline!(&block) }
+
   # rubocop:disable RSpec/ExampleLength, RSpec/MultipleExpectations
   it "pagines schedules correctly" do
     visit "/"
@@ -20,7 +22,7 @@ RSpec.describe "Schedule Pagination", type: :system do
     find("label", text: "CHM131").click
     find("label", text: "LOG121").click
     within(".courses-per-schedule-group") { find("label", text: "2").click }
-    perform_enqueued_jobs { click_button("Soumettre") }
+    click_button("Soumettre")
 
     expect(page).to have_text("Horaires")
     expect(page).to have_field("Nombre d'horaires générés", with: "36", disabled: true)

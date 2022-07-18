@@ -55,7 +55,7 @@ describe AgendaCreationProcess do
 
       it "enqueues the generator job" do
         process.save
-        expect(ScheduleGeneratorJob).to have_been_enqueued.with(global_id(agenda))
+        expect(ScheduleGeneratorJob).to have_enqueued_sidekiq_job(agenda.id)
       end
     end
 

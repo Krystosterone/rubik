@@ -22,7 +22,6 @@ module Rubik
 
     config.action_mailer.default_url_options = { host: config.x.host }
     config.action_mailer.preview_path = Rails.root.join("spec", "mailers", "previews")
-    config.active_job.queue_adapter = :sidekiq
 
     config.autoload_paths += %W[
       #{config.root}/lib

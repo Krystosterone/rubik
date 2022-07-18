@@ -57,7 +57,7 @@ class AgendaCreationProcess
   end
 
   def after_combine(save_result)
-    ScheduleGeneratorJob.perform_later(agenda) if save_result
+    ScheduleGeneratorJob.perform_async(agenda.id) if save_result
   end
 
   def reset_course_group_numbers

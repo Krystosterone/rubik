@@ -3,8 +3,6 @@
 require "rails_helper"
 
 describe Comment do
-  include ActiveJob::TestHelper
-
   it { is_expected.to allow_value("test@domain.com").for(:user_email) }
   it { is_expected.to validate_presence_of(:body) }
 

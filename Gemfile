@@ -23,7 +23,6 @@ gem "puma", "~> 4.3.12"
 gem "rails", "~> 5.2.0"
 gem "rails-i18n"
 gem "sass-rails", "~> 5.0"
-gem "sidekiq-unique-jobs"
 gem "uglifier"
 
 # Sidekiq
@@ -52,12 +51,12 @@ group :test do
   gem "cucumber-rails", "~> 2.0", require: false
   gem "database_cleaner"
   gem "factory_bot_rails", "~> 6.2.0"
-  gem "fakeredis"
+  gem "fakeredis", require: "fakeredis/rspec"
   gem "poltergeist"
   gem "rails-controller-testing"
-  gem "rspec-activejob"
   gem "rspec_junit_formatter"
   gem "rspec-rails"
+  gem "rspec-sidekiq"
   gem "selenium-webdriver"
   gem "shoulda-matchers"
   gem "simplecov", require: false

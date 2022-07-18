@@ -16,7 +16,9 @@ describe ScheduleGeneratorJob do
       allow(schedule_generator).to receive(:combine)
       allow(agenda).to receive(:save!)
 
-      job.perform(agenda)
+      job.perform(agenda.id)
+
+      agenda.reload
     end
 
     after { Timecop.return }
