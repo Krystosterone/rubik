@@ -50,8 +50,8 @@ GEM
       rbtree3 (~> 0.5)
     arel (9.0.0)
     ast (2.4.2)
-    autoprefixer-rails (9.6.5)
-      execjs
+    autoprefixer-rails (10.4.7.0)
+      execjs (~> 2)
     better_errors (2.9.1)
       coderay (>= 1.0.0)
       erubi (>= 1.0.0)
@@ -138,7 +138,7 @@ GEM
       activemodel
     erubi (1.10.0)
     erubis (2.7.0)
-    execjs (2.7.0)
+    execjs (2.8.1)
     factory_bot (6.2.1)
       activesupport (>= 5.0.0)
     factory_bot_rails (6.2.0)
