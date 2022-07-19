@@ -4,7 +4,7 @@ require "sidekiq/web"
 
 Rails.application.routes.draw do
   namespace :admin do
-    get "/auth/google_oauth2/callback" => "sessions#create"
+    get "/auth/google_oauth2/callback", to: "sessions#create"
     get "/auth/failure", to: redirect("/401", 302)
 
     get "/login", to: "sessions#new"

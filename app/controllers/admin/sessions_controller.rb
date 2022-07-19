@@ -3,6 +3,7 @@
 module Admin
   class SessionsController < ApplicationController
     before_action :ensure_valid_user, only: :create
+    skip_before_action :verify_authenticity_token, only: :create
 
     delegate :admin_emails, to: "Rails.application.config"
 
