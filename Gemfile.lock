@@ -199,7 +199,7 @@ GEM
       activerecord
       kaminari-core (= 1.2.2)
     kaminari-core (1.2.2)
-    kaminari-i18n (0.4.0)
+    kaminari-i18n (0.5.0)
       kaminari
       rails
     launchy (2.5.0)
