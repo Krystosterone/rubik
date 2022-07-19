@@ -422,7 +422,7 @@ GEM
     timecop (0.9.5)
     tzinfo (1.2.9)
       thread_safe (~> 0.1)
-    uglifier (4.0.2)
+    uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (2.2.0)
     uniform_notifier (1.16.0)
