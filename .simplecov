@@ -8,8 +8,6 @@ if ENV["CIRCLE_ARTIFACTS"]
 end
 
 SimpleCov.start("rails") do
-  refuse_coverage_drop
-
   add_filter "lib/tasks/cucumber.rake"
   add_group "Middleware", "app/middlewares"
 end

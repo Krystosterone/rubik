@@ -5,6 +5,7 @@ orbs:
 jobs:
   build:
     resource_class: large
+    parallelism: 4
     docker:
       - image: cimg/ruby:2.7.6-browsers
       - image: cimg/mysql:5.7.36
@@ -53,10 +54,14 @@ jobs:
           out-path: test-results/rspec
       - store_test_results:
           path: test-results/rspec
-      - run: bundle exec cucumber --format junit --out test-results/cucumber
+      - run: bundle exec cucumber --format junit --out test-results/cucumber $(circleci tests glob "features/**/*.feature")
       - store_test_results:
           path: test-results/cucumber
-      - run: bundle exec rails ets_pdf:etl
-      - ruby/rubocop-check
-      - run: bundle exec haml-lint app/views
-      - run: yarn run eslint app/assets/javascripts/**/*
+      - run: |
+          if [[ "$CIRCLE_NODE_INDEX" == "0" ]]; then
+            bundle exec rails ets_pdf:etl
+          fi
+      - ruby/rubocop-check:
+          parallel: true
+      - run: bundle exec haml-lint app/views $(circleci tests glob "app/views/**/*.haml" | circleci tests split)
+      - run: yarn run eslint $(circleci tests glob "app/assets/javascripts/**/*.js" | circleci tests split)
