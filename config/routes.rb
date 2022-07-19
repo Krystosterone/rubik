@@ -7,8 +7,8 @@ Rails.application.routes.draw do
     get "/auth/google_oauth2/callback" => "sessions#create"
     get "/auth/failure", to: redirect("/401", 302)
 
-    get "/login", to: redirect("/admin/auth/google_oauth2", 302)
-    get "/logout" => "sessions#destroy"
+    get "/login", to: "sessions#new"
+    get "/logout", to: "sessions#destroy"
 
     constraints AdminConstraint.new do
       mount Sidekiq::Web, at: "/sidekiq"

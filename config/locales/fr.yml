@@ -45,6 +45,10 @@ fr:
           attributes:
             email:
               taken: a déjà été enregistré
+  admin:
+    sessions:
+      new:
+        title: "S'authentifier"
   agendas:
     course_selection:
       filter_groups: Filtrer les groupes comme prochaine étape

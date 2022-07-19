@@ -6,6 +6,8 @@ module Admin
 
     delegate :admin_emails, to: "Rails.application.config"
 
+    def new; end
+
     def create
       session[AdminSession::NAME] = true
       redirect_to admin_root_path
