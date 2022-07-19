@@ -1,12 +1,14 @@
 # frozen_string_literal: true
 
 shared_examples "SerializedRecord::FormBuilderHelper" do
-  subject(:helper) { TestFormBuilder.new("test_professor", professor, view_context, {}) }
+  subject(:helper) { TestFormBuilder.new("test_professor", professor, controller.view_context, {}) }
 
+  let(:controller) { ActionController::Base.new }
   let(:students) { Array.new(3) { TestStudent.new } }
   let(:professor) { TestProfessor.new(test_students: students) }
   let(:view_path) { Rails.root.join("spec", "fixtures", "views") }
-  let(:view_context) { ActionView::Base.new(view_path) }
+
+  before { controller.prepend_view_path(view_path) }
 
   describe "#nested_form" do
     let(:output) do

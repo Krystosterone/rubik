@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 class EtsPdf::Parser::ParsedLine
-  LINE_TYPES = %w[course group period].to_h do |type|
-    [type, "EtsPdf::Parser::ParsedLine::#{type.classify}".constantize]
+  LINE_TYPES = %w[course group period].index_with do |type|
+    "EtsPdf::Parser::ParsedLine::#{type.classify}".constantize
   end
 
   def initialize(line)

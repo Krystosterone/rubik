@@ -6,7 +6,7 @@ class ScheduleLeaveBuilder
   end
 
   def call
-    weekdays = (0..6).to_h { |index| [index, []] }
+    weekdays = (0..6).index_with { |_index| [] }
     @leaves.each do |leave|
       leave.to_weekday_time_ranges.collect do |weekday_index, weekday_time_range|
         weekdays[weekday_index] << ScheduleLeave.new(

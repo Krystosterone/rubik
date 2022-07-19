@@ -10,7 +10,7 @@ Bundler.require(*Rails.groups)
 
 module Rubik
   class Application < Rails::Application
-    config.load_defaults 5.1
+    config.load_defaults 6.0
 
     config.x.google.analytics_tracking_id = ENV.fetch("GA_ANALYTICS_ID")
     config.x.host = ENV.fetch("HOST")
@@ -22,6 +22,8 @@ module Rubik
 
     config.action_mailer.default_url_options = { host: config.x.host }
     config.action_mailer.preview_path = Rails.root.join("spec", "mailers", "previews")
+
+    config.active_job.queue_adapter = :sidekiq
 
     config.autoload_paths += %W[
       #{config.root}/lib

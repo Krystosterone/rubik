@@ -5,7 +5,7 @@ class User < ApplicationRecord
 
   NEWSLETTER_NAME = "newsletter"
 
-  validates :email, email: true, uniqueness: true
+  validates :email, email: true, uniqueness: { case_sensitive: true }
 
   scope :subscribed_to_newsletter, -> { subscribed(NEWSLETTER_NAME) }
 
