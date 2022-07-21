@@ -1,6 +1,6 @@
 "use strict";
 
-import DOMPurify from 'dompurify';
+import DOMPurify from "dompurify";
 
 export default class LeaveNestedForm {
   constructor() {
