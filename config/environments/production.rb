@@ -7,7 +7,7 @@ Rails.application.configure do
   config.action_controller.perform_caching = true
   config.active_storage.service = :local
   config.public_file_server.enabled = ENV["RAILS_SERVE_STATIC_FILES"].present?
-  config.assets.js_compressor = :uglifier
+  config.assets.js_compressor = Uglifier.new(harmony: true)
   config.assets.compile = false
   config.assets.digest = true
   config.log_level = :debug
