@@ -1,5 +1,7 @@
 "use strict";
 
+import DOMPurify from 'dompurify';
+
 export default class LeaveNestedForm {
   constructor() {
     $("[data-nested-form='leaves'] > [data-fields]").each(this.onFieldsInit.bind(this));
@@ -39,7 +41,11 @@ export default class LeaveNestedForm {
     let endsAtSelectedValue = $endsAtSelect.val();
 
     $endsAtSelect
-      .html($endsAtSelect.attr("data-options"))
+      .html(
+        DOMPurify.sanitize(
+          $endsAtSelect.attr("data-options")
+        )
+      )
       .find("option")
       .each((index, option) => {
         let $option = $(option);
