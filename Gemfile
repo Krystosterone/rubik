@@ -23,7 +23,7 @@ gem "omniauth-rails_csrf_protection", "~> 1.0"
 gem "puma", "~> 4.3.12"
 gem "rails", "~> 6.0.0"
 gem "rails-i18n"
-gem "sass-rails", "~> 5.0"
+gem "sass-rails"
 gem "uglifier"
 
 # Sidekiq
