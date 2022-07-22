@@ -34,6 +34,9 @@ module Rubik
     config.admin_emails = ENV.fetch("ADMIN_EMAILS").split(",")
     config.comment_email_recipient = ENV.fetch("COMMENT_EMAIL_RECIPIENT")
 
+    config.browserify_rails.commandline_options = "-t babelify"
+    config.browserify_rails.source_map_environments << "development"
+
     config.after_initialize do
       Bullet.enable = true
       Bullet.bullet_logger = true
