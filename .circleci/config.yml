@@ -52,11 +52,13 @@ jobs:
       - ruby/rspec-test:
           include: spec/**/*_spec.rb
           out-path: test-results/rspec
+      - store_test_results:
+          path: test-results/rspec
       - run: |
           FEATURE_FILES=$(circleci tests glob "features/**/*.feature" | circleci tests split --split-by=timings)
           bundle exec cucumber --format junit --out test-results/cucumber -- ${FEATURE_FILES}
       - store_test_results:
-          path: test-results
+          path: test-results/cucumber
       - run: |
           if [[ "$CIRCLE_NODE_INDEX" == "0" ]]; then
             bundle exec rails ets_pdf:etl
