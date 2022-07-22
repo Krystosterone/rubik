@@ -19,7 +19,6 @@
     "url": "https://github.com/Krystosterone/rubik/issues"
   },
   "homepage": "https://github.com/Krystosterone/rubik#readme",
-  "type": "module",
   "devDependencies": {
     "@babel/core": "^7.18.9",
     "@babel/preset-env": "^7.18.9",
