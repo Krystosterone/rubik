@@ -15,8 +15,6 @@ Rails.application.configure do
   config.log_level = :debug
   config.log_tags = [:request_id]
 
-  config.assets.js_compressor = :uglifier
-
   config.assets.digest = true
 
   config.action_mailer.perform_caching = false
