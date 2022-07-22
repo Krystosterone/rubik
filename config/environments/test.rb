@@ -9,12 +9,18 @@ Rails.application.configure do
   }
   config.consider_all_requests_local = true
   config.action_controller.perform_caching = false
+
+  config.cache_store = :null_store
   config.action_dispatch.show_exceptions = false
   config.action_controller.allow_forgery_protection = false
+
   config.action_mailer.delivery_method = :test
   config.action_mailer.perform_caching = false
+
   config.active_support.test_order = :random
   config.active_support.deprecation = :stderr
+  config.active_support.disallowed_deprecation = :raise
+  config.active_support.disallowed_deprecation_warnings = []
 
   config.after_initialize { Bullet.raise = true }
 end

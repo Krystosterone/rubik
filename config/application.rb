@@ -10,7 +10,7 @@ Bundler.require(*Rails.groups)
 
 module Rubik
   class Application < Rails::Application
-    config.load_defaults 6.0
+    config.load_defaults 6.1
 
     config.x.google.analytics_tracking_id = ENV.fetch("GA_ANALYTICS_ID")
     config.x.host = ENV.fetch("HOST")
