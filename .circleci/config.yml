@@ -73,8 +73,8 @@ jobs:
       - store_artifacts:
           path: test-results/rubocop
       - run: |
-          VIEW_FILES=$(circleci tests glob "app/views/**/*.haml" | circleci tests split --split-by=timings)
+          VIEW_FILES=$(circleci tests glob "app/views/**/*.haml" | circleci tests split)
           bundle exec haml-lint app/views -- ${VIEW_FILES}
       - run: |
-          JS_FILES=$(circleci tests glob "app/assets/javascripts/**/*.js" | circleci tests split --split-by=timings)
+          JS_FILES=$(circleci tests glob "app/assets/javascripts/**/*.js" | circleci tests split)
           yarn run eslint ${JS_FILES}
