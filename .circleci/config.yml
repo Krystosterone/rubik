@@ -55,8 +55,9 @@ jobs:
       - store_test_results:
           path: test-results/rspec
       - run: |
-          if [[ "$CIRCLE_NODE_INDEX" == "1" ]]; then
-            bundle exec cucumber --format junit --out test-results/cucumber
+          FEATURE_FILES=$(circleci tests glob "features/**/*.feature" | circleci tests split)
+          if [[ -n "$FEATURE_FILES" ]]; then
+            bundle exec cucumber --format junit --out test-results/cucumber -- ${FEATURE_FILES}
           fi
       - store_test_results:
           path: test-results/cucumber
