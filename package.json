@@ -20,13 +20,15 @@
   },
   "homepage": "https://github.com/Krystosterone/rubik#readme",
   "devDependencies": {
+    "eslint": "^8.20.0"
+  },
+  "dependencies": {
     "@babel/core": "^7.18.9",
     "@babel/preset-env": "^7.18.9",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
     "browserify-incremental": "^3.1.1",
-    "dompurify": "^2.3.10",
-    "eslint": "^8.20.0"
+    "dompurify": "^2.3.10"
   },
   "babel": {
     "presets": [
