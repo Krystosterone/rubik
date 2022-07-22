@@ -59,6 +59,8 @@ jobs:
           bundle exec cucumber --format junit --out test-results/cucumber -- ${FEATURE_FILES}
       - store_test_results:
           path: test-results/cucumber
+      - store_artifacts:
+          path: test-results/cucumber
       - run: |
           if [[ "$CIRCLE_NODE_INDEX" == "0" ]]; then
             bundle exec rails ets_pdf:etl
