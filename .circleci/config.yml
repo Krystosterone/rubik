@@ -62,9 +62,8 @@ jobs:
       - store_test_results:
           path: test-results/cucumber
       - run: |
-          if [[ "$CIRCLE_NODE_INDEX" == "0" ]]; then
-            bundle exec rails ets_pdf:etl
-          fi
+          ETS_PDFS=$(circleci tests glob "db/raw/ets/**/*.pdf" | circleci tests split)
+          bundle exec thor ets_pdf:etl -d ${ETS_PDFS}
       - run: |
           RUBOCOP_FILES=$(circleci tests glob "app/**/*.rb" | circleci tests split)
           bundle exec rubocop -- ${RUBOCOP_FILES}

@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
 class EtsPdf::Etl < SimpleClosure
-  def initialize(pdf_folder = "db/raw/ets/**/*")
+  def initialize(patterns = Dir.glob(Rails.root.join("db/raw/ets/**/*.pdf")))
     super()
-    @pdf_folder = pdf_folder
+    @patterns = patterns
   end
 
   def call
-    Pipe.bind(PdfConverter).bind(PdfParser).bind(DomainBuilder).call(@pdf_folder)
+    Pipe.bind(PdfConverter).bind(PdfParser).bind(DomainBuilder).call(@patterns)
   end
 end

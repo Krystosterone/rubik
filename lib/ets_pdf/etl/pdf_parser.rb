@@ -1,15 +1,13 @@
 # frozen_string_literal: true
 
 class EtsPdf::Etl::PdfParser < SimpleClosure
-  TXT_EXTENSION = ".txt"
-
-  def initialize(txt_folder)
+  def initialize(txt_paths)
     super()
-    @txt_folder = txt_folder
+    @txt_paths = txt_paths
   end
 
   def call
-    Dir.glob(txt_paths).map(&method(:build))
+    @txt_paths.map(&method(:build))
   end
 
   private
@@ -33,10 +31,6 @@ class EtsPdf::Etl::PdfParser < SimpleClosure
 
   def part_of(path, up_to)
     backwards_path = Array.new(up_to) { ".." }.join("/")
-    File.basename(File.expand_path(backwards_path, path), TXT_EXTENSION)
-  end
-
-  def txt_paths
-    Rails.root.join("#{@txt_folder}#{TXT_EXTENSION}")
+    File.basename(File.expand_path(backwards_path, path), ".*")
   end
 end

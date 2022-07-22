@@ -3,7 +3,7 @@
 require "rails_helper"
 
 describe EtsPdf::Etl::PdfParser do
-  let(:txt_subset) { "db/raw/ets/2015/hiver/**/*" }
+  let(:txt_subset) { Dir.glob(Rails.root.join("db/raw/ets/2015/hiver/**/*.txt")) }
 
   describe ".call" do
     let(:expected_data) do
@@ -38,15 +38,10 @@ describe EtsPdf::Etl::PdfParser do
   def line(year, term_handle, type, bachelor_handle)
     {
       bachelor_handle: bachelor_handle,
-      parsed_lines: txt_matching(type, bachelor_handle),
+      parsed_lines: Rails.root.join("db/raw/ets/#{year}/#{term_handle}/#{type}/#{bachelor_handle}.txt").to_s,
       term_handle: term_handle,
       type: type,
       year: year.to_s,
     }
-  end
-
-  def txt_matching(type, bachelor_handle)
-    path = txt_subset.sub("**", type).sub("*", bachelor_handle)
-    a_string_ending_with("#{path}.txt")
   end
 end

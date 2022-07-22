@@ -35,17 +35,21 @@ For [ets.rubik.co](http://ets.rubik.co), there exists an **ETL** to parse PDFs p
 
 1. Download all PDFs you want to include on the website here: [Horaires et planification des cours : baccalauréats](https://www.etsmtl.ca/horaires-bac)
 2. Move them to [https://github.com/Krystosterone/rubik/tree/ff7dec33e0ad6263cedc488b811bdea7c238b42e/db/raw/ets](https://github.com/Krystosterone/rubik/tree/ff7dec33e0ad6263cedc488b811bdea7c238b42e/db/raw/ets) and create the appropriate folder structure
-3. Run `bundle exec rails ets_pdf:etl` with the appropriate folder pattern. For example:
+3. Run `bundle exec thor ets_pdf:etl` with the appropriate file patterns (ending with `.pdf`). For example:
   
+  ```bash
+  bundle exec thor ets_pdf:etl
   ```
-  PDF_FOLDER=db/raw/ets/2017/ete/**/* bundle exec rails ets_pdf:etl
+  **or**
+  ```bash
+  bundle exec thor ets_pdf:etl -d db/raw/ets/2017/ete/**/*.pdf db/raw/ets/2016/**/*.pdf
   ```
   
 4. This will create `*.txt` files along side the PDFs; if the rake task fails, explore the error that occured while parsing a particular `*.txt` and manually fix it
 5. Repeat steps 4 and 5 until done
 6. Commit the `*.pdfs` and `*.txt` to git
 
-Once all of this is done and pushed to production, run one last time `bundle exec rails ets_pdf:etl` (again with the appropriate `PDF_FOLDER`) to import the data to the production database.
+Once all of this is done and pushed to production, run one last time `bundle exec thor ets_pdf:etl` (again with the appropriate appropriate file patterns, if needed) to import the data to the production database.
 
 ## Issues
 
