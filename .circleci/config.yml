@@ -67,7 +67,11 @@ jobs:
           fi
       - run: |
           RUBOCOP_FILES=$(circleci tests glob "app/**/*.rb" | circleci tests split --split-by=timings)
-          bundle exec rubocop -- ${RUBOCOP_FILES}
+          bundle exec rubocop --format junit --out test-results/rubocop/results.xml -- ${RUBOCOP_FILES}
+      - store_test_results:
+          path: test-results/rubocop
+      - store_artifacts:
+          path: test-results/rubocop
       - run: |
           VIEW_FILES=$(circleci tests glob "app/views/**/*.haml" | circleci tests split --split-by=timings)
           bundle exec haml-lint app/views -- ${VIEW_FILES}
