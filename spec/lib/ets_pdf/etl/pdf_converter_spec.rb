@@ -9,7 +9,7 @@ describe EtsPdf::Etl::PdfConverter do
     let(:txt_patterns) { (1..6).map { |index| Rails.root.join(directory, "#{index}.txt").to_s } }
 
     before do
-      (pdf_patterns + txt_patterns[4..-1]).each { |path| FileUtils.mkdir_p(path) }
+      (pdf_patterns + txt_patterns[4..]).each { |path| FileUtils.mkdir_p(path) }
 
       allow(Kernel).to receive(:system)
     end

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class EtsPdf::Etl < SimpleClosure
-  def initialize(patterns = Dir.glob(Rails.root.join("db/raw/ets/**/*.pdf")))
+  def initialize(patterns = Dir.glob(Rails.root.join("db", "raw", "ets", "**", "*.pdf")))
     super()
     @patterns = patterns
   end

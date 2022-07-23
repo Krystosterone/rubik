@@ -17,4 +17,3 @@ module EtsPdf
     end
   end
 end
-

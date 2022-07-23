@@ -4,11 +4,9 @@ require "rails_helper"
 
 describe EtsPdf::Etl do
   describe "#call" do
-    
-
-    let(:pdf_converter) { ->(value) { value + %w(pdf_converter) } }
-    let(:pdf_parser) { ->(value) { value + %w(pdf_parser) } }
-    let(:domain_builder) { ->(value) { value + %w(domain_builder) } }
+    let(:pdf_converter) { ->(value) { value + %w[pdf_converter] } }
+    let(:pdf_parser) { ->(value) { value + %w[pdf_parser] } }
+    let(:domain_builder) { ->(value) { value + %w[domain_builder] } }
 
     before do
       allow(EtsPdf::Etl::PdfConverter).to receive(:call, &pdf_converter)
@@ -20,11 +18,10 @@ describe EtsPdf::Etl do
       subject(:etl) { described_class.new }
 
       it "executes in order each service" do
-        expect(etl.call)
-        .to eq(
+        expect(etl.call).to eq(
           Dir.glob(
-            Rails.root.join("db/raw/ets/**/*.pdf")
-          ).map { |pattern| "#{pattern}" } + %w(pdf_converter pdf_parser domain_builder)
+            Rails.root.join("db", "raw", "ets", "**", "*.pdf")
+          ).map(&:to_s) + %w[pdf_converter pdf_parser domain_builder]
         )
       end
     end
@@ -35,7 +32,7 @@ describe EtsPdf::Etl do
       let(:patterns) { ["some/directory/**/*"] }
 
       it "executes in order each service" do
-        expect(etl.call).to eq(patterns + %w(pdf_converter pdf_parser domain_builder))
+        expect(etl.call).to eq(patterns + %w[pdf_converter pdf_parser domain_builder])
       end
     end
   end

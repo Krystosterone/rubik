@@ -13,7 +13,7 @@ module ThorCommandExampleGroup
     end
 
     let(:command_instance) { Thor::Util.find_class_and_command_by_namespace(command_name, false).first.new }
-    let(:command_path) { self.class.metadata[:file_path].sub(/^\.\/spec\//, "").sub(/_spec\.rb$/, "") }
+    let(:command_path) { self.class.metadata[:file_path].sub(%r{^\./spec/}, "").sub(/_spec\.rb$/, "") }
     let(:command_name) { self.class.top_level_description.split(":").first }
     let(:method_name) { self.class.top_level_description.split(":").second }
 

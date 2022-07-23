@@ -10,7 +10,6 @@ AllCops:
     - db/schema.rb
     - spec/support/matchers/have_attr_accessor.rb
     - lib/tasks/cucumber.rake
-    - features/support/_circleci_formatter.rb
     - spec/support/extensions/its.rb
 
 Layout/FirstArrayElementIndentation:
@@ -24,6 +23,10 @@ Metrics/BlockLength:
 
 Rails/FilePath:
   EnforcedStyle: arguments
+
+RSpec/DescribeClass:
+  Exclude:
+    - spec/**/*.thor_spec.rb
 
 RSpec/MultipleMemoizedHelpers:
   Enabled: false
