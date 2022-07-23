@@ -65,7 +65,7 @@ jobs:
           ETS_PDFS=$(circleci tests glob "db/raw/ets/**/*.pdf" | circleci tests split)
           bundle exec thor ets_pdf:etl -d ${ETS_PDFS}
       - run: |
-          RUBOCOP_FILES=$(circleci tests glob "app/**/*.rb" | circleci tests split)
+          RUBOCOP_FILES=$(bundle exec rubocop -L | circleci tests split)
           bundle exec rubocop -- ${RUBOCOP_FILES}
       - run: |
           VIEW_FILES=$(circleci tests glob "app/views/**/*.haml" | circleci tests split)
