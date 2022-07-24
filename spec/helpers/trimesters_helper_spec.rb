@@ -22,20 +22,10 @@ describe TrimestersHelper do
   end
 
   describe "#trimester_name" do
-    context "with a term having tags" do
-      let(:term) { build(:term, tags: nil) }
+    let(:term) { build(:term) }
 
-      it "returns the correct output" do
-        expect(helper.trimester_name(term)).to eq("#{term.name} #{term.year}")
-      end
-    end
-
-    context "with a term with no tags" do
-      let(:term) { build(:term, tags: "woot") }
-
-      it "returns the correct output" do
-        expect(helper.trimester_name(term)).to eq("#{term.name} #{term.year} - woot")
-      end
+    it "returns the correct output" do
+      expect(helper.trimester_name(term)).to eq("#{term.name} #{term.year}")
     end
   end
 end

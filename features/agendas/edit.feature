@@ -6,77 +6,99 @@ Fonctionnalité: Édition d'un agenda
   Afin de parfaire les possibilités d'horaires possible.
 
   Contexte:
-    Étant donné qu'il existe des cours pour nouveaux étudiants de la session d'Hiver 2016
+    Étant donné qu'il existe des cours pour la session d'Hiver 2019
     Et que je suis sur la page des trimestres
 
-  Scénario: Éditer un horaire existant
-    Lorsque je sélectionne le trimestre "Génie logiciel"
-    Et je sélectionne les cours FRA150, INFTEST, MATEST et PHYEST
+  Scénario: Une simple combinaison d'horaire
+    Lorsque je sélectionne le trimestre "Enseignements généraux"
+    Lorsque je sélectionne les cours ENT201, INFTEST, MATEST et PHYEST
     Et je sélectionne 4 comme étant le nombre de cours par horaire
     Et je soumets l'agenda
     Et que j'édite l'agenda
     Alors je me retrouve sur la page "Choix de cours"
-    Et je vois le trimestre "Hiver 2016 - Nouveaux Étudiants" d'affiché
-    Et je vois le baccalauréat "Génie logiciel" d'affiché
+    Et je vois le trimestre "Hiver 2019" d'affiché
+    Et je vois le baccalauréat "Enseignements généraux" d'affiché
     Et je vois les cours:
       | Code    |
-      | ATE050  |
       | CHM131  |
       | COM110  |
-      | FRA150  |
-      | FRA151  |
+      | COM115  |
+      | COM129  |
+      | ENT201  |
+      | ENT202  |
+      | GIA400  |
+      | GIA410  |
+      | GIA450  |
       | INF111  |
+      | INF130  |
+      | INF135  |
+      | INF145  |
+      | INF155  |
       | INFTEST |
       | ING150  |
-      | LOG100  |
+      | ING160  |
+      | ING500  |
       | MAT144  |
       | MAT145  |
+      | MAT165  |
+      | MAT210  |
+      | MAT265  |
+      | MAT321  |
+      | MAT350  |
+      | MAT415  |
+      | MAT472  |
       | MATEST  |
+      | PEP110  |
       | PHY144  |
+      | PHY332  |
+      | PHY335  |
       | PHYEST  |
-    Et je vois les cours FRA150, INFTEST, MATEST et PHYEST déjà sélectionnés
+      | PRE011  |
+      | TIN503  |
+    Et je vois les cours ENT201, INFTEST, MATEST et PHYEST déjà sélectionnés
     Et je vois 4 comme étant le nombre de cours par horaire sélectionné
-    Lorsque je dé-sélectionne les cours FRA150
-    Et je sélectionne les cours FRA151
+    Lorsque je dé-sélectionne les cours MATEST
+    Et je sélectionne les cours GIA450
     Lorsque je soumets l'agenda
     Alors je me retrouve sur la page "Horaires"
-    Et je vois le trimestre "Hiver 2016 - Nouveaux Étudiants" d'affiché
-    Et je vois le baccalauréat "Génie logiciel" d'affiché
+    Et je vois le trimestre "Hiver 2019" d'affiché
+    Et je vois le baccalauréat "Enseignements généraux" d'affiché
     Et je vois 4 comme étant le nombre de cours par horaire affiché
     Et je vois les cours sélectionnés:
       | Obligatoire | Cours   | Groupes |
-      | non         | FRA151  | 1       |
-      | non         | MATEST  | 1, 3    |
       | non         | PHYEST  | 1, 2    |
-      | non         | FRA151  | 1       |
+      | non         | ENT201  | 1, 2    |
+      | non         | GIA450  | 1       |
+      | non         | INFTEST | 1       |
     Et je vois les horaires:
       | Numéro d'horaire | Jour     | Période       | Cours     | Type   |
-      | 1                | Lundi    | 9:00 - 12:30  | PHYEST-1  | C      |
-      | 1                | Lundi    | 18:00 - 21:30 | FRA151-1  | C      |
-      | 1                | Mardi    | 9:00 - 12:30  | MATEST-1  | C      |
-      | 1                | Mercredi | 9:00 - 12:00  | PHYEST-1  | TP     |
+      | 1                | Lundi    |  9:00 - 12:30 | PHYEST-1  | C      |
+      | 1                | Lundi    | 13:30 - 15:30 | ENT201-1  | TP     |
+      | 1                | Mardi    | 18:00 - 21:30 | GIA450-1  | C      |
+      | 1                | Mercredi |  9:00 - 12:00 | PHYEST-1  | TP     |
       | 1                | Mercredi | 13:30 - 17:00 | INFTEST-1 | C      |
-      | 1                | Mercredi | 18:00 - 22:00 | FRA151-1  | TP     |
-      | 1                | Jeudi    | 9:00 - 12:00  | MATEST-1  | TP     |
-      | 1                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
-      | 2                | Lundi    | 18:00 - 21:30 | FRA151-1  | C      |
-      | 2                | Mardi    | 9:00 - 12:30  | MATEST-1  | C      |
-      | 2                | Mardi    | 18:00 - 21:30 | PHYEST-2  | C      |
+      | 1                | Jeudi    | 13:30 - 17:00 | ENT201-1  | C      |
+      | 1                | Jeudi    | 18:00 - 20:00 | GIA450-1  | TP     |
+      | 1                | Vendredi |  9:00 - 12:00 | INFTEST-1 | Labo   |
+      | 2                | Lundi    |  9:00 - 12:30 | PHYEST-1  | C      |
+      | 2                | Lundi    | 18:00 - 20:00 | ENT201-2  | TP     |
+      | 2                | Mardi    | 18:00 - 21:30 | GIA450-1  | C      |
+      | 2                | Mercredi |  9:00 - 12:00 | PHYEST-1  | TP     |
       | 2                | Mercredi | 13:30 - 17:00 | INFTEST-1 | C      |
-      | 2                | Mercredi | 18:00 - 22:00 | FRA151-1  | TP     |
-      | 2                | Jeudi    | 9:00 - 12:00  | MATEST-1  | TP     |
-      | 2                | Jeudi    | 18:00 - 21:00 | PHYEST-2  | TP     |
-      | 2                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
+      | 2                | Mercredi | 18:00 - 21:30 | ENT201-2  | C      |
+      | 2                | Jeudi    | 18:00 - 20:00 | GIA450-1  | TP     |
+      | 2                | Vendredi |  9:00 - 12:00 | INFTEST-1 | Labo   |
 
   Scénario: Éditer les groupes-cours d'un horaire existant
-    Lorsque je sélectionne le trimestre "Génie logiciel"
-    Et je sélectionne les cours FRA150, INFTEST, MATEST et PHYEST
+    Lorsque je sélectionne le trimestre "Enseignements généraux"
+    Et je sélectionne les cours GIA450, INFTEST, MATEST et PHYEST
     Et je sélectionne 4 comme étant le nombre de cours par horaire
     Et je décide de vouloir filtrer les groupes des cours possibles
     Lorsque je soumets l'agenda
     Alors je me retrouve sur la page "Choix de groupes"
     Lorsque je dé-sélectionne les groupes:
       | Cours  | Groupe |
+      | MATEST | 2      |
       | MATEST | 3      |
       | PHYEST | 2      |
     Et je soumets l'agenda
@@ -88,26 +110,34 @@ Fonctionnalité: Édition d'un agenda
     Alors je me retrouve sur la page "Horaires"
     Et je vois les cours sélectionnés:
       | Obligatoire | Cours   | Groupes |
-      | non         | FRA150  | 1       |
+      | non         | GIA450  | 1       |
       | non         | INFTEST | 1       |
-      | non         | MATEST  | 1, 3    |
+      | non         | MATEST  | 1, 2, 3 |
       | non         | PHYEST  | 1, 2    |
-    Et je vois 2 possibilités d'horaires
+    Et je vois 3 possibilités d'horaires
     Et je vois les horaires:
       | Numéro d'horaire | Jour     | Période       | Cours     | Type   |
-      | 1                | Lundi    | 9:00 - 12:30  | PHYEST-1  | C      |
-      | 1                | Lundi    | 18:00 - 21:30 | FRA150-1  | C      |
-      | 1                | Mardi    | 9:00 - 12:30  | MATEST-1  | C      |
-      | 1                | Mercredi | 9:00 - 12:00  | PHYEST-1  | TP     |
+      | 1                | Lundi    |  9:00 - 12:30 | PHYEST-1  | C      |
+      | 1                | Mardi    |  9:00 - 12:30 | MATEST-1  | C      |
+      | 1                | Mardi    | 18:00 - 21:30 | GIA450-1  | C      |
+      | 1                | Mercredi |  9:00 - 12:00 | PHYEST-1  | TP     |
       | 1                | Mercredi | 13:30 - 17:00 | INFTEST-1 | C      |
-      | 1                | Mercredi | 18:00 - 20:00 | FRA150-1  | TP     |
-      | 1                | Jeudi    | 9:00 - 12:00  | MATEST-1  | TP     |
-      | 1                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
-      | 2                | Lundi    | 18:00 - 21:30 | FRA150-1  | C      |
-      | 2                | Mardi    | 9:00 - 12:30  | MATEST-1  | C      |
-      | 2                | Mardi    | 18:00 - 21:30 | PHYEST-2  | C      |
+      | 1                | Jeudi    |  9:00 - 12:00 | MATEST-1  | TP     |
+      | 1                | Jeudi    | 18:00 - 20:00 | GIA450-1  | TP     |
+      | 1                | Vendredi |  9:00 - 12:00 | INFTEST-1 | Labo   |
+      | 2                | Lundi    |  9:00 - 12:30 | PHYEST-1  | C      |
+      | 2                | Lundi    | 13:30 - 17:00 | MATEST-2  | C      |
+      | 2                | Mardi    | 18:00 - 21:30 | GIA450-1  | C      |
+      | 2                | Mercredi |  9:00 - 12:00 | PHYEST-1  | TP     |
       | 2                | Mercredi | 13:30 - 17:00 | INFTEST-1 | C      |
-      | 2                | Mercredi | 18:00 - 20:00 | FRA150-1  | TP     |
-      | 2                | Jeudi    | 9:00 - 12:00  | MATEST-1  | TP     |
-      | 2                | Jeudi    | 18:00 - 21:00 | PHYEST-2  | TP     |
-      | 2                | Vendredi | 9:00 - 12:00  | INFTEST-1 | Labo   |
+      | 2                | Jeudi    | 13:30 - 16:30 | MATEST-2  | TP     |
+      | 2                | Jeudi    | 18:00 - 20:00 | GIA450-1  | TP     |
+      | 2                | Vendredi |  9:00 - 12:00 | INFTEST-1 | Labo   |
+      | 3                | Lundi    |  9:00 - 12:30 | PHYEST-1  | C      |
+      | 3                | Lundi    | 18:00 - 21:30 | MATEST-3  | C      |
+      | 3                | Mardi    | 18:00 - 21:30 | GIA450-1  | C      |
+      | 3                | Mercredi |  9:00 - 12:00 | PHYEST-1  | TP     |
+      | 3                | Mercredi | 13:30 - 17:00 | INFTEST-1 | C      |
+      | 3                | Mercredi | 18:00 - 21:00 | MATEST-3  | TP     |
+      | 3                | Jeudi    | 18:00 - 20:00 | GIA450-1  | TP     |
+      | 3                | Vendredi |  9:00 - 12:00 | INFTEST-1 | Labo   |

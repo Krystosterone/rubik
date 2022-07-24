@@ -7,7 +7,7 @@ class Term < ApplicationRecord
   has_many :academic_degrees, through: :academic_degree_terms
 
   validates :year, presence: true
-  validates :name, presence: true, uniqueness: { case_sensitive: true, scope: %i[year tags] }
+  validates :name, presence: true, uniqueness: { case_sensitive: true, scope: :year }
 
-  scope :enabled, -> { where.not(enabled_at: nil).order(year: :desc, name: :asc, tags: :asc) }
+  scope :enabled, -> { where.not(enabled_at: nil).order(year: :desc, name: :asc) }
 end

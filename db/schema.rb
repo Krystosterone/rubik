@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2022_06_22_175452) do
+ActiveRecord::Schema.define(version: 2022_07_24_192855) do
 
   create_table "academic_degree_term_courses", id: :integer, charset: "utf8", force: :cascade do |t|
     t.integer "academic_degree_term_id"
@@ -94,11 +94,10 @@ ActiveRecord::Schema.define(version: 2022_06_22_175452) do
   create_table "terms", id: :integer, charset: "utf8", force: :cascade do |t|
     t.integer "year"
     t.string "name"
-    t.string "tags"
     t.datetime "created_at"
     t.datetime "updated_at"
     t.datetime "enabled_at"
-    t.index ["year", "name", "tags"], name: "index_terms_on_year_and_name_and_tags", unique: true
+    t.index ["year", "name"], name: "index_terms_on_year_and_name", unique: true
   end
 
   create_table "users", charset: "utf8", force: :cascade do |t|

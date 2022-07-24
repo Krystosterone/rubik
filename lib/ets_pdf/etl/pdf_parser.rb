@@ -13,20 +13,19 @@ class EtsPdf::Etl::PdfParser < SimpleClosure
   private
 
   def build(path)
-    year, term_handle, type, bachelor_handle = parts_for(path)
+    year, term_handle, bachelor_handle = parts_for(path)
     parsed_lines = EtsPdf::Parser.call(path)
 
     {
       bachelor_handle: bachelor_handle,
       parsed_lines: parsed_lines,
       term_handle: term_handle,
-      type: type,
       year: year,
     }
   end
 
   def parts_for(path)
-    3.downto(0).collect { |up_to| part_of(path, up_to) }
+    2.downto(0).collect { |up_to| part_of(path, up_to) }
   end
 
   def part_of(path, up_to)

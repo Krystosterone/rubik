@@ -3,26 +3,19 @@
 require "rails_helper"
 
 describe EtsPdf::Etl::PdfParser do
-  let(:txt_subset) { Dir.glob(Rails.root.join("db", "raw", "ets", "2015", "hiver", "**", "*.txt")) }
+  let(:txt_subset) { Dir.glob(Rails.root.join("db", "raw", "ets", "2019", "hiver", "**", "*.txt")) }
 
   describe ".call" do
     let(:expected_data) do
       [
-        line(2015, "hiver", "anciens", "ctn"),
-        line(2015, "hiver", "anciens", "ele"),
-        line(2015, "hiver", "anciens", "gol"),
-        line(2015, "hiver", "anciens", "gpa"),
-        line(2015, "hiver", "anciens", "gti"),
-        line(2015, "hiver", "anciens", "log"),
-        line(2015, "hiver", "anciens", "mec"),
-        line(2015, "hiver", "anciens", "seg"),
-
-        line(2015, "hiver", "nouveaux", "ctn"),
-        line(2015, "hiver", "nouveaux", "ele"),
-        line(2015, "hiver", "nouveaux", "gpa"),
-        line(2015, "hiver", "nouveaux", "gti"),
-        line(2015, "hiver", "nouveaux", "log"),
-        line(2015, "hiver", "nouveaux", "mec"),
+        line(2019, "hiver", "ctn"),
+        line(2019, "hiver", "ele"),
+        line(2019, "hiver", "gol"),
+        line(2019, "hiver", "gpa"),
+        line(2019, "hiver", "gti"),
+        line(2019, "hiver", "log"),
+        line(2019, "hiver", "mec"),
+        line(2019, "hiver", "seg"),
       ]
     end
 
@@ -35,12 +28,11 @@ describe EtsPdf::Etl::PdfParser do
 
   private
 
-  def line(year, term_handle, type, bachelor_handle)
+  def line(year, term_handle, bachelor_handle)
     {
       bachelor_handle: bachelor_handle,
-      parsed_lines: Rails.root.join("db", "raw", "ets", year.to_s, term_handle, type, "#{bachelor_handle}.txt").to_s,
+      parsed_lines: Rails.root.join("db", "raw", "ets", year.to_s, term_handle, "#{bachelor_handle}.txt").to_s,
       term_handle: term_handle,
-      type: type,
       year: year.to_s,
     }
   end

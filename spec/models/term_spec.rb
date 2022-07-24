@@ -12,20 +12,19 @@ describe Term do
 
   it { is_expected.to validate_presence_of(:year) }
   it { is_expected.to validate_presence_of(:name) }
-  it { is_expected.to validate_uniqueness_of(:name).scoped_to(:year, :tags) }
+  it { is_expected.to validate_uniqueness_of(:name).scoped_to(:year) }
 
   describe ".enabled" do
     let(:ordered_terms) { [] }
 
     before do
-      ordered_terms[0] = create(:term, year: 2015, name: "A", tags: "B")
-      ordered_terms[1] = create(:term, year: 2015, name: "A", tags: "C")
-      ordered_terms[3] = create(:term, year: 2014, name: "A", tags: "B")
-      ordered_terms[2] = create(:term, year: 2015, name: "B", tags: "B")
+      ordered_terms[0] = create(:term, year: 2015, name: "A")
+      ordered_terms[2] = create(:term, year: 2014, name: "A")
+      ordered_terms[1] = create(:term, year: 2015, name: "B")
       create(:term, enabled_at: nil)
     end
 
-    it 'returns terms in "year: :desc, name: :asc, tags: :asc" order for enabled terms' do
+    it 'returns terms in "year: :desc, name: :asc" order for enabled terms' do
       expect(described_class.enabled.all).to eq(ordered_terms)
     end
   end

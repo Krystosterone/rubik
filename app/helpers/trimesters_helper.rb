@@ -10,9 +10,6 @@ module TrimestersHelper
   end
 
   def trimester_name(term)
-    name = "#{term.name} #{term.year}"
-    return name if term.tags.blank?
-
-    "#{name} - #{term.tags}"
+    "#{term.name} #{term.year}"
   end
 end
