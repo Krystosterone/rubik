@@ -1,22 +1,27 @@
 [
   {
-    "login": "Krystosterone",
-    "avatar_url": "https://avatars.githubusercontent.com/u/1095896?v=4"
+    "user": "Krystosterone",
+    "profile_url": "https://github.com/Krystosterone",
+    "profile_image_url": "https://avatars.githubusercontent.com/u/1095896?v=4"
   },
   {
-    "login": "Hyftar",
-    "avatar_url": "https://avatars.githubusercontent.com/u/10182579?v=4"
+    "user": "Hyftar",
+    "profile_url": "https://github.com/Hyftar",
+    "profile_image_url": "https://avatars.githubusercontent.com/u/10182579?v=4"
   },
   {
-    "login": "brianquirion",
-    "avatar_url": "https://avatars.githubusercontent.com/u/13932740?v=4"
+    "user": "brianquirion",
+    "profile_url": "https://github.com/brianquirion",
+    "profile_image_url": "https://avatars.githubusercontent.com/u/13932740?v=4"
   },
   {
-    "login": "tqueri",
-    "avatar_url": "https://avatars.githubusercontent.com/u/30205083?v=4"
+    "user": "tqueri",
+    "profile_url": "https://github.com/tqueri",
+    "profile_image_url": "https://avatars.githubusercontent.com/u/30205083?v=4"
   },
   {
-    "login": "wilomgfx",
-    "avatar_url": "https://avatars.githubusercontent.com/u/6611491?v=4"
+    "user": "wilomgfx",
+    "profile_url": "https://github.com/wilomgfx",
+    "profile_image_url": "https://avatars.githubusercontent.com/u/6611491?v=4"
   }
 ]
