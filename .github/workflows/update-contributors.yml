@@ -24,7 +24,7 @@ jobs:
         curl --location --request GET "https://api.github.com/repos/${{ github.repository }}/contributors"\
           --header 'Accept: application/vnd.github+json' \
           --header "Authorization: token ${{ secrets.GITHUB_TOKEN }}"\
-          | jq '[map({user: .login, profile_url: .html_url, profile_image_url: .avatar_url}) | .[] | select(.user != "depfu[bot]") | select(.user != "dependabot[bot]")]'\
+          | jq '[.[] | select(.type == "User")] | map({user: .login, profile_url: .html_url, profile_image_url: .avatar_url})'\
            > config/contributors.json
     - name: Create pull request
       uses: peter-evans/create-pull-request@v4
