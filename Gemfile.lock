@@ -347,11 +347,18 @@ GEM
     redis (4.7.1)
     regexp_parser (2.5.0)
     rexml (3.2.5)
+    rspec (3.11.0)
+      rspec-core (~> 3.11.0)
+      rspec-expectations (~> 3.11.0)
+      rspec-mocks (~> 3.11.0)
     rspec-core (3.11.0)
       rspec-support (~> 3.11.0)
     rspec-expectations (3.11.0)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.11.0)
+    rspec-html-matchers (0.10.0)
+      nokogiri (~> 1)
+      rspec (>= 3.0.0.a)
     rspec-mocks (3.11.1)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.11.0)
@@ -494,6 +501,7 @@ DEPENDENCIES
   rails-controller-testing
   rails-i18n
   rails_12factor
+  rspec-html-matchers
   rspec-rails
   rspec-sidekiq
   rspec_junit_formatter

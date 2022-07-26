@@ -85,9 +85,11 @@ fr:
 
         je me nomme <a title="Github" href="https://github.com/Krystosterone" target="_blank">Krystian</a> et je suis le créateur de <b><a title="Rubik" href="https://github.com/Krystosterone/rubik" target="_blank">Rubik</a></b>: un outil facile, pratique et intuitif afin de générer des combinaisons d'horaires pour différents trimestres.
 
-        J'ai créé ce site comme projet de fin d'études au trimestre d'automne 2013 et le maintiens jusqu'à ce jour. Je vous prierais donc de garder cela en tête avant de m'écrire tout commentaire désobligeant ou me faire part de vos frustrations.
+        J'ai créé ce site comme projet de fin d'études au trimestre d'automne 2013.
 
-        Je fournis ce service gratuitement, sans compensation et l'héberge à mes frais. Ce site n'a aucune affiliation avec l'ÉTS.
+        Ce service est fourni gratuitement et est hébergé aux frais des personnes qui l'entretiennent. Ce site n'a aucune affiliation avec l'ÉTS.
+
+        <b>Merci aux contributeurs suivant, sans quoi Rubik n'aurait pas été possible:</b>
       questions:
         - title: Quand est-ce que les trimestres sont-ils mis à jour?
           body: |

@@ -1,5 +1,9 @@
 # frozen_string_literal: true
 
 class FaqsController < ApplicationController
-  def show; end
+  delegate :contributors, to: "Rails.application.config.x"
+
+  def show
+    @contributors = contributors
+  end
 end

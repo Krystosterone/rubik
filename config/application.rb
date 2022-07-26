@@ -1,11 +1,9 @@
 # frozen_string_literal: true
 
 require File.expand_path("boot", __dir__)
-
 require "rails/all"
+require_relative "../app/models/contributor"
 
-# Require the gems listed in Gemfile, including any gems
-# you"ve limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
 
 module Rubik
@@ -15,11 +13,12 @@ module Rubik
     config.x.google.analytics_tracking_id = ENV.fetch("GA_ANALYTICS_ID")
     config.x.host = ENV.fetch("HOST")
     config.x.protocol = ENV.fetch("PROTOCOL")
-    config.x.contributors = 
+    config.x.contributors =
       JSON.parse(
         File.read(
           Rails.root.join("config", "contributors.json")
-        ), object_class: Struct.new(:user, :profile_url, :profile_image_url)
+        ),
+        object_class: Contributor
       )
 
     config.i18n.available_locales = [:fr]
