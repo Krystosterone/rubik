@@ -15,6 +15,12 @@ module Rubik
     config.x.google.analytics_tracking_id = ENV.fetch("GA_ANALYTICS_ID")
     config.x.host = ENV.fetch("HOST")
     config.x.protocol = ENV.fetch("PROTOCOL")
+    config.x.contributors = 
+      JSON.parse(
+        File.read(
+          Rails.root.join("config", "contributors.json")
+        ), object_class: Struct.new(:user, :profile_url, :profile_image_url)
+      )
 
     config.i18n.available_locales = [:fr]
     config.i18n.default_locale = :fr
