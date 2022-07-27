@@ -55,6 +55,7 @@ group :test do
   gem "fakeredis", require: "fakeredis/rspec"
   gem "poltergeist"
   gem "rails-controller-testing"
+  gem "rspec-html-matchers"
   gem "rspec_junit_formatter"
   gem "rspec-rails"
   gem "rspec-sidekiq"

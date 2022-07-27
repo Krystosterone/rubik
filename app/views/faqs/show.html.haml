@@ -2,7 +2,11 @@
   %h1.page-header= t(".title")
 
 .well
-  .container= simple_format t(".introduction")
+  .container
+    = simple_format t(".introduction")
+    - @contributors.each do |contributor|
+      %a{ href: contributor.profile_url, title: contributor.user, target: "_blank" }
+        %img.img-circle{ src: avatar_url(contributor, size: 60), alt: contributor.user, width: 60, height: 60 }
 
 .container
   - t(".questions").each do |question|
