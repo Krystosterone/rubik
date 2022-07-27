@@ -81,15 +81,9 @@ fr:
     show:
       title: Foire aux questions
       introduction: |
-        Bonjour,
+        Rubik est un outil facile, pratique et intuitif afin de générer des combinaisons d'horaires pour différents trimestres. Il a été crée par <a title="krystosterone" href="https://github.com/Krystosterone" target="_blank">Krystian</a> comme projet de fin d'études au trimestre d'automne 2013. Ce service est fourni gratuitement et est hébergé aux frais des personnes qui l'entretiennent. Ce site n'a aucune affiliation avec l'ÉTS.
 
-        je me nomme <a title="Github" href="https://github.com/Krystosterone" target="_blank">Krystian</a> et je suis le créateur de <b><a title="Rubik" href="https://github.com/Krystosterone/rubik" target="_blank">Rubik</a></b>: un outil facile, pratique et intuitif afin de générer des combinaisons d'horaires pour différents trimestres.
-
-        J'ai créé ce site comme projet de fin d'études au trimestre d'automne 2013.
-
-        Ce service est fourni gratuitement et est hébergé aux frais des personnes qui l'entretiennent. Ce site n'a aucune affiliation avec l'ÉTS.
-
-        <b>Merci aux contributeurs suivant, sans quoi Rubik n'aurait pas été possible:</b>
+        <b>Un gros merci à <a title="oraki23" href="https://github.com/oraki23" target="_blank">Anthony</a> qui a hébergé le site pendant plusieurs années et aux contributeurs suivant, sans quoi Rubik n'aurait pas été possible:</b>
       questions:
         - title: Quand est-ce que les trimestres sont-ils mis à jour?
           body: |
