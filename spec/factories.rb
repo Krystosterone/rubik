@@ -56,11 +56,6 @@ FactoryBot.define do
     end
   end
 
-  factory :comment do
-    user_email { generate(:email) }
-    body
-  end
-
   factory :course do
     code { generate(:code) }
   end

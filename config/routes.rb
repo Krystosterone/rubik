@@ -33,8 +33,6 @@ Rails.application.routes.draw do
     resources :schedules, only: :show, param: :index, constraints: { index: /[1-9]\d*/ }
   end
 
-  resources :comments, only: %i[new create]
-
   resource :faq, only: :show
 
   resources :terms, only: :index do

@@ -95,7 +95,7 @@ fr:
 
             Si les données fournies sur le site diffèrent de ceux affichées sur ChemiNot, il s'agit généralement d'une erreur de la part de l'école.
 
-            Avant d'envoyer un <a title="commentaire" href="/comments/new">commentaire</a>, veuillez vous assurer que votre choix de groupe-cours est bel et bien énuméré dans le PDF correspondant.
+            Avant d'envoyer un commentaire, assurerez vous que votre choix de groupe-cours est bel et bien énuméré dans le PDF correspondant.
   helpers:
     submit:
       create: Soumettre

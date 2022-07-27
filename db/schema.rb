@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2022_07_24_192855) do
+ActiveRecord::Schema.define(version: 2022_07_27_210519) do
 
   create_table "academic_degree_term_courses", id: :integer, charset: "utf8", force: :cascade do |t|
     t.integer "academic_degree_term_id"
@@ -60,11 +60,6 @@ ActiveRecord::Schema.define(version: 2022_07_24_192855) do
     t.boolean "processing"
     t.boolean "filter_groups"
     t.index ["token"], name: "index_agendas_on_token"
-  end
-
-  create_table "comments", id: :integer, charset: "utf8", force: :cascade do |t|
-    t.string "user_email"
-    t.text "body"
   end
 
   create_table "courses", id: :integer, charset: "utf8", force: :cascade do |t|

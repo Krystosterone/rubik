@@ -32,7 +32,6 @@ module Rubik
     config.exceptions_app = routes
     config.action_view.field_error_proc = proc { |html_tag, _instance| html_tag }
     config.admin_emails = ENV.fetch("ADMIN_EMAILS").split(",")
-    config.comment_email_recipient = ENV.fetch("COMMENT_EMAIL_RECIPIENT")
 
     config.browserify_rails.commandline_options = "-t babelify"
     config.browserify_rails.source_map_environments << "development"
