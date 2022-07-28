@@ -58,13 +58,6 @@ fr:
       back: Retour à la sélection des groupes
       groups: Groupes
       title: Choix de groupes
-  comments:
-    new:
-      notice: Vous avez un commentaire? Une suggestion? Êtes-vous tombé sur un bogue? Veuillez nous le partager via le formulaire ci-dessous!
-      title: Laisser un commentaire
-      text: "Plutôt que d'envoyer un commentaire pour un bogue ou une suggestion, considérez plutôt ouvrir un <a title=\"ticket\" href=\"https://github.com/Krystosterone/rubik/issues\" target=\"_blank\">ticket</a> ou d'implémenter la suggestion et ouvrir une <a title=\"Pull Request\" href=\"https://github.com/Krystosterone/rubik/pulls\" target=\"_blank\">Pull Request</a>."
-    create:
-      success: Votre commentaire a été envoyé avec succès!
   comment_mailer:
     email:
       subject: '[Rubik-ETS] Nouveau commentaire'
