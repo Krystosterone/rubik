@@ -6,6 +6,6 @@ class EtsPdf::Parser::ParsedLine::Base
   end
 
   def parsed?
-    @match_data
+    @match_data.present?
   end
 end

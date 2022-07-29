@@ -4,36 +4,41 @@ require "rails_helper"
 
 describe EtsPdf::Etl::TermBuilder do
   describe ".call" do
-    context "with an invalid term handle" do
-      let(:units) { [{ term_handle: "invalid" }] }
-
-      it "raises an error" do
-        expect { described_class.call(units) }.to raise_error("Invalid term handle 'invalid'")
+    let(:term_lines) do
+      EtsPdf::TERM_NAMES.keys.map { |term_name| build(:parsed_term_line, name: term_name).term }
+    end
+    let(:term_attributes) do
+      term_lines.map do |term_line|
+        { name: term_line.name, year: term_line.year }
       end
     end
+    let(:documents) do
+      term_lines.map { |term_line| instance_double(EtsPdf::Parser::ParsedDocument, term_line: term_line) }
+    end
+    let(:filtered_documents) do
+      documents.map { instance_double(EtsPdf::Parser::ParsedDocument) }
+    end
 
-    described_class::TERM_HANDLES.each do |denormalized_term, normalized_term|
-      context "with a valid line with handle '#{denormalized_term}'" do
-        let(:term) { Term.find_by!(name: normalized_term, year: 2015) }
-        let(:units) do
-          [{ another_attribute: "value", term_handle: denormalized_term, year: "2015" }]
-        end
+    before do
+      documents.each_with_index do |document, index|
+        allow(document).to receive(:except).with(:term).and_return(filtered_documents[index])
+      end
+      allow(EtsPdf::Etl::AcademicDegreeBuilder).to receive(:call).exactly(documents.size).times
+    end
 
-        before { allow(EtsPdf::Etl::AcademicDegreeBuilder).to receive(:call) }
+    {
+      "does not exist" => proc {},
+      "already exists" => proc { Term.create!(term_attributes) },
+    }.each do |condition, setup|
+      context "when the term #{condition}" do
+        before(&setup)
 
-        {
-          "does not exist" => proc {},
-          "already exists" => proc { create(:term, name: normalized_term, year: 2015) },
-        }.each do |condition, setup|
-          context "when the term #{condition}" do
-            before(&setup)
+        it "calls the academic degree builder" do
+          described_class.call(documents)
 
-            it "calls the academic degree builder" do
-              described_class.call(units)
-
-              expect(EtsPdf::Etl::AcademicDegreeBuilder)
-                .to have_received(:call).with(term, [{ another_attribute: "value" }])
-            end
+          documents.map(&:term_line).each_with_index do |term_line, index|
+            expect(EtsPdf::Etl::AcademicDegreeBuilder).to have_received(:call)
+              .with(Term.find_by!(name: term_line.name, year: term_line.year), filtered_documents[index])
           end
         end
       end

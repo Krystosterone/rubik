@@ -80,6 +80,16 @@ FactoryBot.define do
     ends_at { 400 }
   end
 
+  factory :parsed_document, class: "EtsPdf::Parser::ParsedDocument" do
+    skip_create
+
+    transient do
+      parsed_lines { build_list(:unparsed_line, 3) }
+    end
+
+    initialize_with { new(parsed_lines) }
+  end
+
   factory :user do
     email { generate(:email) }
   end
@@ -89,6 +99,14 @@ FactoryBot.define do
 
     transient do
       line { "" }
+    end
+
+    factory :parsed_bachelor_line do
+      transient do
+        name { generate(:bachelor_line_name) }
+
+        line { "#{['baccalauréat en', ' service des'].sample} #{name}" }
+      end
     end
 
     factory :parsed_course_line do
@@ -122,6 +140,15 @@ FactoryBot.define do
       end
     end
 
+    factory :parsed_term_line do
+      transient do
+        name { generate(:term_line_name) }
+        year { generate(:year) }
+
+        line { "#{name} #{year}" }
+      end
+    end
+
     initialize_with { new(line) }
   end
 
@@ -150,6 +177,7 @@ FactoryBot.define do
     enabled_at { Time.zone.now }
   end
 
+  sequence(:bachelor_line_name) { |n| EtsPdf::BACHELOR_HANDLES.keys[n % EtsPdf::TERM_NAMES.size] }
   sequence(:body) { |n| "Body #{n}" }
   sequence(:code) { |n| "Code #{n}" }
   sequence(:course_code) { |n| "COD#{n.to_s.rjust(3, '0')}" }
@@ -158,7 +186,8 @@ FactoryBot.define do
   sequence(:name) { |n| "Name #{n}" }
   sequence(:number) { |n| n }
   sequence(:short_weekday) { |n| I18n.t("date.abbr_day_names")[n % 7].titleize }
+  sequence(:term_line_name) { |n| EtsPdf::TERM_NAMES.keys[n % EtsPdf::TERM_NAMES.size] }
   sequence(:time) { |n| "#{(n / 60).to_s.rjust(2, '0')}:#{(n % 60).to_s.rjust(2, '0')}" }
   sequence(:type) { |n| "Type #{n}" }
-  sequence(:year) { |n| n }
+  sequence(:year) { |n| 1000 + n }
 end

@@ -8,14 +8,6 @@ describe EtsPdf::Etl::AcademicDegreeTermCourseBuilder do
 
     before { academic_degree_term.save! }
 
-    context "with an unparsed line" do
-      let(:parsed_lines) { [build(:unparsed_line)] }
-
-      it "does nothing" do
-        described_class.call(academic_degree_term, parsed_lines)
-      end
-    end
-
     described_class::SKIP_COURSES.each do |course_code|
       context "with a parsed line that has a course code '#{course_code}'" do
         let(:course_line) { build(:parsed_course_line, code: course_code) }

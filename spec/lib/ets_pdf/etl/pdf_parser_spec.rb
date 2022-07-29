@@ -3,37 +3,28 @@
 require "rails_helper"
 
 describe EtsPdf::Etl::PdfParser do
-  let(:txt_subset) { Dir.glob(Rails.root.join("db", "raw", "ets", "2019", "hiver", "**", "*.txt")) }
-
   describe ".call" do
-    let(:expected_data) do
-      [
-        line(2019, "hiver", "ctn"),
-        line(2019, "hiver", "ele"),
-        line(2019, "hiver", "gol"),
-        line(2019, "hiver", "gpa"),
-        line(2019, "hiver", "gti"),
-        line(2019, "hiver", "log"),
-        line(2019, "hiver", "mec"),
-        line(2019, "hiver", "seg"),
-      ]
+    let(:buffer) { instance_double(IO) }
+    let(:txt_paths) do
+      3.times.map { SecureRandom.hex }
+    end
+    let(:lines) do
+      txt_paths.map do
+        2.times.map { SecureRandom.hex }
+      end
+    end
+    let(:documents) { build_list(:parsed_document, lines.size) }
+
+    before do
+      txt_paths.each_with_index do |txt_path, index|
+        allow(buffer).to receive(:readlines).with(txt_path).and_return(lines[index])
+        allow(EtsPdf::Parser::ParsedDocumentFactory)
+          .to receive(:call).with(lines[index]).and_return(documents[index])
+      end
     end
 
-    before { allow(EtsPdf::Parser).to receive(:call) { |path| path } }
-
-    it "returns a comprehensible data structure" do
-      expect(described_class.call(txt_subset)).to contain_exactly(*expected_data)
+    it "creates parsed documents for all files" do
+      expect(described_class.call(txt_paths, buffer)).to eq(documents)
     end
-  end
-
-  private
-
-  def line(year, term_handle, bachelor_handle)
-    {
-      bachelor_handle: bachelor_handle,
-      parsed_lines: Rails.root.join("db", "raw", "ets", year.to_s, term_handle, "#{bachelor_handle}.txt").to_s,
-      term_handle: term_handle,
-      year: year.to_s,
-    }
   end
 end

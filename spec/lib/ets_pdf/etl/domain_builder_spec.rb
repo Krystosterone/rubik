@@ -4,14 +4,28 @@ require "rails_helper"
 
 describe EtsPdf::Etl::DomainBuilder do
   describe ".call" do
-    let(:units) { double }
+    let(:documents) do
+      build_list(:parsed_document, 3) +
+        [build(:parsed_document, parsed_lines: [])]
+    end
 
-    it "calls the term builder" do
-      allow(EtsPdf::Etl::TermBuilder).to receive(:call)
+    context "when some of the documents are empty" do
+      it "raises an error" do
+        expect { described_class.call(documents) }
+          .to raise_error(ArgumentError, /At least one of the documents has no parsed lines/)
+      end
+    end
 
-      described_class.call(units)
+    context "when all documents are not empty" do
+      let(:documents) { build_list(:parsed_document, 3) }
 
-      expect(EtsPdf::Etl::TermBuilder).to have_received(:call).with(units)
+      before { allow(EtsPdf::Etl::TermBuilder).to receive(:call) }
+
+      it "calls the term builder" do
+        described_class.call(documents)
+
+        expect(EtsPdf::Etl::TermBuilder).to have_received(:call).with(documents)
+      end
     end
   end
 end

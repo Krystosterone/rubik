@@ -7,7 +7,7 @@ RSpec.describe "Schedule Pagination", type: :system do
     driven_by(:rack_test)
 
     EtsPdf::Etl.call(
-      Dir.glob("db/raw/ets/2022/automne/log.pdf")
+      Dir.glob("db/raw/ets/2022-automne-log.pdf")
     )
     Term.first.update!(enabled_at: Time.zone.now)
   end

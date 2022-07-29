@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class EtsPdf::Parser::ParsedLine
-  LINE_TYPES = %w[course group period].index_with do |type|
+  LINE_TYPES = %w[bachelor course group period term].index_with do |type|
     "EtsPdf::Parser::ParsedLine::#{type.classify}".constantize
   end
 
