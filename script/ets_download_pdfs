@@ -1,0 +1,45 @@
+#!/bin/bash
+
+BASE_URL=https://horaire.etsmtl.ca/HorairePublication/
+TARGET_DIR="db/raw/ets/"
+year=$(date +"%Y")
+
+years=()
+years+=($(date +"%Y"))
+years+=($(date +%Y -d'1 year'))
+
+declare -A bachelors
+bachelors[SEG]=seg
+bachelors[7625]=ctn
+bachelors[7084]=log
+bachelors[6556]=gol
+bachelors[7086]=gti
+bachelors[7694]=ele
+bachelors[7684]=mec
+bachelors[6557]=gpa
+
+declare -A terms
+terms[1]=hiver
+terms[2]=ete
+terms[3]=automne
+
+for year in "${years[@]}"
+do
+  for bachelor_code in "${!bachelors[@]}"
+  do
+    for term_index in "${!terms[@]}"
+    do
+      target_file="${TARGET_DIR}${year}-${terms[$term_index]}-${bachelors[$bachelor_code]}.pdf"
+      
+      if [[ -f $target_file ]]
+      then
+        echo "${target_file} already exists"
+      else
+        url="${BASE_URL}HorairePublication_${year}${term_index}_${bachelor_code}.pdf"
+        
+        echo "Downloading ${url} => ${target_file}"
+        curl -sfo $target_file $url && echo "Success" || echo "Does not exist on server"
+      fi
+    done
+  done
+done

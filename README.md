@@ -33,7 +33,12 @@ Rubik is a tool for students to easily and intuitively generate schedule combina
 
 For [ets.rubik.co](http://ets.rubik.co), there exists an **ETL** to parse PDFs provided by the school and transform it into a dataset useable by the website. The process looks like this:
 
-1. Download all PDFs you want to include on the website here: [Horaires et planification des cours : baccalauréats](https://www.etsmtl.ca/horaires-bac)
+1. Download all PDFs you want to include on the website here: [Horaires et planification des cours : baccalauréats](https://www.etsmtl.ca/horaires-bac) or try running:
+
+  ```bash
+  ./script/ets_download_pdfs
+  ```
+
 2. Move them to [db/raw/ets](https://github.com/Krystosterone/rubik/tree/main/db/raw/ets) and name them accordingly for easy debugging.
 3. Run `bundle exec thor ets_pdf:etl` with the appropriate file patterns (ending with `.pdf`). For example:
   
