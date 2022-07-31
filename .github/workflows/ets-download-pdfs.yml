@@ -18,9 +18,7 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
     - name: Download PDFs
-      run: |
-        chmod 755 script/ets_download_pdfs
-        script/ets_download_pdfs
+      run: script/ets_download_pdfs
     - name: Create pull request
       uses: peter-evans/create-pull-request@v4
       with:
