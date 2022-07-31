@@ -39,8 +39,8 @@ class EtsPdf::Etl::AcademicDegreeBuilder < SimpleClosure
     #{e}
       Unable to create "AcademicDegreeTerm"
         in #{self.class}
-        on "Term" = "#{@term.year}, #{@term.name}
-        with "AcademicDegree" = "#{academic_degree.code}"
+        on Term = #{@term.year}, #{@term.name}
+        with AcademicDegree = #{academic_degree.code}
     MESSAGE
   end
 end
