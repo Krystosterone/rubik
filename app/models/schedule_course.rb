@@ -4,11 +4,12 @@ class ScheduleCourse < WeekdayTimeRange
   attr_accessor :code, :index, :number, :type
 
   def ==(other)
-    return false unless code == other.code
-    return false unless index == other.index
-    return false unless number == other.number
-    return false unless type == other.type
+    [code, index, number, type].hash == 
+      [other.code, other.index, other.number, other.type].hash &&
+      super
+  end
 
-    super
+  def hash
+    [code, index, number, type].hash
   end
 end
