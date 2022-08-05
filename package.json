@@ -4,7 +4,7 @@
   "description": "A tool for students to easily and intuitively generate schedule combinations for different school trimesters",
   "main": "app/assets/javascripts/application.js",
   "engines": {
-    "node": "16.15.1"
+    "node": "18.7.0"
   },
   "scripts": {
     "eslint": "eslint"
