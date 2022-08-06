@@ -1,26 +1,34 @@
 # frozen_string_literal: true
 
 class Breadcrumb
-  CRUMBS = [
+  CRUMB_ATTRIBUTES = [
     {
       controller_name: :terms,
-      path: proc { root_path },
+      key: "terms",
+      path: ->(_) { root_path },
     },
     {
-      additional_current_condition: proc { step == AgendaCreationProcess::STEP_COURSE_SELECTION },
+      additional_current_condition: ->(step) { step == AgendaCreationProcess::STEP_COURSE_SELECTION },
+      controller_name: :agendas,
       key: "agendas.course_selection",
-      path: proc { edit_agenda_path(@agenda, step: AgendaCreationProcess::STEP_COURSE_SELECTION) },
+      path: ->(agenda) { edit_agenda_path(agenda, step: AgendaCreationProcess::STEP_COURSE_SELECTION) },
     },
     {
-      additional_current_condition: proc { step == AgendaCreationProcess::STEP_GROUP_SELECTION },
+      additional_current_condition: ->(step) { step == AgendaCreationProcess::STEP_GROUP_SELECTION },
+      controller_name: :agendas,
       key: "agendas.group_selection",
-      path: proc { edit_agenda_path(@agenda, step: AgendaCreationProcess::STEP_GROUP_SELECTION) },
-      visible: proc { @agenda.filter_groups? }
+      path: ->(agenda) { edit_agenda_path(agenda, step: AgendaCreationProcess::STEP_GROUP_SELECTION) },
+      visible: ->(agenda) { @agenda.filter_groups? },
     },
-    { controller_name: :schedules },
+    {
+      controller_name: :schedules,
+      key: "schedules",
+    },
   ].freeze
 
-  def initialize(view_context)
+  def initialize(agenda, step, view_context)
+    @agenda = agenda
+    @step = step
     @view_context = view_context
   end
 
@@ -32,8 +40,8 @@ class Breadcrumb
     breadcrumb_t(current_crumb.key)
   end
 
-  def links(&block)
-    current_crumbs.select(&:visible?).collect(&method(:breadcrumb_link)).each(&block)
+  def links
+    current_crumbs.select(&:visible?).collect(&method(:breadcrumb_link))
   end
 
   private
@@ -51,7 +59,12 @@ class Breadcrumb
   end
 
   def crumbs
-    @crumbs ||= CRUMBS.map { |attributes| Crumb.new(attributes.merge(view_context: @view_context)) }
+    @crumbs ||= CRUMB_ATTRIBUTES
+      .each_with_object([]) do |attributes, memo|
+        attributes[:additional_current_condition]
+        memo << attributes
+      end
+      .map { |attributes| Crumb.new(attributes.merge(view_context: @view_context)) }
   end
 
   def breadcrumb_t(key)

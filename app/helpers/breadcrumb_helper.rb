@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 module BreadcrumbHelper
-  def breadcrumb(&block)
-    Breadcrumb.new(self).render(&block)
+  def breadcrumb(agenda, step)
+    Breadcrumb.new(agenda, step, self)
   end
 end

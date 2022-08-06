@@ -7,21 +7,23 @@ describe Breadcrumb do
 
   let(:academic_degree_term) { instance_double(AcademicDegreeTerm) }
   let(:agenda) { instance_double(Agenda, academic_degree_term: academic_degree_term, filter_groups?: false) }
-  let(:view_context) do
-    double.tap do |view_context|
-      allow(view_context).to receive(:t) { |key| key }
-      allow(view_context).to receive(:root_path).and_return("root_path")
-      allow(view_context)
-        .to receive(:edit_agenda_path)
-        .with(agenda, step: AgendaCreationProcess::STEP_COURSE_SELECTION).and_return("agenda_course_selection_path")
-      allow(view_context)
-        .to receive(:edit_agenda_path)
-        .with(agenda, step: AgendaCreationProcess::STEP_GROUP_SELECTION).and_return("agenda_group_selection_path")
-      allow(view_context).to receive(:link_to) { |name, path| "#{name}_#{path}" }
+  let(:controller) { ActionController::Base.new }
+  let(:view_context) { controller.view_context }
+  # let(:view_context) do
+  #   double.tap do |view_context|
+  #     allow(view_context).to receive(:t) { |key| key }
+  #     allow(view_context).to receive(:root_path).and_return("root_path")
+  #     allow(view_context)
+  #       .to receive(:edit_agenda_path)
+  #       .with(agenda, step: AgendaCreationProcess::STEP_COURSE_SELECTION).and_return("agenda_course_selection_path")
+  #     allow(view_context)
+  #       .to receive(:edit_agenda_path)
+  #       .with(agenda, step: AgendaCreationProcess::STEP_GROUP_SELECTION).and_return("agenda_group_selection_path")
+  #     allow(view_context).to receive(:link_to) { |name, path| "#{name}_#{path}" }
 
-      view_context.instance_variable_set(:@agenda, agenda)
-    end
-  end
+  #     view_context.instance_variable_set(:@agenda, agenda)
+  #   end
+  # end
 
   {
     "terms" => %w[.terms_root_path],

@@ -1,5 +1,5 @@
 %ol.breadcrumb
-  - breadcrumb do
-    - links do |link|
+  - breadcrumb(@agenda, step).render do
+    - links.each do |link|
       %li= link
     %li.active= current_name

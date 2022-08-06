@@ -1,14 +1,21 @@
 # frozen_string_literal: true
 
 class Breadcrumb::Crumb
+  extend ActiveModel::Callbacks
+
+  define_model_callbacks :initialize, only: :after
+
   include ActiveModel::Model
+  include Defaults
 
   attr_accessor :additional_current_condition, :controller_name, :key, :path, :view_context, :visible
 
+  after_initialize :set_current_proc
+  default :additional_current_condition, proc { true }
+  default :visible, proc { true }
+
   def initialize(*)
-    super
-    set_defaults
-    set_current_proc
+    run_callbacks(:initialize) { super }
   end
 
   %w[additional_current_condition path].each do |attribute|
@@ -24,13 +31,6 @@ class Breadcrumb::Crumb
   end
 
   private
-
-  def set_defaults
-    @additional_current_condition = proc { true } unless defined?(@additional_current_condition)
-    @controller_name = key.split(".").first unless defined?(@controller_name)
-    @key = controller_name unless defined?(@key)
-    @visible = proc { true } unless defined?(@visible)
-  end
 
   def set_current_proc
     crumb = self
