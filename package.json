@@ -28,7 +28,7 @@
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
     "browserify-incremental": "^3.1.1",
-    "dompurify": "^2.3.12"
+    "dompurify": "^2.4.0"
   },
   "babel": {
     "presets": [
