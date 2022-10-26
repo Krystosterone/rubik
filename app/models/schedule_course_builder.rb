@@ -8,7 +8,7 @@ class ScheduleCourseBuilder
   def call
     weekdays = weekday_time_ranges.group_by { |weekday_index, *| weekday_index }
     weekdays = weekdays.transform_values(&method(:collect_values))
-    (0..6).each { |index| weekdays[index] ||= [] }
+    7.times { |index| weekdays[index] ||= [] }
     weekdays
   end
 
