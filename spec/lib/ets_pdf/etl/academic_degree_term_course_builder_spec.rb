@@ -19,6 +19,16 @@ describe EtsPdf::Etl::AcademicDegreeTermCourseBuilder do
       end
     end
 
+    context "with a course that has no groups" do
+      let(:course_line) { build(:parsed_course_line, code: "COD001") }
+      let(:parsed_lines) { [course_line] }
+
+      it "raises an error" do
+        expect { described_class.call(academic_degree_term, parsed_lines) }
+          .to raise_error(/Unable to create "AcademicDegreeTermCourse"/)
+      end
+    end
+
     context "with groupable parsed lines" do
       let(:academic_degree_term_course1) do
         academic_degree_term.academic_degree_term_courses.includes(:course).find_by!(courses: { code: "COD001" })

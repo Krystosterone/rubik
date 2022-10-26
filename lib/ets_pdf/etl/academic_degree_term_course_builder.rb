@@ -72,5 +72,18 @@ class EtsPdf::Etl::AcademicDegreeTermCourseBuilder < SimpleClosure
     EtsPdf::Etl::GroupBuilder.call(academic_degree_term_course, parsed_lines[1..])
 
     academic_degree_term_course.save!
+  rescue ActiveRecord::RecordInvalid => e
+    raise debug_print(e, academic_degree_term_course)
+  end
+
+  def debug_print(error, academic_degree_term_course)
+    <<-MESSAGE.chomp.strip_heredoc
+      #{error}
+      Unable to create "AcademicDegreeTermCourse"
+        in #{self.class}
+        on "Term" = "#{@academic_degree_term.term.year}, #{@academic_degree_term.term.name}
+        with "AcademicDegree" = "#{@academic_degree_term.academic_degree.code}"
+        and "Course" = #{academic_degree_term_course.course.code}
+    MESSAGE
   end
 end
