@@ -96,7 +96,7 @@ ELE200          CIRCUITS ÉLECTRONIQUES                                         
 
 
 
-                 Date : 2022-10-22 12:32:27         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/11
+                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -196,7 +196,7 @@ ELE431          ANALYSE ET CONCEPTION DE CIRCUITS                               
                 01      Lun         08:30 - 12:00   C                    D
                         Jeu         15:30 - 17:30   TP/2                 D
 
-                 Date : 2022-10-22 12:32:27         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/11
+                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -296,7 +296,7 @@ ELE666          TRAITEMENT NUMÉRIQUE DES SIGNAUX                               
 
 
 
-                 Date : 2022-10-22 12:32:27         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/11
+                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -395,7 +395,7 @@ ELE795          PROJET DE FIN D’ÉTUDES EN GÉNIE ÉLECTRIQUE
 
 
 
-                 Date : 2022-10-22 12:32:27         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/11
+                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -494,7 +494,7 @@ GTS503          TECHNOLOGIES DE LA SANTÉ, NORMES ET
 
 
 
-                 Date : 2022-10-22 12:32:27         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/11
+                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -590,7 +590,7 @@ LRC100          LEADERSHIP ET RESPONSABILITÉ COLLECTIVE                        
 
 
 
-                 Date : 2022-10-22 12:32:27         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/11
+                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                       7694 : Baccalauréat en génie électrique
@@ -679,7 +679,7 @@ MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                       
 
 
 
-                 Date : 2022-10-22 12:32:27          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 7/11
+                 Date : 2022-10-25 12:33:53          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 7/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -781,7 +781,7 @@ MATEST          ACCUEIL EN MATHÉMATIQUES
 
                 02      Jeu         13:30 - 17:00   C                    P
 
-                 Date : 2022-10-22 12:32:27         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 8/11
+                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 8/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -872,7 +872,7 @@ PHYEST          ACCUEIL EN PHYSIQUE
 
 
 
-                 Date : 2022-10-22 12:32:27         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 9/11
+                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 9/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                         7694 : Baccalauréat en génie électrique
@@ -965,7 +965,7 @@ TIN504          SANTÉ, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2022-10-22 12:32:27          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 10/11
+                 Date : 2022-10-25 12:33:53          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 10/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                          7694 : Baccalauréat en génie électrique
@@ -1025,5 +1025,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2022-10-22 12:32:27            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 11/11
+                 Date : 2022-10-25 12:33:53            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 11/11
 
