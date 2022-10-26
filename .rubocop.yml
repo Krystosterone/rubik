@@ -38,7 +38,7 @@ Style/ClassAndModuleChildren:
   Enabled: false
 
 Style/FormatStringToken:
-  IgnoredMethods:
+  AllowedMethods:
     - redirect
 
 Style/Documentation:
