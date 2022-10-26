@@ -24,7 +24,7 @@ class Maintenance
   end
 
   def maintenance_page
-    File.read(Rails.public_path.join("maintenance.html"))
+    Rails.public_path.join("maintenance.html").read
   end
 
   def maintainer_ips

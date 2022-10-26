@@ -13,6 +13,6 @@ class EtsPdf::Etl < SimpleClosure
   private
 
   def default_patterns
-    Dir.glob(Rails.root.join("db", "raw", "ets", "**", "*.pdf"))
+    Rails.root.glob("db/raw/ets/**/*.pdf")
   end
 end

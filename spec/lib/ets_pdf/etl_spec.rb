@@ -19,9 +19,7 @@ describe EtsPdf::Etl do
 
       it "executes in order each service" do
         expect(etl.call).to eq(
-          Dir.glob(
-            Rails.root.join("db", "raw", "ets", "**", "*.pdf")
-          ).map(&:to_s) + %w[pdf_converter pdf_parser domain_builder]
+          Rails.root.glob("db/raw/ets/**/*.pdf").map(&:to_s) + %w[pdf_converter pdf_parser domain_builder]
         )
       end
     end

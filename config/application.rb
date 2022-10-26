@@ -15,9 +15,7 @@ module Rubik
     config.x.protocol = ENV.fetch("PROTOCOL")
     config.x.contributors =
       JSON.parse(
-        File.read(
-          Rails.root.join("config", "contributors.json")
-        ),
+        Rails.root.join("config", "contributors.json").read,
         object_class: Contributor
       )
 
