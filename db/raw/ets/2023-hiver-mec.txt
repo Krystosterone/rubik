@@ -99,7 +99,7 @@ GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU INDUSTRIEL
 
 
 
-                 Date : 2022-10-22 12:32:31         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 1/10
+                 Date : 2022-10-25 12:33:57         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 1/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                    7684 : Baccalauréat en génie mécanique
@@ -200,7 +200,7 @@ LRC100          LEADERSHIP ET RESPONSABILITÉ COLLECTIVE                        
 
 
 
-                 Date : 2022-10-22 12:32:31          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 2/10
+                 Date : 2022-10-25 12:33:57          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 2/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -303,7 +303,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
                 07      Mar         13:30 - 17:00   C                    P
 
 
-                 Date : 2022-10-22 12:32:31         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/10
+                 Date : 2022-10-25 12:33:57         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                    7684 : Baccalauréat en génie mécanique
@@ -404,7 +404,7 @@ MEC200          TECHNOLOGIE DES MATÉRIAUX                                      
 
 
 
-                 Date : 2022-10-22 12:32:31          L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/10
+                 Date : 2022-10-25 12:33:57          L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                    7684 : Baccalauréat en génie mécanique
@@ -502,7 +502,7 @@ MEC423          MÉTHODE DES ÉLÉMENTS FINIS DES CORPS                         
 
 
 
-                 Date : 2022-10-22 12:32:31          L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/10
+                 Date : 2022-10-25 12:33:57          L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -603,7 +603,7 @@ MEC630          VENTILATION ET CHAUFFAGE                                        
                 01      Mar         13:30 - 17:00   C                    P
 
 
-                 Date : 2022-10-22 12:32:31         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/10
+                 Date : 2022-10-25 12:33:57         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7684 : Baccalauréat en génie mécanique
@@ -703,7 +703,7 @@ MEC758          SYSTÈME DE PROPULSION ET TURBOMACHINES                         
 
 
 
-                 Date : 2022-10-22 12:32:31          L’École se réserve un droit de modifier l’horaire sans préavis     Page : 7/10
+                 Date : 2022-10-25 12:33:57          L’École se réserve un droit de modifier l’horaire sans préavis     Page : 7/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -793,17 +793,17 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
                 01      Ven         13:30 - 17:00   C                    P
                         Jeu         09:00 - 12:00   Labo                 P
 
+                02      Lun         09:00 - 12:30   C                    P
+                        Ven         09:00 - 12:00   Labo                 P
+
                 03      Jeu         13:30 - 17:00   C                    P
                         Lun         13:30 - 16:30   Labo                 P
 
                 04      Mer         13:30 - 17:00   C                    P
-                        Mar         09:00 - 12:00   Labo                 P
-
-                05      Mer         09:00 - 12:30   C                    P
 
 
 
-                 Date : 2022-10-22 12:32:31         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 8/10
+                 Date : 2022-10-25 12:33:57         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 8/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7684 : Baccalauréat en génie mécanique
@@ -822,13 +822,13 @@ Bureau du registraire - logistique académique
 COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.       LOCAL                    ENSEIGNANT           PRÉALABLES
 
 PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                            CTN248 / ING150
-                05      Mar         13:30 - 16:30    Labo                    P
+                04      Mar         09:00 - 12:00    Labo                    P
 
-                06      Jeu         18:00 - 21:30    C                       P
-                        Mar         18:00 - 21:00    Labo                    P
+                05      Mer         09:00 - 12:30    C                       P
+                        Mar         13:30 - 16:30    Labo                    P
 
-                07      Lun         18:00 - 21:30    C                       H
-                        Ven         18:00 - 21:00    Labo                    H
+                06      Jeu         18:00 - 21:30    C                       H
+                        Mar         18:00 - 21:00    Labo                    H
 
 
 
@@ -900,7 +900,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
                         Lun         08:30 - 12:30    TP A+B                  P
 
 
-                 Date : 2022-10-22 12:32:31          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 9/10
+                 Date : 2022-10-25 12:33:57          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 9/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        7684 : Baccalauréat en génie mécanique
@@ -977,5 +977,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2022-10-22 12:32:31            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 10/10
+                 Date : 2022-10-25 12:33:57            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 10/10
 

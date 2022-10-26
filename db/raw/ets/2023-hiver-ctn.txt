@@ -99,7 +99,7 @@ CTN210          MÉTHODES DE CONSTRUCTION ET PRODUCTIVITÉ                      
 
 
 
-                 Date : 2022-10-22 12:33:12         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/10
+                 Date : 2022-10-25 12:34:32         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7625 : Baccalauréat en génie de la construction
@@ -198,7 +198,7 @@ CTN446          HYDRAULIQUE ET HYDROLOGIE                                       
 
 
 
-                 Date : 2022-10-22 12:33:12         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/10
+                 Date : 2022-10-25 12:34:32         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7625 : Baccalauréat en génie de la construction
@@ -299,7 +299,7 @@ CTN647          CONCEPTION ROUTIÈRE                                            
                 02      Mar         18:00 - 21:30   C                    P
 
 
-                 Date : 2022-10-22 12:33:12         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/10
+                 Date : 2022-10-25 12:34:32         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7625 : Baccalauréat en génie de la construction
@@ -397,7 +397,7 @@ CTN768          DOMAINES ÉMERGENTS EN GÉNIE DE
 
 
 
-                 Date : 2022-10-22 12:33:12          L’École se réserve un droit de modifier l’horaire sans préavis    Page : 4/10
+                 Date : 2022-10-25 12:34:32          L’École se réserve un droit de modifier l’horaire sans préavis    Page : 4/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7625 : Baccalauréat en génie de la construction
@@ -497,7 +497,7 @@ GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU INDUSTRIEL
                         Mar         13:30 - 17:30   TP/Labo              P         A-1222, A-2230
 
                 03      Jeu         18:00 - 21:30   C                    P
-                 Date : 2022-10-22 12:33:12         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/10
+                 Date : 2022-10-25 12:34:32         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7625 : Baccalauréat en génie de la construction
@@ -599,7 +599,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
 
 
-                 Date : 2022-10-22 12:33:12          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 6/10
+                 Date : 2022-10-25 12:34:32          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 6/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7625 : Baccalauréat en génie de la construction
@@ -702,7 +702,7 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
 
 
 
-                 Date : 2022-10-22 12:33:12         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/10
+                 Date : 2022-10-25 12:34:32         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7625 : Baccalauréat en génie de la construction
@@ -788,6 +788,9 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
                 01      Ven         13:30 - 17:00   C                    P
                         Jeu         09:00 - 12:00   Labo                 P
 
+                02      Lun         09:00 - 12:30   C                    P
+                        Ven         09:00 - 12:00   Labo                 P
+
                 03      Jeu         13:30 - 17:00   C                    P
                         Lun         13:30 - 16:30   Labo                 P
 
@@ -797,12 +800,9 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
                 05      Mer         09:00 - 12:30   C                    P
                         Mar         13:30 - 16:30   Labo                 P
 
-                06      Jeu         18:00 - 21:30   C                    P
-                        Mar         18:00 - 21:00   Labo                 P
+                06      Jeu         18:00 - 21:30   C                    H
 
-                07      Lun         18:00 - 21:30   C                    H
-
-                 Date : 2022-10-22 12:33:12         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 8/10
+                 Date : 2022-10-25 12:34:32         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 8/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7625 : Baccalauréat en génie de la construction
@@ -821,7 +821,7 @@ Bureau du registraire - logistique académique
 COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.       LOCAL                    ENSEIGNANT           PRÉALABLES
 
 PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                            CTN248 / ING150
-                07      Ven         18:00 - 21:00    Labo                    H
+                06      Mar         18:00 - 21:00    Labo                    H
 
 
 
@@ -898,7 +898,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 
 
 
-                 Date : 2022-10-22 12:33:12          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 9/10
+                 Date : 2022-10-25 12:34:32          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 9/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7625 : Baccalauréat en génie de la construction
@@ -987,5 +987,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2022-10-22 12:33:12            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 10/10
+                 Date : 2022-10-25 12:34:32            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 10/10
 

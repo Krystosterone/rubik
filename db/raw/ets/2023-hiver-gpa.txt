@@ -98,7 +98,7 @@ GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU INDUSTRIEL
 GPA142          AUTOMATES PROGRAMMABLES: LANGAGES ET MISE
                 EN OEUVRE
                 01      Lun         08:30 - 12:00   C                    P
-                 Date : 2022-10-22 12:33:36         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/9
+                 Date : 2022-10-25 12:34:55         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -154,7 +154,7 @@ GPA305          ÉLÉMENTS DE RÉSISTANCE DES MATÉRIAUX                        
 
 
 GPA325          INTRODUCTION À L'ÉLECTRONIQUE                                                                                        GPA220
-                01      Lun         13:30 - 17:00   C                    P
+                01      Lun         13:30 - 17:00   C                    H
                         Mar         13:30 - 16:30   Labo                 P         A-3608
 
 
@@ -168,7 +168,7 @@ GPA434          INGÉNIERIE DES SYSTÈMES ORIENTÉS-OBJET                       
 
 GPA445          CONCEPTION ASSISTÉE PAR ORDINATEUR                                                                                   INF155
 
-                01      Lun         18:00 - 21:30   C                    P
+                01      Lun         18:00 - 21:30   C                    H
                         Jeu         18:00 - 21:00   Labo A               P         A-3728
                         Jeu         18:00 - 21:00   Labo B               P         A-3726
 
@@ -195,7 +195,7 @@ GPA551          PRODUCTION ET GESTION DE PROJETS                                
 
 
 
-                 Date : 2022-10-22 12:33:36         L’École se réserve un droit de modifier l’horaire sans préavis            Page : 2/9
+                 Date : 2022-10-25 12:34:55         L’École se réserve un droit de modifier l’horaire sans préavis            Page : 2/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -295,7 +295,7 @@ GPA783          ASSERVISSEMENT NUMÉRIQUE EN TEMPS RÉEL                        
 
 
 
-                 Date : 2022-10-22 12:33:36         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/9
+                 Date : 2022-10-25 12:34:55         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -395,7 +395,7 @@ ING150          STATIQUE ET DYNAMIQUE
 
                 03      Mar         13:30 - 17:00   C                    P
 
-                 Date : 2022-10-22 12:33:36         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/9
+                 Date : 2022-10-25 12:34:55         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                         6557 : Baccalauréat en génie de la production automatisée
@@ -497,7 +497,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
 
 
-                 Date : 2022-10-22 12:33:36          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 5/9
+                 Date : 2022-10-25 12:34:55          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 5/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -600,7 +600,7 @@ MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE L'ESPACE                   
 
 
 
-                 Date : 2022-10-22 12:33:36         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/9
+                 Date : 2022-10-25 12:34:55         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -674,6 +674,9 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
                 01      Ven         13:30 - 17:00   C                    P
                         Jeu         09:00 - 12:00   Labo                 P
 
+                02      Lun         09:00 - 12:30   C                    P
+                        Ven         09:00 - 12:00   Labo                 P
+
                 03      Jeu         13:30 - 17:00   C                    P
                         Lun         13:30 - 16:30   Labo                 P
 
@@ -683,11 +686,8 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
                 05      Mer         09:00 - 12:30   C                    P
                         Mar         13:30 - 16:30   Labo                 P
 
-                06      Jeu         18:00 - 21:30   C                    P
-                        Mar         18:00 - 21:00   Labo                 P
-
-                07      Lun         18:00 - 21:30   C                    H
-                        Ven         18:00 - 21:00   Labo                 H
+                06      Jeu         18:00 - 21:30   C                    H
+                        Mar         18:00 - 21:00   Labo                 H
 
 
 
@@ -700,7 +700,7 @@ PHY335          PHYSIQUE DES ONDES                                              
 
 
 
-                 Date : 2022-10-22 12:33:36         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 7/9
+                 Date : 2022-10-25 12:34:55         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 7/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                          6557 : Baccalauréat en génie de la production automatisée
@@ -797,7 +797,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
                 04      Ven         09:00 - 12:30    C                       P
                         Lun         08:30 - 12:30    TP A+B                  P
 
-                 Date : 2022-10-22 12:33:36          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 8/9
+                 Date : 2022-10-25 12:34:55          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 8/9
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             6557 : Baccalauréat en génie de la production automatisée
@@ -874,5 +874,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2022-10-22 12:33:36            L’École se réserve un droit de modifier l’horaire sans préavis                         Page : 9/9
+                 Date : 2022-10-25 12:34:55            L’École se réserve un droit de modifier l’horaire sans préavis                         Page : 9/9
 

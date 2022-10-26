@@ -97,7 +97,7 @@ ENT304          PROJETS SPÉCIAUX EN ENTREPRENEURIAT IV
 
 
 
-                 Date : 2022-10-22 12:33:28         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/11
+                 Date : 2022-10-25 12:34:47         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7086 : Baccalauréat en génie des technologies de l'information
@@ -198,7 +198,7 @@ GTI350          CONCEPTION ET ÉVALUATION DES INTERFACES                        
 
 
 
-                 Date : 2022-10-22 12:33:28         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/11
+                 Date : 2022-10-25 12:34:47         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7086 : Baccalauréat en génie des technologies de l'information
@@ -298,7 +298,7 @@ GTI745          INTERFACES UTILISATEURS AVANCÉES                               
 
 
 
-                 Date : 2022-10-22 12:33:28         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/11
+                 Date : 2022-10-25 12:34:47         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7086 : Baccalauréat en génie des technologies de l'information
@@ -357,8 +357,8 @@ INF111          PROGRAMMATION ORIENTÉE-OBJET (HORS
                 03      Lun         09:00 - 12:30   C                    P
                         Mer         13:30 - 16:30   Labo                 P         E-4022
 
-                04      Mer         13:30 - 17:00   C                    P
-                        Lun         09:00 - 12:00   Labo                 P         E-4023
+                05      Lun         09:00 - 12:30   C                    P
+                        Mer         13:30 - 16:30   Labo                 P         E-4023
 
 
 
@@ -399,7 +399,7 @@ ING160          THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                       
 
 
 
-                 Date : 2022-10-22 12:33:28         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/11
+                 Date : 2022-10-25 12:34:47         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7086 : Baccalauréat en génie des technologies de l'information
@@ -498,7 +498,7 @@ LOG550          CONCEPTION DE SYSTÈMES INFORMATIQUES EN                        
 
 
 
-                 Date : 2022-10-22 12:33:28         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/11
+                 Date : 2022-10-25 12:34:47         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      7086 : Baccalauréat en génie des technologies de l'information
@@ -599,7 +599,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                         Mer         13:30 - 16:30   TP                      P
 
 
-                 Date : 2022-10-22 12:33:28          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 6/11
+                 Date : 2022-10-25 12:34:47          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 6/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7086 : Baccalauréat en génie des technologies de l'information
@@ -701,7 +701,7 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
 
                 02      Jeu         09:00 - 12:30   C                    P
 
-                 Date : 2022-10-22 12:33:28         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/11
+                 Date : 2022-10-25 12:34:47         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7086 : Baccalauréat en génie des technologies de l'information
@@ -802,7 +802,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-                 Date : 2022-10-22 12:33:28         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 8/11
+                 Date : 2022-10-25 12:34:47         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 8/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7086 : Baccalauréat en génie des technologies de l'information
@@ -824,6 +824,9 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
                 01      Ven         13:30 - 17:00   C                    P
                         Jeu         09:00 - 12:00   Labo                 P
 
+                02      Lun         09:00 - 12:30   C                    P
+                        Ven         09:00 - 12:00   Labo                 P
+
                 03      Jeu         13:30 - 17:00   C                    P
                         Lun         13:30 - 16:30   Labo                 P
 
@@ -833,11 +836,8 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
                 05      Mer         09:00 - 12:30   C                    P
                         Mar         13:30 - 16:30   Labo                 P
 
-                06      Jeu         18:00 - 21:30   C                    P
-                        Mar         18:00 - 21:00   Labo                 P
-
-                07      Lun         18:00 - 21:30   C                    H
-                        Ven         18:00 - 21:00   Labo                 H
+                06      Jeu         18:00 - 21:30   C                    H
+                        Mar         18:00 - 21:00   Labo                 H
 
 
 
@@ -901,7 +901,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 
 
 
-                 Date : 2022-10-22 12:33:28         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 9/11
+                 Date : 2022-10-25 12:34:47         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 9/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                        7086 : Baccalauréat en génie des technologies de l'information
@@ -976,7 +976,7 @@ TIN504          SANTÉ, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2022-10-22 12:33:28          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 10/11
+                 Date : 2022-10-25 12:34:47          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 10/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                          7086 : Baccalauréat en génie des technologies de l'information
@@ -1036,5 +1036,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2022-10-22 12:33:28            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 11/11
+                 Date : 2022-10-25 12:34:47            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 11/11
 

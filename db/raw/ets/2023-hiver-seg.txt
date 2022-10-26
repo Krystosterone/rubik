@@ -96,7 +96,7 @@ COM400          RÉDACTION TECHNIQUE ET COMMUNICATION EN
                 01      Mer         13:30 - 17:30      C                    P
 
 
-                 Date : 2022-10-22 12:31:59            L’École se réserve un droit de modifier l’horaire sans préavis         Page : 1/10
+                 Date : 2022-10-25 12:33:24            L’École se réserve un droit de modifier l’horaire sans préavis         Page : 1/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -196,7 +196,7 @@ GIA410          GESTION ET ÉCONOMIE DES PROJETS D’INGÉNIERIE
 
 
 
-                 Date : 2022-10-22 12:31:59         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/10
+                 Date : 2022-10-25 12:33:24         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -229,8 +229,8 @@ INF111          PROGRAMMATION ORIENTÉE-OBJET (HORS
                 03      Lun         09:00 - 12:30   C                    P
                         Mer         13:30 - 16:30   Labo                 P         E-4022
 
-                04      Mer         13:30 - 17:00   C                    P
-                        Lun         09:00 - 12:00   Labo                 P         E-4023
+                05      Lun         09:00 - 12:30   C                    P
+                        Mer         13:30 - 16:30   Labo                 P         E-4023
 
 
 
@@ -297,7 +297,7 @@ ING150          STATIQUE ET DYNAMIQUE
                         Mer         13:30 - 16:30   TP                   P
 
 
-                 Date : 2022-10-22 12:31:59         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/10
+                 Date : 2022-10-25 12:33:24         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                            Service des enseignements généraux
@@ -399,7 +399,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
                         Mer         09:00 - 12:00   TP                      P
 
 
-                 Date : 2022-10-22 12:31:59          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 4/10
+                 Date : 2022-10-25 12:33:24          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 4/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -501,7 +501,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
                         Mar         18:00 - 21:00   TP                   H
 
 
-                 Date : 2022-10-22 12:31:59         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/10
+                 Date : 2022-10-25 12:33:24         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -600,7 +600,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
 
 
 
-                 Date : 2022-10-22 12:31:59         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 6/10
+                 Date : 2022-10-25 12:33:24         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 6/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -635,6 +635,9 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
                 01      Ven         13:30 - 17:00   C                    P
                         Jeu         09:00 - 12:00   Labo                 P
 
+                02      Lun         09:00 - 12:30   C                    P
+                        Ven         09:00 - 12:00   Labo                 P
+
                 03      Jeu         13:30 - 17:00   C                    P
                         Lun         13:30 - 16:30   Labo                 P
 
@@ -644,11 +647,8 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
                 05      Mer         09:00 - 12:30   C                    P
                         Mar         13:30 - 16:30   Labo                 P
 
-                06      Jeu         18:00 - 21:30   C                    P
-                        Mar         18:00 - 21:00   Labo                 P
-
-                07      Lun         18:00 - 21:30   C                    H
-                        Ven         18:00 - 21:00   Labo                 H
+                06      Jeu         18:00 - 21:30   C                    H
+                        Mar         18:00 - 21:00   Labo                 H
 
 
 
@@ -700,7 +700,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 
 
 
-                 Date : 2022-10-22 12:31:59         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 7/10
+                 Date : 2022-10-25 12:33:24         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 7/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                              Service des enseignements généraux
@@ -791,7 +791,7 @@ PRE811          DÉVELOPPEMENT DE CARRIÈRE AUX CYCLES
 
 
 
-                 Date : 2022-10-22 12:31:59          L’École se réserve un droit de modifier l’horaire sans préavis                        Page : 8/10
+                 Date : 2022-10-25 12:33:24          L’École se réserve un droit de modifier l’horaire sans préavis                        Page : 8/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                            Service des enseignements généraux
@@ -866,7 +866,7 @@ TIN504          SANTÉ, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2022-10-22 12:31:59          L’École se réserve un droit de modifier l’horaire sans préavis                        Page : 9/10
+                 Date : 2022-10-25 12:33:24          L’École se réserve un droit de modifier l’horaire sans préavis                        Page : 9/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                               Service des enseignements généraux
@@ -926,5 +926,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2022-10-22 12:31:59            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 10/10
+                 Date : 2022-10-25 12:33:25            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 10/10
 

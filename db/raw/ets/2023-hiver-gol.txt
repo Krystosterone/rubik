@@ -99,7 +99,7 @@ GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU INDUSTRIEL
                 02      Lun         13:30 - 17:00   C                    P
 
 
-                 Date : 2022-10-22 12:33:32         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/8
+                 Date : 2022-10-25 12:34:51         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/8
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     6556 : Baccalauréat en génie des opérations et de la logistique
@@ -200,7 +200,7 @@ GOL611          INGÉNIERIE DES PARCS D’ÉQUIPEMENTS                          
 
 
 
-                 Date : 2022-10-22 12:33:32         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/8
+                 Date : 2022-10-25 12:34:51         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/8
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     6556 : Baccalauréat en génie des opérations et de la logistique
@@ -300,7 +300,7 @@ GSY400          MÉTHODES QUANTITATIVES EN GÉNIE DES SYSTÈMES                 
 
 
 
-                 Date : 2022-10-22 12:33:32         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/8
+                 Date : 2022-10-25 12:34:51         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/8
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     6556 : Baccalauréat en génie des opérations et de la logistique
@@ -396,7 +396,7 @@ ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
 
 
 
-                 Date : 2022-10-22 12:33:32         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/8
+                 Date : 2022-10-25 12:34:51         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/8
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                        6556 : Baccalauréat en génie des opérations et de la logistique
@@ -498,7 +498,7 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
 
                 04      Mer         09:00 - 12:30   C                       P
 
-                 Date : 2022-10-22 12:33:32          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 5/8
+                 Date : 2022-10-25 12:34:51          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 5/8
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     6556 : Baccalauréat en génie des opérations et de la logistique
@@ -598,7 +598,7 @@ PHY335          PHYSIQUE DES ONDES                                              
 
                 02      Lun         09:00 - 12:30   C                    H
 
-                 Date : 2022-10-22 12:33:32         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 6/8
+                 Date : 2022-10-25 12:34:51         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 6/8
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                         6556 : Baccalauréat en génie des opérations et de la logistique
@@ -695,7 +695,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
                         Mer         08:30 - 12:30    TP A+B                  P
 
 
-                 Date : 2022-10-22 12:33:32          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 7/8
+                 Date : 2022-10-25 12:34:51          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 7/8
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             6556 : Baccalauréat en génie des opérations et de la logistique
@@ -769,5 +769,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2022-10-22 12:33:32            L’École se réserve un droit de modifier l’horaire sans préavis                         Page : 8/8
+                 Date : 2022-10-25 12:34:51            L’École se réserve un droit de modifier l’horaire sans préavis                         Page : 8/8
 
