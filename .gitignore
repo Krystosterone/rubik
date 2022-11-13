@@ -6,9 +6,14 @@
 /.ruby-gemset
 
 /log/*
+/tmp/*
+/tmp/pids/*
 !/log/.keep
+!/tmp/.keep
+!/tmp/pids
+!/tmp/pids/.keep
+
 /node_modules/
-/tmp
 
 /coverage/
 dump.rdb
