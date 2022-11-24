@@ -7,7 +7,7 @@ jobs:
     resource_class: large
     parallelism: 4
     docker:
-      - image: cimg/ruby:2.7.6-browsers
+      - image: cimg/ruby:3.1.2-browsers
       - image: cimg/mysql:5.7.36
         environment:
           MYSQL_DATABASE: circle_ruby_test
