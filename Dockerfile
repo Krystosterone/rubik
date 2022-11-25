@@ -2,7 +2,7 @@ FROM ruby:2.7.6
 
 RUN apt-get update && apt-get install -y apt-transport-https ca-certificates
 
-RUN curl -sL https://deb.nodesource.com/setup_12.x | bash -
+RUN curl -fsSL https://deb.nodesource.com/setup_lts.x | bash -
 RUN apt-get update && apt-get install -y nodejs
 
 RUN curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
@@ -20,7 +20,8 @@ COPY Gemfile.lock /rubik/Gemfile.lock
 RUN bundle install
 
 COPY package.json /rubik/package.json
-RUN yarn install --ignore-engines
+COPY yarn.lock /rubik/yarn.lock
+RUN yarn install
 
 COPY . /rubik
 
