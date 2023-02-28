@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 Airbrake.configure do |c|
-  c.project_id = ENV.fetch("AIRBRAKE_PROJECT_ID")
-  c.project_key = ENV.fetch("AIRBRAKE_API_KEY")
+  c.project_id = ENV.fetch("AIRBRAKE_PROJECT_ID", nil)
+  c.project_key = ENV.fetch("AIRBRAKE_API_KEY", nil)
   c.root_directory = Rails.root
   c.logger = Airbrake::Rails.logger
   c.environment = Rails.env
