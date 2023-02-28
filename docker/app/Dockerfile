@@ -11,19 +11,25 @@ RUN apt-get update && apt-get install -y yarn
 
 RUN apt-get install -y poppler-utils
 
-RUN mkdir /rubik
+ENV RAILS_ENV="production"
+ENV NODE_ENV="production"
 
-WORKDIR /rubik
+RUN mkdir -p /var/www/app
 
-COPY Gemfile /rubik/Gemfile
-COPY Gemfile.lock /rubik/Gemfile.lock
-RUN bundle install
+WORKDIR /var/www/app
 
-COPY package.json /rubik/package.json
-COPY yarn.lock /rubik/yarn.lock
-RUN yarn install
+COPY Gemfile Gemfile
+COPY Gemfile.lock Gemfile.lock
+RUN bundle install --jobs 4 --retry 5 --without development test
 
-COPY . /rubik
+COPY package.json package.json
+COPY yarn.lock yarn.lock
+RUN yarn install --production --frozen-lockfile
+
+COPY . .
+
+RUN export $(grep -v '^#' .env | xargs -d '\n') && \
+    SECRET_KEY_BASE=placeholder rails assets:precompile
 
 EXPOSE 3000
 

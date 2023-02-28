@@ -3,25 +3,23 @@ default: &default
   encoding: utf8
   pool: <%= ENV['DB_POOL'] || ENV['RAILS_MAX_THREADS'] || 5 %>
 
-development:
+local: &local
   <<: *default
   username: root
   password:
-  host: localhost
+  host: <%= ENV.fetch('DATABASE_HOST', 'localhost') %>
+
+development:
+  <<: *local
   database: rubik_development
 
 test: &test
-  <<: *default
-  username: root
-  password:
-  host: localhost
+  <<: *local
   database: rubik_test
-
-<% if ENV['DATABASE_URL'] %>
-production:
-  <<: *default
-  url: <%= ENV.fetch('DATABASE_URL') %>
-<% end %>
 
 cucumber:
   <<: *test
+
+production:
+  <<: *local
+  database: rubik

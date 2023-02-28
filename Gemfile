@@ -39,7 +39,6 @@ end
 
 group :development, :test do
   gem "dotenv-rails"
-  gem "phantomjs", require: "phantomjs/poltergeist"
   gem "pry-byebug"
   gem "rubocop", require: false
   gem "rubocop-rails", require: false
@@ -53,6 +52,7 @@ group :test do
   gem "database_cleaner"
   gem "factory_bot_rails", "~> 6.2.0"
   gem "fakeredis", require: "fakeredis/rspec"
+  gem "phantomjs", require: "phantomjs/poltergeist"
   gem "poltergeist"
   gem "rails-controller-testing"
   gem "rspec-html-matchers"
@@ -64,5 +64,3 @@ group :test do
   gem "simplecov", require: false
   gem "timecop"
 end
-
-gem "rails_12factor", group: :production # Heroku
