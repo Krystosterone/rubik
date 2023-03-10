@@ -2,7 +2,7 @@ name: "ETS: Download PDFs Automatically"
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,28 +13,24 @@ jobs:
   ets-download-pdfs:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-    - name: Download PDFs
-      run: script/ets_download_pdfs
-    - name: Create pull request
-      uses: peter-evans/create-pull-request@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ets-download-pdfs
-        branch-suffix: short-commit-hash
-        draft: true
-        title: "Downloads PDFs for ETS"
-        body: |
-          New PDFs were able to be downloaded. Next steps:
-          
-          - Checkout the branch
-          - Run:
-
-            ```bash
-            bundle exec thor ets_pdf:etl
-            ```
-          - Commit changes
-        assignees: krystosterone
+      - name: Install pdftotext
+        run: sudo apt-get install -y poppler-utils
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Download PDFs
+        run: script/ets_download_pdfs
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ets-download-pdfs
+          branch-suffix: short-commit-hash
+          draft: true
+          title: "Downloads PDFs for ETS"
+          body: |
+            New PDFs were able to be downloaded. If CI fails, 
+            checkout the branch, fix the .txt files and commit
+            the changes.
+          assignees: krystosterone
