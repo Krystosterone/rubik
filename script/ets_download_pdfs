@@ -30,15 +30,13 @@ do
     for term_index in "${!terms[@]}"
     do
       target_file="${TARGET_DIR}${year}-${terms[$term_index]}-${bachelors[$bachelor_code]}.pdf"
-      
-      if [[ -f $target_file ]]
-      then
-        echo "${target_file} already exists"
-      else
-        url="${BASE_URL}HorairePublication_${year}${term_index}_${bachelor_code}.pdf"
+      url="${BASE_URL}HorairePublication_${year}${term_index}_${bachelor_code}.pdf"
         
-        echo "Downloading ${url} => ${target_file}"
-        curl -sfo $target_file $url && echo "Success" || echo "Does not exist on server"
+      echo "Downloading ${url} => ${target_file}"
+      curl -sfo $target_file $url && echo "Success" || echo "Does not exist on server"
+
+      if test -f $target_file; then
+        pdftotext -enc UTF-8 -layout $target_file
       fi
     done
   done
