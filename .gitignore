@@ -2,7 +2,7 @@
 
 /.bundle
 /.byebug_history
-/.env.development.local
+/.env.*.local
 /.ruby-gemset
 
 /log/*
