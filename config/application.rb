@@ -34,8 +34,6 @@ module Rubik
       #{config.root}/lib
     ]
 
-    config.hosts << ENV.fetch("HOST")
-
     config.exceptions_app = routes
     config.action_view.field_error_proc = proc { |html_tag, _instance| html_tag }
     config.admin_emails = ENV.fetch("ADMIN_EMAILS").split(",")

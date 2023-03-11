@@ -38,6 +38,8 @@ Rails.application.configure do
 
   config.active_record.dump_schema_after_migration = false
 
+  config.hosts << ENV.fetch("HOST")
+
   config.after_initialize { Bullet.airbrake = true }
   config.read_encrypted_secrets = true
 
