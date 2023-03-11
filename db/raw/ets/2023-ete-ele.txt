@@ -59,16 +59,6 @@ COM110          MÉTHODES DE COMMUNICATION                                      
 
 
 
-COM400          RÉDACTION TECHNIQUE ET COMMUNICATION EN
-                GÉNIE ÉLECTRIQUE
-                01      Lun         09:00 - 12:30   C                    P
-                        Mar         08:30 - 12:30   TP A+B               P
-
-                02      Ven         18:00 - 21:30   C                    P
-                        Lun         18:00 - 22:00   TP A+B               P
-
-
-
 ELE105          CIRCUITS ÉLECTRIQUES                                                                                         MAT265*
                 01      Mar         13:30 - 17:00   C                    P
                         Mer         08:30 - 10:30   TP/2                 P
@@ -95,8 +85,20 @@ ELE200          CIRCUITS ÉLECTRONIQUES                                         
 
 
 
+ELE216          DÉVELOPPEMENT DE LOGICIELS EN GÉNIE                                                                          INF147
+                ÉLECTRIQUE                                                                                                   Conc. TS: INF145 / INF147
+                01      Mar         13:30 - 17:00   C                    P         A-2404, A-2572
+                        Ven         08:30 - 11:30   Labo A               P         A-2404, A-2572
+                        Lun         13:30 - 16:30   Labo B               P         A-2404, A-2572
 
-                 Date : 2023-02-24 12:32:09         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/11
+
+
+ELE265          TRAITEMENT DE SIGNAUX                                                                                        MAT265
+                01      Mer         13:30 - 17:00   C                    H
+
+
+
+                 Date : 2023-03-10 12:32:07         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -114,17 +116,8 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
 
-ELE216          DÉVELOPPEMENT DE LOGICIELS EN GÉNIE                                                                          INF147
-                ÉLECTRIQUE                                                                                                   Conc. TS: INF145 / INF147
-                01      Mar         13:30 - 17:00   C                    P         A-2404, A-2572
-                        Ven         08:30 - 11:30   Labo A               P         A-2404, A-2572
-                        Lun         13:30 - 16:30   Labo B               P         A-2404, A-2572
-
-
-
 ELE265          TRAITEMENT DE SIGNAUX                                                                                        MAT265
-                01      Mer         13:30 - 17:00   C                    H
-                        Ven         13:30 - 15:30   TP/Labo              H         A-2509
+                01      Ven         13:30 - 15:30   TP/Labo              H         A-2509
 
 
 
@@ -181,22 +174,29 @@ ELE413          ONDES ÉLECTROMAGNÉTIQUES                                      
 
 ELE431          ANALYSE ET CONCEPTION DE CIRCUITS                                                                            ELE200, ELE265
                 ANALOGIQUES
-                01      Mar         08:30 - 12:00   C                    D
+                01      Mer         13:30 - 17:00   C                    D
                         Mer         10:30 - 12:30   TP/2                 D
-                        Mer         13:30 - 17:30   Labo/2               D         A-2508
+                        Mar         08:30 - 12:30   Labo/2               D         A-2508
 
 
 
 ELE462          PRINCIPES DES SYSTÈMES DE COMMUNICATION
 
-                01      Jeu         13:30 - 17:00   C                    P
+                01      Jeu         13:30 - 17:00   C                    H
                         Mer         15:30 - 17:30   TP/2                 H
                         Mar         08:30 - 12:30   Labo/2               H         A-2509
 
 
 
+ELE474          COMMANDE NUMÉRIQUE                                                                                           ELE265, ELE275
+                01      Jeu         18:00 - 21:30   C                    P
+                        Mer         18:00 - 21:00   Labo A               P         A-2502
+                        Mar         18:00 - 21:00   Labo B               P         A-2502
 
-                 Date : 2023-02-24 12:32:09         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/11
+
+
+
+                 Date : 2023-03-10 12:32:07         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -214,13 +214,6 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
 
-ELE474          COMMANDE NUMÉRIQUE                                                                                           ELE265, ELE275
-                01      Jeu         18:00 - 21:30   C                    P
-                        Mer         18:00 - 21:00   Labo A               P         A-2502
-                        Mar         18:00 - 21:00   Labo B               P         A-2502
-
-
-
 ELE543          PRINCIPES DES SYSTÈMES EMBARQUÉS
 
                 01      Mer         18:00 - 21:30   C                    P
@@ -236,20 +229,13 @@ ELE652          ÉLECTRICITÉ INDUSTRIELLE                                      
 
 ELE653          TRANSPORT DE L'ÉNERGIE                                                                                       ELE105 et ELE312
                 01      Mar         18:00 - 21:30   C                    H
-                        Ven         18:00 - 22:00   Labo/2               P         A-2504
+                        Jeu         18:00 - 22:00   Labo/2               P         A-2504
 
 
 
 ELE673          INSTRUMENTATION INDUSTRIELLE                                                                                 ELE275
                 01      Lun         13:30 - 17:00   C                    D
                         Mar         13:30 - 17:30   TP-Labo/2            P         A-2502
-
-
-
-ELE747          ANALYSE ET TRAITEMENT D'IMAGES
-
-                01      Mar         13:30 - 17:00   C                    P
-                        Lun         08:30 - 12:30   Labo/2               P         A-2500
 
 
 
@@ -292,25 +278,6 @@ ELE889          TECHNOLOGIES DE L'ÉNERGIE SOLAIRE                              
 
 
 
-
-                 Date : 2023-02-24 12:32:09         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/11
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                  7694 : Baccalauréat en génie électrique
-
-
-                                                                   HORAIRE ÉTÉ 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
-
 ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                              GIA400 ou GIA410
 
                 01      Mer         09:00 - 12:30   C                    C
@@ -328,7 +295,27 @@ ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
 GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
 
                 01      Mer         09:00 - 12:30   C                    P
-                        Jeu         10:30 - 12:30   TP                   P
+                 Date : 2023-03-10 12:32:07         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                  7694 : Baccalauréat en génie électrique
+
+
+                                                                   HORAIRE ÉTÉ 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+
+GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                01      Jeu         10:30 - 12:30   TP                   P
 
                 02      Ven         13:30 - 17:00   C                    P
                         Jeu         08:30 - 10:30   TP                   P
@@ -365,8 +352,8 @@ GPE450          GESTION DU PERSONNEL ET RELATIONS
 
 
 GTS601          PRINCIPES DE L'IMAGERIE MÉDICALE
-                01      Mer         08:30 - 12:00   C                    P
-                        Lun         13:30 - 15:30   Labo                 P         A-2500
+                01      Mer         08:30 - 12:00   C                    H
+                        Lun         13:30 - 15:30   Labo                 H         A-2500
 
 
 
@@ -392,9 +379,24 @@ ING150          STATIQUE ET DYNAMIQUE
                         Lun         13:30 - 16:30   TP                   P
 
                 03      Mer         13:30 - 17:00   C                    P
+                        Mar         09:00 - 12:00   TP                   P
+
+                04      Jeu         09:00 - 12:30   C                    P
+                        Mer         09:00 - 12:00   TP                   P
+
+                05      Mer         18:00 - 21:30   C                    P
+                        Jeu         18:00 - 21:00   TP                   P
 
 
-                 Date : 2023-02-24 12:32:09         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/11
+
+ING160          THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                                                                     ING150
+
+                01      Lun         09:00 - 12:30   C                    P
+                        Mar         13:30 - 16:30   TP                   P
+
+                02      Mar         18:00 - 21:30   C                    P
+
+                 Date : 2023-03-10 12:32:07         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7694 : Baccalauréat en génie électrique
@@ -412,24 +414,9 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT           PRÉALABLES
 
-ING150          STATIQUE ET DYNAMIQUE
-                03      Mar         09:00 - 12:00   TP                     P
-
-                04      Jeu         09:00 - 12:30   C                      P
-                        Mer         09:00 - 12:00   TP                     P
-
-                05      Mer         18:00 - 21:30   C                      P
-                        Jeu         18:00 - 21:00   TP                     P
-
-
-
 ING160          THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                                                                        ING150
 
-                01      Lun         09:00 - 12:30   C                      P
-                        Mar         13:30 - 16:30   TP                     P
-
-                02      Mar         18:00 - 21:30   C                      P
-                        Lun         18:00 - 21:00   TP                     P
+                02      Lun         18:00 - 21:00   TP                     P
 
 
 
@@ -473,31 +460,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 juin 2023 / 07 août 2023
                         L'examen final aura lieu à la dernière séance
                 81      Mer          18:00 - 21:30    C                    P
-
-
-
-
-                 Date : 2023-02-24 12:32:09         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 5/11
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                     7694 : Baccalauréat en génie électrique
-
-
-                                                                     HORAIRE ÉTÉ 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT           PRÉALABLES
-
-MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
-                (HORS PROG.)
-                81      Lun         18:00 - 21:00   TP                     P
+                        Lun          18:00 - 21:00    TP                   P
                         31 mai 2023
                         05 juin 2023
                         07 juin 2023
@@ -534,34 +497,16 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
                         Mar         09:00 - 12:00   TP                     P
 
                 02      Jeu         09:00 - 12:30   C                      P
-                        Mar         13:30 - 16:30   TP                     P
-
-                03      Jeu         13:30 - 17:00   C                      P
-                        Lun         09:00 - 12:00   TP                     P
-
-                04      Jeu         18:00 - 21:30   C                      P
-                        Mar         18:00 - 21:00   TP                     P
 
 
 
-MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                                         MAT145
-
-                01      Mer         13:30 - 17:00   C                      P
-                        Jeu         13:30 - 16:30   TP                     P
-
-                02      Ven         09:00 - 12:30   C                      P
-                        Mar         13:30 - 16:30   TP                     P
-
-
-
-
-                 Date : 2023-02-24 12:32:09         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 6/11
+                 Date : 2023-03-10 12:32:07         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 5/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
-                                                                                      7694 : Baccalauréat en génie électrique
+                                                                                     7694 : Baccalauréat en génie électrique
 
 
-                                                                      HORAIRE ÉTÉ 2023
+                                                                     HORAIRE ÉTÉ 2023
                                                     Locaux A: bâtiment sud, 1100, Notre-Dame O.
                                                     Locaux B: bâtiment nord, 1111, Notre-Dame O.
                                                     Locaux D: bâtiment sud-ouest, 1219, rue William
@@ -571,60 +516,78 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.       LOCAL                 ENSEIGNANT              PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT               PRÉALABLES
+
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                02      Mar         13:30 - 16:30   TP                     P
+
+                03      Jeu         13:30 - 17:00   C                      P
+                        Lun         09:00 - 12:00   TP                     P
+
+                04      Jeu         18:00 - 21:30   C                      P
+                        Mar         18:00 - 21:00   TP                     P
+
+
 
 MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                                             MAT145
 
-                03      Ven         13:30 - 17:00   C                       P
-                        Jeu         09:00 - 12:00   TP                      P
+                01      Mer         13:30 - 17:00   C                      P
+                        Jeu         13:30 - 16:30   TP                     P
 
-                04      Jeu         18:00 - 21:30   C                       P
-                        Mar         18:00 - 21:00   TP                      P
+                02      Ven         09:00 - 12:30   C                      P
+                        Mar         13:30 - 16:30   TP                     P
+
+                03      Ven         13:30 - 17:00   C                      P
+                        Jeu         09:00 - 12:00   TP                     P
+
+                04      Jeu         18:00 - 21:30   C                      P
+                        Mar         18:00 - 21:00   TP                     P
 
 
 
 MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                           MAT145
-                01      Lun         09:00 - 12:30   C                       P
-                        Mer         09:00 - 12:00   TP                      P
+                01      Lun         09:00 - 12:30   C                      P
+                        Mer         09:00 - 12:00   TP                     P
 
-                02      Mar         09:00 - 12:30   C                       P
-                        Lun         13:30 - 16:30   TP                      P
+                02      Mar         09:00 - 12:30   C                      P
+                        Lun         13:30 - 16:30   TP                     P
 
-                03      Ven         09:00 - 12:30   C                       P
-                        Mar         13:30 - 16:30   TP                      P
+                03      Ven         09:00 - 12:30   C                      P
+                        Mar         13:30 - 16:30   TP                     P
 
                 04      Lun         13:30 - 17:00   C                      H
                         Jeu         09:00 - 12:00   TP                     H
 
-                05      Lun         09:00 - 12:30   C                       P
-                        Mer         09:00 - 12:00   TP                      P
+                05      Lun         09:00 - 12:30   C                      P
+                        Mer         09:00 - 12:00   TP                     P
 
-                06      Mer         18:00 - 21:30   C                       P
-                        Lun         18:00 - 21:00   TP                      P
+                06      Mer         18:00 - 21:30   C                      P
+                        Lun         18:00 - 21:00   TP                     P
 
-                07      Jeu         18:00 - 21:30   C                       P
-                        Mar         18:00 - 21:00   TP                      P
+                07      Jeu         18:00 - 21:30   C                      P
+                        Mar         18:00 - 21:00   TP                     P
 
 
 
 MAT350          PROBABILITÉS ET STATISTIQUES                                                                                        MAT145
-                01      Ven         09:00 - 12:30   C                       P
-                        Lun         13:30 - 16:30   TP                      P
+                01      Ven         09:00 - 12:30   C                      P
+                        Lun         13:30 - 16:30   TP                     P
 
-                02      Lun         09:00 - 12:30   C                       P
-                        Mer         09:00 - 12:00   TP                      P
+                02      Lun         09:00 - 12:30   C                      P
+                        Mer         09:00 - 12:00   TP                     P
 
-                03      Jeu         09:00 - 12:30   C                       P
-                        Mar         13:30 - 16:30   TP                      P
+                03      Jeu         09:00 - 12:30   C                      P
+                        Mar         13:30 - 16:30   TP                     P
 
                 04      Ven         13:30 - 17:00   C                      H
                         Mer         13:30 - 16:30   TP                     H
 
-                05      Mar         09:00 - 12:30   C                       P
-                        Jeu         13:30 - 16:30   TP                      P
+                05      Mar         09:00 - 12:30   C                      P
+                        Jeu         13:30 - 16:30   TP                     P
 
-                06      Mar         18:00 - 21:30   C                       P
-                        Lun         18:00 - 21:00   TP                      P
+                06      Mar         18:00 - 21:30   C                      P
+                        Lun         18:00 - 21:00   TP                     P
 
 
 
@@ -637,23 +600,9 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                         29 mai 2023
                         05 juin 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 14 mai 2023 / 04 juin 2023
-                02      Mar         13:30 - 17:00   Atelier                D
-                        09 mai 2023
-                        16 mai 2023
-                        23 mai 2023
-                        30 mai 2023
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 15 mai 2023 / 29 mai 2023
-                03      Mar         13:30 - 17:00   Atelier                 P
-                        06 juin 2023
-                        13 juin 2023
-                        20 juin 2023
-                        27 juin 2023
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 12 juin 2023 / 26 juin 2023
 
 
-
-
-                 Date : 2023-02-24 12:32:10         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 7/11
+                 Date : 2023-03-10 12:32:07         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 6/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        7694 : Baccalauréat en génie électrique
@@ -674,6 +623,18 @@ COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens
 PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                 PROFESSIONNELLE
                 Il n’est pas recommandé de vous inscrire au cours PEP110 si vous n’avez pas complété votre premier stage.
+                02      Mar         13:30 - 17:00    Atelier                D
+                        09 mai 2023
+                        16 mai 2023
+                        23 mai 2023
+                        30 mai 2023
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 15 mai 2023 / 29 mai 2023
+                03      Mar         13:30 - 17:00    Atelier                P
+                        06 juin 2023
+                        13 juin 2023
+                        20 juin 2023
+                        27 juin 2023
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 12 juin 2023 / 26 juin 2023
                 04      Mer         13:30 - 17:00    Atelier                D
                         10 mai 2023
                         17 mai 2023
@@ -732,7 +693,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-                 Date : 2023-02-24 12:32:10          L’École se réserve un droit de modifier l’horaire sans préavis         Page : 8/11
+                 Date : 2023-03-10 12:32:07          L’École se réserve un droit de modifier l’horaire sans préavis         Page : 7/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7694 : Baccalauréat en génie électrique
@@ -799,7 +760,7 @@ PHY335          PHYSIQUE DES ONDES                                              
 
 
 
-                 Date : 2023-02-24 12:32:10         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 9/11
+                 Date : 2023-03-10 12:32:07         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 8/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7694 : Baccalauréat en génie électrique
@@ -874,7 +835,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2023-02-24 12:32:10         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 10/11
+                 Date : 2023-03-10 12:32:07         L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 9/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                          7694 : Baccalauréat en génie électrique
@@ -935,5 +896,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-02-24 12:32:10            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 11/11
+                 Date : 2023-03-10 12:32:07            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 10/10
 

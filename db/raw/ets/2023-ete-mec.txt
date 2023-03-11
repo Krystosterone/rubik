@@ -98,7 +98,7 @@ GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU INDUSTRIEL
 
 
 
-                 Date : 2023-02-24 12:32:13         L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/10
+                 Date : 2023-03-10 12:32:10         L’École se réserve un droit de modifier l’horaire sans préavis     Page : 1/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                    7684 : Baccalauréat en génie mécanique
@@ -130,8 +130,8 @@ GPE450          GESTION DU PERSONNEL ET RELATIONS
 
 
 GTS601          PRINCIPES DE L'IMAGERIE MÉDICALE
-                01      Mer         08:30 - 12:00   C                      P
-                        Lun         13:30 - 15:30   Labo                   P          A-2500
+                01      Mer         08:30 - 12:00   C                      H
+                        Lun         13:30 - 15:30   Labo                   H          A-2500
 
 
 
@@ -196,7 +196,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
 
 
 
-                 Date : 2023-02-24 12:32:13         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 2/10
+                 Date : 2023-03-10 12:32:11         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 2/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                    7684 : Baccalauréat en génie mécanique
@@ -274,7 +274,7 @@ MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                       
 
 
 
-                 Date : 2023-02-24 12:32:13         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 3/10
+                 Date : 2023-03-10 12:32:11         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 3/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -375,7 +375,7 @@ MEC222          DYNAMIQUE                                                       
                 01      Lun         13:30 - 17:00   C                    P
 
 
-                 Date : 2023-02-24 12:32:13         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/10
+                 Date : 2023-03-10 12:32:11         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -476,7 +476,7 @@ MEC528          ÉLÉMENTS DE MACHINE                                           
 
 
 
-                 Date : 2023-02-24 12:32:13         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/10
+                 Date : 2023-03-10 12:32:11         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -576,7 +576,7 @@ MEC755          GESTION DE PROJETS INDUSTRIELS AVANCÉE                         
                         Mar         18:00 - 20:00   TP/Labo              P         A-1226
 
 
-                 Date : 2023-02-24 12:32:13         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/10
+                 Date : 2023-03-10 12:32:11         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7684 : Baccalauréat en génie mécanique
@@ -626,7 +626,7 @@ MEC791          PROJETS SPÉCIAUX                                               
 
 MEC795          PROJET DE FIN D'ÉTUDES EN GÉNIE MÉCANIQUE                                                                           Minimum 99 Cr
 
-                01      Ven         13:30 - 17:30    C                      P          A-1220
+                01      Ven         13:30 - 17:30    C                      P          A-1220, B-0904
 
 
 
@@ -673,7 +673,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
 
 
 
-                 Date : 2023-02-24 12:32:13          L’École se réserve un droit de modifier l’horaire sans préavis         Page : 7/10
+                 Date : 2023-03-10 12:32:11          L’École se réserve un droit de modifier l’horaire sans préavis         Page : 7/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                    7684 : Baccalauréat en génie mécanique
@@ -774,7 +774,7 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
 
 
 
-                 Date : 2023-02-24 12:32:13         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 8/10
+                 Date : 2023-03-10 12:32:11         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 8/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7684 : Baccalauréat en génie mécanique
@@ -849,7 +849,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2023-02-24 12:32:13         L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 9/10
+                 Date : 2023-03-10 12:32:11         L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 9/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        7684 : Baccalauréat en génie mécanique
@@ -910,5 +910,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-02-24 12:32:13            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 10/10
+                 Date : 2023-03-10 12:32:11            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 10/10
 

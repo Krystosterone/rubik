@@ -20,9 +20,9 @@ ATE800          INTÉGRITÉ INTELLECTUELLE : UN SAVOIR-ÊTRE ET UN
                 La formation ATE800 est offerte sur la plateforme de cours en ligne Moodle. La durée de la formation est estimée à environ 4 heures. Afin de
                 respecter les différents rythmes d'apprentissage et les diverses plages horaires où les étudiant(e)s sont disponibles, une période de 5 semaines est
                 accordée pour compléter la formation.
-                01                                  Atelier                D
+                01                                  Atelier                D                               M.K. Daoust
                         Dates: 15 mai au 19 juin 2023
-                55                                  Atelier                D
+                55                                  Atelier                D                               M.K. Daoust
                         Dates: 15 mai au 19 juin 2023,
                         Ce cours est offert en anglais
 
@@ -82,110 +82,22 @@ COM129          MÉTHODES DE COMMUNICATION EN GÉNIE                            
 
 
 
-COM400          RÉDACTION TECHNIQUE ET COMMUNICATION EN
-                GÉNIE ÉLECTRIQUE
-                01      Lun         09:00 - 12:30   C                      P
-                        Mar         08:30 - 12:30   TP A+B                 P
-
-                02      Ven         18:00 - 21:30   C                      P
-                        Lun         18:00 - 22:00   TP A+B                 P
-
-
-
 ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                                                  GIA400 ou GIA410
 
                 01      Mer         09:00 - 12:30   C                      C
-
-
-                 Date : 2023-02-24 12:31:45          L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 1/13
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                       Service des enseignements généraux
-
-
-                                                                   HORAIRE ÉTÉ 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
-
-ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                              GIA400 ou GIA410
-
-                01      Lun         10:30 - 12:30   TP                   C
+                        Lun         10:30 - 12:30   TP                     C
 
 
 
 ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
 
-                01      Mar         09:00 - 12:30   C                    P
-                        Jeu         18:00 - 20:00   TP                   P
-
-
-
-ENT301          PROJETS SPÉCIAUX EN ENTREPRENEURIAT I
-
-                01                                  Projets              P
-
-
-
-ENT302          PROJETS SPÉCIAUX EN ENTREPRENEURIAT II
-
-                01                                  Projets              P
-
-
-
-ENT303          PROJETS SPÉCIAUX EN ENTREPRENEURIAT III
-
-                01                                  Projets              P
-
-
-
-ENT304          PROJETS SPÉCIAUX EN ENTREPRENEURIAT IV
-
-                01                                  Projets              P
-
-
-
-GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
-
-                01      Mer         09:00 - 12:30   C                    P
-                        Jeu         10:30 - 12:30   TP                   P
-
-                02      Ven         13:30 - 17:00   C                    P
-                        Jeu         08:30 - 10:30   TP                   P
-
-                03      Lun         18:00 - 21:30   C                    H
-                        Mar         18:00 - 20:00   TP                   H
-
-
-
-GIA410          GESTION ET ÉCONOMIE DES PROJETS D’INGÉNIERIE
-
-                01      Mar         13:30 - 17:00   C                    P
-                        Lun         15:30 - 17:30   TP                   P
-
-                02      Lun         13:30 - 17:00   C                    P
-                        Mer         15:30 - 17:30   TP                   P
-
-                03      Mer         18:00 - 21:30   C                    H
-                        Ven         18:00 - 20:00   TP                   H
-
-
-
-INF111          PROGRAMMATION ORIENTÉE-OBJET (HORS
-                PROGRAMME)
-                80      Mer         09:00 - 12:30   C                    P         E-4023
+                01      Mar         09:00 - 12:30   C                      P
+                        Jeu         18:00 - 20:00   TP                     P
 
 
 
 
-                 Date : 2023-02-24 12:31:45         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/13
+                 Date : 2023-03-10 12:31:44          L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 1/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                           Service des enseignements généraux
@@ -203,9 +115,60 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT           PRÉALABLES
 
+ENT301          PROJETS SPÉCIAUX EN ENTREPRENEURIAT I
+
+                01                                  Projets                P
+
+
+
+ENT302          PROJETS SPÉCIAUX EN ENTREPRENEURIAT II
+
+                01                                  Projets                P
+
+
+
+ENT303          PROJETS SPÉCIAUX EN ENTREPRENEURIAT III
+
+                01                                  Projets                P
+
+
+
+ENT304          PROJETS SPÉCIAUX EN ENTREPRENEURIAT IV
+
+                01                                  Projets                P
+
+
+
+GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                01      Mer         09:00 - 12:30   C                      P
+                        Jeu         10:30 - 12:30   TP                     P
+
+                02      Ven         13:30 - 17:00   C                      P
+                        Jeu         08:30 - 10:30   TP                     P
+
+                03      Lun         18:00 - 21:30   C                      H
+                        Mar         18:00 - 20:00   TP                     H
+
+
+
+GIA410          GESTION ET ÉCONOMIE DES PROJETS D’INGÉNIERIE
+
+                01      Mar         13:30 - 17:00   C                      P
+                        Lun         15:30 - 17:30   TP                     P
+
+                02      Lun         13:30 - 17:00   C                      P
+                        Mer         15:30 - 17:30   TP                     P
+
+                03      Mer         18:00 - 21:30   C                      H
+                        Ven         18:00 - 20:00   TP                     H
+
+
+
 INF111          PROGRAMMATION ORIENTÉE-OBJET (HORS
                 PROGRAMME)
-                80      Lun         09:00 - 12:00   Labo                   P          E-4023
+                80      Mer         09:00 - 12:30   C                      P          E-4023
+                        Lun         09:00 - 12:00   Labo                   P          E-4023
                         31 mai 2023
                         05 juin 2023
                         07 juin 2023
@@ -236,31 +199,107 @@ INF111          PROGRAMMATION ORIENTÉE-OBJET (HORS
                         L'examen final aura lieu à la dernière séance
 
 
+
+                 Date : 2023-03-10 12:31:44         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 2/10
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                       Service des enseignements généraux
+
+
+                                                                   HORAIRE ÉTÉ 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+
 INF130          ORDINATEURS ET PROGRAMMATION
 
-                01      Mer         09:00 - 12:30   C                      P          E-4021
-                        Lun         13:30 - 16:30   Labo                   P          E-4021
+                01      Mer         09:00 - 12:30   C                    P         E-4021
+                        Lun         13:30 - 16:30   Labo                 P         E-4021
 
-                02      Jeu         13:30 - 17:00   C                      P          E-4021
-                        Mar         13:30 - 16:30   Labo                   P          E-4021
+                02      Jeu         13:30 - 17:00   C                    P         E-4021
+                        Mar         13:30 - 16:30   Labo                 P         E-4021
 
-                03      Mar         18:00 - 21:30   C                      H
-                        Ven         18:00 - 21:00   Labo                   H
+                03      Mar         18:00 - 21:30   C                    H
+                        Ven         18:00 - 21:00   Labo                 H
 
 
 
 INF136          INTRODUCTION À LA PROGRAMMATION EN PYTHON
 
-                01      Jeu         13:30 - 17:00   C                      P
-                        Mar         09:00 - 12:00   Labo                   P          E-4021
+                01      Jeu         13:30 - 17:00   C                    P
+                        Mar         09:00 - 12:00   Labo                 P         E-4021
 
-                02      Lun         18:00 - 21:30   C                      H
-                        Mer         18:00 - 21:00   Labo                   H
-
-
+                02      Lun         18:00 - 21:30   C                    H
+                        Mer         18:00 - 21:00   Labo                 H
 
 
-                 Date : 2023-02-24 12:31:45         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 3/13
+
+INF147          PROGRAMMATION PROCÉDURALE
+
+                01      Mer         13:30 - 17:00   C                    P         E-4021
+                        Lun         09:00 - 12:00   Labo                 P         E-4021
+
+
+
+INF155          INTRODUCTION À LA PROGRAMMATION
+
+                01      Mar         18:00 - 21:30   C                    H
+                        Ven         18:00 - 21:00   Labo                 H
+
+
+
+ING150          STATIQUE ET DYNAMIQUE
+                01      Jeu         13:30 - 17:00   C                    P
+                        Ven         09:00 - 12:00   TP                   P
+
+                02      Ven         13:30 - 17:00   C                    P
+                        Lun         13:30 - 16:30   TP                   P
+
+                03      Mer         13:30 - 17:00   C                    P
+                        Mar         09:00 - 12:00   TP                   P
+
+                04      Jeu         09:00 - 12:30   C                    P
+                        Mer         09:00 - 12:00   TP                   P
+
+                05      Mer         18:00 - 21:30   C                    P
+                        Jeu         18:00 - 21:00   TP                   P
+
+
+
+ING160          THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                                                                     ING150
+
+                01      Lun         09:00 - 12:30   C                    P
+                        Mar         13:30 - 16:30   TP                   P
+
+                02      Mar         18:00 - 21:30   C                    P
+                        Lun         18:00 - 21:00   TP                   P
+
+
+
+ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
+                L'INGÉNIEUR
+                01      Mer         18:00 - 21:30   C                    P
+                        Ven         18:00 - 20:00   Labo A+B             P         B-2626
+
+
+
+MAT015          MATHÉMATIQUES PRÉPARATOIRES POUR LES
+                SCIENCES ET LE GÉNIE
+                01      Lun         09:00 - 12:30   C                    D
+                        Ven         09:00 - 12:30   C                    D
+                        Mar         13:30 - 15:50   TP A                 D
+
+
+
+
+                 Date : 2023-03-10 12:31:44         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                             Service des enseignements généraux
@@ -278,61 +317,9 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.       LOCAL                  ENSEIGNANT                             PRÉALABLES
 
-INF147          PROGRAMMATION PROCÉDURALE
-
-                01      Mer         13:30 - 17:00    C                       P          E-4021
-                        Lun         09:00 - 12:00    Labo                    P          E-4021
-
-
-
-INF155          INTRODUCTION À LA PROGRAMMATION
-
-                01      Mar         18:00 - 21:30    C                       H
-                        Ven         18:00 - 21:00    Labo                    H
-
-
-
-ING150          STATIQUE ET DYNAMIQUE
-                01      Jeu         13:30 - 17:00    C                       P
-                        Ven         09:00 - 12:00    TP                      P
-
-                02      Ven         13:30 - 17:00    C                       P
-                        Lun         13:30 - 16:30    TP                      P
-
-                03      Mer         13:30 - 17:00    C                       P
-                        Mar         09:00 - 12:00    TP                      P
-
-                04      Jeu         09:00 - 12:30    C                       P
-                        Mer         09:00 - 12:00    TP                      P
-
-                05      Mer         18:00 - 21:30    C                       P
-                        Jeu         18:00 - 21:00    TP                      P
-
-
-
-ING160          THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                                                                                             ING150
-
-                01      Lun         09:00 - 12:30    C                       P
-                        Mar         13:30 - 16:30    TP                      P
-
-                02      Mar         18:00 - 21:30    C                       P
-                        Lun         18:00 - 21:00    TP                      P
-
-
-
-ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
-                L'INGÉNIEUR
-                01      Mer         18:00 - 21:30    C                       P
-                        Ven         18:00 - 20:00    Labo A+B                P          B-2626
-
-
-
 MAT015          MATHÉMATIQUES PRÉPARATOIRES POUR LES
                 SCIENCES ET LE GÉNIE
-                01      Lun         09:00 - 12:30    C                       D
-                        Ven         09:00 - 12:30    C                       D
-                        Mar         13:30 - 15:50    TP A                    D
-                        Jeu         13:30 - 15:50    TP B                    D
+                01      Jeu         13:30 - 15:50    TP B                    D
 
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 06 juin 2023 / 31 juillet 2023
                         Note: Une séance d’accueil et d’introduction aux outils informatiques utilisés dans ce cours aura lieu le mercredi, 24 mai. Ce cours débute le jeudi 25 mai et se
@@ -344,31 +331,7 @@ MAT015          MATHÉMATIQUES PRÉPARATOIRES POUR LES
 MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                 (HORS PROG.)
                 80      Mer         09:00 - 12:30    C                       P
-
-
-
-
-                 Date : 2023-02-24 12:31:45          L’École se réserve un droit de modifier l’horaire sans préavis                         Page : 4/13
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                          Service des enseignements généraux
-
-
-                                                                     HORAIRE ÉTÉ 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT           PRÉALABLES
-
-MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
-                (HORS PROG.)
-                80      Lun         09:00 - 12:00   TP                     P
+                        Lun         09:00 - 12:00    TP                      P
                         31 mai 2023
                         05 juin 2023
                         07 juin 2023
@@ -398,31 +361,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 juin 2023 / 07 août 2023
                         L'examen final aura lieu à la dernière séance
                 81      Mer          18:00 - 21:30    C                    P
-
-
-
-
-                 Date : 2023-02-24 12:31:45         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 5/13
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                          Service des enseignements généraux
-
-
-                                                                     HORAIRE ÉTÉ 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT           PRÉALABLES
-
-MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
-                (HORS PROG.)
-                81      Lun         18:00 - 21:00   TP                     P
+                        Lun          18:00 - 21:00    TP                   P
                         31 mai 2023
                         05 juin 2023
                         07 juin 2023
@@ -455,32 +394,12 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
 
 MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
-                01      Ven         13:30 - 17:00   C                      P
-                        Mar         09:00 - 12:00   TP                     P
-
-                02      Jeu         09:00 - 12:30   C                      P
-                        Mar         13:30 - 16:30   TP                     P
-
-                03      Jeu         13:30 - 17:00   C                      P
-                        Lun         09:00 - 12:00   TP                     P
-
-                04      Jeu         18:00 - 21:30   C                      P
-                        Mar         18:00 - 21:00   TP                     P
-
-
-
-MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                                         MAT145
-
-                01      Mer         13:30 - 17:00   C                      P
-                        Jeu         13:30 - 16:30   TP                     P
-
-                02      Ven         09:00 - 12:30   C                      P
-                        Mar         13:30 - 16:30   TP                     P
+                01      Ven         13:30 - 17:00    C                       P
 
 
 
 
-                 Date : 2023-02-24 12:31:45         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 6/13
+                 Date : 2023-03-10 12:31:44          L’École se réserve un droit de modifier l’horaire sans préavis                         Page : 4/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -498,7 +417,28 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
 
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
+
+                01      Mar         09:00 - 12:00   TP                   P
+
+                02      Jeu         09:00 - 12:30   C                    P
+                        Mar         13:30 - 16:30   TP                   P
+
+                03      Jeu         13:30 - 17:00   C                    P
+                        Lun         09:00 - 12:00   TP                   P
+
+                04      Jeu         18:00 - 21:30   C                    P
+                        Mar         18:00 - 21:00   TP                   P
+
+
+
 MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                                      MAT145
+
+                01      Mer         13:30 - 17:00   C                    P
+                        Jeu         13:30 - 16:30   TP                   P
+
+                02      Ven         09:00 - 12:30   C                    P
+                        Mar         13:30 - 16:30   TP                   P
 
                 03      Ven         13:30 - 17:00   C                    P
                         Jeu         09:00 - 12:00   TP                   P
@@ -559,30 +499,9 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
                 03      Jeu         09:00 - 12:30   C                    P
                         Mar         13:30 - 16:30   TP                   P
 
-                04      Ven         13:30 - 17:00   C                    H
-                        Mer         13:30 - 16:30   TP                   H
-
-                05      Mar         09:00 - 12:30   C                    P
-                        Jeu         13:30 - 16:30   TP                   P
-
-                06      Mar         18:00 - 21:30   C                    P
-                        Lun         18:00 - 21:00   TP                   P
 
 
-
-MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE L'ESPACE                                                                    MAT145
-
-                01      Lun         09:00 - 12:30   C                    P
-                        Mer         09:00 - 12:00   TP                   P
-
-                02      Jeu         09:00 - 12:30   C                    P
-                        Mar         13:30 - 16:30   TP                   P
-
-                03      Jeu         18:00 - 21:30   C                    P
-
-
-
-                 Date : 2023-02-24 12:31:45         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/13
+                 Date : 2023-03-10 12:31:44         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                             Service des enseignements généraux
@@ -600,9 +519,28 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.       LOCAL                 ENSEIGNANT                           PRÉALABLES
 
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                                                      MAT145
+                04      Ven         13:30 - 17:00    C                      H
+                        Mer         13:30 - 16:30    TP                     H
+
+                05      Mar         09:00 - 12:30    C                      P
+                        Jeu         13:30 - 16:30    TP                     P
+
+                06      Mar         18:00 - 21:30    C                      P
+                        Lun         18:00 - 21:00    TP                     P
+
+
+
 MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE L'ESPACE                                                                                         MAT145
 
-                03      Mer         18:00 - 21:00    TP                     P
+                01      Lun         09:00 - 12:30    C                      P
+                        Mer         09:00 - 12:00    TP                     P
+
+                02      Jeu         09:00 - 12:30    C                      P
+                        Mar         13:30 - 16:30    TP                     P
+
+                03      Jeu         18:00 - 21:30    C                      P
+                        Mer         18:00 - 21:00    TP                     P
 
 
 
@@ -621,7 +559,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                         23 mai 2023
                         30 mai 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 15 mai 2023 / 29 mai 2023
-                03      Mar         13:30 - 17:00   Atelier                P
+                03      Mar         13:30 - 17:00    Atelier                P
                         06 juin 2023
                         13 juin 2023
                         20 juin 2023
@@ -661,15 +599,7 @@ PHY015          PHYSIQUE PRÉPARATOIRE POUR LE GÉNIE
                          Horaire détaillé des séances : lundi 13h30 à 14h40 (cours) et 14h40 à 15h50 (TP), mardi 9h00 à 11h20 (cours) et 11h20 à 12h30 (TP), mercredi 9h00 à 11h20
                         (cours) et 11h20 à 12h30 (TP), vendredi 13h30 à 14h40 (cours) et 14h40 à 15h50 (TP)
 
-
-PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
-                PROGRAMME)
-                80      Mar         09:00 - 12:30    C                      P
-
-
-
-
-                 Date : 2023-02-24 12:31:45          L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 8/13
+                 Date : 2023-03-10 12:31:44          L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 6/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                           Service des enseignements généraux
@@ -689,7 +619,8 @@ COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.
 
 PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
                 PROGRAMME)
-                80      Jeu         09:00 - 12:00   TP/Labo                P
+                80      Mar         09:00 - 12:30   C                      P
+                        Jeu         09:00 - 12:00   TP/Labo                P
                         23 mai 2023
                         25 mai 2023
                         30 mai 2023
@@ -719,31 +650,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 06 juin 2023 / 07 août 2023
                         L'examen final aura lieu à la dernière séance
                 81      Mar          18:00 - 21:30    C                    P
-
-
-
-
-                 Date : 2023-02-24 12:31:45         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 9/13
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                          Service des enseignements généraux
-
-
-                                                                     HORAIRE ÉTÉ 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT            PRÉALABLES
-
-PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
-                PROGRAMME)
-                81      Jeu         18:00 - 21:00   TP/Labo                P
+                        Jeu          18:00 - 21:00    TP/Labo              P
                         23 mai 2023
                         25 mai 2023
                         30 mai 2023
@@ -774,7 +681,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                        CTN248 / ING150
+PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                       CTN248 / ING150
                 01      Lun         09:00 - 12:30   C                      P
                         Mer         09:00 - 12:00   Labo                   P
 
@@ -792,17 +699,11 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
 
 
 
-PHY335          PHYSIQUE DES ONDES                                                                                               CTN248 / ING150
+PHY335          PHYSIQUE DES ONDES                                                                                              CTN248 / ING150
                 01      Ven         09:00 - 12:30   C                      H
                         Mar         09:00 - 12:00   Labo                   H
 
-                02      Lun         13:30 - 17:00   C                      P
-                        Jeu         13:30 - 16:30   Labo                   P
-
-
-
-
-                 Date : 2023-02-24 12:31:45         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 10/13
+                 Date : 2023-03-10 12:31:44         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 7/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                            Service des enseignements généraux
@@ -821,6 +722,9 @@ Bureau du registraire - logistique académique
 COURS           GR      JOUR              HEURE     ACTIVITÉ         Mode d'ens.      LOCAL                  ENSEIGNANT                            PRÉALABLES
 
 PHY335          PHYSIQUE DES ONDES                                                                                                                 CTN248 / ING150
+                02      Lun         13:30 - 17:00   C                       P
+                        Jeu         13:30 - 16:30   Labo                    P
+
                 03      Mer         13:30 - 17:00   C                       P
                         Ven         13:30 - 16:30   Labo                    P
 
@@ -897,9 +801,7 @@ PRE811          DÉVELOPPEMENT DE CARRIÈRE AUX CYCLES
                         votre programme. Les enseignant.es ne peuvent pas ajouter de places dans les groupes une fois qu’ils sont complets.
 
 
-
-
-                 Date : 2023-02-24 12:31:45          L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 11/13
+                 Date : 2023-03-10 12:31:44          L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 8/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                            Service des enseignements généraux
@@ -970,7 +872,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2023-02-24 12:31:45          L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 12/13
+                 Date : 2023-03-10 12:31:44          L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 9/10
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                               Service des enseignements généraux
@@ -1031,5 +933,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-02-24 12:31:45            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
+                 Date : 2023-03-10 12:31:44            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 10/10
 

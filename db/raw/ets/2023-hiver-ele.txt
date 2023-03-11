@@ -13,90 +13,193 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                  PRÉALABLES
+
+ATE070          NEUROFOCUS
+                01      Lun         13:00 - 16:00   Atelier              P         D-5012
+                        09 janvier 2023
+                        16 janvier 2023
+                        23 janvier 2023
+                        30 janvier 2023
+                        06 février 2023
+                        13 février 2023
+                        20 février 2023
+                        06 mars 2023
+                        13 mars 2023
+                        20 mars 2023
+                        27 mars 2023
+                        03 avril 2023
+                02      Mar         09:00 - 12:00   Atelier              P         D-5018
+                        10 janvier 2023
+                        17 janvier 2023
+                        24 janvier 2023
+                        31 janvier 2023
+                        07 février 2023
+                        14 février 2023
+                        21 février 2023
+                        07 mars 2023
+                        14 mars 2023
+                        21 mars 2023
+                        28 mars 2023
+                        04 avril 2023
+                03      Mar         13:00 - 16:00   Atelier              P         D-4007
+                        10 janvier 2023
+                        17 janvier 2023
+                        24 janvier 2023
+                        31 janvier 2023
+                        07 février 2023
+                        14 février 2023
+                        21 février 2023
+                        07 mars 2023
+                        14 mars 2023
+                        21 mars 2023
+                        28 mars 2023
+                        04 avril 2023
+                04      Jeu         09:00 - 12:00   Atelier              P         D-4009
+                        12 janvier 2023
+                        19 janvier 2023
+                        26 janvier 2023
+                        02 février 2023
+                        09 février 2023
+                        16 février 2023
+                        23 février 2023
+                        09 mars 2023
+                        16 mars 2023
+                        23 mars 2023
+                        30 mars 2023
+                        06 avril 2023
+
+
 
 CHM131          CHIMIE ET MATÉRIAUX
-                01      Lun         09:00 - 12:30   C                    P
-                        Ven         09:00 - 12:00   TP                   P
+                01      Lun         09:00 - 12:30   C                    P         B-3406              T. Rivard
+                        Ven         09:00 - 12:00   TP                   P         B-3406              T. Rivard
 
-                02      Ven         13:30 - 17:00   C                    P
-                        Jeu         13:30 - 16:30   TP                   P
+                02      Ven         13:30 - 17:00   C                    P         B-1506              T. Rivard
+                        Jeu         13:30 - 16:30   TP                   P         B-1404              J. Bissou Billong
 
-                03      Mer         09:00 - 12:30   C                    P
-                        Mar         13:30 - 16:30   TP                   P
+                03      Mer         09:00 - 12:30   C                    P         B-3402              M. Bergeron-Brlek
+                        Mar         13:30 - 16:30   TP                   P         B-3402              M. Bergeron-Brlek
 
-                04      Jeu         09:00 - 12:30   C                    P
-                        Lun         13:30 - 16:30   TP                   P
+                04      Jeu         09:00 - 12:30   C                    P         B-3406              A. Benmassaoud
+                        Lun         13:30 - 16:30   TP                   P         B-3402              A. Benmassaoud
 
-                05      Mer         13:30 - 17:00   C                    P
-                        Mar         09:00 - 12:00   TP                   P
+                05      Mer         13:30 - 17:00   C                    P         B-3402              M. Bergeron-Brlek
+                        Mar         09:00 - 12:00   TP                   P         B-3416              M. Bergeron-Brlek
 
-                06      Ven         09:00 - 12:30   C                    P
-                        Lun         09:00 - 12:00   TP                   P
+                06      Ven         09:00 - 12:30   C                    P         B-3402              A. Benmassaoud
+                        Lun         09:00 - 12:00   TP                   P         B-3402              A. Benmassaoud
 
-                07      Jeu         13:30 - 17:00   C                    P
-                        Ven         13:30 - 16:30   TP                   P
+                07      Jeu         13:30 - 17:00   C                    P         B-3402              M. Clisson
+                        Ven         13:30 - 16:30   TP                   P         B-3416              M. Clisson
 
-                08      Jeu         18:00 - 21:30   C                    H
-                        Mar         18:00 - 21:00   TP                   H
+                08      Jeu         18:00 - 21:30   C                    H                             T. Rivard
+                        Mar         18:00 - 21:00   TP                   H                             T. Rivard
 
 
 
-COM110          MÉTHODES DE COMMUNICATION                                                                                    Avoir satisfait aux exigences de la
-                                                                                                                             Politique linguistique de l'ÉTS
-                01      Mer         09:00 - 12:30   C                    P
-                        Jeu         08:30 - 12:30   TP A+B               P
 
-                02      Mer         13:30 - 17:00   C                    P
-                        Lun         13:30 - 17:30   TP A+B               P
+                 Date : 2023-03-10 12:30:37         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 1/11
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                  7694 : Baccalauréat en génie électrique
 
-                03      Ven         09:00 - 12:30   C                    P
-                        Mar         08:30 - 12:30   TP A+B               P
 
-                04      Lun         18:00 - 21:30   C                    P
-                        Jeu         18:00 - 22:00   TP A+B               P
+                                                                 HORAIRE HIVER 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                              PRÉALABLES
+
+COM110          MÉTHODES DE COMMUNICATION                                                                                                      Avoir satisfait aux exigences de la
+                                                                                                                                               Politique linguistique de l'ÉTS
+                01      Mer         09:00 - 12:30   C                    P         E-2023              J.M. Laberge
+                        Jeu         08:30 - 12:30   TP A+B               P         B-3408              J.M. Laberge
+
+                02      Mer         13:30 - 17:00   C                    P         E-2023              R. Saudrais
+                        Lun         13:30 - 17:30   TP A+B               P         B-3404              R. Saudrais
+
+                03      Ven         09:00 - 12:30   C                    P         E-2021              A.L. Milot
+                        Mar         08:30 - 12:30   TP A+B               P         B-3404              M. Richard
+
+                04      Lun         18:00 - 21:30   C                    P         E-2023              J. Milette
+                        Jeu         18:00 - 22:00   TP A+B               P         B-3408              J. Milette / P. Millet
 
 
 
 COM400          RÉDACTION TECHNIQUE ET COMMUNICATION EN
                 GÉNIE ÉLECTRIQUE
-                01      Mer         13:30 - 17:30   C                    P
-                        Jeu         08:30 - 12:30   TP                   P
+                01      Mer         13:30 - 17:00   C                    P         B-1508              M. Richard
+                        Jeu         10:30 - 12:30   TP                   P         B-3410              M. Richard
 
 
 
-ELE105          CIRCUITS ÉLECTRIQUES                                                                                         MAT265*
-                01      Mar         08:30 - 12:00   C                    P
-                        Mer         08:30 - 10:30   TP/2                 P
-                        Lun         08:30 - 12:30   Labo/2               P         A-2508
+ELE105          CIRCUITS ÉLECTRIQUES                                                                                                           MAT265*
+                01      Mar         08:30 - 12:00   C                    P         B-3422              N. Constantin
+                        Mer         08:30 - 10:30   TP/2                 P         B-3422              M. Rafaf
+                        Lun         08:30 - 12:30   Labo/2               P         A-2508              M. Rafaf
 
-                02      Jeu         18:00 - 21:30   C                    P
-                        Ven         18:00 - 20:00   TP/2                 P
-                        Lun         18:00 - 22:00   Labo/2               P         A-2508
+                02      Jeu         18:00 - 21:30   C                    P         B-3422              N. Constantin
+                        Ven         18:00 - 20:00   TP/2                 P         B-3418              M. Rafaf
+                        Lun         18:00 - 22:00   Labo/2               P         A-2508              M. Rafaf
 
 
 
 ELE140          CONCEPTION DES SYSTÈMES NUMÉRIQUES
 
-                01      Mar         13:30 - 17:00   C                    P
-                        Mer         13:30 - 15:30   TP/2                 P
-                        Lun         08:30 - 12:30   Labo/2               P         A-2446
+                01      Mar         13:30 - 17:00   C                    P         D-5017              I. Kaissoumi
+                        Mer         13:30 - 15:30   TP/2                 P         D-4008              M. Plouffe
+                        Lun         08:30 - 12:30   Labo/2               P         A-2446              D. Godet
 
 
 
-ELE200          CIRCUITS ÉLECTRONIQUES                                                                                       ELE105
-                01      Mar         13:30 - 17:00   C                    P
-                        Jeu         13:30 - 15:30   TP/2                 P
-                        Lun         13:30 - 17:30   Labo/2               P         A-2508
+ELE200          CIRCUITS ÉLECTRONIQUES                                                                                                         ELE105
+                01      Mar         13:30 - 17:00   C                    P         E-2021              V. Nerguizian
+                        Jeu         13:30 - 15:30   TP/2                 P         B-3432              M. Rafaf
+                        Jeu         13:30 - 17:30   Labo/2               P         A-2508              M. Rafaf
 
-                02      Mar         18:00 - 21:30   C                    P
-                        Lun         18:00 - 20:00   TP/2                 P
-                        Jeu         18:00 - 22:00   Labo/2               P         A-2508
-
-
+                02      Mar         18:00 - 21:30   C                    P         E-2021              V. Nerguizian
+                        Jeu         18:00 - 20:00   TP/2                 P         D-3025              S. Benhalima
+                        Lun         18:00 - 22:00   Labo/2               P         A-2508              M. Rafaf
 
 
-                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/11
+
+ELE216          DÉVELOPPEMENT DE LOGICIELS EN GÉNIE                                                                                            INF147
+                ÉLECTRIQUE                                                                                                                     Conc. TS: INF145 / INF147
+                01      Jeu         13:30 - 17:00   C                    P         A-2404              P. Giard / G. Matar
+                        Lun         08:30 - 11:30   Labo                 P         A-2404              C.C. Fallaque Beltran / E.D. Zabaleta
+                                                                                                       Forero
+
+                02      Mar         08:30 - 12:00   C                    P         A-2404              P. Giard / G. Matar
+                        Ven         08:30 - 11:30   Labo                 P         A-2404              C.C. Fallaque Beltran / G. Lemay
+
+
+
+ELE265          TRAITEMENT DE SIGNAUX                                                                                                          MAT265
+                01      Mar         18:00 - 21:30   C                    H         D-3025              C. Tadj
+                        Lun         18:00 - 20:00   TP/Labo              H         A-2446, E-2021      C. Tadj
+
+
+
+ELE275          ASSERVISSEMENTS LINÉAIRES                                                                                                      ELE105
+                01      Mer         08:30 - 12:00   C                    P         D-3007              M.M. Dodo Amadou
+                        Lun         10:30 - 12:30   TP/2                 D                             M.M. Dodo Amadou
+                        Mer         13:30 - 17:30   Labo/2               P         A-2502              M.M. Dodo Amadou
+
+                02      Lun         18:00 - 21:30   C                    D                             W. Bogdadi
+                        Mar         18:00 - 20:00   TP/2                 D                             M.M. Dodo Amadou
+                        Mar         18:00 - 22:00   Labo/2               P         A-2502              M.M. Dodo Amadou
+
+
+
+
+                 Date : 2023-03-10 12:30:37         L’École se réserve un droit de modifier l’horaire sans préavis                  Page : 2/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -112,191 +215,91 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                     PRÉALABLES
 
-ELE216          DÉVELOPPEMENT DE LOGICIELS EN GÉNIE                                                                          INF147
-                ÉLECTRIQUE                                                                                                   Conc. TS: INF145 / INF147
-                01      Jeu         13:30 - 17:00   C                    P         A-2404
-                        Lun         08:30 - 11:30   Labo                 P         A-2404
+ELE312          ÉLECTROMAGNÉTISME                                                                                                     MAT165 et ING150
+                01      Jeu         08:30 - 12:00   C                    C         B-4416              B. Ung
+                        Ven         13:30 - 15:30   TP/Labo              C         A-2400, B-3422      A. Ghodbane
 
-                02      Mar         08:30 - 12:00   C                    P         A-2404
-                        Ven         08:30 - 11:30   Labo                 P         A-2404
-
-
-
-ELE265          TRAITEMENT DE SIGNAUX                                                                                        MAT265
-                01      Mar         18:00 - 21:30   C                    H
-                        Lun         18:00 - 20:00   TP/Labo              H         A-2509
+                02      Mer         18:00 - 21:30   C                    D                             B. Ung
+                        Jeu         18:00 - 20:00   TP/Labo              D         A-2500              A. Ghodbane
 
 
 
-ELE275          ASSERVISSEMENTS LINÉAIRES                                                                                    ELE105
-                01      Mer         08:30 - 12:00   C                    P
-                        Lun         10:30 - 12:30   TP/2                 D
-                        Mer         13:30 - 17:30   Labo/2               P         A-2502
+ELE344          CONCEPTION ET ARCHITECTURE DE PROCESSEURS                                                                             ELE140
 
-                02      Lun         18:00 - 21:30   C                    D
-                        Jeu         18:00 - 20:00   TP/2                 D
-                        Mar         18:00 - 22:00   Labo/2               P         A-2502
+                01      Lun         13:30 - 17:00   C                    P         D-3025              K. Kaur
+                        Jeu         13:30 - 16:30   Labo                 P         A-2446              A. Linteau
 
-
-
-ELE312          ÉLECTROMAGNÉTISME                                                                                            MAT165 et ING150
-                01      Jeu         08:30 - 12:00   C                    C
-                        Ven         13:30 - 15:30   TP/Labo              C         A-2400
-
-                02      Mer         18:00 - 21:30   C                    D
-                        Jeu         18:00 - 20:00   TP/Labo              D         A-2500
+                02      Mer         18:00 - 21:30   C                    D                             H. Khali
+                        Jeu         18:00 - 21:00   Labo                 D         A-2446              H. Bensalem
 
 
 
-ELE344          CONCEPTION ET ARCHITECTURE DE PROCESSEURS                                                                    ELE140
-
-                01      Lun         13:30 - 17:00   C                    P
-                        Jeu         13:30 - 16:30   Labo                 P         A-2446
-
-                02      Mer         18:00 - 21:30   C                    D
-                        Jeu         18:00 - 21:00   Labo                 D         A-2446
-
-
-
-ELE355          ÉLECTRONIQUE DE PUISSANCE I                                                                                  ELE200
-                01      Jeu         18:00 - 21:30   C                    P
-                        Ven         18:00 - 20:00   TP/2                 P
-                        Mar         18:00 - 22:00   Labo A               P         A-2505
-                        Mer         18:00 - 22:00   Labo B               P         A-2505
-                        Lun         18:00 - 22:00   Labo C               P         A-2505
+ELE355          ÉLECTRONIQUE DE PUISSANCE I                                                                                           ELE200
+                01      Jeu         18:00 - 21:30   C                    P         D-4018              A. Hamadi
+                        Ven         18:00 - 20:00   TP/2                 P         D-5012              A. Hamadi
+                        Mar         18:00 - 22:00   Labo A               P         A-2505              A. Hamadi
+                        Mar         18:00 - 22:00   Labo B               P         A-2505              A. Hamadi
+                        Lun         18:00 - 22:00   Labo C               P         A-2505              A. Hamadi
 
 
 
-ELE400          MÉTHODOLOGIE DE DESIGN EN GÉNIE ÉLECTRIQUE                                                                   Pr. E: ELE216, ELE344 / Pr. E:
-                                                                                                                             ELE343 et INF145
-                                                                                                                             Pr. EI: ELE343
-                                                                                                                             Pr. I: ELE343
-                01      Ven         08:30 - 12:00   C                    P         D-5017
-                        Mar         13:30 - 17:30   Labo                 P         A-2500, A-2508
-
-                02      Jeu         18:00 - 21:30   C                    P         D-5017
-                        Mer         18:00 - 22:00   Labo                 P         A-2400, A-2509
+ELE400          MÉTHODOLOGIE DE DESIGN EN GÉNIE ÉLECTRIQUE                                                                            Pr. E: ELE216, ELE344 / Pr. E:
+                                                                                                                                      ELE343 et INF145
+                                                                                                                                      Pr. EI: ELE343
+                                                                                                                                      Pr. I: ELE343
+                01      Ven         08:30 - 12:00   C                    P         D-5017              R. Al Hadi
+                        Mar         13:30 - 17:30   Labo                 P         A-2500, A-2508      B. Alchalabi
 
 
 
-ELE413          ONDES ÉLECTROMAGNÉTIQUES                                                                                     ELE312
-                                                                                                                             Conc. TS: ELE200 / ELE312
-                01      Lun         08:30 - 12:00   C                    P
-                        Jeu         08:30 - 11:30   TP/Labo              P         A-2508
+ELE413          ONDES ÉLECTROMAGNÉTIQUES                                                                                              ELE312
+                                                                                                                                      Conc. TS: ELE200 / ELE312
+                01      Lun         08:30 - 12:00   C                    P         D-5017              M. Ménard
+                        Jeu         08:30 - 11:30   TP/Labo              P         A-2508, D-5017      A. Ghodbane
 
-                02      Mar         18:00 - 21:30   C                    P
-                        Lun         18:00 - 21:00   TP/Labo              P         A-2400
+                02      Mar         18:00 - 21:30   C                    P         D-4025              M. Ménard
+                        Lun         18:00 - 21:00   TP/Labo              P         A-2400, D-4010      A. Ghodbane
 
 
 
-ELE431          ANALYSE ET CONCEPTION DE CIRCUITS                                                                            ELE200, ELE265
+ELE431          ANALYSE ET CONCEPTION DE CIRCUITS                                                                                     ELE200, ELE265
                 ANALOGIQUES
-                01      Lun         08:30 - 12:00   C                    D
-                        Jeu         15:30 - 17:30   TP/2                 D
+                01      Lun         08:30 - 12:00   C                    D                             G.M. Gabrea
+                        Jeu         15:30 - 17:30   TP/2                 D                             Y. Kali
+                        Mer         08:30 - 12:30   Labo/2               D         A-2508              Y. Kali
 
-                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/11
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                  7694 : Baccalauréat en génie électrique
-
-
-                                                                 HORAIRE HIVER 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
-
-ELE431          ANALYSE ET CONCEPTION DE CIRCUITS                                                                            ELE200, ELE265
-                ANALOGIQUES
-                01      Mer         08:30 - 12:30   Labo/2               D         A-2508
-
-                02      Lun         18:00 - 21:30   C                    D
-                        Jeu         18:00 - 20:00   TP/2                 D
-                        Mar         18:00 - 22:00   Labo/2               D         A-2508
+                02      Lun         18:00 - 21:30   C                    D                             G.M. Gabrea
+                        Jeu         18:00 - 20:00   TP/2                 D                             Y. Kali
+                        Mar         18:00 - 22:00   Labo/2               D         A-2508              Y. Kali
 
 
 
 ELE452          PRINCIPES DES SYSTÈMES DE L'AÉRONAUTIQUE
 
-                01      Mer         18:00 - 21:30   C                    P
-                        Jeu         18:00 - 22:00   Labo/2               P         A-2404
+                01      Jeu         18:00 - 21:30   C                    P         D-4010              B. Alchalabi
+                        Mer         18:00 - 22:00   Labo/2               P         A-2519              A. Ghodbane
 
 
 
 ELE462          PRINCIPES DES SYSTÈMES DE COMMUNICATION
 
-                01      Mar         13:30 - 17:00   C                    P
-                        Lun         13:30 - 15:30   TP/2                 P
-                        Jeu         08:30 - 12:30   Labo/2               P         A-2509
+                01      Mar         13:30 - 17:00   C                    P         D-3009              A.B. Kouki
+                        Lun         13:30 - 15:30   TP/2                 P         D-4025              H. Bouzabia
+                        Jeu         08:30 - 12:30   Labo/2               P         A-2509              G.G. Renaud-Dumoulin
 
 
 
-ELE474          COMMANDE NUMÉRIQUE                                                                                           ELE265, ELE275
-                01      Lun         13:30 - 17:00   C                    P
-                        Jeu         13:30 - 16:30   Labo A               P         A-2502
-                        Mar         08:30 - 11:30   Labo B               P         A-2502
-
-
-
-ELE543          PRINCIPES DES SYSTÈMES EMBARQUÉS
-
-                01      Jeu         13:30 - 17:00   C                    P
-                        Mer         08:30 - 11:30   Labo A               P         A-2404
-                        Mer         13:30 - 16:30   Labo B               P         A-2404
-
-
-
-ELE550          MACHINES ÉLECTRIQUES
-                01      Mer         08:30 - 12:00   C                    P
-                        Mar         13:30 - 17:30   Labo A               P         A-2504, A-2505
-                        Lun         08:30 - 12:30   Labo B               P         A-2504, A-2505
-                        Ven         08:30 - 12:30   Labo C               P         A-2504, A-2505
-
-
-
-ELE649          PROTOCOLES ET RÉSEAUX LOCAUX                                                                                 ELE343
-
-                01      Mar         18:00 - 21:30   C                    D
-                        Mer         18:00 - 22:00   Labo/2               H         A-2402, A-2446
-
-
-
-ELE653          TRANSPORT DE L'ÉNERGIE                                                                                       ELE105 et ELE312
-                01      Mer         13:30 - 17:00   C                    H
-                        Jeu         08:30 - 12:30   Labo/2               H         A-2504
-
-
-
-ELE654          ÉLECTRONIQUE DE PUISSANCE II
-                01      Mar         08:30 - 12:00   C                    H
-                        Jeu         13:30 - 17:30   Labo/2               P         A-2505
-
-
-
-ELE656          ASSERVISSEMENT DES MACHINES ÉLECTRIQUES                                                                      ELE550 et ELE355
-
-                01      Lun         13:30 - 17:00   C                    P
-                        Mar         08:30 - 12:30   Labo/2               P         A-2504, A-2505
-
-
-
-ELE666          TRAITEMENT NUMÉRIQUE DES SIGNAUX                                                                             ELE430 / ELE431
-
-                01      Jeu         08:30 - 12:00   C                    D
-                        Mar         08:30 - 12:30   Labo/2               D
+ELE474          COMMANDE NUMÉRIQUE                                                                                                    ELE265, ELE275
+                01      Lun         13:30 - 17:00   C                    P         D-4010              L.A. Dessaint
+                        Jeu         13:30 - 16:30   Labo A               P         A-2502              W. El Aouni
+                        Mar         08:30 - 11:30   Labo B               P         A-2502              W. El Aouni
 
 
 
 
-                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/11
+                 Date : 2023-03-10 12:30:37         L’École se réserve un droit de modifier l’horaire sans préavis            Page : 3/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -312,189 +315,192 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                       PRÉALABLES
 
-ELE672          SYSTÈMES NON LINÉAIRES                                                                                       ELE275
-                01      Mer         18:00 - 21:30   C                    H
-                        Lun         18:00 - 20:00   Labo                 H         A-2502
+ELE543          PRINCIPES DES SYSTÈMES EMBARQUÉS
 
-
-
-ELE676          PROCÉDÉS DE FABRICATION DE MICROSYSTÈMES                                                                     ELE312
-
-                01      Mar         08:30 - 12:00   C                    H
-                        Ven         13:30 - 17:30   Labo/2               P         A-2505
+                01      Jeu         13:30 - 17:00   C                    P         B-3422              B. De Kelper
+                        Mer         08:30 - 11:30   Labo A               P         A-2404              B. De Kelper
+                        Mer         13:30 - 16:30   Labo B               P         A-2404              B. De Kelper
 
 
 
-ELE682          CONCEPTION DE SYSTÈMES NUMÉRIQUES À HAUTE                                                                    ELE344
+ELE550          MACHINES ÉLECTRIQUES
+                01      Mer         08:30 - 12:00   C                    P         D-5008              Q. Wang
+                        Mar         13:30 - 17:30   Labo A               P         A-2504, A-2505      M. Benadja
+                        Lun         08:30 - 12:30   Labo B               P         A-2504, A-2505      M. Benadja
+                        Ven         08:30 - 12:30   Labo C               P         A-2504, A-2505      M. Benadja
+
+
+
+ELE649          PROTOCOLES ET RÉSEAUX LOCAUX                                                                                            ELE343
+
+                01      Mar         18:00 - 21:30   C                    D                             M. Kadoch
+                        Mer         18:00 - 22:00   Labo/2               H         A-2402, A-2446      D. Benzid
+
+
+
+ELE653          TRANSPORT DE L'ÉNERGIE                                                                                                  ELE105 et ELE312
+                01      Mer         13:30 - 17:00   C                    H         B-3414              P.J. Lagacé
+                        Jeu         08:30 - 12:30   Labo/2               H         A-2504              H.M. Vuong
+
+
+
+ELE654          ÉLECTRONIQUE DE PUISSANCE II
+                01      Mar         08:30 - 12:00   C                    H         D-3017              H. Fortin Blanchette
+                        Jeu         13:30 - 17:30   Labo/2               P         A-2505              V. Bourgoin-Lafrance
+
+
+
+ELE656          ASSERVISSEMENT DES MACHINES ÉLECTRIQUES                                                                                 ELE550 et ELE355
+
+                01      Lun         13:30 - 17:00   C                    P         D-3018              A. Hamadi
+                        Mar         08:30 - 12:30   Labo/2               P         A-2504, A-2505      A. Hamadi
+
+
+
+ELE672          SYSTÈMES NON LINÉAIRES                                                                                                  ELE275
+                01      Mer         18:00 - 21:30   C                    H         D-3018              O. Akhrif
+                        Lun         18:00 - 22:00   Labo/2               H         A-2502              M.M. Dodo Amadou
+
+
+
+ELE676          PROCÉDÉS DE FABRICATION DE MICROSYSTÈMES                                                                                ELE312
+
+                01      Mar         08:30 - 12:00   C                    H         D-5017              R. Izquierdo / A. Shih
+                        Ven         13:30 - 17:30   Labo/2               P         A-2505              I. Amor
+
+
+
+ELE682          CONCEPTION DE SYSTÈMES NUMÉRIQUES À HAUTE                                                                               ELE344
                 VITESSE
-                01      Mer         18:00 - 21:30   C                    P
-                        Jeu         18:00 - 22:00   Labo                 P         A-2400, A-2509
+                01      Mer         18:00 - 21:30   C                    P         D-5007              E. Collard-Fréchette
+                        Jeu         18:00 - 22:00   Labo                 P         A-2400, A-2509      M.A. Doyon
 
 
 
-ELE732          TRAITEMENT PARALLÈLE PAR SYSTÈMES ORDINÉS                                                                    ELE542
+ELE739          CIRCUITS INTÉGRÉS PROGRAMMABLES (FPGA)                                                                                  ELE344
 
-                01      Ven         13:30 - 17:00   C                    P
-                        Lun         13:30 - 15:30   Labo                 P         A-2404
-
-
-
-ELE739          CIRCUITS INTÉGRÉS PROGRAMMABLES (FPGA)                                                                       ELE344
-
-                01      Jeu         08:30 - 12:00   C                    P
-                        Ven         08:30 - 10:30   Labo                 P         A-2446, A-2509
+                01      Jeu         08:30 - 12:00   C                    P         D-3009              C. Thibeault
+                        Ven         08:30 - 10:30   Labo                 P         A-2446, A-2509      L. Tremblay
 
 
 
 ELE747          ANALYSE ET TRAITEMENT D'IMAGES
 
-                01      Jeu         13:30 - 17:00   C                    P
-                        Lun         08:30 - 12:30   Labo/2               P         A-2500
+                01      Jeu         13:30 - 17:00   C                    P         D-5017              B. Alchalabi
+                        Lun         08:30 - 12:30   Labo/2               P         A-2500              B. Alchalabi
 
 
 
-ELE767          APPRENTISSAGE MACHINE EN INTELLIGENCE                                                                        ELE216
+ELE767          APPRENTISSAGE MACHINE EN INTELLIGENCE                                                                                   ELE216
                 ARTIFICIELLE
-                01      Mer         13:30 - 17:00   C                    H
-                        Mer         08:30 - 12:30   Labo/2               H         A-2500
+                01      Mer         13:30 - 17:00   C                    H         D-3017              C. Tadj
 
 
 
-ELE772          COMMUNICATIONS OPTIQUES                                                                                      ELE412
-                01      Ven         13:30 - 17:00   C                    D
-                        Lun         08:30 - 12:30   Labo/2               H         A-2402
+                 Date : 2023-03-10 12:30:37         L’École se réserve un droit de modifier l’horaire sans préavis              Page : 4/11
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                  7694 : Baccalauréat en génie électrique
+
+
+                                                                 HORAIRE HIVER 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                            PRÉALABLES
+
+ELE767          APPRENTISSAGE MACHINE EN INTELLIGENCE                                                                                        ELE216
+                ARTIFICIELLE
+                01      Mer         08:30 - 12:30   Labo/2               H         A-2500              C. Tadj
 
 
 
-ELE785          SYSTÈMES DE COMMUNICATION SANS FIL                                                                           ELE462
-
-                01      Mer         13:30 - 17:00   C                    H
-                        Jeu         13:30 - 17:30   Labo/2               H         A-2400, A-2509
-
-
-
-ELE788          CIRCUITS ET ANTENNES MICRO-ONDES                                                                             ELE413
-
-                01      Lun         08:30 - 12:00   C                    P
-                        Mar         08:30 - 12:30   Labo/2               P         A-2509
+ELE772          COMMUNICATIONS OPTIQUES                                                                                                      ELE412
+                01      Ven         13:30 - 17:00   C                    D                             C. Tremblay
+                        Lun         08:30 - 12:30   Labo/2               H         A-2402              C. Tremblay / D. Sengupta
 
 
 
-ELE791          PROJETS SPÉCIAUX                                                                                             Autorisation du directeur de
-                                                                                                                             département
+ELE788          CIRCUITS ET ANTENNES MICRO-ONDES                                                                                             ELE413
+
+                01      Lun         08:30 - 12:00   C                    P         D-3009              A.B. Kouki
+                        Mar         08:30 - 12:30   Labo/2               P         A-2509              A.B. Kouki
+
+
+
+ELE791          PROJETS SPÉCIAUX                                                                                                             Autorisation du directeur de
+                                                                                                                                             département
                 01      Mer         22:00 - 23:00   Projet               P
 
 
 
 ELE795          PROJET DE FIN D’ÉTUDES EN GÉNIE ÉLECTRIQUE
 
-                01      Mer         22:00 - 23:00   Projet               P
+                01      Mer         22:00 - 23:00   Projet               P         A-1302
 
 
 
-
-                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/11
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                  7694 : Baccalauréat en génie électrique
-
-
-                                                                 HORAIRE HIVER 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
-
-ELE798          LASER ET OPTIQUE APPLIQUÉE                                                                                   ELE413
-                01      Ven         13:30 - 17:00   C                    P
-                        Lun         08:30 - 12:30   Labo/2               P         A-2408
+ELE798          LASER ET OPTIQUE APPLIQUÉE                                                                                                   ELE413
+                01      Jeu         13:30 - 17:00   C                    P         D-3009              F. Blanchard
+                        Lun         08:30 - 12:30   TP/2                 P         D-5025
+                        Lun         08:30 - 12:30   Labo/2               P         A-2408              G. Gandubert / L. Guiramand
 
 
 
-ELE889          TECHNOLOGIES DE L'ÉNERGIE SOLAIRE                                                                            ELE312
+ELE889          TECHNOLOGIES DE L'ÉNERGIE SOLAIRE                                                                                            ELE312
                 PHOTOVOLTAÏQUE
-                01      Mer         18:00 - 21:30   C                    H
-                        Mar         18:00 - 22:00   Labo/2               P         A-2408, A-2446
+                01      Mer         18:00 - 21:30   C                    H         D-3017              A. Shih
+                        Mar         18:00 - 22:00   Labo/2               P         A-2408, A-2446      M.A. Slimani
 
 
 
-ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                              GIA400 ou GIA410
+ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                                              GIA400 ou GIA410
 
-                01      Jeu         09:00 - 12:30   C                    H
-                        Lun         08:30 - 10:30   TP                   H
+                01      Jeu         09:00 - 12:30   C                    H                             L. Parent
+                        Lun         08:30 - 10:30   TP                   H                             L. Parent
 
 
 
 ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
 
-                01      Mar         09:00 - 12:30   C                    P
-                        Jeu         18:00 - 20:00   TP                   P
+                01      Mar         09:00 - 12:30   C                    P         C-0120.1            D. Drouet
+                        Jeu         18:00 - 20:00   TP                   P         B-0906              D. Drouet
+
+                02      Mer         09:00 - 12:30   C                    P         C-0120.1            R. Lavoie
+                        Jeu         18:00 - 20:00   TP                   P         B-0906              D. Drouet
 
 
 
 GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
 
-                01      Jeu         13:30 - 17:00   C                    P
-                        Mar         10:30 - 12:30   TP                   P
+                01      Jeu         13:30 - 17:00   C                    P         E-4024              M. Boucher-Rochon
+                        Mar         10:30 - 12:30   TP                   P         E-4024              M. Boucher-Rochon
 
-                02      Lun         13:30 - 17:00   C                    P
-                        Ven         08:30 - 10:30   TP                   P
+                02      Lun         13:30 - 17:00   C                    P         B-1504              B.L. Agba
+                        Ven         08:30 - 10:30   TP                   P         B-3428              C.O. Dandurand
 
-                03      Lun         09:00 - 12:30   C                    P
-                        Jeu         10:30 - 12:30   TP                   P
+                03      Lun         09:00 - 12:30   C                    P         E-2022              M. Boucher-Rochon
+                        Jeu         10:30 - 12:30   TP                   P         E-2024              M. Boucher-Rochon
 
-                05      Mer         13:30 - 17:00   C                    P
-                        Mar         13:30 - 15:30   TP                   P
+                05      Mer         13:30 - 17:00   C                    P         E-2022              J. Salvador-Tremblay
+                        Mar         13:30 - 15:30   TP                   P         E-2022              M.A. Belhaj
 
-                06      Jeu         18:00 - 21:30   C                    H
-                        Lun         18:00 - 20:00   TP                   H
+                06      Jeu         18:00 - 21:30   C                    H                             K. Lagacé
+                        Lun         18:00 - 20:00   TP                   H                             K. Lagacé
 
-
-
-GIA410          GESTION ET ÉCONOMIE DES PROJETS D’INGÉNIERIE
-
-                01      Jeu         13:30 - 17:00   C                    P
-                        Mar         10:30 - 12:30   TP                   P
-
-                02      Mer         18:00 - 21:30   C                    H
-                        Mar         18:00 - 20:00   TP                   H
+                07      Mar         09:00 - 12:30   C                    P         B-0906              J. Salvador-Tremblay
 
 
 
-GIA450          PLANIFICATION ET CONTRÔLE DE PROJETS
-
-                01      Lun         18:00 - 21:30   C                    H
-                        Mer         18:00 - 20:00   TP                   H
-
-
-
-GPE450          GESTION DU PERSONNEL ET RELATIONS
-                INDUSTRIELLES
-                01      Lun         08:30 - 12:00   C                    C
-                        Mer         08:30 - 10:30   TP                   C
-
-                02      Mar         18:00 - 21:30   C                    C
-                        Jeu         18:00 - 20:00   TP                   C
-
-
-
-GTS503          TECHNOLOGIES DE LA SANTÉ, NORMES ET
-                HOMOLOGATION
-                01      Jeu         13:30 - 17:00   C                    P
-                        Mar         13:30 - 17:30   TP A+B               P
-
-
-
-
-                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/11
+                 Date : 2023-03-10 12:30:37         L’École se réserve un droit de modifier l’horaire sans préavis                   Page : 5/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -510,87 +516,92 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                           PRÉALABLES
+
+GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                07      Jeu         13:30 - 15:30   TP                   P         B-3410              F. Gravel
+
+
+
+GIA410          GESTION ET ÉCONOMIE DES PROJETS D’INGÉNIERIE
+
+                01      Jeu         13:30 - 17:00   C                    P         E-2024              H. Smidi
+                        Mar         10:30 - 12:30   TP                   P         B-3428              H. Smidi
+
+                02      Mer         18:00 - 21:30   C                    H                             K. Lagacé
+                        Mar         18:00 - 20:00   TP                   H                             K. Lagacé
+
+                03      Mar         09:00 - 12:30   C                    P         E-2021              K. Lagacé
+                        Jeu         13:30 - 15:30   TP                   P         E-2023              K. Lagacé
+
+
+
+GIA450          PLANIFICATION ET CONTRÔLE DE PROJETS
+
+                01      Lun         18:00 - 21:30   C                    H                             J. Desbiens-Dufour
+                        Mer         18:00 - 20:00   TP                   H                             J. Desbiens-Dufour
+
+
+
+GPE450          GESTION DU PERSONNEL ET RELATIONS
+                INDUSTRIELLES
+                01      Lun         08:30 - 12:00   C                    C         D-4018              S. Tétreault
+                        Mer         08:30 - 10:30   TP                   C         D-4017              S. Tétreault
+
+                02      Mar         18:00 - 21:30   C                    C         D-3017              S. Tétreault
+                        Jeu         18:00 - 20:00   TP                   C         D-5008              S. Tétreault
+
+
+
+GTS503          TECHNOLOGIES DE LA SANTÉ, NORMES ET
+                HOMOLOGATION
+                01      Jeu         13:30 - 17:00   C                    P         B-3418              S. Lerouge
+                        Mar         13:30 - 17:30   TP A+B               P         D-5023              S. Lerouge
+
+
 
 GTS602          CONCEPTION D'ORTHÈSES ET DE PROTHÈSES
 
-                01      Mer         08:30 - 12:00   C                    P
-                        Ven         10:30 - 12:30   TP                   P         A-1214, A-1778
+                01      Mer         08:30 - 12:00   C                    P         B-3406              Y. Petit
+                        Ven         10:30 - 12:30   TP                   P         A-1214, A-1778      V. Bouvette
 
 
 
 GTS615          INSTRUMENTATION BIOMÉDICALE
-                01      Lun         08:30 - 12:00   C                    P
-                        Mer         13:30 - 17:30   Labo/2               P         A-2500
+                01      Lun         08:30 - 12:00   C                    P         D-3007              R. Bouserhal
+                        Mer         13:30 - 17:30   Labo/2               P         A-2500              K. Nenkam
 
 
 
 GTS620          BIOMATÉRIAUX POUR DISPOSITIFS MÉDICAUX
 
-                01      Mar         08:30 - 12:00   C                    P
-                        Jeu         08:30 - 10:30   TP/Labo              P         A-1504
+                01      Mar         08:30 - 12:00   C                    P         D-5008              S. Lerouge
+                        Jeu         08:30 - 10:30   TP/Labo              P         D-4023              S. Lerouge / B. Marin / I. Hamouda
 
 
 
 INF147          PROGRAMMATION PROCÉDURALE
 
-                01      Ven         09:00 - 12:30   C                    P         E-4023
-                        Mar         13:30 - 16:30   Labo                 P         E-4023
+                01      Ven         09:00 - 12:30   C                    P         D-4025              P. Bélisle
+                        Mar         13:30 - 16:30   Labo                 P         E-4023              H. Saulnier / É. Thé
 
-                02      Mer         18:00 - 21:30   C                    H
-                        Lun         18:00 - 21:00   Labo                 H
+                02      Mer         18:00 - 21:30   C                    H                             D. Beaulieu
+                        Lun         18:00 - 21:00   Labo                 H                             D. Beaulieu / R. Takla
 
 
 
 ING150          STATIQUE ET DYNAMIQUE
-                01      Mer         13:30 - 17:00   C                    P
-                        Jeu         13:30 - 16:30   TP                   P
+                01      Mer         13:30 - 17:00   C                    P         B-1514              M. Perrault
+                        Jeu         13:30 - 16:30   TP                   P         B-1514              M. Perrault
 
-                02      Jeu         13:30 - 17:00   C                    P
-                        Mer         13:30 - 16:30   TP                   P
-
-                03      Mar         13:30 - 17:00   C                    P
-                        Lun         09:00 - 12:00   TP                   P
-
-                04      Lun         18:00 - 21:30   C                    P
-                        Mer         18:00 - 21:00   TP                   P
-
-
-
-ING160          THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                                                                     ING150
-
-                01      Mer         09:00 - 12:30   C                    P
-                        Jeu         09:00 - 12:00   TP                   P
-
-                02      Mar         09:00 - 12:30   C                    P
-                        Ven         13:30 - 16:30   TP                   P
-
-                03      Lun         18:00 - 21:30   C                    H
-                        Mer         18:00 - 21:00   TP                   H
-
-
-
-ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
-                L'INGÉNIEUR
-                01      Mer         09:00 - 12:30   C                    P
-                        Ven         13:30 - 17:30   TP A+B               P         B-2624
-
-                02      Jeu         18:00 - 21:30   C                    P
-                        Lun         18:00 - 22:00   TP A+B               P         B-2624
-
-
-
-LRC100          LEADERSHIP ET RESPONSABILITÉ COLLECTIVE                                                                      70 crédits
-
-                Hors-programme
-                Pour plus d’informations : https://www.etsmtl.ca/etudes/leadership-et-responsabilite-collective.
-
-                01      Sam         09:00 - 17:00   C                    H         A-1600
+                02      Jeu         13:30 - 17:00   C                    P         B-1720              D. Benhachmi
+                        Mer         13:30 - 16:30   TP                   P         B-1720              D. Benhachmi
 
 
 
 
-                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/11
+                 Date : 2023-03-10 12:30:37         L’École se réserve un droit de modifier l’horaire sans préavis                  Page : 6/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                       7694 : Baccalauréat en génie électrique
@@ -606,14 +617,63 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.       LOCAL                 ENSEIGNANT            PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.       LOCAL                  ENSEIGNANT                            PRÉALABLES
 
-LRC100          LEADERSHIP ET RESPONSABILITÉ COLLECTIVE                                                                           70 crédits
+ING150          STATIQUE ET DYNAMIQUE
+                03      Mar         13:30 - 17:00   C                       P          B-3428                A. Hénault
+                        Lun         09:00 - 12:00   TP                      P          B-1514                A. Hénault
 
-                Hors-programme
+                04      Lun         18:00 - 21:30   C                       P          B-4408                G. Paquin
+                        Mer         18:00 - 21:00   TP                      P          B-1706                G. Paquin
+
+                06      Mer         18:00 - 21:30   C                       P          B-1518                D. Benhachmi
+                        Lun         18:00 - 21:00   TP                      P          B-1708                C. Dahmoune
+
+
+
+ING160          THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                                                                                           ING150
+
+                01      Mer         09:00 - 12:30   C                       P          B-1514                X. Daxhelet
+                        Jeu         09:00 - 12:00   TP                      P          B-1720                X. Daxhelet
+
+                02      Mar         09:00 - 12:30   C                       P          B-4408                C. Alinot
+                        Ven         13:30 - 16:30   TP                      P          B-3428                C. Alinot
+
+                03      Lun         18:00 - 21:30   C                       H                                Z. Hamoudi
+                        Mer         18:00 - 21:00   TP                      H                                Z. Hamoudi
+
+
+
+ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
+                L'INGÉNIEUR
+                01      Mer         09:00 - 12:30   C                       P          B-1716                P. Terrier
+                        Ven         13:30 - 17:30   TP A+B                  P          E-4021                P. Terrier
+
+                02      Jeu         18:00 - 21:30   C                       P          B-1720                A. Cherifi
+                        Lun         18:00 - 22:00   TP A+B                  P          E-4021                A. Cherifi
+
+
+
+LRC105          HOW TO CHANGE THE WORLD                                                                                                            Min. 70 crédits
+                Cours hors-programme offert en anglais et exigeant une approbation de votre candidature par l’organisme How to Change the World. Vous devez
+                obligatoirement compléter le formulaire pour déposer votre candidature ici : https://www.course-winter23.htctw.org/ets. Les personnes qui le
+                souhaitent pourront demander une reconnaissance d’acquis pour que ce cours soit reconnu en substitution du cours XXX791 - Projets spéciaux de
+                leur programme.
+                02      Lun         19:30 - 21:00   C                       D
+                        Mer         19:30 - 21:00   TP                      D
+
+                04      Mar         12:30 - 14:00   C                       D
+                        Mar         14:00 - 15:30   TP                      D
+
+
+
+LRC110          LEADERSHIP ET RESPONSABILITÉ COLLECTIVE
+
+                Hors-programme, sauf pour les programmes 7625, 7694, 7084, 7684 et 7086
                 Pour plus d’informations : https://www.etsmtl.ca/etudes/leadership-et-responsabilite-collective.
 
-                01      Sam         13:00 - 17:00   TP                      H
+                01      Sam         09:00 - 17:00   C                       H          A-1600, E-2033        M.K. Daoust
+                        Sam         13:00 - 17:00   TP                      H
                         07 janvier 2023
                         14 janvier 2023
                         21 janvier 2023
@@ -628,64 +688,130 @@ LRC100          LEADERSHIP ET RESPONSABILITÉ COLLECTIVE                        
                         01 avril 2023
                         15 avril 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 20 janvier 2023 / 17 février 2023
-                        Les séances de cours ont lieu en présentiel et les séances TP à distance.
+                        Les séances de cours ont lieu en présentiel et les séances TP à distance. La première séance de cours aura lieu au A-1600 et les suivantes au E-2033.
 
 
 MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                 (HORS PROG.)
-                01      Lun         09:00 - 12:30   C                       P
-                        Mer         13:30 - 16:30   TP                      P
+                01      Lun         09:00 - 12:30   C                       P          B-0906                I. Ndiaye
+                        Mer         13:30 - 16:30   TP                      P          B-0908                A. Madrane
 
-                02      Jeu         13:30 - 17:00   C                       P
-                        Mer         09:00 - 12:00   TP                      P
+                02      Jeu         13:30 - 17:00   C                       P          D-3008                V. Gouaillier
+                        Mer         09:00 - 12:00   TP                      P          B-0908                V. Gouaillier
 
-                03      Mar         18:00 - 21:30   C                       P
-                        Jeu         18:00 - 21:00   TP                      P
+                03      Mar         18:00 - 21:30   C                       P          B-4408                I. Ndiaye
+
+
+                 Date : 2023-03-10 12:30:37          L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 7/11
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                  7694 : Baccalauréat en génie électrique
+
+
+                                                                 HORAIRE HIVER 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                  PRÉALABLES
+
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
+                (HORS PROG.)
+                03      Jeu         18:00 - 21:00   TP                   P         B-3416              O. Foutlane
 
 
 
 MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
-                01      Lun         09:00 - 12:30   C                       P
-                        Mer         13:30 - 16:30   TP                      P
+                01      Lun         09:00 - 12:30   C                    P         B-3428              A. Bergeron-Brlek
+                        Mer         13:30 - 16:30   TP                   P         B-3416              A. Bergeron-Brlek
 
-                02      Mer         13:30 - 17:00   C                       P
-                        Lun         09:00 - 12:00   TP                      P
+                02      Mer         13:30 - 17:00   C                    P         B-1404              J.M. Lemay
+                        Lun         09:00 - 12:00   TP                   P         B-1506              J.M. Lemay
 
-                03      Lun         09:00 - 12:30   C                       P
-                        Mer         13:30 - 16:30   TP                      P
+                03      Lun         09:00 - 12:30   C                    P         B-1502              A. Lacasse
+                        Mer         13:30 - 16:30   TP                   P         D-4007              A. Lacasse
 
-                04      Jeu         13:30 - 17:00   C                       P
-                        Mer         09:00 - 12:00   TP                      P
+                04      Jeu         13:30 - 17:00   C                    P         B-3416              J.M. Lemay
+                        Mer         09:00 - 12:00   TP                   P         B-3416              J.M. Lemay
 
-                05      Mer         09:00 - 12:30   C                       P
-                        Jeu         13:30 - 16:30   TP                      P
+                05      Mer         09:00 - 12:30   C                    P         B-1404              A. Lacasse
+                        Jeu         13:30 - 16:30   TP                   P         D-5009              A. Lacasse
 
-                06      Lun         13:30 - 17:00   C                       P
-                        Jeu         09:00 - 12:00   TP                      P
+                06      Lun         13:30 - 17:00   C                    P         B-1404              A. Bergeron-Brlek
+                        Jeu         09:00 - 12:00   TP                   P         D-3025              A. Bergeron-Brlek
 
-                07      Lun         18:00 - 21:30   C                       H
-                        Mer         18:00 - 21:00   TP                      H
+                07      Lun         18:00 - 21:30   C                    H                             K. Mahni
+                        Mer         18:00 - 21:00   TP                   H                             A. Beljadid
 
-                08      Mar         18:00 - 21:30   C                       P
-                        Jeu         18:00 - 21:00   TP                      P
-
-
-
-MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                                           MAT145
-
-                01      Ven         09:00 - 12:30   C                       P
+                08      Mar         18:00 - 21:30   C                    P         B-1708              P. Mbaraga
+                        Jeu         18:00 - 21:00   TP                   P         B-1404              P. Mbaraga
 
 
 
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                                            MAT145
 
-                 Date : 2022-10-25 12:33:53          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 7/11
+                01      Ven         09:00 - 12:30   C                    P         B-1506              G. Roy-Fortin
+                        Lun         13:30 - 16:30   TP                   P         B-1502              G. Roy-Fortin
+
+                02      Ven         13:30 - 17:00   C                    P         B-3406              G. Savard
+                        Jeu         09:00 - 12:00   TP                   P         B-0906              G. Savard
+
+                03      Jeu         13:30 - 17:00   C                    P         D-4007              G. Savard
+                        Mar         13:30 - 16:30   TP                   P         B-1404              G. Savard
+
+                04      Mar         09:00 - 12:30   C                    P         B-1506              G. Roy-Fortin
+                        Mer         09:00 - 12:00   TP                   P         B-3428              G. Roy-Fortin
+
+                05      Lun         09:00 - 12:30   C                    P         B-1504              M. Beaudin
+                        Mer         13:30 - 16:30   TP                   P         B-3428              M. Beaudin
+
+                06      Mer         18:00 - 21:30   C                    P         B-1516              A. Régnier
+                        Mar         18:00 - 21:00   TP                   P         B-1516              F. Côté
+
+
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                          MAT145
+                01      Ven         09:00 - 12:30   C                    P         B-1706              H. Lahoussine
+                        Lun         13:30 - 16:30   TP                   P         B-4408              H. Lahoussine
+
+                02      Ven         13:30 - 17:00   C                    P         B-1504              M. Groiez
+                        Jeu         09:00 - 12:00   TP                   P         B-0904              O. Foutlane
+
+                03      Jeu         13:30 - 17:00   C                    P         B-3428              G. Picard
+                        Mar         13:30 - 16:30   TP                   P         B-1504              G. Picard
+
+                04      Mar         09:00 - 12:30   C                    P         B-1708              H. Lahoussine
+                        Mer         09:00 - 12:00   TP                   P         B-1504              H. Lahoussine
+
+                05      Lun         09:00 - 12:30   C                    P         B-1708              H. Lahoussine
+                        Mer         13:30 - 16:30   TP                   P         B-1506              H. Lahoussine
+
+                06      Jeu         09:00 - 12:30   C                    P         B-3428              S. Ayad
+                        Ven         13:30 - 16:30   TP                   P         B-4408              O. Foutlane
+
+                07      Mar         13:30 - 17:00   C                    P         B-1708              M. Beaudin
+                        Jeu         13:30 - 16:30   TP                   P         B-1506              M. Beaudin
+
+                08      Lun         18:00 - 21:30   C                    P         B-1516              M. Groiez
+                        Jeu         18:00 - 21:00   TP                   P         B-1516              R. Hassani
+
+                09      Mer         18:00 - 21:30   C                    H                             S. Ayad
+
+
+
+                 Date : 2023-03-10 12:30:37         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 8/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
-                                                                                  7694 : Baccalauréat en génie électrique
+                                                                                      7694 : Baccalauréat en génie électrique
 
 
-                                                                 HORAIRE HIVER 2023
+                                                                   HORAIRE HIVER 2023
                                                     Locaux A: bâtiment sud, 1100, Notre-Dame O.
                                                     Locaux B: bâtiment nord, 1111, Notre-Dame O.
                                                     Locaux D: bâtiment sud-ouest, 1219, rue William
@@ -695,184 +821,90 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.       LOCAL                 ENSEIGNANT               PRÉALABLES
 
-MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                                      MAT145
-
-                01      Lun         13:30 - 16:30   TP                   P
-
-                02      Ven         13:30 - 17:00   C                    P
-                        Jeu         09:00 - 12:00   TP                   P
-
-                03      Jeu         13:30 - 17:00   C                    P
-                        Mar         13:30 - 16:30   TP                   P
-
-                04      Mar         09:00 - 12:30   C                    P
-                        Mer         09:00 - 12:00   TP                   P
-
-                05      Lun         09:00 - 12:30   C                    P
-                        Mer         13:30 - 16:30   TP                   P
-
-                06      Mer         18:00 - 21:30   C                    P
-                        Mar         18:00 - 21:00   TP                   P
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                            MAT145
+                09      Mar         18:00 - 21:00   TP                     H                                A. Beljadid
 
 
 
-MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                    MAT145
-                01      Ven         09:00 - 12:30   C                    P
-                        Lun         13:30 - 16:30   TP                   P
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                                         MAT145
+                01      Ven         13:30 - 17:00   C                      P          B-1502                S. Lafrance
+                        Mer         13:30 - 16:30   TP                     P          D-3008                S. Lafrance
 
-                02      Ven         13:30 - 17:00   C                    P
-                        Jeu         09:00 - 12:00   TP                   P
+                02      Jeu         09:00 - 12:30   C                      P          B-1506                J.P. Labbé
+                        Mar         13:30 - 16:30   TP                     P          B-1706                J.P. Labbé
 
-                03      Jeu         13:30 - 17:00   C                    P
-                        Mar         13:30 - 16:30   TP                   P
+                03      Ven         09:00 - 12:30   C                      P          B-1518                S. Lafrance
+                        Lun         09:00 - 12:00   TP                     P          B-1518                S. Lafrance
 
-                04      Mar         09:00 - 12:30   C                    P
-                        Mer         09:00 - 12:00   TP                   P
+                04      Mer         09:00 - 12:30   C                      P          D-5010                M. Forest
+                        Lun         13:30 - 16:30   TP                     P          B-1506                M. Forest
 
-                05      Lun         09:00 - 12:30   C                    P
-                        Mer         13:30 - 16:30   TP                   P
+                05      Jeu         13:30 - 17:00   C                      P          B-1708                J.P. Labbé
+                        Mar         09:00 - 12:00   TP                     P          B-1518                J.P. Labbé
 
-                06      Jeu         09:00 - 12:30   C                    P
-                        Ven         13:30 - 16:30   TP                   P
+                06      Mer         13:30 - 17:00   C                      P          B-4408                S. Gervais
+                        Ven         13:30 - 16:30   TP                     P          B-1706                S. Gervais
 
-                07      Mar         13:30 - 17:00   C                    P
-                        Jeu         13:30 - 16:30   TP                   P
+                07      Mar         13:30 - 17:00   C                      P          B-1518                S. Lafrance
+                        Jeu         09:00 - 12:00   TP                     P          B-1708                S. Lafrance
 
-                08      Lun         18:00 - 21:30   C                    P
-                        Jeu         18:00 - 21:00   TP                   P
-
-                09      Mer         18:00 - 21:30   C                    H
-                        Mar         18:00 - 21:00   TP                   H
-
-
-
-MAT350          PROBABILITÉS ET STATISTIQUES                                                                                 MAT145
-                01      Ven         13:30 - 17:00   C                    P
-                        Mer         13:30 - 16:30   TP                   P
-
-                02      Jeu         09:00 - 12:30   C                    P
-                        Mar         13:30 - 16:30   TP                   P
-
-                03      Ven         09:00 - 12:30   C                    P
-                        Lun         09:00 - 12:00   TP                   P
-
-                04      Mer         09:00 - 12:30   C                    P
-                        Lun         13:30 - 16:30   TP                   P
-
-                05      Jeu         13:30 - 17:00   C                    P
-                        Mar         09:00 - 12:00   TP                   P
-
-                06      Mer         13:30 - 17:00   C                    P
-                        Ven         13:30 - 16:30   TP                   P
-
-                07      Mar         13:30 - 17:00   C                    P
-                        Jeu         09:00 - 12:00   TP                   P
-
-                08      Lun         18:00 - 21:30   C                    H
-                        Jeu         18:00 - 21:00   TP                   H
-
-
-
-MATEST          ACCUEIL EN MATHÉMATIQUES
-                01      Lun         09:00 - 12:30   C                    P
-                        Mer         13:30 - 16:30   TP                   P
-
-                02      Jeu         13:30 - 17:00   C                    P
-
-                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 8/11
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                  7694 : Baccalauréat en génie électrique
-
-
-                                                                 HORAIRE HIVER 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                   PRÉALABLES
-
-MATEST          ACCUEIL EN MATHÉMATIQUES
-                02      Mer         09:00 - 12:00   TP                   P
-
-                03      Mar         18:00 - 21:30   C                    P
-                        Jeu         18:00 - 21:00   TP                   P
+                08      Lun         18:00 - 21:30   C                      H                                S. Ayad
+                        Jeu         18:00 - 21:00   TP                     H                                S. Ayad
 
 
 
 PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                 PROFESSIONNELLE
                 Il n’est pas recommandé de vous inscrire au cours PEP110 si vous n’avez pas complété votre premier stage.
-                01      Mar         13:30 - 17:00   Atelier              D
+                01      Mar         13:30 - 17:00   Atelier                D                                T. Mekhaël
                         17 janvier 2023
                         24 janvier 2023
                         31 janvier 2023
                         07 février 2023
-                02      Mar         13:30 - 17:00   Atelier              P
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 23 janvier 2023 / 30 janvier 2023
+                02      Mar         13:30 - 17:00   Atelier                P          B-1516                T. Mekhaël
                         14 février 2023
                         21 février 2023
                         07 mars 2023
                         14 mars 2023
-                03      Mer         18:00 - 21:30   Atelier              D
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 20 février 2023 / 06 mars 2023
+                03      Mer         18:00 - 21:30   Atelier                D                                C. Ebnoether
                         18 janvier 2023
                         25 janvier 2023
                         01 février 2023
                         08 février 2023
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 24 janvier 2023 / 31 janvier 2023
+                04      Mar         13:30 - 17:00   Atelier                P          B-1506                T. Mekhaël
+                        21 mars 2023
+                        28 mars 2023
+                        04 avril 2023
+                        11 avril 2023
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 27 mars 2023 / 03 avril 2023
+                05      Mer         18:00 - 21:30   Atelier                D                                T. Mekhaël
+                        15 février 2023
+                        22 février 2023
+                        08 mars 2023
+                        15 mars 2023
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 21 février 2023 / 07 mars 2023
+                06      Mer         18:00 - 21:30   Atelier                D                                T. Mekhaël
+                        22 mars 2023
+                        29 mars 2023
+                        05 avril 2023
+                        12 avril 2023
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 28 mars 2023 / 04 avril 2023
 
 
 
 PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
                 PROGRAMME)
-                01      Mer         13:30 - 17:00   C                    P
-                        Jeu         13:30 - 16:30   TP/Labo              P
-
-                02      Mar         13:30 - 17:00   C                    P
-                        Lun         09:00 - 12:00   TP/Labo              P
-
-                03      Lun         18:00 - 21:30   C                    P
-                        Mer         18:00 - 21:00   TP/Labo              P
-
-
-
-PHY335          PHYSIQUE DES ONDES                                                                                                  CTN248 / ING150
-                01      Ven         13:30 - 17:00   C                    P
-                        Jeu         09:00 - 12:00   Labo                 P
-
-                02      Lun         09:00 - 12:30   C                    H
-                        Ven         09:00 - 12:00   Labo                 H
-
-                03      Jeu         13:30 - 17:00   C                    P
-                        Lun         13:30 - 16:30   Labo                 P
-
-                04      Mer         13:30 - 17:00   C                    P
-                        Mar         09:00 - 12:00   Labo                 P
-
-                05      Lun         18:00 - 21:30   C                    P
-                        Ven         18:00 - 21:00   Labo                 P
-
-
-
-PHYEST          ACCUEIL EN PHYSIQUE
-                01      Mer         13:30 - 17:00   C                    P
-                        Jeu         13:30 - 16:30   TP/Labo              P
-
-                02      Mar         13:30 - 17:00   C                    P
-                        Lun         09:00 - 12:00   TP/Labo              P
-
-                03      Lun         18:00 - 21:30   C                    P
-                        Mer         18:00 - 21:00   TP/Labo              P
+                01      Mer         13:30 - 17:00   C                      P          B-3406                A. Benmassaoud
 
 
 
 
-                 Date : 2022-10-25 12:33:53         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 9/11
+                 Date : 2023-03-10 12:30:37         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 9/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                         7694 : Baccalauréat en génie électrique
@@ -888,7 +920,37 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.       LOCAL                    ENSEIGNANT            PRÉALABLES
+COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.       LOCAL                    ENSEIGNANT                          PRÉALABLES
+
+PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
+                PROGRAMME)
+                01      Jeu         13:30 - 16:30    TP/Labo                 P          B-3406                  A. Benmassaoud
+
+                02      Mar         13:30 - 17:00    C                       P          B-3416                  C. Alinot
+                        Lun         09:00 - 12:00    TP/Labo                 P          B-3416                  C. Alinot
+
+                03      Lun         18:00 - 21:30    C                       P          B-3416                  D. Benhachmi
+                        Mer         18:00 - 21:00    TP/Labo                 P          B-3406                  A.S. Bajamgnigni Gbambie
+
+
+
+PHY335          PHYSIQUE DES ONDES                                                                                                                  CTN248 / ING150
+                01      Ven         13:30 - 17:00    C                       P          B-1514                  X. Lavocat-Dubuis
+                        Jeu         09:00 - 12:00    Labo                    P          B-1516                  C. Dahmoune
+
+                02      Lun         09:00 - 12:30    C                       H                                  T. Ait Ahcene
+                        Ven         09:00 - 12:00    Labo                    H                                  T. Ait Ahcene
+
+                03      Jeu         13:30 - 17:00    C                       P          B-1518                  X. Lavocat-Dubuis
+                        Lun         13:30 - 16:30    Labo                    P          B-1516                  X. Lavocat-Dubuis
+
+                04      Mer         13:30 - 17:00    C                       P          B-1502                  X. Daxhelet
+                        Mar         09:00 - 12:00    Labo                    P          B-1502                  X. Daxhelet
+
+                05      Lun         18:00 - 21:30    C                       P          B-1514                  X. Lavocat-Dubuis
+                        Ven         18:00 - 21:00    Labo                    P          B-1514                  A.S. Bajamgnigni Gbambie
+
+
 
 PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 SANTÉ ET SÉCURITÉ
@@ -898,32 +960,26 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET INTENSIF SANTÉ-SÉCURITÉ : 15 h aux dates indiquées pour chaque groupe.
                 Le groupe 09 est réservé aux étudiants.es en génie de la construction.
 
-                01      Lun         18:00 - 21:30    Atelier                 D
+                01      Lun         18:00 - 21:30    Atelier                 D                                  D. Leclerc
                         16 janvier 2023
                         23 janvier 2023
                         30 janvier 2023
                         06 février 2023
                         13 février 2023
-                02      Mar         13:30 - 16:30    Atelier                 D
+                02      Mar         13:30 - 17:00    Atelier                 D                                  D. Lapointe
                         14 février 2023
                         21 février 2023
                         07 mars 2023
                         14 mars 2023
                         21 mars 2023
-                03      Mar         18:00 - 21:30    Atelier                 D
-                        17 janvier 2023
-                        24 janvier 2023
-                        31 janvier 2023
-                        07 février 2023
-                        14 février 2023
-                04      Mer         18:00 - 21:30    Atelier                 D
+                04      Mer         18:00 - 21:30    Atelier                 D                                  D. Leclerc
                         11 janvier 2023
                         18 janvier 2023
                         25 janvier 2023
                         01 février 2023
                         08 février 2023
-                05      Ven         18:00 - 21:30    Atelier                 D
-                        Sam         09:00 - 17:30    C                       D
+                05      Ven         18:00 - 21:30    Atelier                 D                                  D. Leclerc
+                        Sam         09:00 - 17:00    C                       D
                         20 janvier 2023
                         21 janvier 2023
                         28 janvier 2023
@@ -933,39 +989,20 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 
 TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
-                01      Mar         09:00 - 12:30    C                       P
-                        Mer         13:30 - 17:30    TP A+B                  P
+                01      Mar         09:00 - 12:30    C                       P          D-4012                  É. Francoeur
+                        Mer         13:30 - 17:30    TP A+B                  P          D-4012                  J. Rivera
 
-                02      Jeu         09:00 - 12:30    C                       P
-                        Lun         13:30 - 17:30    TP A+B                  P
+                02      Jeu         09:00 - 12:30    C                       P          D-4012                  É. Francoeur
+                        Lun         13:30 - 17:30    TP A+B                  P          D-4012                  J. Rivera
 
-                03      Ven         13:30 - 17:00    C                       P
-                        Mer         08:30 - 12:30    TP A+B                  P
+                03      Ven         13:30 - 17:00    C                       P          D-5012                  M. Monette
+                        Mer         08:30 - 12:30    TP A+B                  P          D-4007                  M. Monette
 
-                04      Ven         09:00 - 12:30    C                       P
-                        Lun         08:30 - 12:30    TP A+B                  P
-
-                05      Jeu         13:30 - 17:00    C                       P
-                        Mar         13:30 - 17:30    TP A+B                  P
-
-                06      Mer         13:30 - 17:00    C                       P
-                        Mar         08:30 - 12:30    TP A+B                  P
-
-                07      Mer         18:00 - 21:30    C                       H
-                        Ven         18:00 - 22:00    TP A+B                  H
-
-                08      Jeu         18:00 - 21:30    C                       H
-                        Mar         18:00 - 22:00    TP A+B                  H
+                04      Ven         09:00 - 12:30    C                       P          D-5012                  L. Arel
+                        Lun         08:30 - 12:30    TP A+B                  P          D-5012                  L. Arel
 
 
-
-TIN504          SANTÉ, TECHNOLOGIE ET SOCIÉTÉ
-                01      Mar         18:00 - 21:30    C                       P
-
-
-
-
-                 Date : 2022-10-25 12:33:53          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 10/11
+                 Date : 2023-03-10 12:30:37          L’École se réserve un droit de modifier l’horaire sans préavis                        Page : 10/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                          7694 : Baccalauréat en génie électrique
@@ -983,8 +1020,25 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE           ACTIVITÉ           Mode d'ens.     LOCAL                 ENSEIGNANT                             PRÉALABLES
 
+TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
+
+                05      Jeu         13:30 - 17:00     C                        P         D-5012                M. Monette
+                        Mar         13:30 - 17:30     TP A+B                   P         D-5012                M. Monette
+
+                06      Mer         13:30 - 17:00     C                        P         D-5012                M. Monette
+                        Mar         08:30 - 12:30     TP A+B                   P         D-5012                M. Monette
+
+                07      Mer         18:00 - 21:30     C                        H                               L. Arel
+                        Ven         18:00 - 22:00     TP A+B                   H                               L. Arel
+
+                08      Jeu         18:00 - 21:30     C                        H                               M. Lejeune
+                        Mar         18:00 - 22:00     TP A+B                   H                               M. Lejeune
+
+
+
 TIN504          SANTÉ, TECHNOLOGIE ET SOCIÉTÉ
-                01      Jeu         18:00 - 22:00     TP A+B                   P
+                01      Mar         18:00 - 21:30     C                        P         B-3420                M.K. Daoust
+                        Jeu         18:00 - 22:00     TP A+B                   P         B-3420                M.K. Daoust
 
 
 NOTES
@@ -1025,5 +1079,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2022-10-25 12:33:53            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 11/11
+                 Date : 2023-03-10 12:30:37            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 11/11
 
