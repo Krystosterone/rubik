@@ -13,11 +13,11 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.       LOCAL                 ENSEIGNANT            PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.       LOCAL                 ENSEIGNANT                  PRÉALABLES
 
 ATE029          INTRODUCTION À LA MODÉLISATION SOLIDE AVEC
                 CATIA
-                01      Sam         08:30 - 17:30   Atelier                P          A-1504
+                01      Sam         08:30 - 17:30   Atelier                P          A-1504                J.F. Côté
                         14 janvier 2023
                         21 janvier 2023
                         28 janvier 2023
@@ -25,585 +25,273 @@ ATE029          INTRODUCTION À LA MODÉLISATION SOLIDE AVEC
 
 
 
+ATE070          NEUROFOCUS
+                01      Lun         13:00 - 16:00   Atelier                P          D-5012
+                        09 janvier 2023
+                        16 janvier 2023
+                        23 janvier 2023
+                        30 janvier 2023
+                        06 février 2023
+                        13 février 2023
+                        20 février 2023
+                        06 mars 2023
+                        13 mars 2023
+                        20 mars 2023
+                        27 mars 2023
+                        03 avril 2023
+                02      Mar         09:00 - 12:00   Atelier                P          D-5018
+                        10 janvier 2023
+                        17 janvier 2023
+                        24 janvier 2023
+                        31 janvier 2023
+                        07 février 2023
+                        14 février 2023
+                        21 février 2023
+                        07 mars 2023
+                        14 mars 2023
+                        21 mars 2023
+                        28 mars 2023
+                        04 avril 2023
+                03      Mar         13:00 - 16:00   Atelier                P          D-4007
+                        10 janvier 2023
+                        17 janvier 2023
+                        24 janvier 2023
+                        31 janvier 2023
+                        07 février 2023
+                        14 février 2023
+                        21 février 2023
+                        07 mars 2023
+                        14 mars 2023
+                        21 mars 2023
+                        28 mars 2023
+                        04 avril 2023
+                04      Jeu         09:00 - 12:00   Atelier                P          D-4009
+                        12 janvier 2023
+                        19 janvier 2023
+                        26 janvier 2023
+                        02 février 2023
+                        09 février 2023
+                        16 février 2023
+                        23 février 2023
+                        09 mars 2023
+                        16 mars 2023
+                        23 mars 2023
+                        30 mars 2023
+                        06 avril 2023
+
+
+
 CHM131          CHIMIE ET MATÉRIAUX
-                01      Lun         09:00 - 12:30   C                      P
-                        Ven         09:00 - 12:00   TP                     P
+                01      Lun         09:00 - 12:30   C                      P          B-3406                T. Rivard
+                        Ven         09:00 - 12:00   TP                     P          B-3406                T. Rivard
 
-                02      Ven         13:30 - 17:00   C                      P
-                        Jeu         13:30 - 16:30   TP                     P
+                02      Ven         13:30 - 17:00   C                      P          B-1506                T. Rivard
+                        Jeu         13:30 - 16:30   TP                     P          B-1404                J. Bissou Billong
 
-                03      Mer         09:00 - 12:30   C                      P
-                        Mar         13:30 - 16:30   TP                     P
+                03      Mer         09:00 - 12:30   C                      P          B-3402                M. Bergeron-Brlek
+                        Mar         13:30 - 16:30   TP                     P          B-3402                M. Bergeron-Brlek
 
-                04      Jeu         09:00 - 12:30   C                      P
-                        Lun         13:30 - 16:30   TP                     P
+                04      Jeu         09:00 - 12:30   C                      P          B-3406                A. Benmassaoud
+                        Lun         13:30 - 16:30   TP                     P          B-3402                A. Benmassaoud
 
-                05      Mer         13:30 - 17:00   C                      P
-                        Mar         09:00 - 12:00   TP                     P
+                05      Mer         13:30 - 17:00   C                      P          B-3402                M. Bergeron-Brlek
+                        Mar         09:00 - 12:00   TP                     P          B-3416                M. Bergeron-Brlek
 
-                06      Ven         09:00 - 12:30   C                      P
-                        Lun         09:00 - 12:00   TP                     P
+                06      Ven         09:00 - 12:30   C                      P          B-3402                A. Benmassaoud
 
-                07      Jeu         13:30 - 17:00   C                      P
-                        Ven         13:30 - 16:30   TP                     P
-
-                08      Jeu         18:00 - 21:30   C                      H
-                        Mar         18:00 - 21:00   TP                     H
+                 Date : 2023-03-10 12:30:41         L’École se réserve un droit de modifier l’horaire sans préavis              Page : 1/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                7684 : Baccalauréat en génie mécanique
 
 
+                                                                 HORAIRE HIVER 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
 
-COM129          MÉTHODES DE COMMUNICATION EN GÉNIE                                                                                Avoir satisfait aux exigences de la
-                MÉCANIQUE                                                                                                         Politique linguistique de l'ÉTS
-                01      Mer         09:00 - 12:30   C                      P
-                        Jeu         08:30 - 12:30   TP A+B                 P
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                           PRÉALABLES
 
-                02      Lun         18:00 - 21:30   C                      P
-                        Jeu         18:00 - 22:00   TP A+B                 P
+CHM131          CHIMIE ET MATÉRIAUX
+                06      Lun         09:00 - 12:00   TP                   P         B-3402              A. Benmassaoud
+
+                07      Jeu         13:30 - 17:00   C                    P         B-3402              M. Clisson
+                        Ven         13:30 - 16:30   TP                   P         B-3416              M. Clisson
+
+                08      Jeu         18:00 - 21:30   C                    H                             T. Rivard
+                        Mar         18:00 - 21:00   TP                   H                             T. Rivard
 
 
 
-ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                                   GIA400 ou GIA410
+COM129          MÉTHODES DE COMMUNICATION EN GÉNIE                                                                                          Avoir satisfait aux exigences de la
+                MÉCANIQUE                                                                                                                   Politique linguistique de l'ÉTS
+                01      Mer         09:00 - 12:30   C                    P         E-2022              J. Vianou
+                        Jeu         08:30 - 12:30   TP A+B               P         B-3404              J. Vianou
 
-                01      Jeu         09:00 - 12:30   C                      H
-                        Lun         08:30 - 10:30   TP                     H
+                02      Lun         18:00 - 21:30   C                    P         E-2022              J. Vianou
+                        Jeu         18:00 - 22:00   TP A+B               P         B-3404              J. Vianou
+
+
+
+ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                                             GIA400 ou GIA410
+
+                01      Jeu         09:00 - 12:30   C                    H                             L. Parent
+                        Lun         08:30 - 10:30   TP                   H                             L. Parent
 
 
 
 ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
 
-                01      Mar         09:00 - 12:30   C                      P
-                        Jeu         18:00 - 20:00   TP                     P
+                01      Mar         09:00 - 12:30   C                    P         C-0120.1            D. Drouet
+                        Jeu         18:00 - 20:00   TP                   P         B-0906              D. Drouet
+
+                02      Mer         09:00 - 12:30   C                    P         C-0120.1            R. Lavoie
+                        Jeu         18:00 - 20:00   TP                   P         B-0906              D. Drouet
 
 
 
 GIA410          GESTION ET ÉCONOMIE DES PROJETS D’INGÉNIERIE
 
-                01      Jeu         13:30 - 17:00   C                      P
-                        Mar         10:30 - 12:30   TP                     P
+                01      Jeu         13:30 - 17:00   C                    P         E-2024              H. Smidi
+                        Mar         10:30 - 12:30   TP                   P         B-3428              H. Smidi
 
-                02      Mer         18:00 - 21:30   C                      H
-                        Mar         18:00 - 20:00   TP                     H
+                02      Mer         18:00 - 21:30   C                    H                             K. Lagacé
+                        Mar         18:00 - 20:00   TP                   H                             K. Lagacé
+
+                03      Mar         09:00 - 12:30   C                    P         E-2021              K. Lagacé
+                        Jeu         13:30 - 15:30   TP                   P         E-2023              K. Lagacé
 
 
 
 GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU INDUSTRIEL
 
-                01      Jeu         13:30 - 17:00   C                      P
-                        Lun         08:30 - 12:30   TP/Labo                P          A-1220, A-2230
+                01      Jeu         13:30 - 17:00   C                    P        D-4018               I. Desjardins-David / O. Thamsuwan
+                        Lun         08:30 - 12:30   TP/Labo              P        A-1220, A-2230,      V. Ngô
+                                                                                  D-5008
 
-                02      Lun         13:30 - 17:00   C                      P
-                        Mar         13:30 - 17:30   TP/Labo                P          A-1222, A-2230
+                02      Lun         13:30 - 17:00   C                    P        B-4416               I. Desjardins-David / O. Thamsuwan
+                        Mar         13:30 - 17:30   TP/Labo              P        A-1222, A-2230,      V. Ngô
+                                                                                  B-3432
 
-                03      Jeu         18:00 - 21:30   C                      P
-                        Mer         18:00 - 22:00   TP/Labo                P          A-1220, A-2230
-
-
-
-                 Date : 2022-10-25 12:33:57         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 1/10
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                   7684 : Baccalauréat en génie mécanique
+                03      Jeu         18:00 - 21:30   C                    P        B-4416               A. Nerguizian
+                        Mer         18:00 - 22:00   TP/Labo              P        A-1220, A-2230,      C. Tiaya Tedonchio
+                                                                                  D-3009
 
 
-                                                                   HORAIRE HIVER 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.       LOCAL                 ENSEIGNANT            PRÉALABLES
 
 GPE450          GESTION DU PERSONNEL ET RELATIONS
                 INDUSTRIELLES
-                01      Lun         08:30 - 12:00   C                       C
-                        Mer         08:30 - 10:30   TP                      C
+                01      Lun         08:30 - 12:00   C                    C         D-4018              S. Tétreault
+                        Mer         08:30 - 10:30   TP                   C         D-4017              S. Tétreault
 
-                02      Mar         18:00 - 21:30   C                       C
-                        Jeu         18:00 - 20:00   TP                      C
+                02      Mar         18:00 - 21:30   C                    C         D-3017              S. Tétreault
+                        Jeu         18:00 - 20:00   TP                   C         D-5008              S. Tétreault
 
 
 
 GTS503          TECHNOLOGIES DE LA SANTÉ, NORMES ET
                 HOMOLOGATION
-                01      Jeu         13:30 - 17:00   C                       P
-                        Mar         13:30 - 17:30   TP A+B                  P
+                01      Jeu         13:30 - 17:00   C                    P         B-3418              S. Lerouge
+
+
+
+
+                 Date : 2023-03-10 12:30:41         L’École se réserve un droit de modifier l’horaire sans préavis                 Page : 2/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                7684 : Baccalauréat en génie mécanique
+
+
+                                                                 HORAIRE HIVER 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                           PRÉALABLES
+
+GTS503          TECHNOLOGIES DE LA SANTÉ, NORMES ET
+                HOMOLOGATION
+                01      Mar         13:30 - 17:30   TP A+B               P         D-5023              S. Lerouge
 
 
 
 GTS602          CONCEPTION D'ORTHÈSES ET DE PROTHÈSES
 
-                01      Mer         08:30 - 12:00   C                       P
-                        Ven         10:30 - 12:30   TP                      P         A-1214, A-1778
+                01      Mer         08:30 - 12:00   C                    P         B-3406              Y. Petit
+                        Ven         10:30 - 12:30   TP                   P         A-1214, A-1778      V. Bouvette
 
 
 
 GTS615          INSTRUMENTATION BIOMÉDICALE
-                01      Lun         08:30 - 12:00   C                       P
-                        Mer         13:30 - 17:30   Labo/2                  P         A-2500
+                01      Lun         08:30 - 12:00   C                    P         D-3007              R. Bouserhal
+                        Mer         13:30 - 17:30   Labo/2               P         A-2500              K. Nenkam
 
 
 
 GTS620          BIOMATÉRIAUX POUR DISPOSITIFS MÉDICAUX
 
-                01      Mar         08:30 - 12:00   C                       P
-                        Jeu         08:30 - 10:30   TP/Labo                 P         A-1504
+                01      Mar         08:30 - 12:00   C                    P         D-5008              S. Lerouge
+                        Jeu         08:30 - 10:30   TP/Labo              P         D-4023              S. Lerouge / B. Marin / I. Hamouda
 
 
 
 INF136          INTRODUCTION À LA PROGRAMMATION EN PYTHON
 
-                01      Mer         13:30 - 17:00   C                       H
-                        Lun         09:00 - 12:00   Labo                    H
+                01      Mer         13:30 - 17:00   C                    H                             I. Gagnon
+                        Lun         09:00 - 12:00   Labo                 H                             I. Gagnon
 
-                02      Mar         18:00 - 21:30   C                       P         E-4022
-                        Jeu         18:00 - 21:00   Labo                    P         E-4022
+                02      Mar         18:00 - 21:30   C                    P         E-4022              F. Bourdeau
+                        Jeu         18:00 - 21:00   Labo                 P         E-4022              D. Beaulieu / F. Bourdeau
+
+                03      Lun         09:00 - 12:30   C                    H                             F. Simard
+                        Mer         13:30 - 16:30   Labo                 H                             F. Simard / A. Kotrbaty
 
 
 
 ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
                 L'INGÉNIEUR
-                01      Mer         09:00 - 12:30   C                       P
-                        Ven         13:30 - 17:30   TP A+B                  P         B-2624
+                01      Mer         09:00 - 12:30   C                    P         B-1716              P. Terrier
+                        Ven         13:30 - 17:30   TP A+B               P         E-4021              P. Terrier
 
-                02      Jeu         18:00 - 21:30   C                       P
-                        Lun         18:00 - 22:00   TP A+B                  P         B-2624
+                02      Jeu         18:00 - 21:30   C                    P         B-1720              A. Cherifi
+                        Lun         18:00 - 22:00   TP A+B               P         E-4021              A. Cherifi
 
 
 
-LRC100          LEADERSHIP ET RESPONSABILITÉ COLLECTIVE                                                                           70 crédits
+LRC105          HOW TO CHANGE THE WORLD                                                                                                     Min. 70 crédits
+                Cours hors-programme offert en anglais et exigeant une approbation de votre candidature par l’organisme How to Change the World. Vous devez
+                obligatoirement compléter le formulaire pour déposer votre candidature ici : https://www.course-winter23.htctw.org/ets. Les personnes qui le
+                souhaitent pourront demander une reconnaissance d’acquis pour que ce cours soit reconnu en substitution du cours XXX791 - Projets spéciaux de
+                leur programme.
+                02      Lun         19:30 - 21:00   C                    D
+                        Mer         19:30 - 21:00   TP                   D
 
-                Hors-programme
+                04      Mar         12:30 - 14:00   C                    D
+                        Mar         14:00 - 15:30   TP                   D
+
+
+
+LRC110          LEADERSHIP ET RESPONSABILITÉ COLLECTIVE
+
+                Hors-programme, sauf pour les programmes 7625, 7694, 7084, 7684 et 7086
                 Pour plus d’informations : https://www.etsmtl.ca/etudes/leadership-et-responsabilite-collective.
 
-                01      Sam         09:00 - 17:00    C                        H         A-1600
-                        Sam         13:00 - 17:00    TP                       H
-                        07 janvier 2023
-                        14 janvier 2023
-                        21 janvier 2023
-                        28 janvier 2023
-                        04 février 2023
-                        11 février 2023
-                        18 février 2023
-                        25 février 2023
-                        11 mars 2023
-                        18 mars 2023
-                        25 mars 2023
-                        01 avril 2023
-                        15 avril 2023
-                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 20 janvier 2023 / 17 février 2023
-                        Les séances de cours ont lieu en présentiel et les séances TP à distance.
+                01      Sam         09:00 - 17:00   C                    H         A-1600, E-2033      M.K. Daoust
 
 
 
 
-                 Date : 2022-10-25 12:33:57          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 2/10
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                7684 : Baccalauréat en génie mécanique
-
-
-                                                                 HORAIRE HIVER 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
-
-MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
-                (HORS PROG.)
-                01      Lun         09:00 - 12:30   C                    P
-                        Mer         13:30 - 16:30   TP                   P
-
-                02      Jeu         13:30 - 17:00   C                    P
-                        Mer         09:00 - 12:00   TP                   P
-
-                03      Mar         18:00 - 21:30   C                    P
-                        Jeu         18:00 - 21:00   TP                   P
-
-
-
-MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
-
-                01      Lun         09:00 - 12:30   C                    P
-                        Mer         13:30 - 16:30   TP                   P
-
-                02      Mer         13:30 - 17:00   C                    P
-                        Lun         09:00 - 12:00   TP                   P
-
-                03      Lun         09:00 - 12:30   C                    P
-                        Mer         13:30 - 16:30   TP                   P
-
-                04      Jeu         13:30 - 17:00   C                    P
-                        Mer         09:00 - 12:00   TP                   P
-
-                05      Mer         09:00 - 12:30   C                    P
-                        Jeu         13:30 - 16:30   TP                   P
-
-                06      Lun         13:30 - 17:00   C                    P
-                        Jeu         09:00 - 12:00   TP                   P
-
-                07      Lun         18:00 - 21:30   C                    H
-                        Mer         18:00 - 21:00   TP                   H
-
-                08      Mar         18:00 - 21:30   C                    P
-                        Jeu         18:00 - 21:00   TP                   P
-
-
-
-MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                                      MAT145
-
-                01      Ven         09:00 - 12:30   C                    P
-                        Lun         13:30 - 16:30   TP                   P
-
-                02      Ven         13:30 - 17:00   C                    P
-                        Jeu         09:00 - 12:00   TP                   P
-
-                03      Jeu         13:30 - 17:00   C                    P
-                        Mar         13:30 - 16:30   TP                   P
-
-                04      Mar         09:00 - 12:30   C                    P
-                        Mer         09:00 - 12:00   TP                   P
-
-                05      Lun         09:00 - 12:30   C                    P
-                        Mer         13:30 - 16:30   TP                   P
-
-                06      Mer         18:00 - 21:30   C                    P
-                        Mar         18:00 - 21:00   TP                   P
-
-
-
-MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                    MAT145
-                01      Ven         09:00 - 12:30   C                    P
-                        Lun         13:30 - 16:30   TP                   P
-
-                02      Ven         13:30 - 17:00   C                    P
-                        Jeu         09:00 - 12:00   TP                   P
-
-                03      Jeu         13:30 - 17:00   C                    P
-                        Mar         13:30 - 16:30   TP                   P
-
-                04      Mar         09:00 - 12:30   C                    P
-                        Mer         09:00 - 12:00   TP                   P
-
-                05      Lun         09:00 - 12:30   C                    P
-                        Mer         13:30 - 16:30   TP                   P
-
-                06      Jeu         09:00 - 12:30   C                    P
-                        Ven         13:30 - 16:30   TP                   P
-
-                07      Mar         13:30 - 17:00   C                    P
-
-
-                 Date : 2022-10-25 12:33:57         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/10
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                   7684 : Baccalauréat en génie mécanique
-
-
-                                                                     HORAIRE HIVER 2023
-                                                     Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                     Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                     Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                     Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.    LOCAL               ENSEIGNANT            PRÉALABLES
-
-MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                     MAT145
-                07      Jeu         13:30 - 16:30    TP                   P
-
-                08      Lun         18:00 - 21:30    C                    P
-                        Jeu         18:00 - 21:00    TP                   P
-
-                09      Mer         18:00 - 21:30    C                    H
-                        Mar         18:00 - 21:00    TP                   H
-
-
-
-MAT350          PROBABILITÉS ET STATISTIQUES                                                                                  MAT145
-                01      Ven         13:30 - 17:00    C                    P
-                        Mer         13:30 - 16:30    TP                   P
-
-                02      Jeu         09:00 - 12:30    C                    P
-                        Mar         13:30 - 16:30    TP                   P
-
-                03      Ven         09:00 - 12:30    C                    P
-                        Lun         09:00 - 12:00    TP                   P
-
-                04      Mer         09:00 - 12:30    C                    P
-                        Lun         13:30 - 16:30    TP                   P
-
-                05      Jeu         13:30 - 17:00    C                    P
-                        Mar         09:00 - 12:00    TP                   P
-
-                06      Mer         13:30 - 17:00    C                    P
-                        Ven         13:30 - 16:30    TP                   P
-
-                07      Mar         13:30 - 17:00    C                    P
-                        Jeu         09:00 - 12:00    TP                   P
-
-                08      Lun         18:00 - 21:30    C                    H
-                        Jeu         18:00 - 21:00    TP                   H
-
-
-
-MATEST          ACCUEIL EN MATHÉMATIQUES
-                01      Lun         09:00 - 12:30    C                    P
-                        Mer         13:30 - 16:30    TP                   P
-
-                02      Jeu         13:30 - 17:00    C                    P
-                        Mer         09:00 - 12:00    TP                   P
-
-                03      Mar         18:00 - 21:30    C                    P
-                        Jeu         18:00 - 21:00    TP                   P
-
-
-
-MEC029          COMMUNICATION GRAPHIQUE ET FABRICATION
-                MÉCANIQUE (3 CR.)
-                01      Lun         08:30 - 12:00    C                    P         A-1560
-                        Mer         15:30 - 17:30    Labo                 P         A-1504
-
-
-
-MEC111          STATIQUE DE L'INGÉNIEUR
-                01      Mar         13:30 - 17:00    C                    P
-                        Lun         08:30 - 11:30    TP/Labo              P         A-2244
-
-                02      Lun         18:00 - 21:30    C                    P
-                        Mer         18:00 - 21:00    TP/Labo              P         A-2244
-
-
-
-MEC129          DÉVELOPPEMENT DE PRODUITS ASSISTÉ PAR
-                ORDINATEUR
-                01      Ven         08:30 - 12:00    C                    P
-                        Mar         08:30 - 11:30    Labo                 P         A-1560
-
-                02      Mer         18:00 - 21:30    C                    D
-                        Mar         18:00 - 21:00    Labo                 D         A-1222
-
-
-
-MEC200          TECHNOLOGIE DES MATÉRIAUX                                                                                     CHM131
-                01      Mar         13:30 - 17:00    C                    P
-                        Horaire à déterminer pour les laboratoires
-
-
-
-
-                 Date : 2022-10-25 12:33:57          L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/10
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                   7684 : Baccalauréat en génie mécanique
-
-
-                                                                     HORAIRE HIVER 2023
-                                                     Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                     Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                     Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                     Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.    LOCAL               ENSEIGNANT            PRÉALABLES
-
-MEC200          TECHNOLOGIE DES MATÉRIAUX                                                                                     CHM131
-                02      Mer         18:00 - 21:30    C                    P
-                        Horaire à déterminer pour les laboratoires
-
-
-MEC222          DYNAMIQUE                                                                                                     MEC111 et MAT145
-                01      Lun         13:30 - 17:00    C                    P
-                        Mar         15:30 - 17:30    TP                   P         A-1212
-
-                02      Jeu         18:00 - 21:30    C                    P
-                        Mer         18:00 - 20:00    TP                   P         A-1226
-
-
-
-MEC240          THERMODYNAMIQUE
-                01      Jeu         08:30 - 12:00    C                    P
-                        Lun         08:30 - 11:30    TP/Labo              D
-
-                02      Lun         13:30 - 17:00    C                    D
-                        Mar         08:30 - 11:30    TP/Labo              D
-
-                03      Mar         18:00 - 21:30    C                    D
-                        Jeu         18:00 - 21:00    TP/Labo              D
-
-
-
-MEC300          TECHNOLOGIE DE FABRICATION                                                                                    MEC200
-                01      Mer         08:30 - 12:00    C                    P
-                        Mar         13:30 - 17:30    TP A+B               P         A-2150, A-2160,
-                                                                                    A-2302, A-4402
-
-                02      Jeu         13:30 - 17:00    C                    P
-                        Lun         13:30 - 17:30    TP A+B               P         A-2150, A-2160,
-                                                                                    A-2302, A-4402
-
-                03      Jeu         18:00 - 21:30    C                    P
-                        Mar         18:00 - 22:00    TP A+B               P         A-2150, A-2160,
-                                                                                    A-2302, A-4402
-
-
-
-MEC329          RÉSISTANCE DES MATÉRIAUX                                                                                      MEC111
-                01      Ven         08:30 - 12:00    C                    P
-                        Lun         13:30 - 16:30    TP/Labo              P         A-2244
-
-                02      Mar         08:30 - 12:00    C                    P
-                        Ven         13:30 - 16:30    TP/Labo              P         A-2244
-
-
-
-MEC335          MÉCANIQUE DES FLUIDES                                                                                         MEC222
-                01      Mer         08:30 - 12:00    C                    P
-                        Jeu         08:30 - 11:30    TP/Labo              P         A-1220, A-2220
-
-                02      Mer         13:30 - 17:00    C                    D
-                        Ven         08:30 - 11:30    TP/Labo              H         A-1560, A-2220
-
-                03      Jeu         18:00 - 21:30    C                    P
-                        Ven         18:00 - 21:00    TP/Labo              P         A-1432, A-2220
-
-
-
-MEC402          PRODUCTION ET FABRICATION INDUSTRIELLES                                                                       MAT350*
-
-                01      Mar         08:30 - 12:00    C                    D
-                        Mer         13:30 - 15:30    Labo                 D         A-1220
-
-
-
-MEC423          MÉTHODE DES ÉLÉMENTS FINIS DES CORPS                                                                          INF135 et MEC329*
-                DÉFORMABLES
-                01      Jeu         08:30 - 12:00    C                    P
-                        Mar         08:30 - 11:30    Labo                 P         A-1222
-
-                02      Lun         13:30 - 17:00    C                    P
-                        Mer         13:30 - 16:30    Labo                 P         A-1560
-
-
-
-
-                 Date : 2022-10-25 12:33:57          L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/10
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                7684 : Baccalauréat en génie mécanique
-
-
-                                                                 HORAIRE HIVER 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
-
-MEC525          CONCEPTION VIBRATOIRE ET DYNAMIQUE DES                                                                       MAT265 et MEC222 et MEC423
-                STRUCTURES
-                01      Lun         08:30 - 12:00   C                    D
-                        Mar         08:30 - 11:30   TP/Labo              P         A-1214, A-2214
-
-                02      Mar         13:30 - 17:00   C                    P
-                        Mer         08:30 - 11:30   TP/Labo              P         A-1214, A-2214
-
-                03      Lun         18:00 - 21:30   C                    P
-                        Mar         18:00 - 21:00   TP/Labo              P         A-1214, A-2214
-
-
-
-MEC528          ÉLÉMENTS DE MACHINE                                                                                          MEC423
-                01      Lun         13:30 - 17:00   C                    P
-                        Mer         08:30 - 10:30   TP/Labo              P         A-1212
-
-                02      Mar         08:30 - 12:00   C                    P
-                        Mer         10:30 - 12:30   TP/Labo              P         A-1212
-
-                03      Lun         18:00 - 21:30   C                    P
-                        Jeu         20:00 - 22:00   TP/Labo              P         A-1222
-
-
-
-MEC532          TRANSFERT DE CHALEUR                                                                                         MEC235 / MEC240
-                01      Jeu         08:30 - 12:00   C                    P
-                        Ven         08:30 - 10:30   TP                   P
-
-                02      Mar         08:30 - 12:00   C                    P
-                        Ven         10:30 - 12:30   TP                   P
-
-                03      Lun         18:00 - 21:30   C                    P
-                        Mar         18:00 - 20:00   TP                   P
-
-
-
-MEC546          CIRCUITS ÉLECTRIQUES ET ÉLECTROTECHNIQUE                                                                     PHY332
-
-                01      Lun         13:30 - 17:00   C                    P
-                        Ven         13:30 - 17:30   TP/Labo              P         A-2170, A-2504
-
-                02      Jeu         18:00 - 21:30   C                    P
-                        Mer         18:00 - 22:00   TP/Labo              P         A-2170, A-2504
-
-
-
-MEC592          PROJET DE CONCEPTION DE MACHINES                                                                             MEC129, MEC300
-
-                01      Jeu         08:30 - 12:00   C                    P         A-1222
-
-                02      Lun         08:30 - 12:00   C                    P         A-1214
-
-                03      Mer         18:00 - 21:30   C                    P         A-1504
-
-
-
-MEC602          TOLÉRANCEMENT ET MÉTROLOGIE                                                                                  MAT350
-                TRIDIMENSIONNELLE
-                01      Ven         08:30 - 12:00   C                    P
-                        Mar         13:30 - 15:30   TP/Labo              P         A-1212, A-1260
-
-
-
-MEC619          MÉCANIQUE DES MATÉRIAUX COMPOSITES                                                                           MEC329
-
-                01      Mer         18:00 - 21:30   C                    D
-                        Jeu         18:00 - 20:00   Labo                 P        A-1220, A-2244,
-                                                                                  A-4402
-
-
-
-MEC625          TECHNOLOGIE DU SOUDAGE                                                                                       MEC200
-                01      Jeu         08:30 - 12:00   C                    P
-                        Lun         08:30 - 12:30   Labo                 P        A-0550, A-1226,
-                                                                                  A-2150
-
-
-
-MEC630          VENTILATION ET CHAUFFAGE                                                                                     MEC335
-                01      Mar         13:30 - 17:00   C                    P
-
-
-                 Date : 2022-10-25 12:33:57         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/10
+                 Date : 2023-03-10 12:30:41         L’École se réserve un droit de modifier l’horaire sans préavis                  Page : 3/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7684 : Baccalauréat en génie mécanique
@@ -619,91 +307,80 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.          LOCAL             ENSEIGNANT           PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.       LOCAL                  ENSEIGNANT                            PRÉALABLES
 
-MEC630          VENTILATION ET CHAUFFAGE                                                                                        MEC335
-                01      Mer         13:30 - 15:30   Labo                    P            A-1504
+LRC110          LEADERSHIP ET RESPONSABILITÉ COLLECTIVE
 
+                Hors-programme, sauf pour les programmes 7625, 7694, 7084, 7684 et 7086
+                Pour plus d’informations : https://www.etsmtl.ca/etudes/leadership-et-responsabilite-collective.
 
-
-MEC634          MISE EN FORME DES ALLIAGES : EXPÉRIMENTATION                                                                    MEC300
-                ET SIMULATION
-                01      Mer         13:30 - 17:00   C                       P            A-1214
-                        Mer         08:30 - 10:30   TP/Labo                 P            A-1504, A-2150
-
-
-
-MEC636          ACOUSTIQUE INDUSTRIELLE                                                                                         MEC222
-                01      Mer         13:30 - 17:00   C                       P
-                        Jeu         08:30 - 12:30   TP A+B                  P            A-1560, A-2210,
-                                                                                         A-2214, A-2230
-
-
-
-MEC671          DESIGN CONCEPTUEL DES AÉRONEFS
-
-                01      Mar         18:00 - 21:30   C                       H
-                        Lun         18:00 - 20:00   TP/Labo                 H            A-1226
-
-
-
-MEC702          TECHNIQUES DE MAINTENANCE PRÉDICTIVE ET                                                                         MAT350 et MEC525
-                FIABILITÉ
-                01      Lun         18:00 - 21:30   C                       P
-                        Mar         18:00 - 20:00   TP/Labo                 P            A-1560
-
-
-
-MEC733          GESTION D'ÉNERGIE DANS LES BÂTIMENTS                                                                            MEC335
-
-                01      Lun         13:30 - 17:00   C                       P
-                        Ven         10:30 - 12:30   TP/Labo                 P            A-1226
-
-
-
-MEC735          CONCEPTION INTÉGRÉE DES SYSTÈMES MÉCANIQUES
-                DANS LES BÂTIMENTS
-                01      Mer         08:30 - 12:00   C                       P
-                        Ven         13:30 - 17:00   TP                      P            A-1214
-                        Ven         13:30 - 21:30   Labo A                  P
-                        Sam         08:30 - 17:30   Labo B                  P
-                        03 février 2023
+                01      Sam         13:00 - 17:00   TP                      H
+                        07 janvier 2023
+                        14 janvier 2023
+                        21 janvier 2023
+                        28 janvier 2023
                         04 février 2023
-                        10 mars 2023
+                        11 février 2023
+                        18 février 2023
+                        25 février 2023
                         11 mars 2023
-                        Labos A et B (charrettes) seront données aux dates suivantes :
-                        Charrette #1 - 3 février et 10 mars 2023
-                        Charrette #2 - 4 février et 11 mars 2023
+                        18 mars 2023
+                        25 mars 2023
+                        01 avril 2023
+                        15 avril 2023
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 20 janvier 2023 / 17 février 2023
+                        Les séances de cours ont lieu en présentiel et les séances TP à distance. La première séance de cours aura lieu au A-1600 et les suivantes au E-2033.
 
 
-MEC743          INSTRUMENTATION ET CONTRÔLE DES PROCÉDÉS                                                                        PHY332
-                INDUSTRIELS
-                01      Jeu         13:30 - 17:00   C                       D            A-1222
-                        Mer         10:30 - 12:30   TP/Labo                 H            A-1560, A-2170
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
+                (HORS PROG.)
+                01      Lun         09:00 - 12:30   C                       P          B-0906                I. Ndiaye
+                        Mer         13:30 - 16:30   TP                      P          B-0908                A. Madrane
 
+                02      Jeu         13:30 - 17:00   C                       P          D-3008                V. Gouaillier
+                        Mer         09:00 - 12:00   TP                      P          B-0908                V. Gouaillier
 
-
-MEC745          ROBOTIQUE MOBILE                                                                                                MAT265, MEC222
-                01      Lun         13:30 - 17:00   C                       D
-                        Mer         13:30 - 17:30   Labo A+B                P            A-2230
-
-
-
-MEC757          INTRODUCTION À L’AÉRODYNAMIQUE                                                                                  MEC335
-
-                01      Mer         13:30 - 17:00   C                       P
-                        Jeu         13:30 - 15:30   TP/Labo                 P            A-1560
+                03      Mar         18:00 - 21:30   C                       P          B-4408                I. Ndiaye
+                        Jeu         18:00 - 21:00   TP                      P          B-3416                O. Foutlane
 
 
 
-MEC758          SYSTÈME DE PROPULSION ET TURBOMACHINES                                                                          MEC335
+MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
-                01      Mar         18:00 - 21:30   C                       P
+                01      Lun         09:00 - 12:30   C                       P          B-3428                A. Bergeron-Brlek
+                        Mer         13:30 - 16:30   TP                      P          B-3416                A. Bergeron-Brlek
+
+                02      Mer         13:30 - 17:00   C                       P          B-1404                J.M. Lemay
+                        Lun         09:00 - 12:00   TP                      P          B-1506                J.M. Lemay
+
+                03      Lun         09:00 - 12:30   C                       P          B-1502                A. Lacasse
+                        Mer         13:30 - 16:30   TP                      P          D-4007                A. Lacasse
+
+                04      Jeu         13:30 - 17:00   C                       P          B-3416                J.M. Lemay
+                        Mer         09:00 - 12:00   TP                      P          B-3416                J.M. Lemay
+
+                05      Mer         09:00 - 12:30   C                       P          B-1404                A. Lacasse
+                        Jeu         13:30 - 16:30   TP                      P          D-5009                A. Lacasse
+
+                06      Lun         13:30 - 17:00   C                       P          B-1404                A. Bergeron-Brlek
+                        Jeu         09:00 - 12:00   TP                      P          D-3025                A. Bergeron-Brlek
+
+                07      Lun         18:00 - 21:30   C                       H                                K. Mahni
+                        Mer         18:00 - 21:00   TP                      H                                A. Beljadid
+
+                08      Mar         18:00 - 21:30   C                       P          B-1708                P. Mbaraga
+                        Jeu         18:00 - 21:00   TP                      P          B-1404                P. Mbaraga
+
+
+
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                                                            MAT145
+
+                01      Ven         09:00 - 12:30   C                       P          B-1506                G. Roy-Fortin
 
 
 
 
-                 Date : 2022-10-25 12:33:57          L’École se réserve un droit de modifier l’horaire sans préavis     Page : 7/10
+                 Date : 2023-03-10 12:30:41          L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 4/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -719,91 +396,573 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                   PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT              PRÉALABLES
 
-MEC758          SYSTÈME DE PROPULSION ET TURBOMACHINES                                                                              MEC335
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                                        MAT145
 
-                01      Ven         18:00 - 20:00   TP/Labo              P
+                01      Lun         13:30 - 16:30   TP                   P         B-1502              G. Roy-Fortin
 
+                02      Ven         13:30 - 17:00   C                    P         B-3406              G. Savard
+                        Jeu         09:00 - 12:00   TP                   P         B-0906              G. Savard
 
+                03      Jeu         13:30 - 17:00   C                    P         D-4007              G. Savard
+                        Mar         13:30 - 16:30   TP                   P         B-1404              G. Savard
 
-MEC761          ESSAIS MÉCANIQUES ET CONTRÔLE NON DESTRUCTIF                                                                        MEC200
+                04      Mar         09:00 - 12:30   C                    P         B-1506              G. Roy-Fortin
+                        Mer         09:00 - 12:00   TP                   P         B-3428              G. Roy-Fortin
 
-                01      Mar         08:30 - 12:00   C                    D
-                        Jeu         15:30 - 17:30   TP/Labo              H         A-1560
+                05      Lun         09:00 - 12:30   C                    P         B-1504              M. Beaudin
+                        Mer         13:30 - 16:30   TP                   P         B-3428              M. Beaudin
 
-
-
-MEC788          MÉCATRONIQUE                                                                                                        MEC222 et MEC546*
-                01      Mer         13:30 - 17:00   C                    P
-                        Lun         13:30 - 17:30   TP A+B               P         A-1432
-
-                02      Mer         18:00 - 21:30   C                    P
-                        Ven         18:00 - 22:00   TP A+B               P         A-1220
-
-
-
-MEC791          PROJETS SPÉCIAUX                                                                                                    Autorisation du directeur de
-                                                                                                                                    département
-                01                                  Projet               P
+                06      Mer         18:00 - 21:30   C                    P         B-1516              A. Régnier
+                        Mar         18:00 - 21:00   TP                   P         B-1516              F. Côté
 
 
 
-MEC795          PROJET DE FIN D'ÉTUDES EN GÉNIE MÉCANIQUE                                                                           Minimum 99 Cr
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                      MAT145
+                01      Ven         09:00 - 12:30   C                    P         B-1706              H. Lahoussine
+                        Lun         13:30 - 16:30   TP                   P         B-4408              H. Lahoussine
 
-                01      Ven         13:30 - 17:30   C                    P         A-1560
+                02      Ven         13:30 - 17:00   C                    P         B-1504              M. Groiez
+                        Jeu         09:00 - 12:00   TP                   P         B-0904              O. Foutlane
+
+                03      Jeu         13:30 - 17:00   C                    P         B-3428              G. Picard
+                        Mar         13:30 - 16:30   TP                   P         B-1504              G. Picard
+
+                04      Mar         09:00 - 12:30   C                    P         B-1708              H. Lahoussine
+                        Mer         09:00 - 12:00   TP                   P         B-1504              H. Lahoussine
+
+                05      Lun         09:00 - 12:30   C                    P         B-1708              H. Lahoussine
+                        Mer         13:30 - 16:30   TP                   P         B-1506              H. Lahoussine
+
+                06      Jeu         09:00 - 12:30   C                    P         B-3428              S. Ayad
+                        Ven         13:30 - 16:30   TP                   P         B-4408              O. Foutlane
+
+                07      Mar         13:30 - 17:00   C                    P         B-1708              M. Beaudin
+                        Jeu         13:30 - 16:30   TP                   P         B-1506              M. Beaudin
+
+                08      Lun         18:00 - 21:30   C                    P         B-1516              M. Groiez
+                        Jeu         18:00 - 21:00   TP                   P         B-1516              R. Hassani
+
+                09      Mer         18:00 - 21:30   C                    H                             S. Ayad
+                        Mar         18:00 - 21:00   TP                   H                             A. Beljadid
+
+
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                                   MAT145
+                01      Ven         13:30 - 17:00   C                    P         B-1502              S. Lafrance
+                        Mer         13:30 - 16:30   TP                   P         D-3008              S. Lafrance
+
+                02      Jeu         09:00 - 12:30   C                    P         B-1506              J.P. Labbé
+                        Mar         13:30 - 16:30   TP                   P         B-1706              J.P. Labbé
+
+                03      Ven         09:00 - 12:30   C                    P         B-1518              S. Lafrance
+                        Lun         09:00 - 12:00   TP                   P         B-1518              S. Lafrance
+
+                04      Mer         09:00 - 12:30   C                    P         D-5010              M. Forest
+                        Lun         13:30 - 16:30   TP                   P         B-1506              M. Forest
+
+                05      Jeu         13:30 - 17:00   C                    P         B-1708              J.P. Labbé
+                        Mar         09:00 - 12:00   TP                   P         B-1518              J.P. Labbé
+
+                06      Mer         13:30 - 17:00   C                    P         B-4408              S. Gervais
+                        Ven         13:30 - 16:30   TP                   P         B-1706              S. Gervais
+
+                07      Mar         13:30 - 17:00   C                    P         B-1518              S. Lafrance
+                        Jeu         09:00 - 12:00   TP                   P         B-1708              S. Lafrance
+
+                08      Lun         18:00 - 21:30   C                    H                             S. Ayad
+                        Jeu         18:00 - 21:00   TP                   H                             S. Ayad
+
+
+
+MEC111          STATIQUE DE L'INGÉNIEUR
+                01      Mar         13:30 - 17:00   C                    P         D-3007              N.S. Hô
+                        Lun         08:30 - 11:30   TP/Labo              P         A-2244, D-4017      N.S. Hô
+
+                02      Lun         18:00 - 21:30   C                    P         D-4008              N.S. Hô
+
+                 Date : 2023-03-10 12:30:41         L’École se réserve un droit de modifier l’horaire sans préavis     Page : 5/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                   7684 : Baccalauréat en génie mécanique
+
+
+                                                                     HORAIRE HIVER 2023
+                                                     Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                     Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                     Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                     Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.    LOCAL               ENSEIGNANT                          PRÉALABLES
+
+MEC111          STATIQUE DE L'INGÉNIEUR
+                02      Mer         18:00 - 21:00    TP/Labo              P         A-2244, D-3007      N.S. Hô
+
+                03      Lun         08:30 - 12:00    C                    P         E-4026              V.N. Lê
+                        Mar         13:30 - 16:30    TP/Labo              P         A-2244, E-4026      V.N. Lê
+
+
+
+MEC129          DÉVELOPPEMENT DE PRODUITS ASSISTÉ PAR
+                ORDINATEUR
+                01      Ven         08:30 - 12:00    C                    P         B-1716              D. St-Onge
+                        Mar         08:30 - 11:30    Labo                 P         A-1560              J. Bergeron
+
+                02      Mer         18:00 - 21:30    C                    D                             S. Bérubé
+                        Mar         18:00 - 21:00    Labo                 D         A-1222              Z. Brabant
+
+
+
+MEC200          TECHNOLOGIE DES MATÉRIAUX                                                                                                   CHM131
+                01      Mar         13:30 - 17:00    C                    P         B-3414              L.A. Hof
+                        Horaire à déterminer pour les laboratoires
+                02      Mer         18:00 - 21:30    C                    P         B-3422              L.A. Hof
+                        Horaire à déterminer pour les laboratoires
+
+
+MEC222          DYNAMIQUE                                                                                                                   MEC111 et MAT145
+                01      Lun         13:30 - 17:00    C                    P         D-3017              P. Bélanger
+                        Mar         15:30 - 17:30    TP                   P         A-1504, D-4017      A. Chaboty
+
+                02      Jeu         18:00 - 21:30    C                    P         E-2024              P. Bélanger
+                        Mer         18:00 - 20:00    TP                   P         A-1226, D-5008      T. Rasolonirina
+
+
+
+MEC240          THERMODYNAMIQUE
+                01      Jeu         08:30 - 12:00    C                    P         D-4007              G. Di Labbio
+                        Lun         08:30 - 11:30    TP/Labo              D                             R. Lemaire
+
+                02      Lun         13:30 - 17:00    C                    D                             R. Lemaire
+                        Mar         08:30 - 11:30    TP/Labo              D                             R. Lemaire
+
+                03      Mar         18:00 - 21:30    C                    D                             R. Lemaire
+                        Jeu         18:00 - 21:00    TP/Labo              D                             R. Lemaire
+
+
+
+MEC300          TECHNOLOGIE DE FABRICATION                                                                                                  MEC200
+                01      Mer         08:30 - 12:00    C                    P         E-2024              V. Demers
+                        Mar         13:30 - 17:30    TP A+B               P         A-1432, A-2150,     J. Kouam / L. Brilland
+                                                                                    A-2160, A-2302,
+                                                                                    A-4402, D-4018
+
+                02      Jeu         13:30 - 17:00    C                    P         D-4017              A. Szymanski
+                        Lun         13:30 - 17:30    TP A+B               P         A-1560, A-2150,     E. Beaudoin / B. Beaulieu
+                                                                                    A-2160, A-2302,
+                                                                                    A-4402, D-5017
+
+                03      Jeu         18:00 - 21:30    C                    P         E-4025              A. Szymanski
+                        Mar         18:00 - 22:00    TP A+B               P         A-1432, A-2150,     J. Kouam / B. Beaulieu
+                                                                                    A-2160, A-2302,
+                                                                                    A-4402, D-3007
+
+
+
+MEC329          RÉSISTANCE DES MATÉRIAUX                                                                                                    MEC111
+                01      Ven         08:30 - 12:00    C                    P         E-2023              T. Pham
+                        Lun         13:30 - 16:30    TP/Labo              P         A-2244, B-3422      N.S. Hô
+
+                02      Mar         08:30 - 12:00    C                    P         E-2023              T. Pham
+                        Ven         13:30 - 16:30    TP/Labo              P         A-2244, B-3432      N.S. Hô
+
+
+
+MEC335          MÉCANIQUE DES FLUIDES                                                                                                       MEC222
+                01      Mer         08:30 - 12:00    C                    P         B-3432              M. Sanjosé
+                        Jeu         08:30 - 11:30    TP/Labo              P         A-1220, A-2220,     M. Sanjosé / Z. Boucetta
+                                                                                    B-3414
+
+                02      Mer         13:30 - 17:00    C                    D                             A. Soulaïmani
+
+
+
+                 Date : 2023-03-10 12:30:41          L’École se réserve un droit de modifier l’horaire sans préavis                 Page : 6/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                7684 : Baccalauréat en génie mécanique
+
+
+                                                                 HORAIRE HIVER 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                           PRÉALABLES
+
+MEC335          MÉCANIQUE DES FLUIDES                                                                                                       MEC222
+                02      Ven         08:30 - 11:30   TP/Labo              H        A-1560, A-2220,      M. Chahine
+                                                                                  D-3008
+
+
+
+MEC402          PRODUCTION ET FABRICATION INDUSTRIELLES                                                                                     MAT350*
+
+                01      Mar         08:30 - 12:00   C                    D                             Y. Beauregard
+                        Mer         13:30 - 15:30   Labo                 D         A-1220
+
+
+
+MEC423          MÉTHODE DES ÉLÉMENTS FINIS DES CORPS                                                                                        INF135 et MEC329*
+                DÉFORMABLES
+                01      Jeu         08:30 - 12:00   C                    P         B-3418              V.N. Lê
+                        Mar         08:30 - 11:30   Labo                 P         A-1222              V.N. Lê
+
+                02      Lun         13:30 - 17:00   C                    P         B-3432              H. Champliaud
+                        Mer         13:30 - 16:30   Labo                 P         A-1560              V.N. Lê
+
+                03      Lun         18:00 - 21:30   C                    P         D-3017              H. Champliaud
+                        Jeu         18:00 - 21:00   Labo                 P         A-1432              H. Champliaud
+
+
+
+MEC525          CONCEPTION VIBRATOIRE ET DYNAMIQUE DES                                                                                      MAT265 et MEC222 et MEC423
+                STRUCTURES
+                01      Lun         08:30 - 12:00   C                    D                             Z. Liu
+                        Mar         08:30 - 11:30   TP/Labo              P        A-1214, A-2214,      A. Delnavaz / Z. Liu
+                                                                                  B-4416
+
+                02      Mar         13:30 - 17:00   C                    P        B-3418               Z. Liu
+                        Mer         08:30 - 11:30   TP/Labo              P        A-1214, A-2214,      A. Delnavaz
+                                                                                  B-3414
+
+                03      Lun         18:00 - 21:30   C                    P        D-5017               F. Mabrouki
+                        Mar         18:00 - 21:00   TP/Labo              P        A-1214, A-2214,      F. Mabrouki / D. Gagnon
+                                                                                  D-5008
+
+
+
+MEC528          ÉLÉMENTS DE MACHINE                                                                                                         MEC423
+                01      Lun         13:30 - 17:00   C                    P         D-3009              S. Lalonde
+                        Mer         08:30 - 10:30   TP/Labo              P         A-1560, B-3418      A. Mongrain / S. Pelletier
+
+                02      Mar         08:30 - 12:00   C                    P         D-4018              P.L. Vachon
+                        Mer         10:30 - 12:30   TP/Labo              P         A-1504, B-3418      A. Mongrain / S. Pelletier
+
+                03      Lun         18:00 - 21:30   C                    P         D-3009              S. Lalonde
+                        Jeu         20:00 - 22:00   TP/Labo              P         A-1220, B-1402      A. Mongrain / S. Pelletier
+
+
+
+MEC532          TRANSFERT DE CHALEUR                                                                                                        MEC235 / MEC240
+                01      Jeu         08:30 - 12:00   C                    P         D-4018              S. Benneceur
+                        Ven         08:30 - 10:30   TP                   P         D-5008              M. Alakhdar
+
+                02      Mar         08:30 - 12:00   C                    P         D-4017              S. Benneceur
+                        Ven         10:30 - 12:30   TP                   P         D-5008              M. Chahine
+
+                03      Lun         18:00 - 21:30   C                    P         D-3007              S. Benneceur
+                        Mar         18:00 - 20:00   TP                   P         D-4018              M. Chahine
+
+
+
+MEC546          CIRCUITS ÉLECTRIQUES ET ÉLECTROTECHNIQUE                                                                                    PHY332
+
+                01      Lun         13:30 - 17:00   C                    P        D-3007               M. Rafaf
+                        Ven         13:30 - 17:30   TP/Labo              P        A-2170, A-2504,      M. Rafaf
+                                                                                  D-4018
+
+                02      Jeu         18:00 - 21:30   C                    P        B-3432               M. Rafaf
+                        Mer         18:00 - 22:00   TP/Labo              P        A-2170, A-2504,      M. Rafaf
+                                                                                  B-4416
+
+
+
+
+                 Date : 2023-03-10 12:30:41         L’École se réserve un droit de modifier l’horaire sans préavis                  Page : 7/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                7684 : Baccalauréat en génie mécanique
+
+
+                                                                 HORAIRE HIVER 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                               PRÉALABLES
+
+MEC592          PROJET DE CONCEPTION DE MACHINES                                                                                                MEC129, MEC300
+
+                01      Jeu         08:30 - 12:00   C                    P         A-1222, D-5008      A. Delnavaz
+
+                02      Lun         08:30 - 12:00   C                    P         A-1214, D-3010      J. Clément
+
+                03      Mer         18:00 - 21:30   C                    P         A-1504, D-5025      A. Delnavaz
+
+
+
+MEC602          TOLÉRANCEMENT ET MÉTROLOGIE                                                                                                     MAT350
+                TRIDIMENSIONNELLE
+                01      Ven         08:30 - 12:00   C                    P        D-4018               A. Tahan
+                        Mar         13:30 - 15:30   TP/Labo              P        A-1212, A-1260,      A. Aidibe
+                                                                                  D-4017
+
+
+
+MEC619          MÉCANIQUE DES MATÉRIAUX COMPOSITES                                                                                              MEC329
+
+                01      Mer         18:00 - 21:30   C                    D                             A.D. Ngô
+                        Jeu         18:00 - 20:00   Labo                 P        A-1220, A-2244,      J. Kouam
+                                                                                  A-4402, D-3019
+
+
+
+MEC625          TECHNOLOGIE DU SOUDAGE                                                                                                          MEC200
+                01      Lun         08:30 - 12:00   C                    P        B-3422               E. Moosavi / N.S. Hô
+                        Jeu         08:30 - 12:30   Labo                 P        A-0550, A-1226,      J. Kouam / F. Thomas / M.
+                                                                                  A-2150, B-3422       Maroufkhani / E. Moosavi / R. Dunze
+                                                                                                       Dzussouo / N.S. Hô
+
+
+
+MEC630          VENTILATION ET CHAUFFAGE                                                                                                        MEC335
+                01      Mar         13:30 - 17:00   C                    P         D-5025              S. Hallé
+                        Mer         13:30 - 15:30   Labo                 P         A-1504              H. Proulx
+
+
+
+MEC634          MISE EN FORME DES ALLIAGES : EXPÉRIMENTATION                                                                                    MEC300
+                ET SIMULATION
+                01      Mer         13:30 - 17:00   C                    P         A-1214, D-3009      M. Jahazi / J. Gholipour Baradari / H.
+                                                                                                       Champliaud
+                        Mer         08:30 - 10:30   TP/Labo              P        A-1504, A-2150,      H. Champliaud
+                                                                                  D-4023
+
+
+
+MEC636          ACOUSTIQUE INDUSTRIELLE                                                                                                         MEC222
+                01      Mer         13:30 - 17:00   C                    P        D-3007               O. Doutres
+                        Jeu         08:30 - 12:30   TP A+B               P        A-1560, A-2210,      M. Lopez / K. Rouard
+                                                                                  A-2214, A-2230,
+                                                                                  D-4017
+
+
+
+MEC671          DESIGN CONCEPTUEL DES AÉRONEFS
+
+                01      Mar         18:00 - 21:30   C                    H         B-3422              F. Morency
+                        Lun         18:00 - 20:00   TP/Labo              H         A-1226, B-4416      K. Ignatowicz
+
+                02      Lun         13:30 - 17:00   C                    H         B-1514              K. Ignatowicz
+                        Mer         10:30 - 12:30   TP/Labo              H         B-1518              K. Ignatowicz
+
+
+
+MEC702          TECHNIQUES DE MAINTENANCE PRÉDICTIVE ET                                                                                         MAT350 et MEC525
+                FIABILITÉ
+                01      Lun         18:00 - 21:30   C                    P         D-5008              F. Provost / M. Brient
+                        Mar         18:00 - 20:00   TP/Labo              P         A-1560, E-2022      J. Togbe
+
+
+
+MEC733          GESTION D'ÉNERGIE DANS LES BÂTIMENTS                                                                                            MEC335
+
+                01      Lun         13:30 - 17:00   C                    P         D-5023              S. Kajl
+                        Ven         10:30 - 12:30   TP/Labo              P         A-1226, D-4023      P. Wary
+
+
+
+
+                 Date : 2023-03-10 12:30:41         L’École se réserve un droit de modifier l’horaire sans préavis                   Page : 8/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                    7684 : Baccalauréat en génie mécanique
+
+
+                                                                   HORAIRE HIVER 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.          LOCAL              ENSEIGNANT                    PRÉALABLES
+
+MEC735          CONCEPTION INTÉGRÉE DES SYSTÈMES MÉCANIQUES
+                DANS LES BÂTIMENTS
+                01      Mer         08:30 - 12:00   C                       P            D-3010             D. Monfet / S. Kajl
+                        Ven         13:30 - 17:00   TP                      P            A-1214
+                        Ven         13:30 - 21:30   Labo A                  P            D-3019             S. Kajl
+                        Sam         08:30 - 17:30   Labo B                  P            D-3019             D. Monfet
+                        03 février 2023
+                        04 février 2023
+                        10 mars 2023
+                        11 mars 2023
+                        Labos A et B (charrettes) seront données aux dates suivantes :
+                        Charrette #1 - 3 février et 10 mars 2023
+                        Charrette #2 - 4 février et 11 mars 2023
+
+
+MEC743          INSTRUMENTATION ET CONTRÔLE DES PROCÉDÉS                                                                                  PHY332
+                INDUSTRIELS
+                01      Jeu         13:30 - 17:00   C                       D            A-1222             M. Viens
+                        Mer         10:30 - 12:30   TP/Labo                 H            A-1560, A-2170,    M. Viens
+                                                                                         B-3422
+
+
+
+MEC745          ROBOTIQUE MOBILE                                                                                                          MAT265, MEC222
+                01      Lun         13:30 - 17:00   C                       D                               D. St-Onge
+                        Mer         13:30 - 17:30   Labo A+B                P            A-2230             J. Mazerolle
+
+
+
+MEC757          INTRODUCTION À L’AÉRODYNAMIQUE                                                                                            MEC335
+
+                01      Mer         13:30 - 17:00   C                       P            D-5008             P. Germain
+                        Jeu         13:30 - 15:30   TP/Labo                 P            A-1560, D-5025     S. Cantin
+
+
+
+MEC761          ESSAIS MÉCANIQUES ET CONTRÔLE NON DESTRUCTIF                                                                              MEC200
+
+                01      Mar         08:30 - 12:00   C                       D                               M. Viens
+                        Jeu         15:30 - 17:30   TP/Labo                 H            A-1560, B-3432     H. Mouthon
+
+
+
+MEC788          MÉCATRONIQUE                                                                                                              MEC222 et MEC546*
+                01      Mer         13:30 - 17:00   C                       P            D-4018             C. Belleau
+                        Lun         13:30 - 17:30   TP A+B                  P            A-1432, B-3418     H. Bechara
+
+                02      Mer         18:00 - 21:30   C                       H            D-3010             É. Lacroix
+                        Ven         18:00 - 22:00   TP A+B                  P            A-1220, D-4023     R. Ibrahim
+
+
+
+MEC791          PROJETS SPÉCIAUX                                                                                                          Autorisation du directeur de
+                                                                                                                                          département
+                01                                  Projet                  P            D-3010
+
+
+
+MEC795          PROJET DE FIN D'ÉTUDES EN GÉNIE MÉCANIQUE                                                                                 Minimum 99 Cr
+
+                01      Ven         13:30 - 17:30   C                       P            A-1560, D-4019
 
 
 
 PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                 PROFESSIONNELLE
                 Il n’est pas recommandé de vous inscrire au cours PEP110 si vous n’avez pas complété votre premier stage.
-                01      Mar         13:30 - 17:00   Atelier              D
+                01      Mar         13:30 - 17:00   Atelier                 D                               T. Mekhaël
                         17 janvier 2023
                         24 janvier 2023
                         31 janvier 2023
                         07 février 2023
-                02      Mar         13:30 - 17:00   Atelier              P
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 23 janvier 2023 / 30 janvier 2023
+                02      Mar         13:30 - 17:00   Atelier                 P            B-1516             T. Mekhaël
                         14 février 2023
                         21 février 2023
                         07 mars 2023
                         14 mars 2023
-                03      Mer         18:00 - 21:30   Atelier              D
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 20 février 2023 / 06 mars 2023
+
+
+
+                 Date : 2023-03-10 12:30:41          L’École se réserve un droit de modifier l’horaire sans préavis               Page : 9/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                   7684 : Baccalauréat en génie mécanique
+
+
+                                                                   HORAIRE HIVER 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.       LOCAL                 ENSEIGNANT                          PRÉALABLES
+
+PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
+                PROFESSIONNELLE
+                Il n’est pas recommandé de vous inscrire au cours PEP110 si vous n’avez pas complété votre premier stage.
+                03      Mer         18:00 - 21:30   Atelier                D                                C. Ebnoether
                         18 janvier 2023
                         25 janvier 2023
                         01 février 2023
                         08 février 2023
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 24 janvier 2023 / 31 janvier 2023
+                04      Mar         13:30 - 17:00   Atelier                P          B-1506                T. Mekhaël
+                        21 mars 2023
+                        28 mars 2023
+                        04 avril 2023
+                        11 avril 2023
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 27 mars 2023 / 03 avril 2023
+                05      Mer         18:00 - 21:30   Atelier                D                                T. Mekhaël
+                        15 février 2023
+                        22 février 2023
+                        08 mars 2023
+                        15 mars 2023
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 21 février 2023 / 07 mars 2023
+                06      Mer         18:00 - 21:30   Atelier                D                                T. Mekhaël
+                        22 mars 2023
+                        29 mars 2023
+                        05 avril 2023
+                        12 avril 2023
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 28 mars 2023 / 04 avril 2023
 
 
 
 PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
                 PROGRAMME)
-                01      Mer         13:30 - 17:00   C                    P
-                        Jeu         13:30 - 16:30   TP/Labo              P
+                01      Mer         13:30 - 17:00   C                      P          B-3406                A. Benmassaoud
+                        Jeu         13:30 - 16:30   TP/Labo                P          B-3406                A. Benmassaoud
 
-                02      Mar         13:30 - 17:00   C                    P
-                        Lun         09:00 - 12:00   TP/Labo              P
+                02      Mar         13:30 - 17:00   C                      P          B-3416                C. Alinot
+                        Lun         09:00 - 12:00   TP/Labo                P          B-3416                C. Alinot
 
-                03      Lun         18:00 - 21:30   C                    P
-                        Mer         18:00 - 21:00   TP/Labo              P
-
-
-
-PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                           CTN248 / ING150
-                01      Ven         13:30 - 17:00   C                    P
-                        Jeu         09:00 - 12:00   Labo                 P
-
-                02      Lun         09:00 - 12:30   C                    P
-                        Ven         09:00 - 12:00   Labo                 P
-
-                03      Jeu         13:30 - 17:00   C                    P
-                        Lun         13:30 - 16:30   Labo                 P
-
-                04      Mer         13:30 - 17:00   C                    P
+                03      Lun         18:00 - 21:30   C                      P          B-3416                D. Benhachmi
+                        Mer         18:00 - 21:00   TP/Labo                P          B-3406                A.S. Bajamgnigni Gbambie
 
 
 
-                 Date : 2022-10-25 12:33:57         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 8/10
+PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                                       CTN248 / ING150
+                01      Ven         13:30 - 17:00   C                      P          B-1518                N. Dabin-Voix
+                        Jeu         09:00 - 12:00   Labo                   P          B-1706                N. Dabin-Voix
+
+                02      Ven         09:00 - 12:30   C                      P          B-1514                O. Landon-Cardinal
+                        Lun         09:00 - 12:00   Labo                   P          B-1516                J. Kouam
+
+                03      Jeu         13:30 - 17:00   C                      P          B-1706                A. Hénault
+                        Lun         13:30 - 16:30   Labo                   P          B-1518                A. Hénault
+
+                04      Mer         13:30 - 17:00   C                      P          B-1516                G. Paquin
+                        Mar         09:00 - 12:00   Labo                   P          B-1516                J. Kouam
+
+                05      Mer         09:00 - 12:30   C                      P          B-1502                M. Boulé
+                        Mar         13:30 - 16:30   Labo                   P          B-1502                M. Boulé
+
+                06      Jeu         18:00 - 21:30   C                      H                                G. Paquin
+                        Mar         18:00 - 21:00   Labo                   H                                G. Paquin
+
+
+
+
+                 Date : 2023-03-10 12:30:41         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 10/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7684 : Baccalauréat en génie mécanique
@@ -819,30 +978,7 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.       LOCAL                    ENSEIGNANT           PRÉALABLES
-
-PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                            CTN248 / ING150
-                04      Mar         09:00 - 12:00    Labo                    P
-
-                05      Mer         09:00 - 12:30    C                       P
-                        Mar         13:30 - 16:30    Labo                    P
-
-                06      Jeu         18:00 - 21:30    C                       H
-                        Mar         18:00 - 21:00    Labo                    H
-
-
-
-PHYEST          ACCUEIL EN PHYSIQUE
-                01      Mer         13:30 - 17:00    C                       P
-                        Jeu         13:30 - 16:30    TP/Labo                 P
-
-                02      Mar         13:30 - 17:00    C                       P
-                        Lun         09:00 - 12:00    TP/Labo                 P
-
-                03      Lun         18:00 - 21:30    C                       P
-                        Mer         18:00 - 21:00    TP/Labo                 P
-
-
+COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.       LOCAL                    ENSEIGNANT              PRÉALABLES
 
 PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 SANTÉ ET SÉCURITÉ
@@ -852,32 +988,26 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET INTENSIF SANTÉ-SÉCURITÉ : 15 h aux dates indiquées pour chaque groupe.
                 Le groupe 09 est réservé aux étudiants.es en génie de la construction.
 
-                01      Lun         18:00 - 21:30    Atelier                 D
+                01      Lun         18:00 - 21:30    Atelier                 D                                  D. Leclerc
                         16 janvier 2023
                         23 janvier 2023
                         30 janvier 2023
                         06 février 2023
                         13 février 2023
-                02      Mar         13:30 - 16:30    Atelier                 D
+                02      Mar         13:30 - 17:00    Atelier                 D                                  D. Lapointe
                         14 février 2023
                         21 février 2023
                         07 mars 2023
                         14 mars 2023
                         21 mars 2023
-                03      Mar         18:00 - 21:30    Atelier                 D
-                        17 janvier 2023
-                        24 janvier 2023
-                        31 janvier 2023
-                        07 février 2023
-                        14 février 2023
-                04      Mer         18:00 - 21:30    Atelier                 D
+                04      Mer         18:00 - 21:30    Atelier                 D                                  D. Leclerc
                         11 janvier 2023
                         18 janvier 2023
                         25 janvier 2023
                         01 février 2023
                         08 février 2023
-                05      Ven         18:00 - 21:30    Atelier                 D
-                        Sam         09:00 - 17:30    C                       D
+                05      Ven         18:00 - 21:30    Atelier                 D                                  D. Leclerc
+                        Sam         09:00 - 17:00    C                       D
                         20 janvier 2023
                         21 janvier 2023
                         28 janvier 2023
@@ -887,20 +1017,39 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 
 TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
-                01      Mar         09:00 - 12:30    C                       P
-                        Mer         13:30 - 17:30    TP A+B                  P
+                01      Mar         09:00 - 12:30    C                       P          D-4012                  É. Francoeur
+                        Mer         13:30 - 17:30    TP A+B                  P          D-4012                  J. Rivera
 
-                02      Jeu         09:00 - 12:30    C                       P
-                        Lun         13:30 - 17:30    TP A+B                  P
+                02      Jeu         09:00 - 12:30    C                       P          D-4012                  É. Francoeur
+                        Lun         13:30 - 17:30    TP A+B                  P          D-4012                  J. Rivera
 
-                03      Ven         13:30 - 17:00    C                       P
-                        Mer         08:30 - 12:30    TP A+B                  P
+                03      Ven         13:30 - 17:00    C                       P          D-5012                  M. Monette
+                        Mer         08:30 - 12:30    TP A+B                  P          D-4007                  M. Monette
 
-                04      Ven         09:00 - 12:30    C                       P
-                        Lun         08:30 - 12:30    TP A+B                  P
+                04      Ven         09:00 - 12:30    C                       P          D-5012                  L. Arel
+                        Lun         08:30 - 12:30    TP A+B                  P          D-5012                  L. Arel
+
+                05      Jeu         13:30 - 17:00    C                       P          D-5012                  M. Monette
+                        Mar         13:30 - 17:30    TP A+B                  P          D-5012                  M. Monette
+
+                06      Mer         13:30 - 17:00    C                       P          D-5012                  M. Monette
+                        Mar         08:30 - 12:30    TP A+B                  P          D-5012                  M. Monette
+
+                07      Mer         18:00 - 21:30    C                       H                                  L. Arel
+                        Ven         18:00 - 22:00    TP A+B                  H                                  L. Arel
+
+                08      Jeu         18:00 - 21:30    C                       H                                  M. Lejeune
+                        Mar         18:00 - 22:00    TP A+B                  H                                  M. Lejeune
 
 
-                 Date : 2022-10-25 12:33:57          L’École se réserve un droit de modifier l’horaire sans préavis          Page : 9/10
+
+TIN504          SANTÉ, TECHNOLOGIE ET SOCIÉTÉ
+                01      Mar         18:00 - 21:30    C                       P          B-3420                  M.K. Daoust
+
+
+
+
+                 Date : 2023-03-10 12:30:41          L’École se réserve un droit de modifier l’horaire sans préavis            Page : 11/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        7684 : Baccalauréat en génie mécanique
@@ -918,25 +1067,8 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE           ACTIVITÉ           Mode d'ens.     LOCAL                 ENSEIGNANT                             PRÉALABLES
 
-TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
-
-                05      Jeu         13:30 - 17:00     C                        P
-                        Mar         13:30 - 17:30     TP A+B                   P
-
-                06      Mer         13:30 - 17:00     C                        P
-                        Mar         08:30 - 12:30     TP A+B                   P
-
-                07      Mer         18:00 - 21:30     C                        H
-                        Ven         18:00 - 22:00     TP A+B                   H
-
-                08      Jeu         18:00 - 21:30     C                        H
-                        Mar         18:00 - 22:00     TP A+B                   H
-
-
-
 TIN504          SANTÉ, TECHNOLOGIE ET SOCIÉTÉ
-                01      Mar         18:00 - 21:30     C                        P
-                        Jeu         18:00 - 22:00     TP A+B                   P
+                01      Jeu         18:00 - 22:00     TP A+B                   P         B-3420                M.K. Daoust
 
 
 NOTES
@@ -977,5 +1109,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2022-10-25 12:33:57            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 10/10
+                 Date : 2023-03-10 12:30:41            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
 

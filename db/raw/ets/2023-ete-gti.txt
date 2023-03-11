@@ -98,7 +98,7 @@ ENT304          PROJETS SPÉCIAUX EN ENTREPRENEURIAT IV
 
 
 
-                 Date : 2023-02-24 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/12
+                 Date : 2023-03-10 12:32:51         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 1/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7086 : Baccalauréat en génie des technologies de l'information
@@ -199,7 +199,7 @@ GTI515          SYSTÈMES D'INFORMATION DANS LES ENTREPRISES                    
                         Mer         18:00 - 21:00   Labo                 P         A-3340
 
 
-                 Date : 2023-02-24 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/12
+                 Date : 2023-03-10 12:32:51         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7086 : Baccalauréat en génie des technologies de l'information
@@ -294,12 +294,12 @@ GTI791          PROJETS SPÉCIAUX                                               
 
 GTI795          PROJET DE FIN D'ÉTUDES EN GÉNIE DES                                                                          Min. 99 crédits
                 TECHNOLOGIES DE L'INFORMATION
-                01      Jeu         21:00 - 22:00   Projet               P
+                01      Jeu         21:30 - 22:30   Projet               P
 
 
 
 
-                 Date : 2023-02-24 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/12
+                 Date : 2023-03-10 12:32:51         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      7086 : Baccalauréat en génie des technologies de l'information
@@ -388,7 +388,7 @@ ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
 
 LOG121          CONCEPTION ORIENTÉE OBJET                                                                                       GTI100 (G.TI) ; LOG100 (G.Log)
                 01      Mar         08:30 - 12:00   C                      P
-                        Mer         13:30 - 16:30   Labo                   P          A-3230
+                        Mer         13:30 - 16:30   Labo                   P          A-3346
 
                 02      Mar         13:30 - 17:00   C                      P
                         Lun         08:30 - 11:30   Labo                   P          A-3344
@@ -401,7 +401,7 @@ LOG210          ANALYSE ET CONCEPTION DE LOGICIELS                              
                         Mer         08:30 - 11:30   Labo                   P          A-3344
 
                 02      Mar         13:30 - 17:00   C                      P
-                 Date : 2023-02-24 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 4/12
+                 Date : 2023-03-10 12:32:51         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 4/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                    7086 : Baccalauréat en génie des technologies de l'information
@@ -475,14 +475,6 @@ LOG725          INGÉNIERIE ET CONCEPTION DE JEUX VIDÉO                        
 
 
 
-LOG736          FONDEMENTS DES SYSTÈMES DISTRIBUÉS
-
-                01      Jeu         13:30 - 17:00   C                    D
-                        Ven         08:30 - 10:30   Labo A               D         A-3230
-                        Ven         10:30 - 12:30   Labo B               D         A-3230
-
-
-
 MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                 (HORS PROG.)
                 80      Mer         09:00 - 12:30   C                    P
@@ -490,7 +482,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
 
 
 
-                 Date : 2023-02-24 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/12
+                 Date : 2023-03-10 12:32:51         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      7086 : Baccalauréat en génie des technologies de l'information
@@ -544,7 +536,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
 
 
 
-                 Date : 2023-02-24 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 6/12
+                 Date : 2023-03-10 12:32:51         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 6/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      7086 : Baccalauréat en génie des technologies de l'information
@@ -621,7 +613,7 @@ MAT210          LOGIQUE ET MATHÉMATIQUES DISCRÈTES                            
 
 
 
-                 Date : 2023-02-24 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 7/12
+                 Date : 2023-03-10 12:32:51         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 7/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      7086 : Baccalauréat en génie des technologies de l'information
@@ -722,7 +714,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
 
 
 
-                 Date : 2023-02-24 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 8/12
+                 Date : 2023-03-10 12:32:51         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 8/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                       7086 : Baccalauréat en génie des technologies de l'information
@@ -807,7 +799,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-                 Date : 2023-02-24 12:32:53          L’École se réserve un droit de modifier l’horaire sans préavis         Page : 9/12
+                 Date : 2023-03-10 12:32:51          L’École se réserve un droit de modifier l’horaire sans préavis         Page : 9/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      7086 : Baccalauréat en génie des technologies de l'information
@@ -886,7 +878,7 @@ PHY335          PHYSIQUE DES ONDES                                              
 
 
 
-                 Date : 2023-02-24 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 10/12
+                 Date : 2023-03-10 12:32:51         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 10/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      7086 : Baccalauréat en génie des technologies de l'information
@@ -952,7 +944,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2023-02-24 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 11/12
+                 Date : 2023-03-10 12:32:51         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 11/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                          7086 : Baccalauréat en génie des technologies de l'information
@@ -1031,5 +1023,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-02-24 12:32:53            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
+                 Date : 2023-03-10 12:32:51            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
 
