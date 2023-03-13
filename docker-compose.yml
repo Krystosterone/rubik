@@ -22,13 +22,12 @@ services:
   sidekiq:
     build:
       context: .
-      dockerfile: ./docker/app/Dockerfile
+      dockerfile: ./Dockerfile
     command: bundle exec sidekiq
     volumes_from:
       - app
     env_file:
-      - .env.production
-      - .env.production.local
+      - .env
     depends_on:
       - db
       - redis
@@ -36,31 +35,17 @@ services:
   app:
     build:
       context: .
-      dockerfile: ./docker/app/Dockerfile
+      dockerfile: ./Dockerfile
     ports:
       - "3000:3000"
     volumes:
       - .:/var/www/app
-      - assets:/var/www/app/public/assets
     env_file:
-      - .env.production
-      - .env.production.local
+      - .env
     depends_on:
       - db
       - redis
 
-  web:
-    image: nginx
-    ports:
-      - "80:80"
-      - "443:443"
-    volumes_from:
-      - app
-    volumes:
-      - ./docker/web/nginx.conf:/etc/nginx/conf.d/default.conf
-      - /var/run/docker.sock:/tmp/docker.sock:ro
-
 volumes:
-  assets:
   mysql:
   redis:

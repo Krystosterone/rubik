@@ -11,25 +11,19 @@ RUN apt-get update && apt-get install -y yarn
 
 RUN apt-get install -y poppler-utils
 
-ENV RAILS_ENV="production"
-ENV NODE_ENV="production"
-
 RUN mkdir -p /var/www/app
 
 WORKDIR /var/www/app
 
 COPY Gemfile Gemfile
 COPY Gemfile.lock Gemfile.lock
-RUN bundle install --jobs 4 --retry 5 --without development test
+RUN bundle install --jobs 4 --retry 5
 
 COPY package.json package.json
 COPY yarn.lock yarn.lock
-RUN yarn install --production --frozen-lockfile
+RUN yarn install
 
 COPY . .
-
-RUN export $(grep -v '^#' .env | xargs -d '\n') && \
-    SECRET_KEY_BASE=placeholder rails assets:precompile
 
 EXPOSE 3000
 
