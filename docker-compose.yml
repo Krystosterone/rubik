@@ -20,9 +20,7 @@ services:
       - redis:/data
 
   sidekiq:
-    build:
-      context: .
-      dockerfile: ./Dockerfile
+    build: .
     command: bundle exec sidekiq
     volumes_from:
       - app
@@ -33,9 +31,7 @@ services:
       - redis
 
   app:
-    build:
-      context: .
-      dockerfile: ./Dockerfile
+    build: .
     ports:
       - "3000:3000"
     volumes:

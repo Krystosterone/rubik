@@ -48,5 +48,5 @@ Rails.application.configure do
   config.after_initialize(&reload_models_for_serialization)
   config.to_prepare(&reload_models_for_serialization)
 
-  config.file_watcher = ActiveSupport::EventedFileUpdateChecker
+  config.file_watcher = ActiveSupport::FileUpdateChecker
 end
