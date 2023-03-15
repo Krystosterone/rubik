@@ -35,6 +35,8 @@ services:
     ports:
       - "3000:3000"
     volumes:
+      - gem_cache:/usr/local/bundle/gems
+      - node_modules:/var/www/app/node_modules
       - .:/var/www/app
     env_file:
       - .env
@@ -43,5 +45,7 @@ services:
       - redis
 
 volumes:
+  gem_cache:
   mysql:
+  node_modules:
   redis:
