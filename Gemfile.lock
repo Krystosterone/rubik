@@ -145,10 +145,6 @@ GEM
     debug_inspector (1.1.0)
     diff-lcs (1.5.0)
     docile (1.4.0)
-    dotenv (2.8.1)
-    dotenv-rails (2.8.1)
-      dotenv (= 2.8.1)
-      railties (>= 3.2)
     email_validator (2.2.3)
       activemodel
     erubi (1.11.0)
@@ -469,7 +465,6 @@ DEPENDENCIES
   codecov
   cucumber-rails (~> 2.0)
   database_cleaner
-  dotenv-rails
   email_validator
   factory_bot_rails (~> 6.2.0)
   fakeredis

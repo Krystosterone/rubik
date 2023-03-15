@@ -38,7 +38,7 @@ group :development do
 end
 
 group :development, :test do
-  gem "dotenv-rails"
+  gem "factory_bot_rails", "~> 6.2.0"
   gem "pry-byebug"
   gem "rubocop", require: false
   gem "rubocop-rails", require: false
@@ -50,7 +50,6 @@ group :test do
   gem "codecov", require: false
   gem "cucumber-rails", "~> 2.0", require: false
   gem "database_cleaner"
-  gem "factory_bot_rails", "~> 6.2.0"
   gem "fakeredis", require: "fakeredis/rspec"
   gem "phantomjs", require: "phantomjs/poltergeist"
   gem "poltergeist"
