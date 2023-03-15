@@ -21,11 +21,11 @@ jobs:
       - run: gem install bundler -v 1.17.3
       - node/install:
           install-yarn: true
-          node-version: '18.7.0'
+          node-version: "18.7.0"
       - ruby/install-deps
       - node/install-packages:
           pkg-manager: yarn
-      - run: sudo curl --output /usr/local/bin/phantomjs https://s3.amazonaws.com/circle-downloads/phantomjs-2.1.1; sudo chmod 755 /usr/local/bin/phantomjs
+      - run: sudo curl --output /usr/local/bin/phantomjs https://s3.amazonaws.com/circle-downloads/phantomjs-2.1.1 && sudo chmod 755 /usr/local/bin/phantomjs
       - run: |-
           mkdir -p config && echo 'test:
             adapter: mysql2
@@ -37,7 +37,7 @@ jobs:
             database: circle_ruby_test
           ' > config/database.yml
       - run:
-      # Our primary container isn't MYSQL so run a sleep command until it's ready.
+          # Our primary container isn't MYSQL so run a sleep command until it's ready.
           name: Waiting for MySQL to be ready
           command: |
             for i in `seq 1 10`;
@@ -48,7 +48,7 @@ jobs:
             done
             echo Failed waiting for MySQL && exit 1
       - run:
-          command: 'bundle exec rails db:schema:load --trace'
+          command: "bundle exec rails db:schema:load --trace"
       - ruby/rspec-test:
           include: spec/**/*_spec.rb
           out-path: test-results/rspec

@@ -51,7 +51,7 @@ group :test do
   gem "cucumber-rails", "~> 2.0", require: false
   gem "database_cleaner"
   gem "fakeredis", require: "fakeredis/rspec"
-  gem "phantomjs", require: "phantomjs/poltergeist"
+  gem "phantomjs"
   gem "poltergeist"
   gem "rails-controller-testing"
   gem "rspec-html-matchers"
