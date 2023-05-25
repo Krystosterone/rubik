@@ -145,7 +145,7 @@ FactoryBot.define do
         name { generate(:term_line_name) }
         year { generate(:year) }
 
-        line { "#{name} #{year}" }
+        line { "HORAIRE #{name} #{year}" }
       end
     end
 

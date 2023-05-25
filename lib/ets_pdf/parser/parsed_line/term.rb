@@ -13,7 +13,7 @@ class EtsPdf::Parser::ParsedLine
     private
 
     def match_pattern
-      /(#{EtsPdf::TERM_NAMES.keys.flatten.join("|")})\s+(\d{4})/i
+      /horaire (#{EtsPdf::TERM_NAMES.keys.flatten.join("|")})\s+(\d{4})/i
     end
   end
 end

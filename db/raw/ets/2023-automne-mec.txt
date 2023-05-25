@@ -60,17 +60,6 @@ ATE085          NEUROFOCUS : ÉQUILIBRE DE VIE AUX ÉTUDES
 
 
 
-ATE100          INTÉGRITÉ INTELLECTUELLE
-                La formation ATE100 est offerte sur la plateforme de cours en ligne Moodle. La durée de la formation est estimée à environ 4 heures. Afin de
-                respecter les différents rythmes d'apprentissage et les diverses plages horaires où les étudiant (es) sont disponibles, une période de 5 semaines
-                sera accordée pour compléter la formation.
-                01                                  Atelier              D
-                        Dates: 18 septembre au 23 octobre 2023
-                02                                 Atelier               D
-                        Dates: 18 septembre au 23 octobre 2023
-                03                                 Atelier               D
-                        Dates: 30 octobre au 4 décembre 2023
-
 
 ATE800          INTÉGRITÉ INTELLECTUELLE : UN SAVOIR-ÊTRE ET UN
                 SAVOIR-FAIRE
