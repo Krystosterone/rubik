@@ -31,6 +31,17 @@ ATE085          NEUROFOCUS : ÉQUILIBRE DE VIE AUX ÉTUDES
 
 
 
+ATE100          INTÉGRITÉ INTELLECTUELLE
+                La formation ATE100 est offerte sur la plateforme de cours en ligne Moodle. La durée de la formation est estimée à environ 4 heures. Afin de
+                respecter les différents rythmes d'apprentissage et les diverses plages horaires où les étudiant (es) sont disponibles, une période de 5 semaines
+                sera accordée pour compléter la formation.
+                01                                  Atelier              D
+                        Dates: 18 septembre au 23 octobre 2023
+                02                                 Atelier               D
+                        Dates: 18 septembre au 23 octobre 2023
+                03                                 Atelier               D
+                        Dates: 30 octobre au 4 décembre 2023
+
 
 ATE800          INTÉGRITÉ INTELLECTUELLE : UN SAVOIR-ÊTRE ET UN
                 SAVOIR-FAIRE
@@ -85,7 +96,7 @@ CHM131          CHIMIE ET MATÉRIAUX
                 12      Mer         18:00 - 21:30   C                    P
 
 
-                 Date : 2023-05-25 12:32:54         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 1/13
+                 Date : 2023-05-26 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 1/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7084 : Baccalauréat en génie logiciel
@@ -184,7 +195,7 @@ ENT302          PROJETS SPÉCIAUX EN ENTREPRENEURIAT II
 
 
 
-                 Date : 2023-05-25 12:32:54         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/13
+                 Date : 2023-05-26 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7084 : Baccalauréat en génie logiciel
@@ -223,7 +234,8 @@ ENT601          MARKETING ET VENTES
 ETH610          ENJEUX ÉTHIQUES DE L’INTELLIGENCE ARTIFICIELLE
 
                 01      Lun         09:00 - 12:30   C                    P
-                        Ven         09:00 - 11:00   TP/Labo              P
+                        Ven         08:30 - 10:30   TP A                 P
+                        Ven         10:30 - 12:30   TP B                 P
 
 
 
@@ -284,8 +296,7 @@ GTI320          PROGRAMMATION MATHÉMATIQUE : PATRONS ET                        
                         Jeu         13:30 - 15:30   Labo A               P         A-3450
 
 
-
-                 Date : 2023-05-25 12:32:54         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/13
+                 Date : 2023-05-26 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7084 : Baccalauréat en génie logiciel
@@ -366,6 +377,13 @@ GTI771          APPRENTISSAGE MACHINE AVANCÉ                                   
 
 
 
+GTI780          SUJETS ÉMERGENTS EN TECHNOLOGIES DE
+                L'INFORMATION
+                01      Mer         08:30 - 12:00   C                    P
+                        Lun         10:30 - 12:30   Labo C               P         A-3220, A-3230
+
+
+
 INF111          PROGRAMMATION ORIENTÉE-OBJET (HORS
                 PROGRAMME)
                 01      Mer         09:00 - 12:30   C                    P
@@ -377,16 +395,9 @@ INF111          PROGRAMMATION ORIENTÉE-OBJET (HORS
                 03      Mar         09:00 - 12:30   C                    P
                         Jeu         09:00 - 12:00   Labo                 P         E-4022
 
-                04      Jeu         09:00 - 12:30   C                    P
-                        Mar         09:00 - 12:00   Labo                 P         E-4023
 
 
-
-INFTEST         ACCUEIL EN INFORMATIQUE
-                01      Mer         09:00 - 12:30   C                    P
-
-
-                 Date : 2023-05-25 12:32:54         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/13
+                 Date : 2023-05-26 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7084 : Baccalauréat en génie logiciel
@@ -404,8 +415,16 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
 
+INF111          PROGRAMMATION ORIENTÉE-OBJET (HORS
+                PROGRAMME)
+                04      Jeu         09:00 - 12:30   C                    P
+                        Mar         09:00 - 12:00   Labo                 P         E-4023
+
+
+
 INFTEST         ACCUEIL EN INFORMATIQUE
-                01      Ven         13:30 - 16:30   Labo                 P
+                01      Mer         09:00 - 12:30   C                    P
+                        Ven         13:30 - 16:30   Labo                 P
 
                 02      Mar         09:00 - 12:30   C                    P
                         Jeu         09:00 - 12:00   Labo                 P
@@ -479,16 +498,7 @@ LOG121          CONCEPTION ORIENTÉE OBJET                                      
                 03      Lun         08:30 - 12:00   C                    P
                         Mer         13:30 - 16:30   Labo                 P         A-3344
 
-                04      Mer         18:00 - 21:30   C                    P
-                        Jeu         18:00 - 21:00   Labo                 P         A-3344
-
-                05      Mer         13:30 - 17:00   C                    P
-                        Ven         08:30 - 11:30   Labo                 P         A-3344
-
-
-
-
-                 Date : 2023-05-25 12:32:54         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/13
+                 Date : 2023-05-26 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7084 : Baccalauréat en génie logiciel
@@ -505,6 +515,15 @@ Bureau du registraire - logistique académique
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+
+LOG121          CONCEPTION ORIENTÉE OBJET                                                                                    GTI100 (G.TI) ; LOG100 (G.Log)
+                04      Mer         18:00 - 21:30   C                    P
+                        Jeu         18:00 - 21:00   Labo                 P         A-3344
+
+                05      Mer         13:30 - 17:00   C                    P
+                        Ven         08:30 - 11:30   Labo                 P         A-3344
+
+
 
 LOG210          ANALYSE ET CONCEPTION DE LOGICIELS                                                                           LOG121
 
@@ -577,19 +596,10 @@ LOG635          SYSTÈMES INTELLIGENTS ET ALGORITHMES                           
 
                 02      Ven         13:30 - 17:00   C                    P
                         Mer         08:30 - 10:30   Labo A               P         A-3340
-                        Mer         10:30 - 12:30   Labo B               P         A-3340
 
 
 
-LOG645          ARCHITECTURES DE CALCULS PARALLÈLES
-
-                01      Lun         08:30 - 12:00   C                    P
-                        Mer         13:30 - 15:30   Labo A               P         A-3446
-                        Mer         15:30 - 17:30   Labo B               P         A-3446
-
-
-
-                 Date : 2023-05-25 12:32:54         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/13
+                 Date : 2023-05-26 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7084 : Baccalauréat en génie logiciel
@@ -606,6 +616,20 @@ Bureau du registraire - logistique académique
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+
+LOG635          SYSTÈMES INTELLIGENTS ET ALGORITHMES                                                                         LOG320 et MAT350 / MAT350,
+                                                                                                                             LOG320
+                02      Mer         10:30 - 12:30   Labo B               P         A-3340
+
+
+
+LOG645          ARCHITECTURES DE CALCULS PARALLÈLES
+
+                01      Lun         08:30 - 12:00   C                    P
+                        Mer         13:30 - 15:30   Labo A               P         A-3446
+                        Mer         15:30 - 17:30   Labo B               P         A-3446
+
+
 
 LOG660          BASES DE DONNÉES DE HAUTE PERFORMANCE                                                                        LOG320
 
@@ -673,24 +697,10 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                         Lun         13:30 - 16:30   TP                   P
 
                 05      Jeu         09:00 - 12:30   C                    P
-                        Mar         09:00 - 12:00   TP                   P
-
-                06      Mer         18:00 - 21:30   C                    P
-                        Lun         18:00 - 21:00   TP                   P
-
-                07      Jeu         18:00 - 21:30   C                    P
-                        Mar         18:00 - 21:00   TP                   P
 
 
 
-MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
-
-                01      Ven         09:00 - 12:30   C                    P
-                        Mer         09:00 - 12:00   TP                   P
-
-                02      Mer         09:00 - 12:30   C                    P
-
-                 Date : 2023-05-25 12:32:54         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/13
+                 Date : 2023-05-26 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7084 : Baccalauréat en génie logiciel
@@ -708,9 +718,25 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
 
+MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
+                (HORS PROG.)
+                05      Mar         09:00 - 12:00   TP                   P
+
+                06      Mer         18:00 - 21:30   C                    P
+                        Lun         18:00 - 21:00   TP                   P
+
+                07      Jeu         18:00 - 21:30   C                    P
+                        Mar         18:00 - 21:00   TP                   P
+
+
+
 MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
-                02      Ven         09:00 - 12:00   TP                   P
+                01      Ven         09:00 - 12:30   C                    P
+                        Mer         09:00 - 12:00   TP                   P
+
+                02      Mer         09:00 - 12:30   C                    P
+                        Ven         09:00 - 12:00   TP                   P
 
                 03      Ven         13:30 - 17:00   C                    P
                         Jeu         13:30 - 16:30   TP                   P
@@ -774,7 +800,29 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
                         Mar         09:00 - 12:00   TP                   P
 
                 05      Mar         13:30 - 17:00   C                    P
-                        Mer         13:30 - 16:30   TP                   P
+
+
+
+                 Date : 2023-05-26 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 8/14
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                    7084 : Baccalauréat en génie logiciel
+
+
+                                                             HORAIRE AUTOMNE 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                    MAT145
+                05      Mer         13:30 - 16:30   TP                   P
 
                 06      Mar         09:00 - 12:30   C                    P
                         Ven         13:30 - 16:30   TP                   P
@@ -791,9 +839,71 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
                 01      Jeu         13:30 - 17:00   C                    P
                         Mar         13:30 - 16:30   TP                   P
 
+                02      Mer         09:00 - 12:30   C                    P
+                        Lun         09:00 - 12:00   TP                   P
+
+                03      Ven         09:00 - 12:30   C                    P
+                        Jeu         09:00 - 12:00   TP                   P
+
+                04      Mer         13:30 - 17:00   C                    P
+                        Lun         13:30 - 16:30   TP                   P
+
+                05      Ven         13:30 - 17:00   C                    P
+                        Mar         09:00 - 12:00   TP                   P
+
+                06      Lun         09:00 - 12:30   C                    P
+                        Mer         09:00 - 12:00   TP                   P
+
+                07      Jeu         09:00 - 12:30   C                    P
+                        Ven         09:00 - 12:00   TP                   P
+
+                08      Mer         18:00 - 21:30   C                    P
+                        Lun         18:00 - 21:00   TP                   P
 
 
-                 Date : 2023-05-25 12:32:54         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 8/13
+
+MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE L'ESPACE                                                                    MAT145
+
+                01      Mer         13:30 - 17:00   C                    P
+                        Lun         13:30 - 16:30   TP                   P
+
+                02      Ven         13:30 - 17:00   C                    P
+                        Mar         09:00 - 12:00   TP                   P
+
+                03      Jeu         13:30 - 17:00   C                    P
+                        Mar         13:30 - 16:30   TP                   P
+
+                04      Mar         18:00 - 21:30   C                    P
+                        Jeu         18:00 - 21:00   TP                   P
+
+
+
+MATEST          ACCUEIL EN MATHÉMATIQUES
+                01      Ven         09:00 - 12:30   C                    P
+                        Mer         09:00 - 12:00   TP                   P
+
+                02      Ven         13:30 - 17:00   C                    P
+                        Jeu         13:30 - 16:30   TP                   P
+
+                03      Mar         13:30 - 17:00   C                    P
+                        Lun         09:00 - 12:00   TP                   P
+
+                04      Mer         13:30 - 17:00   C                    P
+                        Lun         13:30 - 16:30   TP                   P
+
+                05      Jeu         09:00 - 12:30   C                    P
+                        Mar         09:00 - 12:00   TP                   P
+
+                06      Mer         18:00 - 21:30   C                    P
+                        Lun         18:00 - 21:00   TP                   P
+
+                07      Jeu         18:00 - 21:30   C                    P
+                        Mar         18:00 - 21:00   TP                   P
+
+
+
+
+                 Date : 2023-05-26 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 9/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                       7084 : Baccalauréat en génie logiciel
@@ -810,70 +920,6 @@ Bureau du registraire - logistique académique
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ       Mode d'ens.      LOCAL                 ENSEIGNANT                     PRÉALABLES
-
-MAT350          PROBABILITÉS ET STATISTIQUES                                                                                             MAT145
-                02      Mer         09:00 - 12:30   C                     P
-                        Lun         09:00 - 12:00   TP                    P
-
-                03      Ven         09:00 - 12:30   C                     P
-                        Jeu         09:00 - 12:00   TP                    P
-
-                04      Mer         13:30 - 17:00   C                     P
-                        Lun         13:30 - 16:30   TP                    P
-
-                05      Ven         13:30 - 17:00   C                     P
-                        Mar         09:00 - 12:00   TP                    P
-
-                06      Lun         09:00 - 12:30   C                     P
-                        Mer         09:00 - 12:00   TP                    P
-
-                07      Jeu         09:00 - 12:30   C                     P
-                        Ven         09:00 - 12:00   TP                    P
-
-                08      Mer         18:00 - 21:30   C                     P
-                        Lun         18:00 - 21:00   TP                    P
-
-
-
-MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE L'ESPACE                                                                                MAT145
-
-                01      Mer         13:30 - 17:00   C                     P
-                        Lun         13:30 - 16:30   TP                    P
-
-                02      Ven         13:30 - 17:00   C                     P
-                        Mar         09:00 - 12:00   TP                    P
-
-                03      Jeu         13:30 - 17:00   C                     P
-                        Mar         13:30 - 16:30   TP                    P
-
-                04      Mar         18:00 - 21:30   C                     P
-                        Jeu         18:00 - 21:00   TP                    P
-
-
-
-MATEST          ACCUEIL EN MATHÉMATIQUES
-                01      Ven         09:00 - 12:30   C                     P
-                        Mer         09:00 - 12:00   TP                    P
-
-                02      Ven         13:30 - 17:00   C                     P
-                        Jeu         13:30 - 16:30   TP                    P
-
-                03      Mar         13:30 - 17:00   C                     P
-                        Lun         09:00 - 12:00   TP                    P
-
-                04      Mer         13:30 - 17:00   C                     P
-                        Lun         13:30 - 16:30   TP                    P
-
-                05      Jeu         09:00 - 12:30   C                     P
-                        Mar         09:00 - 12:00   TP                    P
-
-                06      Mer         18:00 - 21:30   C                     P
-                        Lun         18:00 - 21:00   TP                    P
-
-                07      Jeu         18:00 - 21:30   C                     P
-                        Mar         18:00 - 21:00   TP                    P
-
-
 
 PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                 PROFESSIONNELLE
@@ -886,37 +932,12 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                         28 septembre 2023
                         05 octobre 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 20 septembre 2023 / 04 octobre 2023
-                02      Jeu         13:30 - 17:00   Atelier                D
+                02      Jeu         13:30 - 17:00   Atelier               D
                         12 octobre 2023
                         19 octobre 2023
                         26 octobre 2023
                         02 novembre 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 18 octobre 2023 / 01 novembre 2023
-
-
-                 Date : 2023-05-25 12:32:54         L’École se réserve un droit de modifier l’horaire sans préavis               Page : 9/13
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                      7084 : Baccalauréat en génie logiciel
-
-
-                                                              HORAIRE AUTOMNE 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ       Mode d'ens.      LOCAL                 ENSEIGNANT                     PRÉALABLES
-
-PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
-                PROFESSIONNELLE
-                Il n’est pas recommandé de vous inscrire au cours PEP110 si vous n’avez pas complété votre premier stage.
-                Pour vous inscrire à ce cours en tant qu’étudiant libre pour satisfaire aux exigences de l’OIQ, suivez les instructions sur cette page :
-                https://www.etsmtl.ca/etudiants/etudiants-libres .
                 03      Lun         13:30 - 17:00   Atelier               P
                         11 septembre 2023
                         18 septembre 2023
@@ -980,18 +1001,9 @@ PHY335          PHYSIQUE DES ONDES                                              
                         Mar         13:30 - 16:30   Labo                  P
 
                 03      Jeu         13:30 - 17:00   C                     P
-                        Lun         09:00 - 12:00   Labo                  P
-
-                04      Lun         13:30 - 17:00   C                     P
-                        Ven         13:30 - 16:30   Labo                  P
-
-                05      Mar         18:00 - 21:30   C                     P
-                        Lun         18:00 - 21:00   Labo                  P
 
 
-
-
-                 Date : 2023-05-25 12:32:54         L’École se réserve un droit de modifier l’horaire sans préavis             Page : 10/13
+                 Date : 2023-05-26 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis             Page : 10/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7084 : Baccalauréat en génie logiciel
@@ -1008,6 +1020,17 @@ Bureau du registraire - logistique académique
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                  PRÉALABLES
+
+PHY335          PHYSIQUE DES ONDES                                                                                                 CTN248 / ING150
+                03      Lun         09:00 - 12:00   Labo                 P
+
+                04      Lun         13:30 - 17:00   C                    P
+                        Ven         13:30 - 16:30   Labo                 P
+
+                05      Mar         18:00 - 21:30   C                    P
+                        Lun         18:00 - 21:00   Labo                 P
+
+
 
 PHYEST          ACCUEIL EN PHYSIQUE
                 01      Mer         13:30 - 17:00   C                    P
@@ -1042,7 +1065,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 01      Mar         09:00 - 12:30   Atelier              P
                         12 septembre 2023
@@ -1056,7 +1079,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                         27 septembre 2023
                         04 octobre 2023
                         11 octobre 2023
-                03      Mar         09:00 - 12:30   Atelier              P
+                03      Mar        09:00 - 12:30    Atelier              P
                         24 octobre 2023
                         31 octobre 2023
                         07 novembre 2023
@@ -1075,7 +1098,39 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                         13 novembre 2023
                         20 novembre 2023
                 06      Ven         18:00 - 21:30   Atelier              P
-                        Sam         09:00 - 17:00   C                    P
+
+
+
+                 Date : 2023-05-26 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 11/14
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                    7084 : Baccalauréat en génie logiciel
+
+
+                                                              HORAIRE AUTOMNE 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                  PRÉALABLES
+
+PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
+                SANTÉ ET SÉCURITÉ
+                Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 15h - aux dates spécifiques indiquées pour chaque groupe.
+                •Modalités des ateliers PRE011 - VOLET INTENSIF SANTÉ-SÉCURITÉ : Obligatoire pour tous les étudiants sauf ceux détenant une carte ASP.
+                Pour les étudiants du programme 7625 en génie de la construction ou tout autre étudiant ayant suivi la formation ASP (vous serez exempté du volet
+                santé-sécurité en suivant les consignes indiquées dans le module 1 du volet STAGES - DÉVELOPPEMENT PROFESSIONNEL).
+                •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
+                Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
+                le groupe réservé.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
+
+                06      Sam         09:00 - 17:00   C                    P
                         15 septembre 2023
                         16 septembre 2023
                         23 septembre 2023
@@ -1084,11 +1139,59 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                         29 septembre 2023
                         30 septembre 2023
                         07 octobre 2023
+                08      Mer         18:00 - 21:30   Atelier              D
+                        13 septembre 2023
+                        20 septembre 2023
+                        27 septembre 2023
+                        04 octobre 2023
+                        11 octobre 2023
+                09      Lun        18:00 - 21:30    Atelier              D
+                        11 septembre 2023
+                        18 septembre 2023
+                        25 septembre 2023
+                        02 octobre 2023
+                        16 octobre 2023
+                10      Mar         18:00 - 21:30   Atelier              D
+                        12 septembre 2023
+                        19 septembre 2023
+                        26 septembre 2023
+                        03 octobre 2023
+                        17 octobre 2023
+                11      Jeu         18:00 - 21:30   Atelier              D
+                        21 septembre 2023
+                        28 septembre 2023
+                        05 octobre 2023
+                        12 octobre 2023
+                        19 octobre 2023
+                12      Mar         18:00 - 21:30   Atelier              D
+                        24 octobre 2023
+                        31 octobre 2023
+                        07 novembre 2023
+                        14 novembre 2023
+                        21 novembre 2023
+                13      Lun        18:00 - 21:30    Atelier              D
+                        23 octobre 2023
+                        30 octobre 2023
+                        06 novembre 2023
+                        13 novembre 2023
+                        20 novembre 2023
+                14      Mer         18:00 - 21:30   Atelier              D
+                        18 octobre 2023
+                        25 octobre 2023
+                        01 novembre 2023
+                        15 novembre 2023
+                        22 novembre 2023
+                15      Ven         18:00 - 21:30   Atelier              D
+                        Sam         09:00 - 17:00   C                    D
+                        13 octobre 2023
+                        14 octobre 2023
+                        21 octobre 2023
+                16      Ven         18:00 - 21:30   Atelier              D
 
 
 
 
-                 Date : 2023-05-25 12:32:54         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 11/13
+                 Date : 2023-05-26 12:32:53         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 12/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                          7084 : Baccalauréat en génie logiciel
@@ -1115,57 +1218,9 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
-                08      Mer         18:00 - 21:30   Atelier                 D
-                        13 septembre 2023
-                        20 septembre 2023
-                        27 septembre 2023
-                        04 octobre 2023
-                        11 octobre 2023
-                09      Lun         18:00 - 21:30   Atelier                 D
-                        11 septembre 2023
-                        18 septembre 2023
-                        25 septembre 2023
-                        02 octobre 2023
-                        16 octobre 2023
-                10      Mar         18:00 - 21:30   Atelier                 D
-                        12 septembre 2023
-                        19 septembre 2023
-                        26 septembre 2023
-                        03 octobre 2023
-                        17 octobre 2023
-                11      Jeu         18:00 - 21:30   Atelier                 D
-                        21 septembre 2023
-                        28 septembre 2023
-                        05 octobre 2023
-                        12 octobre 2023
-                        19 octobre 2023
-                12      Mar         18:00 - 21:30   Atelier                 D
-                        24 octobre 2023
-                        31 octobre 2023
-                        07 novembre 2023
-                        14 novembre 2023
-                        21 novembre 2023
-                13      Lun         18:00 - 21:30   Atelier                 D
-                        23 octobre 2023
-                        30 octobre 2023
-                        06 novembre 2023
-                        13 novembre 2023
-                        20 novembre 2023
-                14      Mer         18:00 - 21:30   Atelier                 D
-                        18 octobre 2023
-                        25 octobre 2023
-                        01 novembre 2023
-                        15 novembre 2023
-                        22 novembre 2023
-                15      Ven        18:00 - 21:30    Atelier                 D
-                        Sam        09:00 - 17:00    C                       D
-                        13 octobre 2023
-                        14 octobre 2023
-                        21 octobre 2023
-                16      Ven         18:00 - 21:30   Atelier                 D
-                        Sam         09:00 - 17:00   C                       D
+                16      Sam         09:00 - 17:00   C                       D
                         27 octobre 2023
                         28 octobre 2023
                         04 novembre 2023
@@ -1176,11 +1231,29 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
                 01      Jeu         09:00 - 12:30   C                       P
+                        Mar         08:30 - 12:30   TP A+B                  P
+
+                02      Jeu         13:30 - 17:00   C                       H
+                        Lun         13:30 - 17:30   TP A+B                  H
+
+                03      Lun         09:00 - 12:30   C                       P
+                        Mer         13:30 - 17:30   TP A+B                  P
+
+                04      Ven         09:00 - 12:30   C                       P
+                        Mer         08:30 - 12:30   TP A+B                  P
+
+                05      Ven         13:30 - 17:00   C                       P
+                        Mar         13:30 - 17:30   TP A+B                  P
+
+                06      Mar         09:00 - 12:30   C                       P
+                        Jeu         08:30 - 12:30   TP A+B                  P
+
+                07      Mar         18:00 - 21:30   C                       H
 
 
 
 
-                 Date : 2023-05-25 12:32:54          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 12/13
+                 Date : 2023-05-26 12:32:53          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 13/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                               7084 : Baccalauréat en génie logiciel
@@ -1200,25 +1273,7 @@ COURS           GR      JOUR          HEURE           ACTIVITÉ           Mode d
 
 TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
-                01      Mar         08:30 - 12:30     TP A+B                   P
-
-                02      Jeu         13:30 - 17:00     C                        H
-                        Lun         13:30 - 17:30     TP A+B                   H
-
-                03      Lun         09:00 - 12:30     C                        P
-                        Mer         13:30 - 17:30     TP A+B                   P
-
-                04      Ven         09:00 - 12:30     C                        P
-                        Mer         08:30 - 12:30     TP A+B                   P
-
-                05      Ven         13:30 - 17:00     C                        P
-                        Mar         13:30 - 17:30     TP A+B                   P
-
-                06      Mar         09:00 - 12:30     C                        P
-                        Jeu         08:30 - 12:30     TP A+B                   P
-
-                07      Mar         18:00 - 21:30     C                        H
-                        Ven         18:00 - 22:00     TP A+B                   H
+                07      Ven         18:00 - 22:00     TP A+B                   H
 
 
 NOTES
@@ -1259,5 +1314,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-05-25 12:32:54            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
+                 Date : 2023-05-26 12:32:53            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 14/14
 

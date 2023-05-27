@@ -60,6 +60,17 @@ ATE085          NEUROFOCUS : ÉQUILIBRE DE VIE AUX ÉTUDES
 
 
 
+ATE100          INTÉGRITÉ INTELLECTUELLE
+                La formation ATE100 est offerte sur la plateforme de cours en ligne Moodle. La durée de la formation est estimée à environ 4 heures. Afin de
+                respecter les différents rythmes d'apprentissage et les diverses plages horaires où les étudiant (es) sont disponibles, une période de 5 semaines
+                sera accordée pour compléter la formation.
+                01                                  Atelier              D
+                        Dates: 18 septembre au 23 octobre 2023
+                02                                 Atelier               D
+                        Dates: 18 septembre au 23 octobre 2023
+                03                                 Atelier               D
+                        Dates: 30 octobre au 4 décembre 2023
+
 
 ATE800          INTÉGRITÉ INTELLECTUELLE : UN SAVOIR-ÊTRE ET UN
                 SAVOIR-FAIRE
@@ -82,7 +93,7 @@ CHM131          CHIMIE ET MATÉRIAUX
                         Jeu         09:00 - 12:00   TP                    P
 
                 02      Ven         09:00 - 12:30   C                     P
-                 Date : 2023-05-25 12:32:06         L’École se réserve un droit de modifier l’horaire sans préavis            Page : 1/14
+                 Date : 2023-05-26 12:32:05         L’École se réserve un droit de modifier l’horaire sans préavis            Page : 1/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -185,7 +196,7 @@ COM130          MÉTHODES DE COMMUNICATION EN GÉNIE
                 02      Jeu         09:00 - 12:30   C                    P
 
 
-                 Date : 2023-05-25 12:32:06         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/14
+                 Date : 2023-05-26 12:32:05         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -287,7 +298,7 @@ GPE450          GESTION DU PERSONNEL ET RELATIONS
 
 
 
-                 Date : 2023-05-25 12:32:06         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/14
+                 Date : 2023-05-26 12:32:05         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -389,7 +400,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
 
 
 
-                 Date : 2023-05-25 12:32:06         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/14
+                 Date : 2023-05-26 12:32:05         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -492,7 +503,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
                         Jeu         18:00 - 21:00   TP                   P
 
 
-                 Date : 2023-05-25 12:32:06         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/14
+                 Date : 2023-05-26 12:32:05         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -594,7 +605,7 @@ MEC111          STATIQUE DE L'INGÉNIEUR
 
 
 
-                 Date : 2023-05-25 12:32:06         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/14
+                 Date : 2023-05-26 12:32:05         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -694,7 +705,7 @@ MEC329          RÉSISTANCE DES MATÉRIAUX                                      
 
 
 
-                 Date : 2023-05-25 12:32:06         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/14
+                 Date : 2023-05-26 12:32:05         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -795,7 +806,7 @@ MEC555          ANALYSE DES CONTRAINTES                                         
                 01      Jeu         08:30 - 12:00   C                    P
 
 
-                 Date : 2023-05-25 12:32:06         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 8/14
+                 Date : 2023-05-26 12:32:05         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 8/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -895,7 +906,7 @@ MEC730          CLIMATISATION ET RÉFRIGÉRATION INDUSTRIELLE                   
 
 
 
-                 Date : 2023-05-25 12:32:06         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 9/14
+                 Date : 2023-05-26 12:32:05         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 9/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -994,7 +1005,7 @@ MEC795          PROJET DE FIN D'ÉTUDES EN GÉNIE MÉCANIQUE                    
 
 
 
-                 Date : 2023-05-25 12:32:06         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 10/14
+                 Date : 2023-05-26 12:32:05         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 10/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                  7684 : Baccalauréat en génie mécanique
@@ -1094,7 +1105,7 @@ PHYEST          ACCUEIL EN PHYSIQUE
                 03      Jeu         13:30 - 17:00   C                     P
 
 
-                 Date : 2023-05-25 12:32:06         L’École se réserve un droit de modifier l’horaire sans préavis             Page : 11/14
+                 Date : 2023-05-26 12:32:05         L’École se réserve un droit de modifier l’horaire sans préavis             Page : 11/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7684 : Baccalauréat en génie mécanique
@@ -1138,7 +1149,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 01      Mar        09:00 - 12:30    Atelier              P
                         12 septembre 2023
@@ -1190,7 +1201,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 
 
 
-                 Date : 2023-05-25 12:32:06         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 12/14
+                 Date : 2023-05-26 12:32:05         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 12/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7684 : Baccalauréat en génie mécanique
@@ -1217,7 +1228,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 09      Lun         18:00 - 21:30   Atelier                 D
                         11 septembre 2023
@@ -1282,7 +1293,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2023-05-25 12:32:06          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 13/14
+                 Date : 2023-05-26 12:32:05          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 13/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        7684 : Baccalauréat en génie mécanique
@@ -1355,5 +1366,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-05-25 12:32:06            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 14/14
+                 Date : 2023-05-26 12:32:05            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 14/14
 
