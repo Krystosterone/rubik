@@ -31,6 +31,18 @@ ATE085          NEUROFOCUS : ÉQUILIBRE DE VIE AUX ÉTUDES
 
 
 
+ATE100          INTÉGRITÉ INTELLECTUELLE
+                La formation ATE100 est offerte sur la plateforme de cours en ligne Moodle. La durée de la formation est estimée à environ 4 heures. Afin de
+                respecter les différents rythmes d'apprentissage et les diverses plages horaires où les étudiant (es) sont disponibles, une période de 5 semaines
+                sera accordée pour compléter la formation.
+                01                                  Atelier              D
+                        Dates: 18 septembre au 23 octobre 2023
+                02                                 Atelier               D
+                        Dates: 18 septembre au 23 octobre 2023
+                03                                 Atelier               D
+                        Dates: 30 octobre au 4 décembre 2023
+
+
 ATE800          INTÉGRITÉ INTELLECTUELLE : UN SAVOIR-ÊTRE ET UN
                 SAVOIR-FAIRE
                 La formation ATE800 est offerte sur la plateforme de cours en ligne Moodle. La durée de la formation est estimée à environ 4 heures. Afin de
@@ -84,13 +96,13 @@ CHM131          CHIMIE ET MATÉRIAUX
                 12      Mer         18:00 - 21:30   C                    P
 
 
-                 Date : 2023-05-25 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 1/13
+                 Date : 2023-05-26 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 1/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
 
 
-                                                              HORAIRE AUTOMNE 2023
+                                                             HORAIRE AUTOMNE 2023
                                                     Locaux A: bâtiment sud, 1100, Notre-Dame O.
                                                     Locaux B: bâtiment nord, 1111, Notre-Dame O.
                                                     Locaux D: bâtiment sud-ouest, 1219, rue William
@@ -179,12 +191,13 @@ ENT601          MARKETING ET VENTES
 ETH610          ENJEUX ÉTHIQUES DE L’INTELLIGENCE ARTIFICIELLE
 
                 01      Lun         09:00 - 12:30   C                    P
-                        Ven         09:00 - 11:00   TP/Labo              P
+                        Ven         08:30 - 10:30   TP A                 P
+                        Ven         10:30 - 12:30   TP B                 P
 
 
 
 
-                 Date : 2023-05-25 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/13
+                 Date : 2023-05-26 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -218,8 +231,8 @@ GIA410          GESTION ET ÉCONOMIE DES PROJETS D’INGÉNIERIE
 
 
 
-GIA500          INITIATION AUX PROJETS INTERNATIONAUX
-                D'INGÉNIERIE
+GIA501          PROJETS D’INGÉNIERIE INTERNATIONAUX ET
+                MULTICULTURELS
                 01      Mar         18:00 - 21:30   C                    P
                         Lun         18:00 - 22:00   TP/Labo              P
 
@@ -285,7 +298,7 @@ GPA434          INGÉNIERIE DES SYSTÈMES ORIENTÉS-OBJET                       
 
 
 
-                 Date : 2023-05-25 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 3/13
+                 Date : 2023-05-26 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 3/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -384,7 +397,7 @@ GPA772          CONCEPTION DE MACHINES                                          
                                                                                                                                      Pr. I, M, P: ING150
                 01      Mar         08:30 - 12:00   C                    P
 
-                 Date : 2023-05-25 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 4/13
+                 Date : 2023-05-26 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 4/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -485,7 +498,7 @@ GTS504          INTRODUCTION À L'INGÉNIERIE DE LA RÉADAPTATION
 
 
 
-                 Date : 2023-05-25 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/13
+                 Date : 2023-05-26 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -583,7 +596,7 @@ ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
 
 
 
-                 Date : 2023-05-25 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/13
+                 Date : 2023-05-26 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -686,7 +699,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
                         Mar         09:00 - 12:00   TP                   P
 
 
-                 Date : 2023-05-25 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/13
+                 Date : 2023-05-26 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -787,7 +800,7 @@ MATEST          ACCUEIL EN MATHÉMATIQUES
 
 
 
-                 Date : 2023-05-25 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 8/13
+                 Date : 2023-05-26 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 8/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                       6557 : Baccalauréat en génie de la production automatisée
@@ -887,7 +900,7 @@ PHY335          PHYSIQUE DES ONDES                                              
                 03      Jeu         13:30 - 17:00   C                     P
 
 
-                 Date : 2023-05-25 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis               Page : 9/13
+                 Date : 2023-05-26 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis               Page : 9/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -949,7 +962,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 01      Mar         09:00 - 12:30   Atelier              P
                         12 septembre 2023
@@ -985,7 +998,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 
 
 
-                 Date : 2023-05-25 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 10/13
+                 Date : 2023-05-26 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 10/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -1012,7 +1025,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 06      Sam         09:00 - 17:00   C                    P
                         15 septembre 2023
@@ -1075,7 +1088,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 
 
 
-                 Date : 2023-05-25 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 11/13
+                 Date : 2023-05-26 12:33:08         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 11/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                         6557 : Baccalauréat en génie de la production automatisée
@@ -1102,7 +1115,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 16      Sam         09:00 - 17:00   C                       D
                         27 octobre 2023
@@ -1137,7 +1150,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2023-05-25 12:33:08          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 12/13
+                 Date : 2023-05-26 12:33:08          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 12/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             6557 : Baccalauréat en génie de la production automatisée
@@ -1198,5 +1211,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-05-25 12:33:08            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
+                 Date : 2023-05-26 12:33:08            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
 

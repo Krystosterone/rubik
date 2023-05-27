@@ -98,7 +98,7 @@ ENT304          PROJETS SPÉCIAUX EN ENTREPRENEURIAT IV
 
 
 
-                 Date : 2023-05-25 12:31:17         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 1/13
+                 Date : 2023-05-26 12:31:19         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 1/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7084 : Baccalauréat en génie logiciel
@@ -200,7 +200,7 @@ GTI619          SÉCURITÉ DES SYSTÈMES                                        
 
 
 
-                 Date : 2023-05-25 12:31:17         L’École se réserve un droit de modifier l’horaire sans préavis              Page : 2/13
+                 Date : 2023-05-26 12:31:19         L’École se réserve un droit de modifier l’horaire sans préavis              Page : 2/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                         7084 : Baccalauréat en génie logiciel
@@ -221,7 +221,7 @@ COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.
 GTI700          PRINCIPES ET FONDEMENTS DE L’INTERNET DES                                                                                     Min. 60 crédits
                 OBJETS (IDO)
                 01      Jeu         18:00 - 21:30   C                      D                               A. Leivadeas / J. Gascon-Samson
-                        Mer         18:00 - 20:00   Labo                   D          A-3344, A-3346       A. Leivadeas
+                        Mer         18:00 - 20:00   Labo                   D          A-3344, A-3346       A. Leivadeas / S. Bouhoula
 
 
 
@@ -302,7 +302,7 @@ ING150          STATIQUE ET DYNAMIQUE
 
                 04      Jeu         09:00 - 12:30   C                      P          B-1720               A. Benmassaoud
 
-                 Date : 2023-05-25 12:31:17         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 3/13
+                 Date : 2023-05-26 12:31:19         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 3/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                             7084 : Baccalauréat en génie logiciel
@@ -350,11 +350,11 @@ ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
 LOG100          PROGRAMMATION ET RÉSEAUTIQUE EN GÉNIE
                 LOGICIEL
                 01      Ven         08:30 - 12:00     C                        P          D-5009                 A. Ouni / R. Langar
-                        Mer         13:30 - 16:30     Labo                     P          A-3450
+                        Mer         13:30 - 16:30     Labo                     P          A-3450                 N. Bessghaier
                         Note : Les cours du 19 juillet et du 26 juillet ainsi que celui du 2 août PM seront dans le local D-5009. Les laboratoires du 28 et du 29 juin et ceux du 5 et du12
                         juillet seront dans le local A-3450 et ceux du 7 juillet et du14 juillet dans le A-3230.
                 02      Mer           13:30 - 17:00     C                         P           D-5023               A. Ouni / R. Langar
-                        Ven           08:30 - 11:30     Labo                      P           A-3344
+                        Ven           08:30 - 11:30     Labo                      P           A-3344               M. Chouchen
                         Note : Les cours du 19, 21, 26, 28 juillet ainsi que ceux du 2 et du 4 août auront lieu dans le local D-5009. Les laboratoires du 28 et du 29 juin ainsi que ceux du
                         5 et du12 juillet seront dans le local A-3230. Les laboratoires du 7 et du14 juillet seront dans le A-3344.
 
@@ -403,7 +403,7 @@ LOG320          STRUCTURES DE DONNÉES ET ALGORITHMES                           
 
 
 
-                 Date : 2023-05-25 12:31:17           L’École se réserve un droit de modifier l’horaire sans préavis                            Page : 4/13
+                 Date : 2023-05-26 12:31:19           L’École se réserve un droit de modifier l’horaire sans préavis                            Page : 4/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7084 : Baccalauréat en génie logiciel
@@ -476,11 +476,11 @@ LOG660          BASES DE DONNÉES DE HAUTE PERFORMANCE                          
 LOG680          INTRODUCTION À L'APPROCHE DEVOPS                                                                                    STA204 ou STA206
 
                 01      Jeu         13:30 - 17:00   C                    D                             M. Sayagh
-                        Ven         08:30 - 10:30   Labo A               D         A-3412
+                        Ven         08:30 - 10:30   Labo A               D         A-3412              M. Da Cunha
                         Ven         10:30 - 12:30   Labo B               D         A-3412
 
                 02      Ven         08:30 - 12:00   C                    D                             M. Sayagh
-                        Jeu         13:30 - 15:30   Labo A               D         A-3412
+                        Jeu         13:30 - 15:30   Labo A               D         A-3412              M. Da Cunha
                         Jeu         15:30 - 17:30   Labo B               D         A-3412
 
 
@@ -499,7 +499,7 @@ LOG791          PROJETS SPÉCIAUX                                               
 
 
 
-                 Date : 2023-05-25 12:31:17         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 5/13
+                 Date : 2023-05-26 12:31:19         L’École se réserve un droit de modifier l’horaire sans préavis          Page : 5/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        7084 : Baccalauréat en génie logiciel
@@ -603,7 +603,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
                 80      Mar         13:00 - 16:30   C                      H                               I. Ndiaye
 
-                 Date : 2023-05-25 12:31:17         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 6/13
+                 Date : 2023-05-26 12:31:19         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 6/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        7084 : Baccalauréat en génie logiciel
@@ -680,7 +680,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
 
 
 
-                 Date : 2023-05-25 12:31:17         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 7/13
+                 Date : 2023-05-26 12:31:19         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 7/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                         7084 : Baccalauréat en génie logiciel
@@ -779,7 +779,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
 
 
 
-                 Date : 2023-05-25 12:31:17         L’École se réserve un droit de modifier l’horaire sans préavis               Page : 8/13
+                 Date : 2023-05-26 12:31:19         L’École se réserve un droit de modifier l’horaire sans préavis               Page : 8/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                          7084 : Baccalauréat en génie logiciel
@@ -860,7 +860,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-                 Date : 2023-05-25 12:31:17          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 9/13
+                 Date : 2023-05-26 12:31:19          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 9/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                         7084 : Baccalauréat en génie logiciel
@@ -913,7 +913,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-                 Date : 2023-05-25 12:31:17         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 10/13
+                 Date : 2023-05-26 12:31:19         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 10/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        7084 : Baccalauréat en génie logiciel
@@ -986,7 +986,7 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
 
 
 
-                 Date : 2023-05-25 12:31:17         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 11/13
+                 Date : 2023-05-26 12:31:19         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 11/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                         7084 : Baccalauréat en génie logiciel
@@ -1028,7 +1028,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 01      Lun         18:00 - 21:30   Atelier                D                               I. Desjardins-David
                         29 mai 2023
@@ -1058,7 +1058,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2023-05-25 12:31:17         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 12/13
+                 Date : 2023-05-26 12:31:19         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 12/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                               7084 : Baccalauréat en génie logiciel
@@ -1137,5 +1137,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-05-25 12:31:17            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
+                 Date : 2023-05-26 12:31:19            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
 

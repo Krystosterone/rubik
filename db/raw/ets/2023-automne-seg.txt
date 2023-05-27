@@ -15,6 +15,17 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                    PRÉALABLES
 
+ATE100          INTÉGRITÉ INTELLECTUELLE
+                La formation ATE100 est offerte sur la plateforme de cours en ligne Moodle. La durée de la formation est estimée à environ 4 heures. Afin de
+                respecter les différents rythmes d'apprentissage et les diverses plages horaires où les étudiant (es) sont disponibles, une période de 5 semaines
+                sera accordée pour compléter la formation.
+                01                                  Atelier              D
+                        Dates: 18 septembre au 23 octobre 2023
+                02                                 Atelier               D
+                        Dates: 18 septembre au 23 octobre 2023
+                03                                 Atelier               D
+                        Dates: 30 octobre au 4 décembre 2023
+
 
 ATE800          INTÉGRITÉ INTELLECTUELLE : UN SAVOIR-ÊTRE ET UN
                 SAVOIR-FAIRE
@@ -85,7 +96,7 @@ COM120          MÉTHODES DE COMMUNICATION
                         Lun         08:30 - 12:30   TP A+B               P
 
 
-                 Date : 2023-05-25 12:31:33         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 1/13
+                 Date : 2023-05-26 12:31:34         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 1/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -187,7 +198,7 @@ ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
 
                 02      Lun         09:00 - 12:30   C                    P         C-0120.1
 
-                 Date : 2023-05-25 12:31:33         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/13
+                 Date : 2023-05-26 12:31:34         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -245,7 +256,8 @@ ENT601          MARKETING ET VENTES
 ETH610          ENJEUX ÉTHIQUES DE L’INTELLIGENCE ARTIFICIELLE
 
                 01      Lun         09:00 - 12:30   C                    P
-                        Ven         09:00 - 11:00   TP/Labo              P
+                        Ven         08:30 - 10:30   TP A                 P
+                        Ven         10:30 - 12:30   TP B                 P
 
 
 
@@ -285,7 +297,7 @@ GIA410          GESTION ET ÉCONOMIE DES PROJETS D’INGÉNIERIE
 
 
 
-                 Date : 2023-05-25 12:31:33         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/13
+                 Date : 2023-05-26 12:31:34         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -386,7 +398,7 @@ INFTEST         ACCUEIL EN INFORMATIQUE
 ING150          STATIQUE ET DYNAMIQUE
                 01      Mer         13:30 - 17:00   C                    P
 
-                 Date : 2023-05-25 12:31:33         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/13
+                 Date : 2023-05-26 12:31:34         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -488,7 +500,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
                 05      Mar         13:30 - 17:00   C                    P
 
-                 Date : 2023-05-25 12:31:33         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/13
+                 Date : 2023-05-26 12:31:34         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -590,7 +602,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
 
                 06      Mar         09:00 - 12:30   C                    P
 
-                 Date : 2023-05-25 12:31:33         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/13
+                 Date : 2023-05-26 12:31:34         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -692,7 +704,7 @@ MATEST          ACCUEIL EN MATHÉMATIQUES
                 05      Jeu         09:00 - 12:30   C                    P
 
 
-                 Date : 2023-05-25 12:31:33         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/13
+                 Date : 2023-05-26 12:31:34         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                          Service des enseignements généraux
@@ -792,7 +804,7 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
 
 
 
-                 Date : 2023-05-25 12:31:33         L’École se réserve un droit de modifier l’horaire sans préavis               Page : 8/13
+                 Date : 2023-05-26 12:31:34         L’École se réserve un droit de modifier l’horaire sans préavis               Page : 8/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -866,7 +878,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 01      Mar         09:00 - 12:30   Atelier              P
                         12 septembre 2023
@@ -890,7 +902,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 
 
 
-                 Date : 2023-05-25 12:31:33         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 9/13
+                 Date : 2023-05-26 12:31:34         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 9/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -917,7 +929,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 04      Lun         09:00 - 12:30   Atelier              D
                         11 septembre 2023
@@ -981,7 +993,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 
 
 
-                 Date : 2023-05-25 12:31:33         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 10/13
+                 Date : 2023-05-26 12:31:34         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 10/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                            Service des enseignements généraux
@@ -1008,7 +1020,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 14      Mer         18:00 - 21:30   Atelier                 D
                         18 octobre 2023
@@ -1068,7 +1080,7 @@ PRE811          DÉVELOPPEMENT DE CARRIÈRE AUX CYCLES
 
 
 
-                 Date : 2023-05-25 12:31:33          L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 11/13
+                 Date : 2023-05-26 12:31:34          L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 11/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                            Service des enseignements généraux
@@ -1148,7 +1160,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2023-05-25 12:31:33          L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 12/13
+                 Date : 2023-05-26 12:31:34          L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 12/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                               Service des enseignements généraux
@@ -1209,5 +1221,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-05-25 12:31:33            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
+                 Date : 2023-05-26 12:31:34            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
 
