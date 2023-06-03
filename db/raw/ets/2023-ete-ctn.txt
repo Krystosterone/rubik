@@ -99,7 +99,7 @@ CTN320          PLANIFICATION ET CONTRÔLE DES PROJETS DE                       
 
 
 
-                 Date : 2023-05-25 12:31:08         L’École se réserve un droit de modifier l’horaire sans préavis                   Page : 1/13
+                 Date : 2023-06-02 12:31:12         L’École se réserve un droit de modifier l’horaire sans préavis                   Page : 1/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7625 : Baccalauréat en génie de la construction
@@ -158,7 +158,7 @@ CTN504          MÉCANIQUE DES SOLS                                             
                         Lun         08:30 - 11:30   TP/Labo              P         A-1400, D-4008      M. Sona / K. El Mekari / A. Deiminiat
 
                 02      Mer         18:00 - 21:30   C                    P         B-4418              J.P. Roy
-                        Jeu         18:00 - 21:00   TP/Labo              P         A-1400, D-3008
+                        Jeu         18:00 - 21:00   TP/Labo              P         A-1400, D-3008      C. Bouin
 
 
 
@@ -200,7 +200,7 @@ CTN610          GESTION DES CONTRATS DE CONSTRUCTION                            
 
 
 
-                 Date : 2023-05-25 12:31:09         L’École se réserve un droit de modifier l’horaire sans préavis                   Page : 2/13
+                 Date : 2023-06-02 12:31:12         L’École se réserve un droit de modifier l’horaire sans préavis                   Page : 2/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7625 : Baccalauréat en génie de la construction
@@ -300,7 +300,7 @@ CTN793          PROJET DE FIN D'ÉTUDES EN GÉNIE DE LA                         
 
 
 
-                 Date : 2023-05-25 12:31:09         L’École se réserve un droit de modifier l’horaire sans préavis               Page : 3/13
+                 Date : 2023-06-02 12:31:12         L’École se réserve un droit de modifier l’horaire sans préavis               Page : 3/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7625 : Baccalauréat en génie de la construction
@@ -398,7 +398,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
 
 
 
-                 Date : 2023-05-25 12:31:09         L’École se réserve un droit de modifier l’horaire sans préavis                Page : 4/13
+                 Date : 2023-06-02 12:31:12         L’École se réserve un droit de modifier l’horaire sans préavis                Page : 4/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                7625 : Baccalauréat en génie de la construction
@@ -452,7 +452,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
 
 
 
-                 Date : 2023-05-25 12:31:09         L’École se réserve un droit de modifier l’horaire sans préavis       Page : 5/13
+                 Date : 2023-06-02 12:31:12         L’École se réserve un droit de modifier l’horaire sans préavis       Page : 5/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7625 : Baccalauréat en génie de la construction
@@ -522,7 +522,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
 
 
-                 Date : 2023-05-25 12:31:09         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 6/13
+                 Date : 2023-06-02 12:31:12         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 6/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                7625 : Baccalauréat en génie de la construction
@@ -599,7 +599,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
 
 
 
-                 Date : 2023-05-25 12:31:09         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 7/13
+                 Date : 2023-06-02 12:31:13         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 7/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                  7625 : Baccalauréat en génie de la construction
@@ -697,7 +697,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
 
 
 
-                 Date : 2023-05-25 12:31:09          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 8/13
+                 Date : 2023-06-02 12:31:13          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 8/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                  7625 : Baccalauréat en génie de la construction
@@ -772,7 +772,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-                 Date : 2023-05-25 12:31:09          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 9/13
+                 Date : 2023-06-02 12:31:13          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 9/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                 7625 : Baccalauréat en génie de la construction
@@ -825,7 +825,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-                 Date : 2023-05-25 12:31:09         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 10/13
+                 Date : 2023-06-02 12:31:13         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 10/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                7625 : Baccalauréat en génie de la construction
@@ -898,7 +898,7 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
 
 
 
-                 Date : 2023-05-25 12:31:09         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 11/13
+                 Date : 2023-06-02 12:31:13         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 11/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                7625 : Baccalauréat en génie de la construction
@@ -940,7 +940,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 01      Lun         18:00 - 21:30   Atelier                D                               I. Desjardins-David
                         29 mai 2023
@@ -970,7 +970,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2023-05-25 12:31:09         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 12/13
+                 Date : 2023-06-02 12:31:13         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 12/13
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7625 : Baccalauréat en génie de la construction
@@ -1049,5 +1049,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-05-25 12:31:09            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
+                 Date : 2023-06-02 12:31:13            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 13/13
 

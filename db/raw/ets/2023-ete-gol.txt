@@ -98,7 +98,7 @@ GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU INDUSTRIEL
 
                 01      Ven         13:30 - 17:00   C                    H         D-4010              D. Benyahia
 
-                 Date : 2023-05-25 12:31:23         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 1/12
+                 Date : 2023-06-02 12:31:29         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 1/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     6556 : Baccalauréat en génie des opérations et de la logistique
@@ -199,7 +199,7 @@ GOL605          ANALYSE DE LA PERFORMANCE FINANCIÈRE                           
                 01      Mar         08:30 - 12:00   C                    P         D-4023              S. Assal
 
 
-                 Date : 2023-05-25 12:31:23         L’École se réserve un droit de modifier l’horaire sans préavis                   Page : 2/12
+                 Date : 2023-06-02 12:31:29         L’École se réserve un droit de modifier l’horaire sans préavis                   Page : 2/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     6556 : Baccalauréat en génie des opérations et de la logistique
@@ -300,7 +300,7 @@ ING150          STATIQUE ET DYNAMIQUE
 
 
 
-                 Date : 2023-05-25 12:31:23         L’École se réserve un droit de modifier l’horaire sans préavis                Page : 3/12
+                 Date : 2023-06-02 12:31:29         L’École se réserve un droit de modifier l’horaire sans préavis                Page : 3/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                       6556 : Baccalauréat en génie des opérations et de la logistique
@@ -379,7 +379,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
 
 
 
-                 Date : 2023-05-25 12:31:23         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 4/12
+                 Date : 2023-06-02 12:31:29         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 4/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                       6556 : Baccalauréat en génie des opérations et de la logistique
@@ -449,7 +449,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
 
 
-                 Date : 2023-05-25 12:31:23         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 5/12
+                 Date : 2023-06-02 12:31:29         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 5/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6556 : Baccalauréat en génie des opérations et de la logistique
@@ -526,7 +526,7 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
 
 
 
-                 Date : 2023-05-25 12:31:23         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 6/12
+                 Date : 2023-06-02 12:31:29         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 6/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                        6556 : Baccalauréat en génie des opérations et de la logistique
@@ -622,7 +622,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-                 Date : 2023-05-25 12:31:23          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 7/12
+                 Date : 2023-06-02 12:31:29          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 7/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                       6556 : Baccalauréat en génie des opérations et de la logistique
@@ -676,7 +676,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-                 Date : 2023-05-25 12:31:23         L’École se réserve un droit de modifier l’horaire sans préavis       Page : 8/12
+                 Date : 2023-06-02 12:31:29         L’École se réserve un droit de modifier l’horaire sans préavis       Page : 8/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                       6556 : Baccalauréat en génie des opérations et de la logistique
@@ -729,7 +729,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-                 Date : 2023-05-25 12:31:23         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 9/12
+                 Date : 2023-06-02 12:31:29         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 9/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6556 : Baccalauréat en génie des opérations et de la logistique
@@ -799,7 +799,7 @@ PHY335          PHYSIQUE DES ONDES                                              
 
 
 
-                 Date : 2023-05-25 12:31:23         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 10/12
+                 Date : 2023-06-02 12:31:29         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 10/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                       6556 : Baccalauréat en génie des opérations et de la logistique
@@ -826,7 +826,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 01      Lun         18:00 - 21:30   Atelier                D                               I. Desjardins-David
                         29 mai 2023
@@ -874,7 +874,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2023-05-25 12:31:23         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 11/12
+                 Date : 2023-06-02 12:31:29         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 11/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             6556 : Baccalauréat en génie des opérations et de la logistique
@@ -935,5 +935,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-05-25 12:31:23            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
+                 Date : 2023-06-02 12:31:29            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
 

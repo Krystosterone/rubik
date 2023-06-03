@@ -100,7 +100,7 @@ CHM131          CHIMIE ET MATÉRIAUX
                 01      Mer         09:00 - 12:30   C                      P          B-1518               D. Piotte
 
 
-                 Date : 2023-05-25 12:30:08          L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 1/14
+                 Date : 2023-06-02 12:30:09          L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 1/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -201,7 +201,7 @@ ENT304          PROJETS SPÉCIAUX EN ENTREPRENEURIAT IV
 
 
 
-                 Date : 2023-05-25 12:30:08         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 2/14
+                 Date : 2023-06-02 12:30:10         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 2/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                           Service des enseignements généraux
@@ -303,7 +303,7 @@ INF136          INTRODUCTION À LA PROGRAMMATION EN PYTHON
 
 
 
-                 Date : 2023-05-25 12:30:08         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 3/14
+                 Date : 2023-06-02 12:30:10         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 3/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        Service des enseignements généraux
@@ -381,7 +381,7 @@ MAT015          MATHÉMATIQUES PRÉPARATOIRES POUR LES
 
 
 
-                 Date : 2023-05-25 12:30:08         L’École se réserve un droit de modifier l’horaire sans préavis                 Page : 4/14
+                 Date : 2023-06-02 12:30:10         L’École se réserve un droit de modifier l’horaire sans préavis                 Page : 4/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                             Service des enseignements généraux
@@ -487,7 +487,7 @@ MAT015          MATHÉMATIQUES PRÉPARATOIRES POUR LES
                         04 juillet 2023
                         06 juillet 2023
 
-                 Date : 2023-05-25 12:30:08          L’École se réserve un droit de modifier l’horaire sans préavis                         Page : 5/14
+                 Date : 2023-06-02 12:30:10          L’École se réserve un droit de modifier l’horaire sans préavis                         Page : 5/14
                 07 juillet 2023
                 10 juillet 2023
                 11 juillet 2023
@@ -602,7 +602,7 @@ MAT145   CALCUL DIFFÉRENTIEL ET INTÉGRAL
          04     Jeu        18:00 - 21:30    C                      P          D-5009                P. Mbaraga
                 Mar        18:00 - 21:00    TP                     P          B-1502                P. Mbaraga
 
-         Date : 2023-05-25 12:30:08         L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 6/14
+         Date : 2023-06-02 12:30:10         L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 6/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                          Service des enseignements généraux
@@ -704,7 +704,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
                 05      Lun         09:00 - 12:30   C                     P          B-1706               J.B. Lévesque
                         Mer         09:00 - 12:00   TP                    P          B-1708               J.B. Lévesque
 
-                 Date : 2023-05-25 12:30:08         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 7/14
+                 Date : 2023-06-02 12:30:10         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 7/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                             Service des enseignements généraux
@@ -803,7 +803,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
 
 
 
-                 Date : 2023-05-25 12:30:08          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 8/14
+                 Date : 2023-06-02 12:30:10          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 8/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                             Service des enseignements généraux
@@ -850,7 +850,7 @@ PHY015          PHYSIQUE PRÉPARATOIRE POUR LE GÉNIE
 
 
 
-                 Date : 2023-05-25 12:30:08          L’École se réserve un droit de modifier l’horaire sans préavis                  Page : 9/14
+                 Date : 2023-06-02 12:30:10          L’École se réserve un droit de modifier l’horaire sans préavis                  Page : 9/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                           Service des enseignements généraux
@@ -956,7 +956,7 @@ PHY015          PHYSIQUE PRÉPARATOIRE POUR LE GÉNIE
                         07 juillet 2023
                         10 juillet 2023
 
-                 Date : 2023-05-25 12:30:08         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 10/14
+                 Date : 2023-06-02 12:30:10         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 10/14
                 11 juillet 2023
                 12 juillet 2023
                 14 juillet 2023
@@ -1056,7 +1056,7 @@ PHY144   INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-         Date : 2023-05-25 12:30:08         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 11/14
+         Date : 2023-06-02 12:30:10         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 11/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                          Service des enseignements généraux
@@ -1143,7 +1143,7 @@ PHY335          PHYSIQUE DES ONDES                                              
 
 
 
-                 Date : 2023-05-25 12:30:09         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 12/14
+                 Date : 2023-06-02 12:30:10         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 12/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                            Service des enseignements généraux
@@ -1170,7 +1170,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 01      Lun         18:00 - 21:30   Atelier                 D                                I. Desjardins-David
                         29 mai 2023
@@ -1242,7 +1242,7 @@ PRE811          DÉVELOPPEMENT DE CARRIÈRE AUX CYCLES
 
 
 
-                 Date : 2023-05-25 12:30:09          L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 13/14
+                 Date : 2023-06-02 12:30:10          L’École se réserve un droit de modifier l’horaire sans préavis                      Page : 13/14
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                               Service des enseignements généraux
@@ -1338,5 +1338,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-05-25 12:30:09            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 14/14
+                 Date : 2023-06-02 12:30:10            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 14/14
 

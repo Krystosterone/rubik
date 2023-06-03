@@ -98,7 +98,7 @@ ELE265          TRAITEMENT DE SIGNAUX                                           
 
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 1/12
+                 Date : 2023-06-02 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 1/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -198,7 +198,7 @@ ELE652          ÉLECTRICITÉ INDUSTRIELLE                                      
 
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis            Page : 2/12
+                 Date : 2023-06-02 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis            Page : 2/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -260,7 +260,7 @@ ELE795          PROJET DE FIN D’ÉTUDES EN GÉNIE ÉLECTRIQUE
 
 
 ELE796          INGÉNIERIE INFONUAGIQUE                                                                                            ELE216
-                01      Mer         08:30 - 12:00   C                    P         D-5025              K.K. Nguyen
+                01      Mer         08:30 - 12:00   C                    P         A-2402              K.K. Nguyen
                         Ven         13:30 - 15:30   Labo                 P         A-2402              K.K. Nguyen
 
 
@@ -298,7 +298,7 @@ GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
 
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 3/12
+                 Date : 2023-06-02 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 3/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -400,7 +400,7 @@ ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
 
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                 Page : 4/12
+                 Date : 2023-06-02 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                 Page : 4/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7694 : Baccalauréat en génie électrique
@@ -501,7 +501,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 5/12
+                 Date : 2023-06-02 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 5/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7694 : Baccalauréat en génie électrique
@@ -578,7 +578,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
 
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 6/12
+                 Date : 2023-06-02 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 6/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        7694 : Baccalauréat en génie électrique
@@ -676,7 +676,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
 
 
 
-                 Date : 2023-05-25 12:30:34          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 7/12
+                 Date : 2023-06-02 12:30:34          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 7/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        7694 : Baccalauréat en génie électrique
@@ -751,7 +751,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-                 Date : 2023-05-25 12:30:34          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 8/12
+                 Date : 2023-06-02 12:30:34          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 8/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7694 : Baccalauréat en génie électrique
@@ -804,7 +804,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 9/12
+                 Date : 2023-06-02 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 9/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7694 : Baccalauréat en génie électrique
@@ -874,7 +874,7 @@ PHY335          PHYSIQUE DES ONDES                                              
 
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 10/12
+                 Date : 2023-06-02 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 10/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7694 : Baccalauréat en génie électrique
@@ -901,7 +901,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 01      Lun         18:00 - 21:30   Atelier                D                               I. Desjardins-David
                         29 mai 2023
@@ -949,7 +949,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 11/12
+                 Date : 2023-06-02 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 11/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                          7694 : Baccalauréat en génie électrique
@@ -1010,5 +1010,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-05-25 12:30:34            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
+                 Date : 2023-06-02 12:30:34            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
 

@@ -31,18 +31,30 @@ ATE085          NEUROFOCUS : ÉQUILIBRE DE VIE AUX ÉTUDES
 
 
 
-ATE800          INTÉGRITÉ INTELLECTUELLE : UN SAVOIR-ÊTRE ET UN
-                SAVOIR-FAIRE
-                La formation ATE800 est offerte sur la plateforme de cours en ligne Moodle. La durée de la formation est estimée à environ 4 heures. Afin de
-                respecter les différents rythmes d'apprentissage et les diverses plages horaires où les étudiant(e)s sont disponibles, une période de 5 semaines est
-                accordée pour compléter la formation.
+ATE100          INTÉGRITÉ INTELLECTUELLE
+                La formation ATE100 est offerte sur la plateforme de cours en ligne Moodle. La durée de la formation est estimée à environ 4 heures. Afin de
+                respecter les différents rythmes d'apprentissage et les diverses plages horaires où les étudiant (es) sont disponibles, une période de 5 semaines
+                sera accordée pour compléter la formation.
                 01                                  Atelier              D
                         Dates: 18 septembre au 23 octobre 2023
                 02                                 Atelier               D
                         Dates: 18 septembre au 23 octobre 2023
                 03                                 Atelier               D
                         Dates: 30 octobre au 4 décembre 2023
-                55                                 Atelier               D
+
+
+ATE800          INTÉGRITÉ INTELLECTUELLE : UN SAVOIR-ÊTRE ET UN
+                SAVOIR-FAIRE
+                La formation ATE800 est offerte sur la plateforme de cours en ligne Moodle. La durée de la formation est estimée à environ 4 heures. Afin de
+                respecter les différents rythmes d'apprentissage et les diverses plages horaires où les étudiant(e)s sont disponibles, une période de 5 semaines est
+                accordée pour compléter la formation.
+                01                                  Atelier              D                             M.K. Daoust
+                        Dates: 18 septembre au 23 octobre 2023
+                02                                 Atelier               D                             M.K. Daoust
+                        Dates: 18 septembre au 23 octobre 2023
+                03                                 Atelier               D                             M.K. Daoust
+                        Dates: 30 octobre au 4 décembre 2023
+                55                                 Atelier               D                             M.K. Daoust
                         Dates: 30 octobre au 4 décembre 2023
                         Ce cours est offert en anglais.
 
@@ -84,13 +96,13 @@ CHM131          CHIMIE ET MATÉRIAUX
                 12      Mer         18:00 - 21:30   C                    P
 
 
-                 Date : 2023-05-25 12:33:03         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 1/11
+                 Date : 2023-06-02 12:33:14         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 1/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     6556 : Baccalauréat en génie des opérations et de la logistique
 
 
-                                                              HORAIRE AUTOMNE 2023
+                                                             HORAIRE AUTOMNE 2023
                                                     Locaux A: bâtiment sud, 1100, Notre-Dame O.
                                                     Locaux B: bâtiment nord, 1111, Notre-Dame O.
                                                     Locaux D: bâtiment sud-ouest, 1219, rue William
@@ -179,12 +191,13 @@ ENT601          MARKETING ET VENTES
 ETH610          ENJEUX ÉTHIQUES DE L’INTELLIGENCE ARTIFICIELLE
 
                 01      Lun         09:00 - 12:30   C                    P
-                        Ven         09:00 - 11:00   TP/Labo              P
+                        Ven         08:30 - 10:30   TP A                 P
+                        Ven         10:30 - 12:30   TP B                 P
 
 
 
 
-                 Date : 2023-05-25 12:33:03         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/11
+                 Date : 2023-06-02 12:33:14         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     6556 : Baccalauréat en génie des opérations et de la logistique
@@ -221,8 +234,8 @@ GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
 
 
 
-GIA500          INITIATION AUX PROJETS INTERNATIONAUX
-                D'INGÉNIERIE
+GIA501          PROJETS D’INGÉNIERIE INTERNATIONAUX ET
+                MULTICULTURELS
                 01      Mar         18:00 - 21:30   C                    P
                         Lun         18:00 - 22:00   TP/Labo              P
 
@@ -285,7 +298,7 @@ GOL460          CHAÎNES LOGISTIQUES ET D'APPROVISIONNEMENT                     
 
                 01      Lun         08:30 - 12:00   C                    P
 
-                 Date : 2023-05-25 12:33:03         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/11
+                 Date : 2023-06-02 12:33:14         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     6556 : Baccalauréat en génie des opérations et de la logistique
@@ -384,7 +397,7 @@ GOL720          IMPLANTATION SYST. INTÉGRÉS DE GESTION                        
 
 
 
-                 Date : 2023-05-25 12:33:03         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 4/11
+                 Date : 2023-06-02 12:33:14         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 4/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     6556 : Baccalauréat en génie des opérations et de la logistique
@@ -485,7 +498,7 @@ ING160          THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                       
 
                 02      Jeu         09:00 - 12:30   C                    P
 
-                 Date : 2023-05-25 12:33:03         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/11
+                 Date : 2023-06-02 12:33:14         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     6556 : Baccalauréat en génie des opérations et de la logistique
@@ -588,7 +601,7 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
                 13      Jeu         18:00 - 21:30   C                    P
 
 
-                 Date : 2023-05-25 12:33:03         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/11
+                 Date : 2023-06-02 12:33:14         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     6556 : Baccalauréat en génie des opérations et de la logistique
@@ -690,7 +703,7 @@ MATEST          ACCUEIL EN MATHÉMATIQUES
 
 
 
-                 Date : 2023-05-25 12:33:03         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/11
+                 Date : 2023-06-02 12:33:14         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6556 : Baccalauréat en génie des opérations et de la logistique
@@ -737,6 +750,12 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                         30 octobre 2023
                         06 novembre 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 22 octobre 2023 / 05 novembre 2023
+                07      Lun         18:00 - 21:30   Atelier               D
+                        13 novembre 2023
+                        20 novembre 2023
+                        27 novembre 2023
+                        04 décembre 2023
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 novembre 2023 / 03 décembre 2023
 
 
 
@@ -776,21 +795,11 @@ PHY335          PHYSIQUE DES ONDES                                              
 
 PHYEST          ACCUEIL EN PHYSIQUE
                 01      Mer         13:30 - 17:00   C                     P
-                        Mar         13:30 - 16:30   TP/Labo               P
-
-                02      Jeu         09:00 - 12:30   C                     P
-                        Lun         13:30 - 16:30   TP/Labo               P
-
-                03      Jeu         13:30 - 17:00   C                     P
-                        Mar         09:00 - 12:00   TP/Labo               P
-
-                04      Jeu         18:00 - 21:30   C                     P
-                        Mar         18:00 - 21:00   TP/Labo               P
-
-                05      Mer         13:30 - 17:00   C                     P
 
 
-                 Date : 2023-05-25 12:33:03         L’École se réserve un droit de modifier l’horaire sans préavis               Page : 8/11
+
+
+                 Date : 2023-06-02 12:33:14         L’École se réserve un droit de modifier l’horaire sans préavis               Page : 8/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                     6556 : Baccalauréat en génie des opérations et de la logistique
@@ -809,7 +818,19 @@ Bureau du registraire - logistique académique
 COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                  PRÉALABLES
 
 PHYEST          ACCUEIL EN PHYSIQUE
-                05      Mar         13:30 - 16:30   TP/Labo              P
+                01      Mar         13:30 - 16:30   TP/Labo              P
+
+                02      Jeu         09:00 - 12:30   C                    P
+                        Lun         13:30 - 16:30   TP/Labo              P
+
+                03      Jeu         13:30 - 17:00   C                    P
+                        Mar         09:00 - 12:00   TP/Labo              P
+
+                04      Jeu         18:00 - 21:30   C                    P
+                        Mar         18:00 - 21:00   TP/Labo              P
+
+                05      Mer         13:30 - 17:00   C                    P
+                        Mar         13:30 - 16:30   TP/Labo              P
 
                 06      Jeu         09:00 - 12:30   C                    P
                         Lun         13:30 - 16:30   TP/Labo              P
@@ -828,7 +849,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 01      Mar         09:00 - 12:30   Atelier              P
                         12 septembre 2023
@@ -836,7 +857,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                         26 septembre 2023
                         03 octobre 2023
                         17 octobre 2023
-                02      Mer        13:30 - 17:00    Atelier              P
+                02      Mer         13:30 - 17:00   Atelier              P
                         13 septembre 2023
                         20 septembre 2023
                         27 septembre 2023
@@ -848,7 +869,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                         07 novembre 2023
                         14 novembre 2023
                         21 novembre 2023
-                04      Lun         09:00 - 12:30   Atelier              D
+                04      Lun        09:00 - 12:30    Atelier              D
                         11 septembre 2023
                         18 septembre 2023
                         25 septembre 2023
@@ -870,23 +891,11 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                         29 septembre 2023
                         30 septembre 2023
                         07 octobre 2023
-                08      Mer         18:00 - 21:30   Atelier              D
-                        13 septembre 2023
-                        20 septembre 2023
-                        27 septembre 2023
-                        04 octobre 2023
-                        11 octobre 2023
-                09      Lun         18:00 - 21:30   Atelier              D
-                        11 septembre 2023
-                        18 septembre 2023
-                        25 septembre 2023
-                        02 octobre 2023
-                        16 octobre 2023
 
 
 
 
-                 Date : 2023-05-25 12:33:03         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 9/11
+                 Date : 2023-06-02 12:33:15         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 9/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                        6556 : Baccalauréat en génie des opérations et de la logistique
@@ -913,8 +922,20 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
+                08      Mer         18:00 - 21:30   Atelier                 D
+                        13 septembre 2023
+                        20 septembre 2023
+                        27 septembre 2023
+                        04 octobre 2023
+                        11 octobre 2023
+                09      Lun         18:00 - 21:30   Atelier                 D
+                        11 septembre 2023
+                        18 septembre 2023
+                        25 septembre 2023
+                        02 octobre 2023
+                        16 octobre 2023
                 10      Mar         18:00 - 21:30   Atelier                 D
                         12 septembre 2023
                         19 septembre 2023
@@ -945,8 +966,8 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                         01 novembre 2023
                         15 novembre 2023
                         22 novembre 2023
-                15      Ven         18:00 - 21:30   Atelier                 D
-                        Sam         09:00 - 17:00   C                       D
+                15      Ven        18:00 - 21:30    Atelier                 D
+                        Sam        09:00 - 17:00    C                       D
                         13 octobre 2023
                         14 octobre 2023
                         21 octobre 2023
@@ -962,24 +983,11 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
                 01      Jeu         09:00 - 12:30   C                       P
-                        Mar         08:30 - 12:30   TP A+B                  P
-
-                02      Jeu         13:30 - 17:00   C                       H
-                        Lun         13:30 - 17:30   TP A+B                  H
-
-                03      Lun         09:00 - 12:30   C                       P
-                        Mer         13:30 - 17:30   TP A+B                  P
-
-                04      Ven         09:00 - 12:30   C                       P
-                        Mer         08:30 - 12:30   TP A+B                  P
-
-                05      Ven         13:30 - 17:00   C                       P
-                        Mar         13:30 - 17:30   TP A+B                  P
 
 
 
 
-                 Date : 2023-05-25 12:33:03          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 10/11
+                 Date : 2023-06-02 12:33:15          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 10/11
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             6556 : Baccalauréat en génie des opérations et de la logistique
@@ -998,6 +1006,20 @@ Bureau du registraire - logistique académique
 COURS           GR      JOUR          HEURE           ACTIVITÉ           Mode d'ens.     LOCAL                 ENSEIGNANT                             PRÉALABLES
 
 TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
+
+                01      Mar         08:30 - 12:30     TP A+B                   P
+
+                02      Jeu         13:30 - 17:00     C                        H
+                        Lun         13:30 - 17:30     TP A+B                   H
+
+                03      Lun         09:00 - 12:30     C                        P
+                        Mer         13:30 - 17:30     TP A+B                   P
+
+                04      Ven         09:00 - 12:30     C                        P
+                        Mer         08:30 - 12:30     TP A+B                   P
+
+                05      Ven         13:30 - 17:00     C                        P
+                        Mar         13:30 - 17:30     TP A+B                   P
 
                 06      Mar         09:00 - 12:30     C                        P
                         Jeu         08:30 - 12:30     TP A+B                   P
@@ -1044,5 +1066,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-05-25 12:33:03            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 11/11
+                 Date : 2023-06-02 12:33:15            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 11/11
 
