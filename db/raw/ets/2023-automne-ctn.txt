@@ -30,30 +30,63 @@ ATE085          NEUROFOCUS : ÉQUILIBRE DE VIE AUX ÉTUDES
                 02      Mar         13:30 - 17:00   Atelier              P
 
 
-ATE800          INTÉGRITÉ INTELLECTUELLE : UN SAVOIR-ÊTRE ET UN
-                SAVOIR-FAIRE
-                La formation ATE800 est offerte sur la plateforme de cours en ligne Moodle. La durée de la formation est estimée à environ 4 heures. Afin de
-                respecter les différents rythmes d'apprentissage et les diverses plages horaires où les étudiant(e)s sont disponibles, une période de 5 semaines est
-                accordée pour compléter la formation.
+
+ATE100          INTÉGRITÉ INTELLECTUELLE
+                La formation ATE100 est offerte sur la plateforme de cours en ligne Moodle. La durée de la formation est estimée à environ 4 heures. Afin de
+                respecter les différents rythmes d'apprentissage et les diverses plages horaires où les étudiant (es) sont disponibles, une période de 5 semaines
+                sera accordée pour compléter la formation.
                 01                                  Atelier              D
                         Dates: 18 septembre au 23 octobre 2023
                 02                                 Atelier               D
                         Dates: 18 septembre au 23 octobre 2023
                 03                                 Atelier               D
                         Dates: 30 octobre au 4 décembre 2023
-                55                                 Atelier               D
+
+
+ATE800          INTÉGRITÉ INTELLECTUELLE : UN SAVOIR-ÊTRE ET UN
+                SAVOIR-FAIRE
+                La formation ATE800 est offerte sur la plateforme de cours en ligne Moodle. La durée de la formation est estimée à environ 4 heures. Afin de
+                respecter les différents rythmes d'apprentissage et les diverses plages horaires où les étudiant(e)s sont disponibles, une période de 5 semaines est
+                accordée pour compléter la formation.
+                01                                  Atelier              D                             M.K. Daoust
+                        Dates: 18 septembre au 23 octobre 2023
+                02                                 Atelier               D                             M.K. Daoust
+                        Dates: 18 septembre au 23 octobre 2023
+                03                                 Atelier               D                             M.K. Daoust
+                        Dates: 30 octobre au 4 décembre 2023
+                55                                 Atelier               D                             M.K. Daoust
                         Dates: 30 octobre au 4 décembre 2023
                         Ce cours est offert en anglais.
 
 
+
+
+                 Date : 2023-06-09 12:32:44         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 1/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7625 : Baccalauréat en génie de la construction
+
+
+                                                             HORAIRE AUTOMNE 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+
 CHM131          CHIMIE ET MATÉRIAUX
-                01      Mar         13:30 - 17:00   C                    P
+                01      Mar         13:30 - 17:00   C                    P                             M. Fraser
                         Jeu         09:00 - 12:00   TP                   P
 
                 02      Ven         09:00 - 12:30   C                    P
                         Mer         13:30 - 16:30   TP                   P
 
-                03      Mar         09:00 - 12:30   C                    P
+                03      Mar         09:00 - 12:30   C                    P                             M. Clisson
                         Lun         13:30 - 16:30   TP                   P
 
                 04      Ven         13:30 - 17:00   C                    P
@@ -68,7 +101,7 @@ CHM131          CHIMIE ET MATÉRIAUX
                 07      Mer         13:30 - 17:00   C                    P
                         Ven         09:00 - 12:00   TP                   P
 
-                08      Lun         13:30 - 17:00   C                    P
+                08      Lun         13:30 - 17:00   C                    P                             M. Fraser
                         Mar         09:00 - 12:00   TP                   P
 
                 09      Lun         09:00 - 12:30   C                    P
@@ -81,28 +114,7 @@ CHM131          CHIMIE ET MATÉRIAUX
                         Mar         18:00 - 21:00   TP                   H
 
                 12      Mer         18:00 - 21:30   C                    P
-
-
-                 Date : 2023-05-25 12:32:46         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 1/14
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                             7625 : Baccalauréat en génie de la construction
-
-
-                                                                HORAIRE AUTOMNE 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
-
-CHM131          CHIMIE ET MATÉRIAUX
-                12      Ven         18:00 - 21:00   TP                   P
+                        Ven         18:00 - 21:00   TP                   P
 
 
 
@@ -110,7 +122,7 @@ COM120          MÉTHODES DE COMMUNICATION
                 01      Jeu         13:30 - 17:00   C                    P
                         Mar         13:30 - 17:30   TP A+B               P
 
-                02      Jeu         09:00 - 12:30   C                    P
+                02      Jeu         09:00 - 12:30   C                    P                             G. Nasr
                         Mar         08:30 - 12:30   TP A+B               P
 
                 03      Ven         13:30 - 17:00   C                    P
@@ -122,13 +134,13 @@ COM120          MÉTHODES DE COMMUNICATION
                 05      Mer         13:30 - 17:00   C                    P
                         Ven         08:30 - 12:30   TP A+B               P
 
-                06      Mer         13:30 - 17:00   C                    P
+                06      Mer         13:30 - 17:00   C                    P                             M. Richard
                         Ven         08:30 - 12:30   TP A+B               P
 
                 07      Mar         13:30 - 17:00   C                    P
                         Jeu         13:30 - 17:30   TP A+B               P
 
-                08      Mar         09:00 - 12:30   C                    P
+                08      Mar         09:00 - 12:30   C                    P                             M. Richard
                         Jeu         08:30 - 12:30   TP A+B               P
 
                 09      Lun         13:30 - 17:00   C                    P
@@ -147,6 +159,25 @@ COM120          MÉTHODES DE COMMUNICATION
                         Mer         18:00 - 22:00   TP A+B               P
 
 
+
+
+                 Date : 2023-06-09 12:32:44         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7625 : Baccalauréat en génie de la construction
+
+
+                                                                HORAIRE AUTOMNE 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
 
 CTN100          ÉLÉMENTS DE GESTION DE PROJETS DE
                 CONSTRUCTION
@@ -183,29 +214,7 @@ CTN112          ÉLÉMENTS DE CONSTRUCTION DE BÂTIMENT
 CTN114          ÉLÉMENTS DE MATÉRIAUX DE CONSTRUCTION
 
                 01      Ven         08:30 - 12:00   C                    P
-
-
-                 Date : 2023-05-25 12:32:46         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 2/14
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                             7625 : Baccalauréat en génie de la construction
-
-
-                                                              HORAIRE AUTOMNE 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
-
-CTN114          ÉLÉMENTS DE MATÉRIAUX DE CONSTRUCTION
-
-                01      Ven         12:00 - 15:00   Labo A               P        A-0450, A-0510,
+                        Ven         12:00 - 15:00   Labo A               P        A-0450, A-0510,
                                                                                   A-1400
                         Ven         15:00 - 18:00   Labo B               P        A-0450, A-0510,
                                                                                   A-1400
@@ -250,42 +259,8 @@ CTN248          STATIQUE ET DYNAMIQUE                                           
 
 
 
-CTN318          RÉSISTANCE DES MATÉRIAUX                                                                                     CTN248
-                01      Lun         08:30 - 12:00   C                    P
-                        Ven         15:30 - 17:30   TP/Labo              P         A-1430
 
-                02      Jeu         18:00 - 21:30   C                    P
-                        Mar         18:00 - 20:00   TP/Labo              P         A-1430
-
-
-
-CTN320          PLANIFICATION ET CONTRÔLE DES PROJETS DE                                                                     CTN210, INF130
-                CONSTRUCTION
-                01      Lun         13:30 - 17:00   C                    P         A-1220
-                        Jeu         08:30 - 11:30   TP/Labo              P         A-1560
-
-                02      Ven         08:30 - 12:00   C                    P         A-1560
-                        Jeu         13:30 - 16:30   TP/Labo              P         A-1504
-
-                03      Mer         18:00 - 21:30   C                    P         A-1504
-                        Lun         18:00 - 21:00   TP/Labo              P         A-1560
-
-
-
-CTN336          MÉCANIQUE DES FLUIDES                                                                                        MAT145, CTN248
-                01      Jeu         13:30 - 17:00   C                    H
-                        Mer         13:30 - 16:30   TP                   H         A-1472
-
-                02      Mar         08:30 - 12:00   C                    H
-                        Lun         08:30 - 11:30   TP                   H         A-1472
-
-                03      Mer         08:30 - 12:00   C                    H
-                        Mar         13:30 - 16:30   TP                   H         A-1472
-
-
-
-
-                 Date : 2023-05-25 12:32:46         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/14
+                 Date : 2023-06-09 12:32:44         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 3/15
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7625 : Baccalauréat en génie de la construction
@@ -302,6 +277,40 @@ Bureau du registraire - logistique académique
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+
+CTN318          RÉSISTANCE DES MATÉRIAUX                                                                                     CTN248
+                01      Lun         08:30 - 12:00   C                    P
+                        Ven         15:30 - 17:30   TP/Labo              P         A-1430
+
+                02      Jeu         18:00 - 21:30   C                    P
+                        Mar         18:00 - 20:00   TP/Labo              P         A-1430
+
+
+
+CTN320          PLANIFICATION ET CONTRÔLE DES PROJETS DE                                                                     CTN210, INF130
+                CONSTRUCTION
+                01      Lun         13:30 - 17:00   C                    H         A-1220
+                        Jeu         08:30 - 11:30   TP/Labo              H         A-1222
+
+                02      Ven         08:30 - 12:00   C                    H         A-1560
+                        Jeu         13:30 - 16:30   TP/Labo              H         A-1504
+
+                03      Mer         18:00 - 21:30   C                    P         A-1504
+                        Lun         18:00 - 21:00   TP/Labo              H         A-1560
+
+
+
+CTN336          MÉCANIQUE DES FLUIDES                                                                                        MAT145, CTN248
+                01      Jeu         13:30 - 17:00   C                    H
+                        Mer         13:30 - 16:30   TP                   H         A-1472
+
+                02      Mar         08:30 - 12:00   C                    H
+                        Lun         08:30 - 11:30   TP                   H         A-1472
+
+                03      Mer         08:30 - 12:00   C                    H
+                        Mar         13:30 - 16:30   TP                   H         A-1472
+
+
 
 CTN404          SCIENCE ET TECHNOLOGIE DES MATÉRIAUX                                                                         CHM131, CTN114 / Pr. AU:
                                                                                                                              CHM131 et CTN104
@@ -346,6 +355,25 @@ CTN446          HYDRAULIQUE ET HYDROLOGIE                                       
 
 
 
+
+                 Date : 2023-06-09 12:32:44         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7625 : Baccalauréat en génie de la construction
+
+
+                                                                HORAIRE AUTOMNE 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+
 CTN504          MÉCANIQUE DES SOLS                                                                                           Pr. A et B: CTN114, CTN318,
                                                                                                                              CTN336, Pr. C: CTN318 et
                                                                                                                              CTN336
@@ -385,25 +413,6 @@ CTN603          THERMIQUE ET SCIENCE DU BÂTIMENT                               
 
 
 
-
-                 Date : 2023-05-25 12:32:46         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 4/14
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                             7625 : Baccalauréat en génie de la construction
-
-
-                                                                HORAIRE AUTOMNE 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
-
 CTN609          DROIT DE LA CONSTRUCTION                                                                                     Minimum 70 Cr
                 01      Mar         18:00 - 20:00   C                    P
                         Mar         20:15 - 21:15   TP                   P
@@ -416,10 +425,10 @@ CTN609          DROIT DE LA CONSTRUCTION                                        
 CTN610          GESTION DES CONTRATS DE CONSTRUCTION                                                                         CTN609
 
                 01      Lun         08:30 - 12:00   C                    P
-                        Mer         13:30 - 17:30   TP/2                 P
+                        Mer         13:30 - 17:30   TP/2                 D
 
                 02      Lun         18:00 - 21:30   C                    P
-                        Mer         18:00 - 22:00   TP/2                 P
+                        Mer         18:00 - 22:00   TP/2                 D
 
 
 
@@ -443,6 +452,25 @@ CTN647          CONCEPTION ROUTIÈRE                                            
                         Mar         18:00 - 22:00   TP-Labo/2            P         A-1560
 
 
+
+
+                 Date : 2023-06-09 12:32:44         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7625 : Baccalauréat en génie de la construction
+
+
+                                                                HORAIRE AUTOMNE 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
 
 CTN701          RÉALISATION DES PROJETS DE CONSTRUCTION                                                                      CTN600 / CTN610
 
@@ -486,25 +514,6 @@ CTN735          ENVIRONNEMENT ET BÂTIMENTS DURABLES                            
 
 
 
-
-                 Date : 2023-05-25 12:32:46         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 5/14
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                             7625 : Baccalauréat en génie de la construction
-
-
-                                                                HORAIRE AUTOMNE 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
-
 CTN737          BIM ET TECHNOLOGIES DE L'INFORMATION DANS LA
                 CONSTRUCTION
                 01      Mer         08:30 - 12:00   C                    P         A-1504
@@ -544,6 +553,24 @@ CTN764          FONDEMENTS DES PROCÉDÉS ET PROCESSUS EN
                         Mer         13:30 - 15:30   TP                   P
 
 
+
+                 Date : 2023-06-09 12:32:44         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7625 : Baccalauréat en génie de la construction
+
+
+                                                                HORAIRE AUTOMNE 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
 
 CTN771          CONSTRUCTION ET DIMENSIONNEMENT DES                                                                          CTN504 / CTN647
                 CHAUSSÉES
@@ -587,24 +614,6 @@ CTN791          PROJETS SPÉCIAUX                                               
 
 
 
-                 Date : 2023-05-25 12:32:46         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 6/14
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                             7625 : Baccalauréat en génie de la construction
-
-
-                                                              HORAIRE AUTOMNE 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
-
 CTN793          PROJET DE FIN D'ÉTUDES EN GÉNIE DE LA                                                                        Minimum 99 Cr
                 CONSTRUCTION
                 01      Jeu         08:30 - 17:00   Projet               P         A-1432
@@ -613,10 +622,10 @@ CTN793          PROJET DE FIN D'ÉTUDES EN GÉNIE DE LA                         
 
 ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                              GIA400 ou GIA410
 
-                01      Jeu         13:30 - 17:00   C                    H
+                01      Jeu         13:30 - 17:00   C                    H                             H. Smidi
                         Mer         15:30 - 17:30   TP                   H
 
-                02      Mar         18:00 - 21:30   C                    H
+                02      Mar         18:00 - 21:30   C                    H                             H. Smidi
                         Jeu         18:00 - 20:00   TP                   H
 
 
@@ -640,17 +649,35 @@ ENT601          MARKETING ET VENTES
 
 ETH610          ENJEUX ÉTHIQUES DE L’INTELLIGENCE ARTIFICIELLE
 
-                01      Lun         09:00 - 12:30   C                    P
-                        Ven         09:00 - 11:00   TP/Labo              P
+                01      Lun         09:00 - 12:30   C                    P                             M.K. Daoust
+                        Ven         08:30 - 10:30   TP A                 P
+                        Ven         10:30 - 12:30   TP B                 P
 
 
+                 Date : 2023-06-09 12:32:44         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/15
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                             7625 : Baccalauréat en génie de la construction
+
+
+                                                              HORAIRE AUTOMNE 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                  PRÉALABLES
 
 GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
 
-                01      Lun         09:00 - 12:30   C                    P
+                01      Lun         09:00 - 12:30   C                    P                             M. Boucher-Rochon
                         Mer         13:30 - 15:30   TP                   P
 
-                02      Jeu         09:00 - 12:30   C                    P
+                02      Jeu         09:00 - 12:30   C                    P                             M. Boucher-Rochon
                         Lun         13:30 - 15:30   TP                   P
 
                 03      Lun         13:30 - 17:00   C                    P
@@ -664,8 +691,8 @@ GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
 
 
 
-GIA500          INITIATION AUX PROJETS INTERNATIONAUX
-                D'INGÉNIERIE
+GIA501          PROJETS D’INGÉNIERIE INTERNATIONAUX ET
+                MULTICULTURELS
                 01      Mar         18:00 - 21:30   C                    P
                         Lun         18:00 - 22:00   TP/Labo              P
 
@@ -687,8 +714,31 @@ GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU INDUSTRIEL
 GPE450          GESTION DU PERSONNEL ET RELATIONS
                 INDUSTRIELLES
                 01      Jeu         08:30 - 12:00   C                    C
+                        Mer         15:30 - 17:30   TP                   C
 
-                 Date : 2023-05-25 12:32:46         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 7/14
+                02      Jeu         13:30 - 17:00   C                    C
+                        Ven         08:30 - 10:30   TP                   C
+
+                03      Mar         18:00 - 21:30   C                    C
+                        Jeu         18:00 - 20:00   TP                   C
+
+
+
+INF130          ORDINATEURS ET PROGRAMMATION
+
+                01      Mer         13:30 - 17:00   C                    P                             F. Hernandez
+                        Mar         09:00 - 12:00   Labo                 P
+
+                02      Ven         09:00 - 12:30   C                    H                             F. Hernandez
+                        Jeu         13:30 - 16:30   Labo                 H
+
+                03      Mer         18:00 - 21:30   C                    P                             F. Hernandez
+                        Lun         18:00 - 21:00   Labo                 P
+
+
+
+
+                 Date : 2023-06-09 12:32:44         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 8/15
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7625 : Baccalauréat en génie de la construction
@@ -706,34 +756,9 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
 
-GPE450          GESTION DU PERSONNEL ET RELATIONS
-                INDUSTRIELLES
-                01      Mer         15:30 - 17:30   TP                   C
-
-                02      Jeu         13:30 - 17:00   C                    C
-                        Ven         08:30 - 10:30   TP                   C
-
-                03      Mar         18:00 - 21:30   C                    C
-                        Jeu         18:00 - 20:00   TP                   C
-
-
-
-INF130          ORDINATEURS ET PROGRAMMATION
-
-                01      Mer         13:30 - 17:00   C                    P
-                        Mar         09:00 - 12:00   Labo                 P
-
-                02      Ven         09:00 - 12:30   C                    H
-                        Jeu         13:30 - 16:30   Labo                 H
-
-                03      Mer         18:00 - 21:30   C                    P
-                        Lun         18:00 - 21:00   Labo                 P
-
-
-
 MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                 (HORS PROG.)
-                01      Ven         09:00 - 12:30   C                    P
+                01      Ven         09:00 - 12:30   C                    P                             K. Pineau
                         Mer         09:00 - 12:00   TP                   P
 
                 02      Ven         13:30 - 17:00   C                    P
@@ -742,7 +767,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                 03      Mar         13:30 - 17:00   C                    P
                         Lun         09:00 - 12:00   TP                   P
 
-                04      Mer         13:30 - 17:00   C                    P
+                04      Mer         13:30 - 17:00   C                    P                             K. Pineau
                         Lun         13:30 - 16:30   TP                   P
 
                 05      Jeu         09:00 - 12:30   C                    P
@@ -758,13 +783,13 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
 
 MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
-                01      Ven         09:00 - 12:30   C                    P
+                01      Ven         09:00 - 12:30   C                    P                             J.M. Lemay
                         Mer         09:00 - 12:00   TP                   P
 
                 02      Mer         09:00 - 12:30   C                    P
                         Ven         09:00 - 12:00   TP                   P
 
-                03      Ven         13:30 - 17:00   C                    P
+                03      Ven         13:30 - 17:00   C                    P                             J.M. Lemay
                         Jeu         13:30 - 16:30   TP                   P
 
                 04      Jeu         13:30 - 17:00   C                    P
@@ -773,25 +798,43 @@ MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
                 05      Mar         13:30 - 17:00   C                    P
                         Lun         09:00 - 12:00   TP                   P
 
-                06      Lun         09:00 - 12:30   C                    P
+                06      Lun         09:00 - 12:30   C                    P                             A. Lacasse
                         Mar         13:30 - 16:30   TP                   P
 
-                07      Mer         13:30 - 17:00   C                    P
+                07      Mer         13:30 - 17:00   C                    P                             G. Savard
                         Lun         13:30 - 16:30   TP                   P
 
                 08      Lun         13:30 - 17:00   C                    P
                         Mer         13:30 - 16:30   TP                   P
 
-                09      Jeu         09:00 - 12:30   C                    P
+                09      Jeu         09:00 - 12:30   C                    P                             A. Lacasse
                         Mar         09:00 - 12:00   TP                   P
 
-                10      Mar         09:00 - 12:30   C                    P
+                10      Mar         09:00 - 12:30   C                    P                             G. Savard
                         Jeu         09:00 - 12:00   TP                   P
 
                 11      Mer         18:00 - 21:30   C                    P
+                        Lun         18:00 - 21:00   TP                   P
+
+                12      Lun         18:00 - 21:30   C                    P
+                        Mer         18:00 - 21:00   TP                   P
+
+                13      Jeu         18:00 - 21:30   C                    P
+                        Mar         18:00 - 21:00   TP                   P
+
+                14      Jeu         13:30 - 17:00   C                    P
+                        Lun         13:30 - 17:00   TP                   P
+
+                15      Ven         09:00 - 12:30   C                    P
+                        Mer         09:00 - 12:00   TP                   P
+
+                16      Ven         13:30 - 17:00   C                    P
+                        Jeu         13:30 - 16:30   TP                   P
 
 
-                 Date : 2023-05-25 12:32:46         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 8/14
+
+
+                 Date : 2023-06-09 12:32:44         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 9/15
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7625 : Baccalauréat en génie de la construction
@@ -807,24 +850,9 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT            PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT             PRÉALABLES
 
-MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
-
-                11      Lun         18:00 - 21:00   TP                   P
-
-                12      Lun         18:00 - 21:30   C                    P
-                        Mer         18:00 - 21:00   TP                   P
-
-                13      Jeu         18:00 - 21:30   C                    P
-                        Mar         18:00 - 21:00   TP                   P
-
-                14      Jeu         13:30 - 17:00   C                    P
-                        Lun         13:30 - 17:00   TP                   P
-
-
-
-MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                                      MAT145
+MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                                                                       MAT145
 
                 01      Jeu         09:00 - 12:30   C                    P
                         Lun         13:30 - 16:30   TP                   P
@@ -840,7 +868,7 @@ MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                       
 
 
 
-MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                    MAT145
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                     MAT145
                 01      Jeu         13:30 - 17:00   C                    P
                         Lun         09:00 - 12:00   TP                   P
 
@@ -853,7 +881,7 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
                 04      Ven         13:30 - 17:00   C                    P
                         Mar         09:00 - 12:00   TP                   P
 
-                05      Mar         13:30 - 17:00   C                    P
+                05      Mar         13:30 - 17:00   C                    P                             L.X. Proulx
                         Mer         13:30 - 16:30   TP                   P
 
                 06      Mar         09:00 - 12:30   C                    P
@@ -867,17 +895,17 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
 
 
 
-MAT350          PROBABILITÉS ET STATISTIQUES                                                                                 MAT145
-                01      Jeu         13:30 - 17:00   C                    P
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                                  MAT145
+                01      Jeu         13:30 - 17:00   C                    P                             M. Forest
                         Mar         13:30 - 16:30   TP                   P
 
-                02      Mer         09:00 - 12:30   C                    P
+                02      Mer         09:00 - 12:30   C                    P                             J.P. Labbé
                         Lun         09:00 - 12:00   TP                   P
 
                 03      Ven         09:00 - 12:30   C                    P
                         Jeu         09:00 - 12:00   TP                   P
 
-                04      Mer         13:30 - 17:00   C                    P
+                04      Mer         13:30 - 17:00   C                    P                             J.P. Labbé
                         Lun         13:30 - 16:30   TP                   P
 
                 05      Ven         13:30 - 17:00   C                    P
@@ -886,15 +914,16 @@ MAT350          PROBABILITÉS ET STATISTIQUES                                   
                 06      Lun         09:00 - 12:30   C                    P
                         Mer         09:00 - 12:00   TP                   P
 
-                07      Jeu         09:00 - 12:30   C                    P
+                07      Jeu         09:00 - 12:30   C                    P                             M. Forest
                         Ven         09:00 - 12:00   TP                   P
 
                 08      Mer         18:00 - 21:30   C                    P
+                        Lun         18:00 - 21:00   TP                   P
 
 
 
 
-                 Date : 2023-05-25 12:32:46         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 9/14
+                 Date : 2023-06-09 12:32:44         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 10/15
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                               7625 : Baccalauréat en génie de la construction
@@ -911,11 +940,6 @@ Bureau du registraire - logistique académique
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE         ACTIVITÉ       Mode d'ens.      LOCAL                 ENSEIGNANT                     PRÉALABLES
-
-MAT350          PROBABILITÉS ET STATISTIQUES                                                                                             MAT145
-                08      Lun         18:00 - 21:00   TP                    P
-
-
 
 MATEST          ACCUEIL EN MATHÉMATIQUES
                 01      Ven         09:00 - 12:30   C                     P
@@ -958,24 +982,30 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                         26 octobre 2023
                         02 novembre 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 18 octobre 2023 / 01 novembre 2023
-                03      Lun         13:30 - 17:00   Atelier               P
+                03      Lun         13:30 - 17:00   Atelier               P                               M.K. Daoust
                         11 septembre 2023
                         18 septembre 2023
                         25 septembre 2023
                         02 octobre 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 17 septembre 2023 / 01 octobre 2023
-                04      Lun         18:00 - 21:30   Atelier               D
+                04      Lun         18:00 - 21:30   Atelier               D                               M.K. Daoust
                         16 octobre 2023
                         23 octobre 2023
                         30 octobre 2023
                         06 novembre 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 22 octobre 2023 / 05 novembre 2023
+                07      Lun         18:00 - 21:30   Atelier               D                               M.K. Daoust
+                        13 novembre 2023
+                        20 novembre 2023
+                        27 novembre 2023
+                        04 décembre 2023
+                        Dates limites d'abandon avec (AX) / sans (XX) remboursement : 19 novembre 2023 / 03 décembre 2023
 
 
 
 PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
                 PROGRAMME)
-                01      Mer         13:30 - 17:00   C                     P
+                01      Mer         13:30 - 17:00   C                     P                               C. Alinot
                         Mar         13:30 - 16:30   TP/Labo               P
 
                 02      Jeu         09:00 - 12:30   C                     P
@@ -989,12 +1019,8 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
 
 
 
-PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                                CTN248 / ING150
-                01      Mer         13:30 - 17:00   C                     P
 
-
-
-                 Date : 2023-05-25 12:32:46         L’École se réserve un droit de modifier l’horaire sans préavis             Page : 10/14
+                 Date : 2023-06-09 12:32:44         L’École se réserve un droit de modifier l’horaire sans préavis             Page : 11/15
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7625 : Baccalauréat en génie de la construction
@@ -1010,15 +1036,16 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT             PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT              PRÉALABLES
 
-PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                     CTN248 / ING150
-                01      Mar         09:00 - 12:00   Labo                 P
+PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                                                                      CTN248 / ING150
+                01      Mer         13:30 - 17:00   C                    P                             M. Boulé
+                        Mar         09:00 - 12:00   Labo                 P
 
                 02      Jeu         09:00 - 12:30   C                    P
                         Mar         13:30 - 16:30   Labo                 P
 
-                03      Ven         09:00 - 12:30   C                    P
+                03      Ven         09:00 - 12:30   C                    P                             M. Boulé
                         Mer         09:00 - 12:00   Labo                 P
 
                 04      Jeu         13:30 - 17:00   C                    P
@@ -1035,17 +1062,17 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
 
 
 
-PHY335          PHYSIQUE DES ONDES                                                                                            CTN248 / ING150
+PHY335          PHYSIQUE DES ONDES                                                                                             CTN248 / ING150
                 01      Ven         09:00 - 12:30   C                    H
                         Mer         09:00 - 12:00   Labo                 H
 
-                02      Jeu         09:00 - 12:30   C                    P
+                02      Jeu         09:00 - 12:30   C                    P                             X. Daxhelet
                         Mar         13:30 - 16:30   Labo                 P
 
                 03      Jeu         13:30 - 17:00   C                    P
                         Lun         09:00 - 12:00   Labo                 P
 
-                04      Lun         13:30 - 17:00   C                    P
+                04      Lun         13:30 - 17:00   C                    P                             A. Bordeleau
                         Ven         13:30 - 16:30   Labo                 P
 
                 05      Mar         18:00 - 21:30   C                    P
@@ -1078,7 +1105,7 @@ PHYEST          ACCUEIL EN PHYSIQUE
 
 
 
-                 Date : 2023-05-25 12:32:46         L’École se réserve un droit de modifier l’horaire sans préavis   Page : 11/14
+                 Date : 2023-06-09 12:32:44         L’École se réserve un droit de modifier l’horaire sans préavis    Page : 12/15
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                              7625 : Baccalauréat en génie de la construction
@@ -1094,7 +1121,7 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                  PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                     PRÉALABLES
 
 PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 SANTÉ ET SÉCURITÉ
@@ -1105,21 +1132,21 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
-                01      Mar         09:00 - 12:30   Atelier              P
+                01      Mar         09:00 - 12:30   Atelier              P                             I. Desjardins-David
                         12 septembre 2023
                         19 septembre 2023
                         26 septembre 2023
                         03 octobre 2023
                         17 octobre 2023
-                02      Mer         13:30 - 17:00   Atelier              P
+                02      Mer         13:30 - 17:00   Atelier              P                             I. Desjardins-David
                         13 septembre 2023
                         20 septembre 2023
                         27 septembre 2023
                         04 octobre 2023
                         11 octobre 2023
-                03      Mar         09:00 - 12:30   Atelier              P
+                03      Mar         09:00 - 12:30   Atelier              P                             I. Desjardins-David
                         24 octobre 2023
                         31 octobre 2023
                         07 novembre 2023
@@ -1169,7 +1196,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 
 
 
-                 Date : 2023-05-25 12:32:46         L’École se réserve un droit de modifier l’horaire sans préavis        Page : 12/14
+                 Date : 2023-06-09 12:32:44         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 13/15
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                  7625 : Baccalauréat en génie de la construction
@@ -1185,7 +1212,7 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ         Mode d'ens.      LOCAL                  ENSEIGNANT            PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ         Mode d'ens.      LOCAL                  ENSEIGNANT              PRÉALABLES
 
 PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 SANTÉ ET SÉCURITÉ
@@ -1196,7 +1223,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 11      Jeu         18:00 - 21:30   Atelier                 D
                         21 septembre 2023
@@ -1241,27 +1268,27 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
                 01      Jeu         09:00 - 12:30   C                       P
                         Mar         08:30 - 12:30   TP A+B                  P
 
-                02      Jeu         13:30 - 17:00   C                       H
+                02      Jeu         13:30 - 17:00   C                       H                                M. Lejeune
                         Lun         13:30 - 17:30   TP A+B                  H
 
                 03      Lun         09:00 - 12:30   C                       P
                         Mer         13:30 - 17:30   TP A+B                  P
 
-                04      Ven         09:00 - 12:30   C                       P
+                04      Ven         09:00 - 12:30   C                       P                                É. Francoeur
                         Mer         08:30 - 12:30   TP A+B                  P
 
                 05      Ven         13:30 - 17:00   C                       P
                         Mar         13:30 - 17:30   TP A+B                  P
 
-                06      Mar         09:00 - 12:30   C                       P
+                06      Mar         09:00 - 12:30   C                       P                                É. Francoeur
                         Jeu         08:30 - 12:30   TP A+B                  P
 
-                07      Mar         18:00 - 21:30   C                       H
+                07      Mar         18:00 - 21:30   C                       H                                M. Lejeune
 
 
 
 
-                 Date : 2023-05-25 12:32:46          L’École se réserve un droit de modifier l’horaire sans préavis       Page : 13/14
+                 Date : 2023-06-09 12:32:45          L’École se réserve un droit de modifier l’horaire sans préavis         Page : 14/15
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                     7625 : Baccalauréat en génie de la construction
@@ -1322,5 +1349,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-05-25 12:32:46            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 14/14
+                 Date : 2023-06-09 12:32:45            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 15/15
 
