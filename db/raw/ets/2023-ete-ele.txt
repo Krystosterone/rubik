@@ -98,7 +98,7 @@ ELE265          TRAITEMENT DE SIGNAUX                                           
 
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 1/12
+                 Date : 2023-06-27 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 1/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -193,12 +193,8 @@ ELE543          PRINCIPES DES SYSTÈMES EMBARQUÉS
 
 
 
-ELE652          ÉLECTRICITÉ INDUSTRIELLE                                                                                              ELE550
-                01      Ven         13:30 - 17:00   C                    H         D-4019              P.J. Lagacé
 
-
-
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis            Page : 2/12
+                 Date : 2023-06-27 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis            Page : 2/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -214,39 +210,40 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                  PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT              PRÉALABLES
 
-ELE652          ÉLECTRICITÉ INDUSTRIELLE                                                                                           ELE550
-                01      Jeu         13:30 - 17:30   Labo/2               P         A-2504
+ELE652          ÉLECTRICITÉ INDUSTRIELLE                                                                                       ELE550
+                01      Ven         13:30 - 17:00   C                    H         D-4019              P.J. Lagacé
+                        Jeu         13:30 - 17:30   Labo/2               P         A-2504
 
 
 
-ELE653          TRANSPORT DE L'ÉNERGIE                                                                                             ELE105 et ELE312
+ELE653          TRANSPORT DE L'ÉNERGIE                                                                                         ELE105 et ELE312
                 01      Mar         18:00 - 21:30   C                    H         D-3018              P.J. Lagacé
                         Jeu         18:00 - 22:00   Labo/2               P         A-2504              H.M. Vuong
 
 
 
-ELE673          INSTRUMENTATION INDUSTRIELLE                                                                                       ELE275
+ELE673          INSTRUMENTATION INDUSTRIELLE                                                                                   ELE275
                 01      Lun         13:30 - 17:00   C                    D
                         Mar         13:30 - 17:30   TP-Labo/2            P         A-2502
 
 
 
-ELE749          CONCEPTION CONJOINTE MATÉRIEL-LOGICIEL DE                                                                          ELE344
+ELE749          CONCEPTION CONJOINTE MATÉRIEL-LOGICIEL DE                                                                      ELE344
                 SYSTÈMES NUMÉRIQUES
                 01      Mar         18:00 - 21:30   C                    P         D-5007              S. Pichette
                         Lun         18:00 - 22:00   Labo/2               P         A-2500, A-2509      S. Pichette
 
 
 
-ELE791          PROJETS SPÉCIAUX                                                                                                   Autorisation du directeur de
-                                                                                                                                   département
+ELE791          PROJETS SPÉCIAUX                                                                                               Autorisation du directeur de
+                                                                                                                               département
                 01      Mer         22:00 - 23:00   Projet               P         D-3012
 
 
 
-ELE793          CIRCUITS ET SYSTÈMES RADIOFRÉQUENCES                                                                               ELE200
+ELE793          CIRCUITS ET SYSTÈMES RADIOFRÉQUENCES                                                                           ELE200
 
                 01      Mer         08:30 - 12:00   C                    P         D-4023              F. Nabki
                         Mar         08:30 - 12:30   Labo/2               P         A-2500              P.O. Beaulieu
@@ -259,20 +256,20 @@ ELE795          PROJET DE FIN D’ÉTUDES EN GÉNIE ÉLECTRIQUE
 
 
 
-ELE796          INGÉNIERIE INFONUAGIQUE                                                                                            ELE216
-                01      Mer         08:30 - 12:00   C                    P         D-5025              K.K. Nguyen
+ELE796          INGÉNIERIE INFONUAGIQUE                                                                                        ELE216
+                01      Mer         08:30 - 12:00   C                    P         A-2402              K.K. Nguyen
                         Ven         13:30 - 15:30   Labo                 P         A-2402              K.K. Nguyen
 
 
 
-ELE889          TECHNOLOGIES DE L'ÉNERGIE SOLAIRE                                                                                  ELE312
+ELE889          TECHNOLOGIES DE L'ÉNERGIE SOLAIRE                                                                              ELE312
                 PHOTOVOLTAÏQUE
                 01      Mer         13:30 - 17:00   C                    H         D-3017              R. Izquierdo
                         Ven         08:30 - 12:30   Labo/2               P         A-2408, A-2446      M.A. Slimani
 
 
 
-ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                                    GIA400 ou GIA410
+ENT201          GESTION FINANCIÈRE D'ENTREPRISE                                                                                GIA400 ou GIA410
 
                 01      Mer         09:00 - 12:30   C                    C         D-4009              H. Smidi
                         Lun         10:30 - 12:30   TP                   C         D-4009              H. Smidi
@@ -287,18 +284,8 @@ ENT202          INTRODUCTION À L'ENTREPRENEURSHIP
 
 
 
-GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
 
-                01      Mer         09:00 - 12:30   C                    P         E-4025              M. Boucher-Rochon
-                        Jeu         10:30 - 12:30   TP                   P         E-4024              M. Boucher-Rochon
-
-                02      Ven         13:30 - 17:00   C                    P         B-4408              R. Jeannotte
-                        Jeu         08:30 - 10:30   TP                   P         B-1506              K. Lagacé
-
-
-
-
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 3/12
+                 Date : 2023-06-27 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis     Page : 3/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                   7694 : Baccalauréat en génie électrique
@@ -317,6 +304,12 @@ Bureau du registraire - logistique académique
 COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT                          PRÉALABLES
 
 GIA400          ANALYSE DE RENTABILITÉ DE PROJETS
+
+                01      Mer         09:00 - 12:30   C                    P         E-4025              M. Boucher-Rochon
+                        Jeu         10:30 - 12:30   TP                   P         E-4024              M. Boucher-Rochon
+
+                02      Ven         13:30 - 17:00   C                    P         B-4408              R. Jeannotte
+                        Jeu         08:30 - 10:30   TP                   P         B-1506              K. Lagacé
 
                 03      Lun         18:00 - 21:30   C                    H                             R. Jeannotte
                         Mar         18:00 - 20:00   TP                   H                             C. Séguin
@@ -357,7 +350,7 @@ GTS601          PRINCIPES DE L'IMAGERIE MÉDICALE
 
 INF147          PROGRAMMATION PROCÉDURALE
 
-                01      Mer         13:30 - 17:00   C                    P         B-3422              P. Bélisle
+                01      Mer         13:30 - 17:00   C                    P         B-4416              P. Bélisle
                         Lun         09:00 - 12:00   Labo                 P         E-4021              H. Saulnier / P. Bélisle
 
 
@@ -392,15 +385,8 @@ ING160          THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES                       
 
 
 
-ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
-                L'INGÉNIEUR
-                01      Mer         18:00 - 21:30   C                    P         B-3406              A. Cherifi
-                        Ven         18:00 - 22:00   Labo A+B             P         B-2626              A. Cherifi
 
-
-
-
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                 Page : 4/12
+                 Date : 2023-06-27 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                 Page : 4/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7694 : Baccalauréat en génie électrique
@@ -416,7 +402,14 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT              PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT            PRÉALABLES
+
+ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
+                L'INGÉNIEUR
+                01      Mer         18:00 - 21:30   C                      P          B-3406               A. Cherifi
+                        Ven         18:00 - 22:00   Labo A+B               P          B-2626               A. Cherifi
+
+
 
 MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                 (HORS PROG.)
@@ -482,26 +475,9 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                         L'examen final aura lieu à la dernière séance
 
 
-MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
-
-                01      Ven         13:30 - 17:00   C                      P          B-3406               M. Morel
-                        Mar         09:00 - 12:00   TP                     P          B-1404               M. Morel
-
-                02      Jeu         09:00 - 12:30   C                      P          B-3406               G. Roy-Fortin
-                        Mar         13:30 - 16:30   TP                     P          B-3402               G. Roy-Fortin
-
-                03      Jeu         13:30 - 17:00   C                      P          B-3402               R. Persechino
-                        Lun         09:00 - 12:00   TP                     P          B-3402               Z. Coulibaly
-
-                04      Jeu         18:00 - 21:30   C                      P          D-5009               P. Mbaraga
-                        Mar         18:00 - 21:00   TP                     P          B-1502               P. Mbaraga
-
-                80      Mar         13:00 - 16:30   C                      H                               I. Ndiaye
 
 
-
-
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 5/12
+                 Date : 2023-06-27 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis       Page : 5/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7694 : Baccalauréat en génie électrique
@@ -521,7 +497,20 @@ COURS           GR      JOUR          HEURE         ACTIVITÉ       Mode d'ens. 
 
 MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
-                80      Jeu         13:00 - 16:00   Labo                  H                               I. Ndiaye
+                01      Ven         13:30 - 17:00   C                     P          B-3406               M. Morel
+                        Mar         09:00 - 12:00   TP                    P          B-1404               M. Morel
+
+                02      Jeu         09:00 - 12:30   C                     P          B-3406               G. Roy-Fortin
+                        Mar         13:30 - 16:30   TP                    P          B-3402               G. Roy-Fortin
+
+                03      Jeu         13:30 - 17:00   C                     P          B-3402               R. Persechino
+                        Lun         09:00 - 12:00   TP                    P          B-3402               Z. Coulibaly
+
+                04      Jeu         18:00 - 21:30   C                     P          D-5009               P. Mbaraga
+                        Mar         18:00 - 21:00   TP                    P          B-1502               P. Mbaraga
+
+                80      Mar         13:00 - 16:30   C                     H                               I. Ndiaye
+                        Jeu         13:00 - 16:00   Labo                  H                               I. Ndiaye
                         23 mai 2023
                         25 mai 2023
                         30 mai 2023
@@ -569,16 +558,72 @@ MAT165          ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE                       
 
 
 
-MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                                       MAT145
-                01      Lun         09:00 - 12:30   C                     P          B-1708               I. Ndiaye
-                        Mer         09:00 - 12:00   TP                    P          B-1502               Z. Coulibaly
 
-                02      Mar         09:00 - 12:30   C                     P          B-4408               K. Mahni
-
-
+                 Date : 2023-06-27 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 6/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                  7694 : Baccalauréat en génie électrique
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 6/12
+                                                                   HORAIRE ÉTÉ 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT              PRÉALABLES
+
+MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                      MAT145
+                01      Lun         09:00 - 12:30   C                    P         B-1708              I. Ndiaye
+                        Mer         09:00 - 12:00   TP                   P         B-1502              Z. Coulibaly
+
+                02      Mar         09:00 - 12:30   C                    P         B-4408              K. Mahni
+                        Lun         13:30 - 16:30   TP                   P         B-1708              K. Mahni
+
+                03      Ven         09:00 - 12:30   C                    P         B-4408              M. Morel
+                        Mar         13:30 - 16:30   TP                   P         B-1706              M. Morel
+
+                04      Lun         13:30 - 17:00   C                    H                             I. Ndiaye
+                        Jeu         09:00 - 12:00   TP                   H                             Z. Coulibaly
+
+                05      Lun         09:00 - 12:30   C                    P         B-1706              J.B. Lévesque
+                        Mer         09:00 - 12:00   TP                   P         B-1708              J.B. Lévesque
+
+                06      Mer         18:00 - 21:30   C                    P         B-1518              J.B. Lévesque
+                        Lun         18:00 - 21:00   TP                   P         B-4408              J.B. Lévesque
+
+                07      Jeu         18:00 - 21:30   C                    P         B-1518              M. Groiez
+                        Mar         18:00 - 21:00   TP                   P         B-1708              R. Hassani
+
+
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                                   MAT145
+                01      Ven         09:00 - 12:30   C                    P         B-1708              S. Ayad
+                        Lun         13:30 - 16:30   TP                   P         B-1518              S. Ayad
+
+                02      Lun         09:00 - 12:30   C                    P         D-3008              S. Lafrance
+                        Mer         09:00 - 12:00   TP                   P         D-3017              S. Lafrance
+
+                03      Jeu         09:00 - 12:30   C                    P         B-1514              S. Lafrance
+                        Mar         13:30 - 16:30   TP                   P         B-1518              S. Lafrance
+
+                04      Ven         13:30 - 17:00   C                    H                             S. Ayad
+                        Mer         13:30 - 16:30   TP                   H                             S. Ayad
+
+                05      Mar         09:00 - 12:30   C                    P         B-1706              S. Lafrance
+                        Jeu         13:30 - 16:30   TP                   P         B-1518              S. Lafrance
+
+                06      Mar         18:00 - 21:30   C                    P         A-1302              S. Ayad
+                        Lun         18:00 - 21:00   TP                   P         A-1302              S. Ayad
+
+
+
+
+                 Date : 2023-06-27 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis     Page : 7/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                        7694 : Baccalauréat en génie électrique
@@ -596,47 +641,6 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.       LOCAL                 ENSEIGNANT                  PRÉALABLES
 
-MAT265          ÉQUATIONS DIFFÉRENTIELLES                                                                                                MAT145
-                02      Lun         13:30 - 16:30    TP                     P          B-1708                K. Mahni
-
-                03      Ven         09:00 - 12:30    C                      P          B-4408                M. Morel
-                        Mar         13:30 - 16:30    TP                     P          B-1706                M. Morel
-
-                04      Lun         13:30 - 17:00    C                      H                                I. Ndiaye
-                        Jeu         09:00 - 12:00    TP                     H                                Z. Coulibaly
-
-                05      Lun         09:00 - 12:30    C                      P          B-1706                J.B. Lévesque
-                        Mer         09:00 - 12:00    TP                     P          B-1708                J.B. Lévesque
-
-                06      Mer         18:00 - 21:30    C                      P          B-1518                J.B. Lévesque
-                        Lun         18:00 - 21:00    TP                     P          B-4408                J.B. Lévesque
-
-                07      Jeu         18:00 - 21:30    C                      P          B-1518                M. Groiez
-                        Mar         18:00 - 21:00    TP                     P          B-1708                R. Hassani
-
-
-
-MAT350          PROBABILITÉS ET STATISTIQUES                                                                                             MAT145
-                01      Ven         09:00 - 12:30    C                      P          B-1708                S. Ayad
-                        Lun         13:30 - 16:30    TP                     P          B-1518                S. Ayad
-
-                02      Lun         09:00 - 12:30    C                      P          D-3008                S. Lafrance
-                        Mer         09:00 - 12:00    TP                     P          D-3017                S. Lafrance
-
-                03      Jeu         09:00 - 12:30    C                      P          B-1514                S. Lafrance
-                        Mar         13:30 - 16:30    TP                     P          B-1518                S. Lafrance
-
-                04      Ven         13:30 - 17:00    C                      H                                S. Ayad
-                        Mer         13:30 - 16:30    TP                     H                                S. Ayad
-
-                05      Mar         09:00 - 12:30    C                      P          B-1706                S. Lafrance
-                        Jeu         13:30 - 16:30    TP                     P          B-1518                S. Lafrance
-
-                06      Mar         18:00 - 21:30    C                      P          A-1302                S. Ayad
-                        Lun         18:00 - 21:00    TP                     P          A-1302                S. Ayad
-
-
-
 PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                 PROFESSIONNELLE
                 Il n’est pas recommandé de vous inscrire au cours PEP110 si vous n’avez pas complété votre premier stage.
@@ -648,7 +652,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                         29 mai 2023
                         05 juin 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 14 mai 2023 / 04 juin 2023
-                02      Mar         13:30 - 17:00   Atelier                D                               L. Arel
+                02      Mar         13:30 - 17:00    Atelier                D                                L. Arel
                         09 mai 2023
                         16 mai 2023
                         23 mai 2023
@@ -672,40 +676,13 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                         28 juin 2023
                         05 juillet 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 20 juin 2023 / 04 juillet 2023
-
-
-
-
-                 Date : 2023-05-25 12:30:34          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 7/12
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                       7694 : Baccalauréat en génie électrique
-
-
-                                                                      HORAIRE ÉTÉ 2023
-                                                     Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                     Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                     Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                     Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.       LOCAL                 ENSEIGNANT                  PRÉALABLES
-
-PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
-                PROFESSIONNELLE
-                Il n’est pas recommandé de vous inscrire au cours PEP110 si vous n’avez pas complété votre premier stage.
-                Pour vous inscrire à ce cours en tant qu’étudiant libre pour satisfaire aux exigences de l’OIQ, suivez les instructions sur cette page :
-                https://www.etsmtl.ca/etudiants/etudiants-libres .
                 06      Jeu         18:00 - 21:30    Atelier                D                                M.K. Daoust
                         11 mai 2023
                         18 mai 2023
                         25 mai 2023
                         01 juin 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 17 mai 2023 / 31 mai 2023
-                07      Jeu         18:00 - 21:30    Atelier                D
+                07      Jeu         18:00 - 21:30    Atelier                D                                L. Arel
                         08 juin 2023
                         15 juin 2023
                         22 juin 2023
@@ -714,10 +691,29 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
 
 
 
+
+                 Date : 2023-06-27 12:30:34          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 8/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                                      7694 : Baccalauréat en génie électrique
+
+
+                                                                     HORAIRE ÉTÉ 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                  ENSEIGNANT           PRÉALABLES
+
 PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
                 PROGRAMME)
-                80      Mar         09:00 - 12:30    C                      P          B-3402                T. Rivard
-                        Jeu         09:00 - 12:00    TP/Labo                P          B-3402                T. Rivard
+                80      Mar         09:00 - 12:30   C                      P          B-3402                T. Rivard
+                        Jeu         09:00 - 12:00   TP/Labo                P          B-3402                T. Rivard
                         23 mai 2023
                         25 mai 2023
                         30 mai 2023
@@ -747,31 +743,7 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 06 juin 2023 / 07 août 2023
                         L'examen final aura lieu à la dernière séance
                 81      Mar          18:00 - 21:30    C                    P         B-3406                 C. Liu
-
-
-
-
-                 Date : 2023-05-25 12:30:34          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 8/12
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                                     7694 : Baccalauréat en génie électrique
-
-
-                                                                     HORAIRE ÉTÉ 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT           PRÉALABLES
-
-PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
-                PROGRAMME)
-                81      Jeu         18:00 - 21:00   TP/Labo                P          B-3406               A. Li
+                        Jeu          18:00 - 21:00    TP/Labo              P         B-3406                 A. Li
                         23 mai 2023
                         25 mai 2023
                         30 mai 2023
@@ -799,12 +771,11 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
                         17 août 2023
                         22 août 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 06 juin 2023 / 07 août 2023
-                82      Mer         13:00 - 16:30   C                      H                               J.H. Liu
 
 
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis      Page : 9/12
+                 Date : 2023-06-27 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis       Page : 9/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7694 : Baccalauréat en génie électrique
@@ -824,7 +795,8 @@ COURS           GR      JOUR          HEURE         ACTIVITÉ       Mode d'ens. 
 
 PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
                 PROGRAMME)
-                82      Lun         13:00 - 16:00   TP                    H                               J.H. Liu
+                82      Mer         13:00 - 16:30   C                     H                               J.H. Liu
+                        Lun         13:00 - 16:00   TP                    H                               J.H. Liu
                         24 mai 2023
                         29 mai 2023
                         31 mai 2023
@@ -874,7 +846,7 @@ PHY335          PHYSIQUE DES ONDES                                              
 
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 10/12
+                 Date : 2023-06-27 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 10/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                      7694 : Baccalauréat en génie électrique
@@ -901,7 +873,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 01      Lun         18:00 - 21:30   Atelier                D                               I. Desjardins-David
                         29 mai 2023
@@ -916,7 +888,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                         24 juillet 2023
                         31 juillet 2023
                 03      Ven         18:00 - 21:30   Atelier                P          B-4416               I. Desjardins-David
-                        Sam         09:00 - 17:30   C                      P          B-4416
+                        Sam         09:00 - 17:30   C                      P          B-1720
                         02 juin 2023
                         03 juin 2023
                         10 juin 2023
@@ -949,7 +921,7 @@ TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
 
 
-                 Date : 2023-05-25 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 11/12
+                 Date : 2023-06-27 12:30:34         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 11/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                                          7694 : Baccalauréat en génie électrique
@@ -1010,5 +982,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-05-25 12:30:34            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
+                 Date : 2023-06-27 12:30:34            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
 
