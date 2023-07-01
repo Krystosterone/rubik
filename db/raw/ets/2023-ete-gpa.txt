@@ -94,11 +94,8 @@ GIA500          INITIATION AUX PROJETS INTERNATIONAUX
 
 
 
-GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU INDUSTRIEL
 
-                01      Ven         13:30 - 17:00   C                    H         D-4010              D. Benyahia
-
-                 Date : 2023-05-25 12:31:27         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 1/12
+                 Date : 2023-06-30 12:31:28         L’École se réserve un droit de modifier l’horaire sans préavis           Page : 1/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -118,7 +115,8 @@ COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.  
 
 GIA602          ERGONOMIE ET SÉCURITÉ EN MILIEU INDUSTRIEL
 
-                01      Jeu         08:30 - 12:30   Labo A+B             P        A-1222, A-2230,      V. Ngô
+                01      Ven         13:30 - 17:00   C                    H        D-4010               D. Benyahia
+                        Jeu         08:30 - 12:30   Labo A+B             P        A-1222, A-2230,      V. Ngô
                                                                                   D-5019
 
                 02      Mar         18:00 - 21:30   C                    H        B-4416               A. Nerguizian
@@ -192,14 +190,8 @@ GPA551          PRODUCTION ET GESTION DE PROJETS                                
 
 
 
-GPA667          CONCEPTION ET SIMULATION DE CIRCUITS                                                                                      GPA325
-                ÉLECTRONIQUES                                                                                                             Conc. II: GPA325 - E
-                01      Lun         08:30 - 12:00   C                    P         D-3019              A. Joubair
 
-
-
-
-                 Date : 2023-05-25 12:31:27         L’École se réserve un droit de modifier l’horaire sans préavis                Page : 2/12
+                 Date : 2023-06-30 12:31:28         L’École se réserve un droit de modifier l’horaire sans préavis                Page : 2/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -219,7 +211,8 @@ COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.  
 
 GPA667          CONCEPTION ET SIMULATION DE CIRCUITS                                                                                  GPA325
                 ÉLECTRONIQUES                                                                                                         Conc. II: GPA325 - E
-                01      Jeu         08:30 - 11:30   Labo                 P         A-3608              L. Tremblay
+                01      Lun         08:30 - 12:00   C                    P         D-3019              A. Joubair
+                        Jeu         08:30 - 11:30   Labo                 P         A-3608              L. Tremblay
 
 
 
@@ -296,7 +289,7 @@ GSY400          MÉTHODES QUANTITATIVES EN GÉNIE DES SYSTÈMES                 
 
 
 
-                 Date : 2023-05-25 12:31:27         L’École se réserve un droit de modifier l’horaire sans préavis            Page : 3/12
+                 Date : 2023-06-30 12:31:28         L’École se réserve un droit de modifier l’horaire sans préavis            Page : 3/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                      6557 : Baccalauréat en génie de la production automatisée
@@ -371,14 +364,8 @@ ING500          OUTILS DE DÉVELOPPEMENT DURABLE POUR
 
 
 
-MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
-                (HORS PROG.)
-                80      Mer         09:00 - 12:30   C                    P         B-3406              M. Beaudin
 
-
-
-
-                 Date : 2023-05-25 12:31:27         L’École se réserve un droit de modifier l’horaire sans préavis                 Page : 4/12
+                 Date : 2023-06-30 12:31:28         L’École se réserve un droit de modifier l’horaire sans préavis                 Page : 4/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                        6557 : Baccalauréat en génie de la production automatisée
@@ -394,11 +381,12 @@ Bureau du registraire - logistique académique
  Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ       Mode d'ens.       LOCAL                 ENSEIGNANT            PRÉALABLES
+COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT            PRÉALABLES
 
 MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                 (HORS PROG.)
-                80      Lun         09:00 - 12:00   TP                     P         B-3406                M. Beaudin
+                80      Mer         09:00 - 12:30   C                      P          B-3406               M. Beaudin
+                        Lun         09:00 - 12:00   TP                     P          B-3406               M. Beaudin
                         31 mai 2023
                         05 juin 2023
                         07 juin 2023
@@ -428,31 +416,7 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 13 juin 2023 / 07 août 2023
                         L'examen final aura lieu à la dernière séance
                 81      Mer          18:00 - 21:30    C                    P         B-3402                 M. Beaudin
-
-
-
-
-                 Date : 2023-05-25 12:31:27         L’École se réserve un droit de modifier l’horaire sans préavis       Page : 5/12
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                       6557 : Baccalauréat en génie de la production automatisée
-
-
-                                                                     HORAIRE ÉTÉ 2023
-                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT              PRÉALABLES
-
-MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
-                (HORS PROG.)
-                81      Lun         18:00 - 21:00   TP                     P          B-3402               M. Beaudin
+                        Lun          18:00 - 21:00    TP                   P         B-3402                 M. Beaudin
                         31 mai 2023
                         05 juin 2023
                         07 juin 2023
@@ -483,26 +447,9 @@ MAT144          INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE
                         L'examen final aura lieu à la dernière séance
 
 
-MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
-
-                01      Ven         13:30 - 17:00   C                      P          B-3406               M. Morel
-                        Mar         09:00 - 12:00   TP                     P          B-1404               M. Morel
-
-                02      Jeu         09:00 - 12:30   C                      P          B-3406               G. Roy-Fortin
-                        Mar         13:30 - 16:30   TP                     P          B-3402               G. Roy-Fortin
-
-                03      Jeu         13:30 - 17:00   C                      P          B-3402               R. Persechino
-                        Lun         09:00 - 12:00   TP                     P          B-3402               Z. Coulibaly
-
-                04      Jeu         18:00 - 21:30   C                      P          D-5009               P. Mbaraga
-                        Mar         18:00 - 21:00   TP                     P          B-1502               P. Mbaraga
-
-                80      Mar         13:00 - 16:30   C                      H                               I. Ndiaye
 
 
-
-
-                 Date : 2023-05-25 12:31:27         L’École se réserve un droit de modifier l’horaire sans préavis         Page : 6/12
+                 Date : 2023-06-30 12:31:28         L’École se réserve un droit de modifier l’horaire sans préavis       Page : 5/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                       6557 : Baccalauréat en génie de la production automatisée
@@ -522,7 +469,20 @@ COURS           GR      JOUR          HEURE         ACTIVITÉ       Mode d'ens. 
 
 MAT145          CALCUL DIFFÉRENTIEL ET INTÉGRAL
 
-                80      Jeu         13:00 - 16:00   Labo                  H                               I. Ndiaye
+                01      Ven         13:30 - 17:00   C                     P          B-3406               M. Morel
+                        Mar         09:00 - 12:00   TP                    P          B-1404               M. Morel
+
+                02      Jeu         09:00 - 12:30   C                     P          B-3406               G. Roy-Fortin
+                        Mar         13:30 - 16:30   TP                    P          B-3402               G. Roy-Fortin
+
+                03      Jeu         13:30 - 17:00   C                     P          B-3402               R. Persechino
+                        Lun         09:00 - 12:00   TP                    P          B-3402               Z. Coulibaly
+
+                04      Jeu         18:00 - 21:30   C                     P          D-5009               P. Mbaraga
+                        Mar         18:00 - 21:00   TP                    P          B-1502               P. Mbaraga
+
+                80      Mar         13:00 - 16:30   C                     H                               I. Ndiaye
+                        Jeu         13:00 - 16:00   Labo                  H                               I. Ndiaye
                         23 mai 2023
                         25 mai 2023
                         30 mai 2023
@@ -579,7 +539,60 @@ MAT265          ÉQUATIONS DIFFÉRENTIELLES                                     
 
 
 
-                 Date : 2023-05-25 12:31:27         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 7/12
+                 Date : 2023-06-30 12:31:28         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 6/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                     6557 : Baccalauréat en génie de la production automatisée
+
+
+                                                                   HORAIRE ÉTÉ 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ      Mode d'ens.     LOCAL                ENSEIGNANT              PRÉALABLES
+
+MAT350          PROBABILITÉS ET STATISTIQUES                                                                                   MAT145
+                01      Ven         09:00 - 12:30   C                    P         B-1708              S. Ayad
+                        Lun         13:30 - 16:30   TP                   P         B-1518              S. Ayad
+
+                02      Lun         09:00 - 12:30   C                    P         D-3008              S. Lafrance
+                        Mer         09:00 - 12:00   TP                   P         D-3017              S. Lafrance
+
+                03      Jeu         09:00 - 12:30   C                    P         B-1514              S. Lafrance
+                        Mar         13:30 - 16:30   TP                   P         B-1518              S. Lafrance
+
+                04      Ven         13:30 - 17:00   C                    H                             S. Ayad
+                        Mer         13:30 - 16:30   TP                   H                             S. Ayad
+
+                05      Mar         09:00 - 12:30   C                    P         B-1706              S. Lafrance
+                        Jeu         13:30 - 16:30   TP                   P         B-1518              S. Lafrance
+
+                06      Mar         18:00 - 21:30   C                    P         A-1302              S. Ayad
+                        Lun         18:00 - 21:00   TP                   P         A-1302              S. Ayad
+
+
+
+MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE L'ESPACE                                                                      MAT145
+
+                01      Lun         09:00 - 12:30   C                    P         B-1504              R. Persechino
+                        Mer         09:00 - 12:00   TP                   P         B-1504              R. Persechino
+
+                02      Jeu         09:00 - 12:30   C                    P         B-4408              A. Régnier
+                        Mar         13:30 - 16:30   TP                   P         B-4408              F. Côté
+
+                03      Jeu         18:00 - 21:30   C                    P         B-1504              A. Régnier
+                        Mer         18:00 - 21:00   TP                   P         B-1504              F. Côté
+
+
+
+
+                 Date : 2023-06-30 12:31:28         L’École se réserve un droit de modifier l’horaire sans préavis     Page : 7/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                         6557 : Baccalauréat en génie de la production automatisée
@@ -596,40 +609,6 @@ Bureau du registraire - logistique académique
                          colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.       LOCAL                 ENSEIGNANT                  PRÉALABLES
-
-MAT350          PROBABILITÉS ET STATISTIQUES                                                                                             MAT145
-                01      Ven         09:00 - 12:30    C                      P          B-1708                S. Ayad
-                        Lun         13:30 - 16:30    TP                     P          B-1518                S. Ayad
-
-                02      Lun         09:00 - 12:30    C                      P          D-3008                S. Lafrance
-                        Mer         09:00 - 12:00    TP                     P          D-3017                S. Lafrance
-
-                03      Jeu         09:00 - 12:30    C                      P          B-1514                S. Lafrance
-                        Mar         13:30 - 16:30    TP                     P          B-1518                S. Lafrance
-
-                04      Ven         13:30 - 17:00    C                      H                                S. Ayad
-                        Mer         13:30 - 16:30    TP                     H                                S. Ayad
-
-                05      Mar         09:00 - 12:30    C                      P          B-1706                S. Lafrance
-                        Jeu         13:30 - 16:30    TP                     P          B-1518                S. Lafrance
-
-                06      Mar         18:00 - 21:30    C                      P          A-1302                S. Ayad
-                        Lun         18:00 - 21:00    TP                     P          A-1302                S. Ayad
-
-
-
-MAT472          ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE L'ESPACE                                                                                MAT145
-
-                01      Lun         09:00 - 12:30    C                      P          B-1504                R. Persechino
-                        Mer         09:00 - 12:00    TP                     P          B-1504                R. Persechino
-
-                02      Jeu         09:00 - 12:30    C                      P          B-4408                A. Régnier
-                        Mar         13:30 - 16:30    TP                     P          B-4408                F. Côté
-
-                03      Jeu         18:00 - 21:30    C                      P          B-1504                A. Régnier
-                        Mer         18:00 - 21:00    TP                     P          B-1504                F. Côté
-
-
 
 PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                 PROFESSIONNELLE
@@ -672,34 +651,7 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
                         25 mai 2023
                         01 juin 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 17 mai 2023 / 31 mai 2023
-
-
-
-
-                 Date : 2023-05-25 12:31:27          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 8/12
-ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
-Bureau du registraire - logistique académique
-                                                                        6557 : Baccalauréat en génie de la production automatisée
-
-
-                                                                      HORAIRE ÉTÉ 2023
-                                                     Locaux A: bâtiment sud, 1100, Notre-Dame O.
-                                                     Locaux B: bâtiment nord, 1111, Notre-Dame O.
-                                                     Locaux D: bâtiment sud-ouest, 1219, rue William
-                                                     Locaux E: bâtiment ouest, 1220, Notre-Dame O.
-
-                                                    AVIS IMPORTANT
- Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
-                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
-                                       En savoir plus sur les modes d'enseignement
-COURS           GR      JOUR          HEURE          ACTIVITÉ        Mode d'ens.       LOCAL                 ENSEIGNANT                  PRÉALABLES
-
-PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
-                PROFESSIONNELLE
-                Il n’est pas recommandé de vous inscrire au cours PEP110 si vous n’avez pas complété votre premier stage.
-                Pour vous inscrire à ce cours en tant qu’étudiant libre pour satisfaire aux exigences de l’OIQ, suivez les instructions sur cette page :
-                https://www.etsmtl.ca/etudiants/etudiants-libres .
-                07      Jeu         18:00 - 21:30    Atelier                D
+                07      Jeu         18:00 - 21:30    Atelier                D                                L. Arel
                         08 juin 2023
                         15 juin 2023
                         22 juin 2023
@@ -708,10 +660,29 @@ PEP110          ENCADREMENT DE LA PROFESSION ET ÉTHIQUE
 
 
 
+
+                 Date : 2023-06-30 12:31:28          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 8/12
+ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
+Bureau du registraire - logistique académique
+                                                                       6557 : Baccalauréat en génie de la production automatisée
+
+
+                                                                     HORAIRE ÉTÉ 2023
+                                                    Locaux A: bâtiment sud, 1100, Notre-Dame O.
+                                                    Locaux B: bâtiment nord, 1111, Notre-Dame O.
+                                                    Locaux D: bâtiment sud-ouest, 1219, rue William
+                                                    Locaux E: bâtiment ouest, 1220, Notre-Dame O.
+
+                                                    AVIS IMPORTANT
+ Les activités d’enseignement se tiendront en présence sur le campus, sauf celles spécifiquement indiquées à distance (voir la
+                         colonne Mode d’ens. ci-dessous). Votre présence sur le campus sera requise.
+                                       En savoir plus sur les modes d'enseignement
+COURS           GR      JOUR          HEURE         ACTIVITÉ        Mode d'ens.      LOCAL                  ENSEIGNANT           PRÉALABLES
+
 PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
                 PROGRAMME)
-                80      Mar         09:00 - 12:30    C                      P          B-3402                T. Rivard
-                        Jeu         09:00 - 12:00    TP/Labo                P          B-3402                T. Rivard
+                80      Mar         09:00 - 12:30   C                      P          B-3402                T. Rivard
+                        Jeu         09:00 - 12:00   TP/Labo                P          B-3402                T. Rivard
                         23 mai 2023
                         25 mai 2023
                         30 mai 2023
@@ -769,12 +740,11 @@ PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
                         17 août 2023
                         22 août 2023
                         Dates limites d'abandon avec (AX) / sans (XX) remboursement : 06 juin 2023 / 07 août 2023
-                82      Mer         13:00 - 16:30    C                      H                                J.H. Liu
 
 
 
 
-                 Date : 2023-05-25 12:31:27          L’École se réserve un droit de modifier l’horaire sans préavis              Page : 9/12
+                 Date : 2023-06-30 12:31:28         L’École se réserve un droit de modifier l’horaire sans préavis       Page : 9/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                       6557 : Baccalauréat en génie de la production automatisée
@@ -794,7 +764,8 @@ COURS           GR      JOUR          HEURE         ACTIVITÉ       Mode d'ens. 
 
 PHY144          INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS
                 PROGRAMME)
-                82      Lun         13:00 - 16:00   TP                    H                               J.H. Liu
+                82      Mer         13:00 - 16:30   C                     H                               J.H. Liu
+                        Lun         13:00 - 16:00   TP                    H                               J.H. Liu
                         24 mai 2023
                         29 mai 2023
                         31 mai 2023
@@ -846,8 +817,23 @@ PHY332          ÉLECTRICITÉ ET MAGNÉTISME                                    
 
 
 
+PHY335          PHYSIQUE DES ONDES                                                                                                              CTN248 / ING150
+                01      Ven         09:00 - 12:30   C                     H                               T. Ait Ahcene
+                        Mar         09:00 - 12:00   Labo                  H                               T. Ait Ahcene
 
-                 Date : 2023-05-25 12:31:27         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 10/12
+                02      Lun         13:30 - 17:00   C                     P          B-1504               T. Ait Ahcene
+                        Jeu         13:30 - 16:30   Labo                  P          B-1504               A.S. Bajamgnigni Gbambie
+
+                03      Mer         13:30 - 17:00   C                     P          B-1506               G. Paquin
+                        Ven         13:30 - 16:30   Labo                  P          B-1506               J. Kouam
+
+                04      Lun         18:00 - 21:30   C                     P          B-1504               Z. Hamoudi
+                        Mar         18:00 - 21:00   Labo                  P          B-0908               J. Kouam
+
+
+
+
+                 Date : 2023-06-30 12:31:28         L’École se réserve un droit de modifier l’horaire sans préavis                    Page : 10/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                        6557 : Baccalauréat en génie de la production automatisée
@@ -865,21 +851,6 @@ Bureau du registraire - logistique académique
                                        En savoir plus sur les modes d'enseignement
 COURS           GR      JOUR              HEURE     ACTIVITÉ        Mode d'ens.      LOCAL                 ENSEIGNANT                            PRÉALABLES
 
-PHY335          PHYSIQUE DES ONDES                                                                                                               CTN248 / ING150
-                01      Ven         09:00 - 12:30   C                      H                               T. Ait Ahcene
-                        Mar         09:00 - 12:00   Labo                   H                               T. Ait Ahcene
-
-                02      Lun         13:30 - 17:00   C                      P          B-1504               T. Ait Ahcene
-                        Jeu         13:30 - 16:30   Labo                   P          B-1504               A.S. Bajamgnigni Gbambie
-
-                03      Mer         13:30 - 17:00   C                      P          B-1506               G. Paquin
-                        Ven         13:30 - 16:30   Labo                   P          B-1506               J. Kouam
-
-                04      Lun         18:00 - 21:30   C                      P          B-1504               Z. Hamoudi
-                        Mar         18:00 - 21:00   Labo                   P          B-0908               J. Kouam
-
-
-
 PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 SANTÉ ET SÉCURITÉ
                 Volet stages - activité à compléter en ligne. Volet intensif santé sécurité 15h - aux dates spécifiques indiquées pour chaque groupe.
@@ -889,7 +860,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                 •VOLET STAGES (DÉVELOPPEMENT PROFESSIONNEL): obligatoire pour tous les étudiants, cette activité doit être complétée en ligne, le
                 Service de l'enseignement coopératif vous informera de la procédure à suivre par courriel. Les étudiants du programme 7622 doivent s'inscrire dans
                 le groupe réservé.
-                Le groupe 04 est réservé aux étudiants.es en génie de la construction.
+                Le groupe 21 est réservé aux étudiants.es en génie de la construction.
 
                 01      Lun         18:00 - 21:30   Atelier                D                               I. Desjardins-David
                         29 mai 2023
@@ -904,7 +875,7 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
                         24 juillet 2023
                         31 juillet 2023
                 03      Ven         18:00 - 21:30   Atelier                P          B-4416               I. Desjardins-David
-                        Sam         09:00 - 17:30   C                      P          B-4416
+                        Sam         09:00 - 17:30   C                      P          B-1720
                         02 juin 2023
                         03 juin 2023
                         10 juin 2023
@@ -915,11 +886,29 @@ PRE011          DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA
 TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
                 01      Mer         13:30 - 17:00   C                      P          D-3012               L. Arel
+                        Lun         13:30 - 17:30   TP A+B                 P          D-4012               L. Arel
+
+                02      Jeu         09:00 - 12:30   C                      P          D-5012               M. Monette
+                        Mar         13:30 - 17:30   TP A+B                 P          D-5012               M. Monette
+
+                03      Ven         09:00 - 12:30   C                      P          D-4012               M. Monette
+                        Mer         08:30 - 12:30   TP A+B                 P          D-5012               M. Monette
+
+                04      Ven         13:30 - 17:00   C                      P          D-5012               M. Monette
+                        Jeu         13:30 - 17:30   TP A+B                 P          D-5012               M. Monette
+
+                05      Mar         09:00 - 12:30   C                      P          D-4012               L. Arel
+                        Lun         08:30 - 12:30   TP A+B                 P          D-4012               L. Arel
+
+                06      Mer         18:00 - 21:30   C                      H                               M. Lejeune
+                        Ven         18:00 - 22:00   TP A+B                 H                               M. Lejeune
+
+                07      Mar         18:00 - 21:30   C                      H                               M. Lejeune
 
 
 
 
-                 Date : 2023-05-25 12:31:27         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 11/12
+                 Date : 2023-06-30 12:31:28         L’École se réserve un droit de modifier l’horaire sans préavis                     Page : 11/12
 ÉCOLE DE TECHNOLOGIE SUPÉRIEURE
 Bureau du registraire - logistique académique
                                                                             6557 : Baccalauréat en génie de la production automatisée
@@ -939,25 +928,7 @@ COURS           GR      JOUR          HEURE           ACTIVITÉ           Mode d
 
 TIN503          ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ
 
-                01      Lun         13:30 - 17:30     TP A+B                   P         D-4012                L. Arel
-
-                02      Jeu         09:00 - 12:30     C                        P         D-5012                M. Monette
-                        Mar         13:30 - 17:30     TP A+B                   P         D-5012                M. Monette
-
-                03      Ven         09:00 - 12:30     C                        P         D-4012                M. Monette
-                        Mer         08:30 - 12:30     TP A+B                   P         D-5012                M. Monette
-
-                04      Ven         13:30 - 17:00     C                        P         D-5012                M. Monette
-                        Jeu         13:30 - 17:30     TP A+B                   P         D-5012                M. Monette
-
-                05      Mar         09:00 - 12:30     C                        P         D-4012                L. Arel
-                        Lun         08:30 - 12:30     TP A+B                   P         D-4012                L. Arel
-
-                06      Mer         18:00 - 21:30     C                        H                               M. Lejeune
-                        Ven         18:00 - 22:00     TP A+B                   H                               M. Lejeune
-
-                07      Mar         18:00 - 21:30     C                        H                               M. Lejeune
-                        Lun         18:00 - 22:00     TP A+B                   H                               M. Lejeune
+                07      Lun         18:00 - 22:00     TP A+B                   H                               M. Lejeune
 
 
 NOTES
@@ -998,5 +969,5 @@ c)              À TOUS LES ÉTUDIANTS DU PROGRAMME DE BACCALAURÉAT :
 
 
 
-                 Date : 2023-05-25 12:31:27            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
+                 Date : 2023-06-30 12:31:28            L’École se réserve un droit de modifier l’horaire sans préavis                       Page : 12/12
 
